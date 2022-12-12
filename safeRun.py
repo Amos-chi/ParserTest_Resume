@@ -8,7 +8,7 @@ proxies = {
         'https': 'http://127.0.0.1:4780'
     }
 
-def run(method, url, headers,json = None, proxies = proxies, showInfo = 'false'):
+def run(method, url, headers,json = None, proxies = proxies, showInfo = 'false', files=None):
 
     while True:
         try:
