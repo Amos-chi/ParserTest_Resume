@@ -48,11 +48,12 @@ def test_parse(file_):
 
 if __name__ == '__main__':
     file_dir = r'C:\Users\Administrator\Desktop\简历解析量化测试'
+    tar_dir = r'Step1_origdata/ResumeSDK_Result'
     files = os.listdir(file_dir)
     for file in files:
         file_ = os.path.join(file_dir,file) # 拼接完整路径
         parser_result = test_parse(file_)
-        f = open(f'ResumeSDK_Result\{file}.json', 'w', encoding='utf-8')
+        f = open(f'{tar_dir}\{file}.json', 'w', encoding='utf-8')
         f.write(json.dumps(parser_result, indent=4, ensure_ascii=False))
         f.flush()
         f.close()

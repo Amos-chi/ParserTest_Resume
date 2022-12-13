@@ -1,4 +1,4 @@
-#!e:\program files (x86)\pycharm\amos-chi\parsertest_resume\venv\scripts\python.exe
+#!e:\program files (x86)\pycharm\pycharmprojects\parsertest_resume\venv\scripts\python.exe
 # Create Lyman/Fitz style long flat Design Files from plain-text onset files
 # EKK / June 2015
 # Python 2/3 compatibile, depends on Pandas and Numpy/Scipy

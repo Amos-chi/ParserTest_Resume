@@ -1,4 +1,4 @@
-#!e:\program files (x86)\pycharm\amos-chi\parsertest_resume\venv\scripts\python.exe
+#!e:\program files (x86)\pycharm\pycharmprojects\parsertest_resume\venv\scripts\python.exe
 # encoding: utf-8
 """
 convert -- Convert PROV-JSON to RDF, PROV-N, PROV-XML, or graphical formats (SVG, PDF, PNG)

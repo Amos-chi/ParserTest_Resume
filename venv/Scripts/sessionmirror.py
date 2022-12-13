@@ -1,4 +1,4 @@
-#!e:\program files (x86)\pycharm\amos-chi\parsertest_resume\venv\scripts\python.exe
+#!e:\program files (x86)\pycharm\pycharmprojects\parsertest_resume\venv\scripts\python.exe
 '''
 The MIT License (MIT)
 

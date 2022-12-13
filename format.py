@@ -8,8 +8,8 @@ proxies = {
 }
 def ResumeSDK_Result_format():
 
-    path = 'ResumeSDK_Result'
-    tar_path = 'ResumeSDK_Result_format'
+    path = 'Step1_origdata/ResumeSDK_Result'
+    tar_path = 'Step2_formatdata/ResumeSDK_Result_format'
     files = os.listdir(path)
     for file in files:
         f = open(os.path.join(path,file), 'r', encoding='utf-8')
