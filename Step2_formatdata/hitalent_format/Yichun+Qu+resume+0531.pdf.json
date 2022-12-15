@@ -1,0 +1,106 @@
+{
+    "contacts": [
+        {
+            "type": "EMAIL",
+            "contact": "qyc11@hotmail.com"
+        },
+        {
+            "type": "PHONE",
+            "contact": "+8618964858957"
+        }
+    ],
+    "currentLocation": {
+        "location": "Shanghai"
+    },
+    "preferredLocations": [
+        {
+            "location": "Shanghai"
+        }
+    ],
+    "languages": [
+        "MANDARIN",
+        "ENGLISH"
+    ],
+    "educations": [
+        {
+            "startDate": "2016-08-01",
+            "endDate": "2017-05-01",
+            "collegeName": "The University of Texas at Dallas, Naveen Jindal School of Management",
+            "degreeLevel": "MASTER",
+            "majorName": "Information Technology and Management"
+        },
+        {
+            "startDate": "2014-09-01",
+            "endDate": "2016-08-01",
+            "collegeName": "Shanghai Jiao Tong University",
+            "degreeLevel": "MASTER",
+            "majorName": "Finance"
+        },
+        {
+            "startDate": "2010-09-01",
+            "endDate": "2014-06-01",
+            "collegeName": "Shanghai University of International Business and Economics",
+            "degreeLevel": "BACHELOR",
+            "majorName": "English"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "Workwithbusiness stakeholders to translate business requirement into functional requirement. \nSetupthePower BI database, design and develop all the custom metrics, reports and dashboards in Power BI to meet functional \nrequirements for the whole operation department by cooperating with IT team in Spain. \nClarifyend user’s inquiry on reports’ features and functionalities, continuously optimize reports along with the developing \noperating procedure. \nCollectand consolidate data from different portals to prepare monthly and quarterly operational reports for upper management to \ntrack enterprise level KPI. \nConductanalytical projects on massive datasets with tableau to analyze system operational constraints, deficiencies and defects, \ncollaborate with operation team and tech team to develop solutions. \nMonitorand report on accurate transaction generation at the roadside, timely data transmission, data validation of transaction, \ntrack and analyze system performance and operation performance. \nParticipate in the implementation and testing of Central Systems, track results and records and escalate system performance issues. ",
+            "companyName": "I-77 Mobility Partners LLC/ Cintra US / Ferrovial",
+            "title": "Operation Data Analyst",
+            "startDate": "2018-07-01",
+            "endDate": "2021-04-01"
+        },
+        {
+            "description": "Extracted data from CRM system, created monthly reports based on different key performance indicators including customer \ncomplaint code, complaint over 60 days and average complaint solving days. \nCreatedand compared charts, tables and graphs, identified trends and occurrences. \nPrepared advanced shipping notice by using electronic data interchange system, maintained data integrity of inventory system by \ntrouble shooting between Redtail and Microsoft GP. \nSearched, extracted, managed and analyzed data in Microsoft Dynamics Great Plains system to support daily business process \nand annual auditing. ",
+            "companyName": "Prodigy Diabetes Care LLC",
+            "title": "Data and Billing Analyst",
+            "startDate": "2017-10-01",
+            "endDate": "2018-06-01"
+        },
+        {
+            "description": "Performed ad-hoc reports of beauty advisors’ basic information for training and sales department. \nCreated monthly, quarterly, and yearly coaching reports for more than 200 beauty advisors from the whole China department \nand presented it in PowerPoint in department meetings to improve beauty advisors’ selling skills. \nTroubleshooted and analyzed reports using Excel (V lookup, pivot tables) to follow up beauty advisors’ performance every \nseason, helped training department to achieve higher efficiency on training beauty advisors’ selling skills by 15%. \nTracked and analyzed actual product using and ordering on a monthly basis, forecasted second year product ordering based on \nthe purchase price variance and budget variance. \nSupported the creation of key door action plan, provided insight into  the  establishment  of SKU sales  target of each beauty \nadvisor. ",
+            "companyName": "LVMH Perfumes & Cosmetics (Shanghai) Company Limited",
+            "title": "FRESH Training Department Business Analyst Intern",
+            "startDate": "2014-01-01",
+            "endDate": "2015-06-01"
+        }
+    ],
+    "start_time": "",
+    "last_update_time": "",
+    "parser_cost_time": "",
+    "skills": [
+        {
+            "skillName": "Power BI"
+        },
+        {
+            "skillName": "Excel"
+        },
+        {
+            "skillName": "SQL"
+        },
+        {
+            "skillName": "Tableau"
+        },
+        {
+            "skillName": "CRM"
+        },
+        {
+            "skillName": "PowerPoint"
+        },
+        {
+            "skillName": "ERP"
+        },
+        {
+            "skillName": "Python"
+        },
+        {
+            "skillName": "R"
+        },
+        {
+            "skillName": "SAS"
+        }
+    ],
+    "fullName": "Yichun Qu"
+}

@@ -1,0 +1,166 @@
+{
+    "firstName": "Kuan",
+    "lastName": "Liu",
+    "contacts": [
+        {
+            "type": "EMAIL",
+            "contact": "alan1997liu@berkeley.edu"
+        },
+        {
+            "type": "LINKEDIN",
+            "contact": "kuan-liu",
+            "details": "https://www.linkedin.com/in/kuan-liu"
+        },
+        {
+            "type": "PHONE",
+            "contact": "+17143193123"
+        }
+    ],
+    "currentLocation": {
+        "location": "Fullerton, CA 92835 1"
+    },
+    "preferredLocations": [
+        {
+            "location": "Fullerton, CA 92835 1"
+        }
+    ],
+    "languages": [
+        "MANDARIN",
+        "ENGLISH"
+    ],
+    "educations": [
+        {
+            "id": 0,
+            "collegeName": "StanfordUniversity",
+            "degreeLevel": "MASTER",
+            "majorName": "Materials Science and Engineering"
+        },
+        {
+            "id": 1,
+            "collegeName": "University of California,Berkeley",
+            "degreeLevel": "BACHELOR",
+            "majorName": "Chemical Engineering"
+        }
+    ],
+    "experiences": [
+        {
+            "id": 0,
+            "description": "• Leveraged Python computer vision and deep learning modules to extract information from piping and instrumentation diaqrams (P&IDs) as part of a team of three interns. \n• Provided a P&ID UI feature for the gas turbine human-machine interface using JavaScript, HTML andcss. ",
+            "companyName": "Solar Turbines",
+            "startDate": "2020-06-01",
+            "endDate": "2020-08-01"
+        },
+        {
+            "id": 1,
+            "description": "• Implemented thermodynamic equilibrium calculations in MATLAB for predicting ternary phase diagrams of salt hydrate systems. \n• Investigated methods for synthesizing novel salt hydrate materials. ",
+            "companyName": "National RenewableEnergy Laboratory",
+            "title": "EngineeringMaterialsIntern",
+            "startDate": "2020-01-01",
+            "endDate": "2020-05-01"
+        },
+        {
+            "id": 2,
+            "description": "• Saved 78 engineering hours and $8,500 per turbine project by developing a Python & Java program that automatically determines optimal gas detector placements in turbine packages \n• Implemented the automation program using CFD data, CAD and optimization algorithms Conducted training on how to use the program to CFD engineers within the department. ",
+            "companyName": "Solar Turbines",
+            "title": "Engineering Assistant",
+            "startDate": "2019-05-01",
+            "endDate": "2019-08-01"
+        },
+        {
+            "id": 3,
+            "description": "• Developed Python and Bash programs to automatically calculate energies of perovskite materials withDFT. ",
+            "companyName": "MarkAsta Computational Materials ScienceResearch Group",
+            "title": "Undergraduate Research Assistant",
+            "startDate": "2018-07-01",
+            "endDate": "2019-05-01"
+        }
+    ],
+    "start_time": "",
+    "last_update_time": "",
+    "parser_cost_time": "",
+    "fileName": "Kuan_Liu-实习-北美管培生K12.png",
+    "page": "",
+    "size": 94,
+    "fileType": "png",
+    "skills": [
+        {
+            "id": 0,
+            "skillName": "Python",
+            "firstUsed": "2018-07-01",
+            "usedMonth": 2.0,
+            "score": 2.25
+        },
+        {
+            "id": 1,
+            "skillName": "Bash",
+            "firstUsed": "2018-07-01",
+            "usedMonth": 10.0,
+            "score": 1.83
+        },
+        {
+            "id": 2,
+            "skillName": "MATLAB",
+            "firstUsed": "2020-01-01",
+            "usedMonth": 4.0,
+            "score": 1.33
+        },
+        {
+            "id": 3,
+            "skillName": "Java",
+            "firstUsed": "2019-05-01",
+            "usedMonth": 3.0,
+            "score": 1.25
+        },
+        {
+            "id": 4,
+            "skillName": "HTML",
+            "firstUsed": "2020-06-01",
+            "usedMonth": 2.0,
+            "score": 1.17
+        },
+        {
+            "id": 5,
+            "skillName": "JavaScript",
+            "score": 1.0
+        },
+        {
+            "id": 6,
+            "skillName": "CSS",
+            "score": 1.0
+        },
+        {
+            "id": 7,
+            "skillName": "COMSOL",
+            "score": 1.0
+        },
+        {
+            "id": 8,
+            "skillName": "data science",
+            "score": 1.0
+        },
+        {
+            "id": 9,
+            "skillName": "CFD",
+            "firstUsed": "2019-05-01",
+            "lastUsed": "2019-08-01",
+            "usedMonth": 3.0,
+            "score": 0.5
+        },
+        {
+            "id": 10,
+            "skillName": "CAD",
+            "firstUsed": "2019-05-01",
+            "lastUsed": "2019-08-01",
+            "usedMonth": 3.0,
+            "score": 0.25
+        },
+        {
+            "id": 11,
+            "skillName": "UI",
+            "firstUsed": "2020-06-01",
+            "lastUsed": "2020-08-01",
+            "usedMonth": 2.0,
+            "score": 0.17
+        }
+    ]
+}

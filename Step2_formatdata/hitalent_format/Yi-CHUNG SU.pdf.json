@@ -1,0 +1,134 @@
+{
+    "contacts": [
+        {
+            "type": "EMAIL",
+            "contact": "yichusu@umich.edu"
+        },
+        {
+            "type": "PHONE",
+            "contact": "+17347095275"
+        }
+    ],
+    "currentLocation": {
+        "location": "321 South 5th Street, Unit 240, Ames, Iowa 50010"
+    },
+    "preferredLocations": [
+        {
+            "location": "321 South 5th Street, Unit 240, Ames, Iowa 50010"
+        }
+    ],
+    "languages": [
+        "ENGLISH"
+    ],
+    "educations": [
+        {
+            "endDate": "2018-04-01",
+            "collegeName": "University of Michigan, Ann Arbor",
+            "degreeLevel": "MASTER",
+            "majorName": "Mechanical Engineering"
+        },
+        {
+            "endDate": "2014-06-01",
+            "collegeName": "National Taiwan University, Taipei",
+            "degreeLevel": "BACHELOR",
+            "majorName": "Mechanical Engineering"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "•   Worked in the Agile Scrum team to improve the John Deere tractor’s control system with python and Docker. \n•   Redesigned the Tractor’s safety system to deal with emergency conditions based on Test-driven Development. \n•   Built the hardware simulator with fake CAN messages, fake perception messages and fake GPS data to test the system. \n•   Programmed unit tests and integration tests for every function in the program using Travis, Catch2, and Fake-it. \n•   Developed radar detection code using C++ and Bosch mid-range radar and Continental Radar. \n•   Launched a heartbeat program between main CPU and redundant CPU by serial communication. \n•   Implemented the Safety Stop program through I2C Bus between redundant CPU and brake module. \n•   Developed  the  speed  controller  algorithm(Gear  selection  and  throttle  adjustment)  for  tractors  with  Power  Shift Transmission by using state machine QNX environment. ",
+            "companyName": "Smart Ag.",
+            "title": "Autonomous Vehicle Engineer",
+            "startDate": "2018-09-01",
+            "current": true
+        },
+        {
+            "description": "•   Built 3D CAD models including robotic arm, CNC, and conveyor system to demo industry 4.0 products. \n•   Simulated milling processes using ABB Robotstudio Machining PowerPac to assess its auto-path generation function. ",
+            "companyName": "Syntec Technology",
+            "title": "Mechanical Engineering Intern",
+            "startDate": "2017-05-01",
+            "endDate": "2017-06-01"
+        }
+    ],
+    "start_time": "",
+    "last_update_time": "",
+    "parser_cost_time": "",
+    "skills": [
+        {
+            "skillName": "CPU"
+        },
+        {
+            "skillName": "C++"
+        },
+        {
+            "skillName": "Docker"
+        },
+        {
+            "skillName": "Scrum"
+        },
+        {
+            "skillName": "Agile"
+        },
+        {
+            "skillName": "I2C"
+        },
+        {
+            "skillName": "QNX"
+        },
+        {
+            "skillName": "CUDA"
+        },
+        {
+            "skillName": "Python"
+        },
+        {
+            "skillName": "Matlab"
+        },
+        {
+            "skillName": "Simulink"
+        },
+        {
+            "skillName": "Labview"
+        },
+        {
+            "skillName": "Arduino"
+        },
+        {
+            "skillName": "SolidWorks"
+        },
+        {
+            "skillName": "Linux"
+        },
+        {
+            "skillName": "OpenCV"
+        },
+        {
+            "skillName": "ROS"
+        },
+        {
+            "skillName": "MySQL"
+        },
+        {
+            "skillName": "Git"
+        },
+        {
+            "skillName": "React"
+        },
+        {
+            "skillName": "Redux"
+        },
+        {
+            "skillName": "CI"
+        },
+        {
+            "skillName": "CMake"
+        },
+        {
+            "skillName": "UDP"
+        },
+        {
+            "skillName": "CAD"
+        }
+    ],
+    "fullName": "Yi-Chung SU"
+}

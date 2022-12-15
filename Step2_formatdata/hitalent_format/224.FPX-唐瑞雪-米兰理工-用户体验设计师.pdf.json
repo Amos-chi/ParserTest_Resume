@@ -1,0 +1,85 @@
+{
+    "contacts": [
+        {
+            "type": "EMAIL",
+            "contact": "ashley.ruixue@yahoo.com"
+        }
+    ],
+    "currentLocation": {
+        "location": "Kyoto, Japan"
+    },
+    "preferredLocations": [
+        {
+            "location": "Kyoto, Japan"
+        }
+    ],
+    "languages": [
+        "GERMAN",
+        "MANDARIN",
+        "ENGLISH"
+    ],
+    "educations": [
+        {
+            "startDate": "2016-01-01",
+            "endDate": "2017-01-01",
+            "collegeName": "Kunstuniversitat",
+            "majorName": "Industrial Design"
+        }
+    ],
+    "experiences": [
+        {
+            "companyName": "Fukusada Ltd.",
+            "title": "Associate Product Designer (Internship)",
+            "startDate": "2019-07-01",
+            "endDate": "2019-10-01"
+        },
+        {
+            "companyName": "Teawith",
+            "title": "Junior Product Designer",
+            "endDate": "2018-09-01"
+        },
+        {
+            "companyName": "Fengming Company",
+            "title": "Graphic Designer",
+            "startDate": "2018-05-01",
+            "endDate": "2018-07-01"
+        },
+        {
+            "companyName": "Jizao Industrial Design",
+            "title": "Junior Product Designer",
+            "endDate": "2018-05-01"
+        },
+        {
+            "companyName": "Company from",
+            "title": "Graphic Designer in Advertising",
+            "endDate": "2018-01-01"
+        }
+    ],
+    "start_time": "",
+    "last_update_time": "",
+    "parser_cost_time": "",
+    "skills": [
+        {
+            "skillName": "Product design"
+        },
+        {
+            "skillName": "Photoshop"
+        },
+        {
+            "skillName": "Illustrator"
+        },
+        {
+            "skillName": "Indesign"
+        },
+        {
+            "skillName": "Rhino"
+        },
+        {
+            "skillName": "R"
+        },
+        {
+            "skillName": "Industrial"
+        }
+    ],
+    "fullName": "唐瑞雪"
+}

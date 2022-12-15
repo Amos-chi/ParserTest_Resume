@@ -1,0 +1,233 @@
+{
+    "firstName": "Chris",
+    "lastName": "Huang",
+    "contacts": [
+        {
+            "type": "EMAIL",
+            "contact": "kuoweism@gmail.com"
+        },
+        {
+            "type": "LINKEDIN",
+            "contact": "kuowei-huang",
+            "details": "https://www.linkedin.com/in/kuowei-huang"
+        },
+        {
+            "type": "PHONE",
+            "contact": "+18583973943"
+        }
+    ],
+    "currentLocation": {
+        "location": "41450 Culpepper Way. Leonardtown, MD 20650"
+    },
+    "preferredLocations": [
+        {
+            "location": "41450 Culpepper Way. Leonardtown, MD 20650"
+        }
+    ],
+    "languages": [
+        "ENGLISH"
+    ],
+    "educations": [
+        {
+            "id": 0,
+            "endDate": "2021-03-01",
+            "collegeName": "Defense Acquisition University",
+            "degreeLevel": "CERTIFICATE",
+            "majorName": "Engineering"
+        },
+        {
+            "id": 1,
+            "endDate": "2002-06-01",
+            "collegeName": "University of California, Davis",
+            "degreeLevel": "MASTER",
+            "majorName": "Engineering & Applied"
+        },
+        {
+            "id": 2,
+            "endDate": "1999-06-01",
+            "collegeName": "University of California, Los Angeles",
+            "degreeLevel": "BACHELOR",
+            "majorName": "Cybernetics"
+        }
+    ],
+    "experiences": [
+        {
+            "id": 0,
+            "description": "· Support PMA-209 for Modular Open System Architecture (MOSA) realization at NAVAIR on MQ-25, FVL, E-XX, NGAD platforms. \n· Serve as the NAVAIR RE/SME in guiding program offices in building Model Based Open Architecture models; chair NAVAIR Digital Transformation Data Modeling COP TIM. \n· Research SysML v2 and API framework for model consistency, interoperability and re-usability; draft Model Maturity Whitepaper with Georgia Tech over an awarded S&T fund. ",
+            "companyName": "NAVAIR",
+            "title": "Platform Integration & Modeling Lead Engineer",
+            "startDate": "2020-10-01",
+            "current": true
+        },
+        {
+            "id": 1,
+            "description": "· Served as the NG Aeronautics Systems scrum master NGIDE team on MBSE digitalengineering initiative in developing Methodology, Process, Templates, Reference Models,Profiles, Checklist, Style Guide, Model Maturity Metrics for internal programs usage. \n· Supported Global Hawks Modernization contract execution with AI image processingcustomization; GBSD on software modeling; NGAD MDAO design integration. \n· Experience with UAF DoDAF frameworks, SysML, UML, LML, OMS, DDS, ModelMaturity and Metrics, system to software model transition; Cameo and Rhapsody tools. ",
+            "companyName": "Northrop Grumman",
+            "title": "Staff Engineer",
+            "startDate": "2019-03-01",
+            "endDate": "2020-10-01"
+        },
+        {
+            "id": 2,
+            "description": "· MBSE support of: weapon systems (SSDS ICS & AEGIS), ships (DDG & CVN) andnetworks (NGEN & JWICS); research AOA, defined & synthesized requirements; plannedand coordinated model development efforts. \n· Served as a member of the NMCI Cyber Security Tiger Team in assessing and reviewingsecurity features and solutions on endpoints, networks, servers and services/processes, aswell as identifying data for analysis. \n· Performed data analytics, model design and creation of SysML/DoDAF models; ledinternal development team on Cameo tool capabilities development; outlined Model as a Service solution for network consolidation; supported NGEN Transformation modelingeffort. ",
+            "companyName": "Naval Information Warfare Center - Pacific",
+            "title": "Lead Engineer",
+            "startDate": "2018-04-01",
+            "endDate": "2019-02-01"
+        },
+        {
+            "id": 3,
+            "description": "· Piloted MBSE system methodology in support of DRM cryptographic security system lifecycle from definition to validation; o Created MBSE models in support of design analysis, with simulations to showhow messages are coordinated, and keys are staying in sync. o Developed expert knowledge on PKI, federated identity and accessmanagement; patent submitted on Self Provisioning. \n· Performed MBSE modeling in SysML on MediaCipher Conditional Access system andDTA Encryption Infrastructure for video content protection over cable; o Demonstrated the security of the systems using model, resulted in certificationto deliver high value content (new release theater graded movies) to settops. o Participated in Comcast Big Data Analytics as the access network lead in datamanicuring, data analysis, supervised learning algorithm tuning. \n· Served as the subject matter expert in System Engineering over Agile development processby trial the processes to Key Server and embedded security client projects; o Developed SysML-based models that include use cases, activity, architectures,components, sequences, states, classes and requirements diagrams. o Led SW (Java) development of Linux based Key Server in cloud microservice(Kubernetes) with intelligent network health monitoring system. ",
+            "companyName": "Comcast Cable",
+            "title": "Senior Staff Systems Engineer",
+            "startDate": "2006-04-01",
+            "endDate": "2018-02-01"
+        },
+        {
+            "id": 4,
+            "description": "· Led software development of industry first microwave transceiver remote monitor unitwith embedded SNMP and TCP/IP protocols in C for Boeing Video Surveillance System. \n· Performed network simulation (Opnet), link budget propagation and coverage analysis,create system design prototypes for network layer requirement and performance analysis. \n· Awarded patent: “Device and Method for Sharpening Image Signal” # 20070070428. ",
+            "companyName": "Cable AML",
+            "title": "Software Engineer",
+            "startDate": "2002-06-01",
+            "endDate": "2006-04-01"
+        }
+    ],
+    "start_time": "",
+    "last_update_time": "",
+    "parser_cost_time": "",
+    "fileName": "Chris Huang 20211012.doc",
+    "page": "",
+    "size": 50,
+    "fileType": "doc",
+    "skills": [
+        {
+            "id": 0,
+            "skillName": "System",
+            "firstUsed": "2002-06-01",
+            "usedMonth": 142.0,
+            "score": 16.66
+        },
+        {
+            "id": 1,
+            "skillName": "Self",
+            "firstUsed": "2006-04-01",
+            "lastUsed": "2018-02-01",
+            "usedMonth": 142.0,
+            "score": 11.83
+        },
+        {
+            "id": 2,
+            "skillName": "Access",
+            "firstUsed": "2006-04-01",
+            "lastUsed": "2018-02-01",
+            "usedMonth": 142.0,
+            "score": 11.83
+        },
+        {
+            "id": 3,
+            "skillName": "Big Data Analytics",
+            "firstUsed": "2006-04-01",
+            "lastUsed": "2018-02-01",
+            "usedMonth": 142.0,
+            "score": 11.83
+        },
+        {
+            "id": 4,
+            "skillName": "Agile",
+            "firstUsed": "2006-04-01",
+            "lastUsed": "2018-02-01",
+            "usedMonth": 142.0,
+            "score": 11.83
+        },
+        {
+            "id": 5,
+            "skillName": "Linux",
+            "firstUsed": "2006-04-01",
+            "lastUsed": "2018-02-01",
+            "usedMonth": 142.0,
+            "score": 11.83
+        },
+        {
+            "id": 6,
+            "skillName": "SNMP",
+            "firstUsed": "2002-06-01",
+            "lastUsed": "2006-04-01",
+            "usedMonth": 46.0,
+            "score": 3.83
+        },
+        {
+            "id": 7,
+            "skillName": "IP",
+            "firstUsed": "2002-06-01",
+            "lastUsed": "2006-04-01",
+            "usedMonth": 46.0,
+            "score": 3.83
+        },
+        {
+            "id": 8,
+            "skillName": "Surveillance",
+            "firstUsed": "2002-06-01",
+            "lastUsed": "2006-04-01",
+            "usedMonth": 46.0,
+            "score": 3.83
+        },
+        {
+            "id": 9,
+            "skillName": "Transformation",
+            "firstUsed": "2018-04-01",
+            "score": 3.04,
+            "usedMonth": 10.0
+        },
+        {
+            "id": 10,
+            "skillName": "Support",
+            "firstUsed": "2020-10-01",
+            "score": 2.21
+        },
+        {
+            "id": 11,
+            "skillName": "System Architecture",
+            "firstUsed": "2020-10-01",
+            "score": 2.21
+        },
+        {
+            "id": 12,
+            "skillName": "NG Aeronautics Systems",
+            "firstUsed": "2019-03-01",
+            "lastUsed": "2020-10-01",
+            "usedMonth": 19.0,
+            "score": 1.58
+        },
+        {
+            "id": 13,
+            "skillName": "AI",
+            "firstUsed": "2019-03-01",
+            "lastUsed": "2020-10-01",
+            "usedMonth": 19.0,
+            "score": 1.58
+        },
+        {
+            "id": 14,
+            "skillName": "large-scale mission critical",
+            "score": 1.0
+        },
+        {
+            "id": 15,
+            "skillName": "networks and aeronautics systems",
+            "score": 1.0
+        },
+        {
+            "id": 16,
+            "skillName": "pli",
+            "score": 1.0
+        },
+        {
+            "id": 17,
+            "skillName": "ICS",
+            "firstUsed": "2018-04-01",
+            "lastUsed": "2019-02-01",
+            "usedMonth": 10.0,
+            "score": 0.83
+        }
+    ]
+}

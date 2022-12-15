@@ -1,0 +1,124 @@
+{
+    "contacts": [
+        {
+            "type": "EMAIL",
+            "contact": "506142054@qq.com"
+        },
+        {
+            "type": "PHONE",
+            "contact": "+8618140523051"
+        }
+    ],
+    "currentLocation": {
+        "location": "湖北省武汉市"
+    },
+    "preferredLocations": [
+        {
+            "location": "湖北省武汉市"
+        }
+    ],
+    "languages": [
+        "MANDARIN"
+    ],
+    "educations": [
+        {
+            "startDate": "2021-09-01",
+            "endDate": "2023-06-01",
+            "collegeName": "中南财经政法大学武汉学院",
+            "degreeLevel": "BACHELOR",
+            "majorName": "工商管理"
+        },
+        {
+            "startDate": "2018-09-01",
+            "endDate": "2021-06-01",
+            "collegeName": "中南财经政法大学武汉学院",
+            "degreeLevel": "ASSOCIATE",
+            "majorName": "工商管理"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "l 产品营销:负责产品海报设计，分析产品卖点，提升产品吸引力，实现单日销售额破1000，累积销售额10W＋\nl 用户运营:线上建立起超千人的客户群体，通过了解联系客户需求，跟进顾客沟通反馈，增加后续转化机会\nl 物资采购:负责进货渠道分析，通过对比产品，分析价格优势，，降低进货成本，净利润提升至80%",
+            "companyName": "个人创业",
+            "startDate": "2021-09-01",
+            "current": true
+        },
+        {
+            "description": "l 课程教学:负责3个班教学工作，为学生提供专业的高质量教学服务，及时与家长沟通反馈，家长好评率100%\nl 教学策略:分析教务数据，复盘输出教学总结调整教学策略，运用多种教学方式和管理技巧，调动学生积极性",
+            "companyName": "乐思教育机构",
+            "title": "学科老师",
+            "startDate": "2021-06-01",
+            "endDate": "2021-09-01"
+        },
+        {
+            "description": "l 资料归整:日常资料录入，通讯录的更新等各类文职工作，对资料进行核对归类建档，日常查找效率提高30%\nl 人事协助:协助公司人事进行人员招聘，跟进招聘信息发布，组织安排面试，新员工入职等一系列事务",
+            "companyName": "广东省友友包装材料有限公司",
+            "title": "行政文员",
+            "startDate": "2021-01-01",
+            "endDate": "2021-06-01"
+        },
+        {
+            "description": "l 活动组织:根据活动排期，共完成团日活动20余次;\nl 通知传达:及时接收和传达学院及支部各项通知，确保消息触达率100%;\nl 资料编辑:共制作活动资料PPT20余份,推动评选等活动的顺利。",
+            "companyName": "武汉学院管理学院",
+            "title": "团支书",
+            "startDate": "2018-09-01",
+            "endDate": "2020-06-01"
+        },
+        {
+            "description": "l 客户沟通:箱包公司担任箱包统计分销等工作，建立客户档案，和客户保持定期联系\nl 产品分析:熟悉箱包种类并对其进行整理，对各种箱包的市场进行分析，对其市场占有进行下一季度的评估",
+            "companyName": "汨罗市三城塑料有限公司",
+            "title": "销售专员",
+            "startDate": "2019-07-01",
+            "endDate": "2019-09-01"
+        }
+    ],
+    "start_time": "",
+    "last_update_time": "",
+    "parser_cost_time": "",
+    "page": "",
+    "skills": [
+        {
+            "skillName": "沟通"
+        },
+        {
+            "skillName": "编辑"
+        },
+        {
+            "skillName": "设计"
+        },
+        {
+            "skillName": "单日销售"
+        },
+        {
+            "skillName": "10W"
+        },
+        {
+            "skillName": "渠道"
+        },
+        {
+            "skillName": "专业能力"
+        },
+        {
+            "skillName": "个人能力"
+        },
+        {
+            "skillName": "抗压能力"
+        },
+        {
+            "skillName": "教学策略"
+        },
+        {
+            "skillName": "公司人事进行人员招聘"
+        },
+        {
+            "skillName": "跟进招聘"
+        },
+        {
+            "skillName": "面试"
+        },
+        {
+            "skillName": "统计"
+        }
+    ],
+    "fullName": "陈博民"
+}

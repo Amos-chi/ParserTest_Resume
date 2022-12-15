@@ -1,0 +1,151 @@
+{
+    "firstName": "成",
+    "lastName": "熊",
+    "contacts": [
+        {
+            "type": "EMAIL",
+            "contact": "xc19970212@163.com"
+        },
+        {
+            "type": "PHONE",
+            "contact": "+8618571852172"
+        }
+    ],
+    "currentLocation": {
+        "location": "湖北省武汉市"
+    },
+    "preferredLocations": [
+        {
+            "location": "湖北省武汉市"
+        }
+    ],
+    "languages": [
+        "MANDARIN"
+    ],
+    "educations": [
+        {
+            "id": 0,
+            "startDate": "2019-09-01",
+            "endDate": "2021-06-01",
+            "collegeName": "中南财经政法大学",
+            "degreeLevel": "MASTER",
+            "majorName": "计算机技术"
+        },
+        {
+            "id": 1,
+            "startDate": "2015-09-01",
+            "endDate": "2019-06-01",
+            "collegeName": "武汉纺织大学",
+            "degreeLevel": "BACHELOR",
+            "majorName": "软件工程"
+        }
+    ],
+    "experiences": [
+        {
+            "id": 0,
+            "description": "《公司工资代发系统》发，项目提供 PC 端，采用前后端分离的模式进行开发，旨在留住银行中优质的对公客户。\n  项目责任:\n  负责项目中定时任务模块和 PC 端服务模块的开发。\n  负责项目后期引进的 SpringCloud 框架对应功能的开发。\n  负责该项目的上线，投产和维护工作，同时处理业务人员发送的问题。\n  负责处理来自业务部门的指标查询和账户限制要求。\n  负责编写该项目的上线文档，保持项目的正常运行。《核心大数据平台》各个指标并且提供数据可视化和数据在线查询功能。\n  项目责任:\n  根据原有项目上新增的需求编写系统模块服务对应的 Java 代码。\n  根据业务需求，统计不同时间段的访问次数，点击，交易，转化率等指标。\n  将需求的热点数据放入新引入的存储框架并结合即席查询引擎提高查询效率。\n  根据后续需求修改 alluxio 源码来改变同步数据的方式，提升同步效率。\n  负责基于 spark 对接 kafka 进行日志评估,通过正则匹配与正则抽取得到数据， 调用评估责任链,产生风险评估报告。\n  根据项目后续业务需求，使用 spark 完成任务配置的动态更新，提高效率。",
+            "companyName": "九江银行",
+            "title": "金融科技岗",
+            "startDate": "2021-07-01",
+            "endDate": "2022-06-01"
+        }
+    ],
+    "start_time": "",
+    "last_update_time": "",
+    "parser_cost_time": "",
+    "fileName": "【Java开发工程师_北京】熊成.pdf",
+    "page": 1,
+    "size": 219,
+    "fileType": "pdf",
+    "skills": [
+        {
+            "id": 0,
+            "skillName": "hadoop",
+            "score": 2.0
+        },
+        {
+            "id": 1,
+            "skillName": "Springboot+Redis+Mysql+Mybatis+SpringCloud",
+            "firstUsed": "2021-07-01",
+            "usedMonth": 11.0,
+            "score": 1.92
+        },
+        {
+            "id": 2,
+            "skillName": "Springboot+Alluxio+Presto+Flume+Kafka+Hadoop+Redis",
+            "firstUsed": "2021-07-01",
+            "usedMonth": 11.0,
+            "score": 1.92
+        },
+        {
+            "id": 3,
+            "skillName": "java",
+            "score": 1.0
+        },
+        {
+            "id": 4,
+            "skillName": "SpringBoot",
+            "score": 1.0
+        },
+        {
+            "id": 5,
+            "skillName": "Spring",
+            "score": 1.0
+        },
+        {
+            "id": 6,
+            "skillName": "Mybatis 等相关开发",
+            "score": 1.0
+        },
+        {
+            "id": 7,
+            "skillName": "后端开发",
+            "score": 1.0
+        },
+        {
+            "id": 8,
+            "skillName": "Mysql",
+            "score": 1.0
+        },
+        {
+            "id": 9,
+            "skillName": "Redis",
+            "score": 1.0
+        },
+        {
+            "id": 10,
+            "skillName": "大数据",
+            "score": 1.0
+        },
+        {
+            "id": 11,
+            "skillName": "hive",
+            "score": 1.0
+        },
+        {
+            "id": 12,
+            "skillName": "spark",
+            "score": 1.0
+        },
+        {
+            "id": 13,
+            "skillName": "flink",
+            "score": 1.0
+        },
+        {
+            "id": 14,
+            "skillName": "团队合作",
+            "score": 1.0
+        },
+        {
+            "id": 15,
+            "skillName": "交流能力",
+            "score": 1.0
+        },
+        {
+            "id": 16,
+            "skillName": "项目开发",
+            "score": 1.0
+        }
+    ]
+}

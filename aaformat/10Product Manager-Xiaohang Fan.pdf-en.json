@@ -1,0 +1,163 @@
+{
+    "firstName": "晓航",
+    "lastName": "范",
+    "contacts": [
+        {
+            "type": "EMAIL",
+            "contact": "xfan79@wisc.edu"
+        },
+        {
+            "type": "PHONE",
+            "contact": "+8615801806638"
+        }
+    ],
+    "currentLocation": {
+        "location": "Madison, WI"
+    },
+    "preferredLocations": [
+        {
+            "location": "Madison, WI"
+        }
+    ],
+    "languages": [
+        "MANDARIN",
+        "ENGLISH"
+    ],
+    "educations": [
+        {
+            "id": 0,
+            "startDate": "1990-03-01",
+            "endDate": "2020-12-01",
+            "collegeName": "威斯康星-麦迪逊分校",
+            "degreeLevel": "MASTER",
+            "majorName": "数理经济"
+        },
+        {
+            "id": 1,
+            "endDate": "2020-12-01",
+            "collegeName": "University of Wisconsin-Madison",
+            "degreeLevel": "MASTER",
+            "majorName": "Economics"
+        },
+        {
+            "id": 2,
+            "startDate": "2015-09-01",
+            "endDate": "2019-06-01",
+            "collegeName": "上海财经大学",
+            "degreeLevel": "BACHELOR",
+            "majorName": "金融学"
+        },
+        {
+            "id": 3,
+            "endDate": "2019-06-01",
+            "collegeName": "Shanghai University of Finance and Economics",
+            "degreeLevel": "BACHELOR",
+            "majorName": "Economics in Finance"
+        }
+    ],
+    "experiences": [
+        {
+            "id": 0,
+            "description": "协助项目经理优化/制定企业流程图，协助准备指导、培训企业员工的材料\n·对当前保险行业的趋势和前景进行市场调研和案例研究，整合数据和关键发现，形成演示文稿和报告\n·参与客户会议，收集和识别需求，通过图表管理等可视化多个阶段的进展",
+            "companyName": "安永咨询",
+            "title": "金融服务业绩提升组实习生",
+            "startDate": "2019-08-01",
+            "endDate": "2019-12-01"
+        },
+        {
+            "id": 1,
+            "description": "•    Conducted market research and case studies of current trends and prospects in the insurance industry \n•    Consolidated data and key findings into presentations and reports deliverable to clients ",
+            "companyName": "Ernst & Young LLP.",
+            "title": "FSO-PI Intern",
+            "startDate": "2019-08-01",
+            "endDate": "2019-12-01"
+        },
+        {
+            "id": 2,
+            "description": "协助团队研究宏观经济与政策及其他课题并每周汇报，课题包括但不限于大类资产配置及养老基金\n通过分析上市公司年报等协助研究券商资产管理发展战略，完成专题报告并展示",
+            "companyName": "东北证券股份有限公司",
+            "title": "战略规划部实习生",
+            "startDate": "2019-01-01",
+            "endDate": "2019-04-01"
+        },
+        {
+            "id": 3,
+            "description": "•    Analyzed industry data using WIND to evaluate potential growth opportunities \n•    Presented weekly updates to the management team, reviewing current projects and key next steps ",
+            "companyName": "Northeast Securities Co., Ltd.",
+            "title": "Strategic Planning Intern",
+            "startDate": "2019-01-01",
+            "endDate": "2019-04-01"
+        }
+    ],
+    "start_time": "",
+    "last_update_time": "",
+    "parser_cost_time": "",
+    "fileName": "10Product Manager-Xiaohang Fan.pdf",
+    "page": 2,
+    "size": 289,
+    "fileType": "pdf",
+    "skills": [
+        {
+            "id": 0,
+            "skillName": "Julia",
+            "score": 2.0
+        },
+        {
+            "id": 1,
+            "skillName": "Stata",
+            "score": 2.0
+        },
+        {
+            "id": 2,
+            "skillName": "MSOffice",
+            "score": 1.0
+        },
+        {
+            "id": 3,
+            "skillName": "Python",
+            "score": 1.0
+        },
+        {
+            "id": 4,
+            "skillName": "MS Office",
+            "score": 1.0
+        },
+        {
+            "id": 5,
+            "skillName": "linkedin",
+            "score": 1.0
+        },
+        {
+            "id": 6,
+            "skillName": "研究",
+            "firstUsed": "2019-01-01",
+            "lastUsed": "2019-12-01",
+            "usedMonth": 4.0,
+            "score": 0.8300000000000001
+        },
+        {
+            "id": 7,
+            "skillName": "协助项目经理优化",
+            "firstUsed": "2019-08-01",
+            "lastUsed": "2019-12-01",
+            "usedMonth": 4.0,
+            "score": 0.33
+        },
+        {
+            "id": 8,
+            "skillName": "培训",
+            "firstUsed": "2019-08-01",
+            "lastUsed": "2019-12-01",
+            "usedMonth": 4.0,
+            "score": 0.33
+        },
+        {
+            "id": 9,
+            "skillName": "市场调研",
+            "firstUsed": "2019-08-01",
+            "lastUsed": "2019-12-01",
+            "usedMonth": 4.0,
+            "score": 0.33
+        }
+    ]
+}

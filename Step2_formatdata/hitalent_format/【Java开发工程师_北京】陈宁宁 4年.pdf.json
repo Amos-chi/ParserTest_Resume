@@ -1,0 +1,93 @@
+{
+    "contacts": [
+        {
+            "type": "EMAIL",
+            "contact": "rg15cn@163.com"
+        },
+        {
+            "type": "PHONE",
+            "contact": "+8615631167703"
+        },
+        {
+            "type": "WECHAT",
+            "contact": "cn17732014865"
+        }
+    ],
+    "currentLocation": {
+        "location": "Shijiazhuang, Hebei"
+    },
+    "preferredLocations": [
+        {
+            "location": "Shijiazhuang, Hebei"
+        }
+    ],
+    "languages": [
+        "MANDARIN"
+    ],
+    "educations": [
+        {
+            "degreeLevel": "BACHELOR"
+        }
+    ],
+    "experiences": "",
+    "start_time": "",
+    "last_update_time": "",
+    "parser_cost_time": "",
+    "skills": [
+        {
+            "skillName": "docker"
+        },
+        {
+            "skillName": "Mysql"
+        },
+        {
+            "skillName": "Redis"
+        },
+        {
+            "skillName": "ES"
+        },
+        {
+            "skillName": "Mybatis"
+        },
+        {
+            "skillName": "Spring"
+        },
+        {
+            "skillName": "SpringMVC"
+        },
+        {
+            "skillName": "SpringBoot"
+        },
+        {
+            "skillName": "JAVA"
+        },
+        {
+            "skillName": "数据结构"
+        },
+        {
+            "skillName": "算法"
+        },
+        {
+            "skillName": "Lambda"
+        },
+        {
+            "skillName": "问题排查能力"
+        },
+        {
+            "skillName": "linux"
+        },
+        {
+            "skillName": "git"
+        },
+        {
+            "skillName": "svn"
+        },
+        {
+            "skillName": "maven"
+        },
+        {
+            "skillName": "postman"
+        }
+    ],
+    "fullName": "陈宁宁"
+}

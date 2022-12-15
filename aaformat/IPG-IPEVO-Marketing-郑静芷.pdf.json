@@ -1,0 +1,335 @@
+{
+    "firstName": "静芷",
+    "lastName": "郑",
+    "contacts": [
+        {
+            "type": "EMAIL",
+            "contact": "uczi410@ucl.ac.uk"
+        },
+        {
+            "type": "EMAIL",
+            "contact": "uczl410@ucl.ac.uk"
+        },
+        {
+            "type": "PHONE",
+            "contact": "+8615601720763"
+        }
+    ],
+    "currentLocation": {
+        "location": "Shanghai"
+    },
+    "preferredLocations": [
+        {
+            "location": "Shanghai"
+        }
+    ],
+    "languages": [
+        "MANDARIN",
+        "JAPANESE",
+        "ENGLISH"
+    ],
+    "educations": [
+        {
+            "id": 0,
+            "startDate": "2018-09-01",
+            "endDate": "2019-09-01",
+            "degreeLevel": "MASTER",
+            "majorName": "Entrepreneurship"
+        },
+        {
+            "id": 1,
+            "startDate": "2011-09-01",
+            "endDate": "2019-09-01",
+            "collegeName": "伦敦大学学院",
+            "degreeLevel": "MASTER",
+            "majorName": "Entrepreneurship"
+        },
+        {
+            "id": 2,
+            "startDate": "2009-09-01",
+            "endDate": "2013-07-01",
+            "collegeName": "Dalian University",
+            "degreeLevel": "BACHELOR"
+        },
+        {
+            "id": 3,
+            "startDate": "2009-09-01",
+            "endDate": "2013-07-01",
+            "collegeName": "大连理工大学",
+            "degreeLevel": "BACHELOR",
+            "majorName": "日语"
+        },
+        {
+            "id": 4,
+            "startDate": "2011-09-01",
+            "endDate": "2012-09-01",
+            "collegeName": "OsakaUniversity"
+        }
+    ],
+    "experiences": [
+        {
+            "id": 0,
+            "description": "通过各种视频广告和campaign活动，不断获取客户线索，降低RO\n、负责公司各类品牌视频、广告视频、社交媒体短视频拍摄项目的策划和项目推\n进管理，对视频的质量进行把控，并制定投放策略，与媒体合作进行投放。\n，对信息流广告视频的制作方向和质量进行审核把控，并进行广告投放数据的效\n果跟踪和数据分析，进行反馈，不断优化视频广告，降低Leadscost和ROl\n，跨部门合作，进行各类campaign活动（抖音直播/户外广告/微信小程序等）的\n策划和项目推进管理，以获取eads\n，进行市场调查和用户数据研究分析，撰写报告，描写用户画像，为市场活动提\n供市场洞察。\n，与各类供应商沟通合作，在小红书、知平等社交媒体上进行KOL合作投放，进\n行奥情管理和品牌曝光。",
+            "companyName": "EF教育",
+            "title": "市场项自经理",
+            "startDate": "2021-11-01",
+            "endDate": "2022-05-01"
+        },
+        {
+            "id": 1,
+            "description": "-Conduct customerpersonaanalysis and marketresearchtoprovide insightson market trends and marketing strategy. -Make marketingplan&managethemarketing projects including live stream,social media campaign,miniprogram,social mediaKOL,oohetc.tobuildbrandreputation and get customer leads. Ensure all the maketing project quality in line with EF brand positioning -Makevideo creativeplan,and managebranding video,Douyin video and other contentproductionprojects,ensurethe contentquality,trackthe ads effectsdatato provide insights on marketing strategy and increase ROl. \n- Lead partnership and communication with vendors and internal teams to ensureall the marketing projects progress smoothly. ",
+            "title": "EFEducationFirst/Digital MarketingProjectManager",
+            "startDate": "2021-11-01",
+            "endDate": "2022-05-01"
+        },
+        {
+            "id": 2,
+            "description": "负责通过各种市场宣传，为英国高端私立中学进行招生\n-负责微信公众号、微博、b站的账号搭建运营，把控账号方向定位，进行内容\n素材的设计和文案的创作，与其他留学教育类KOL账号的合作联动，获取流量，\n-与供应商合作，进行网站设计搭建，日常运营，以及网站的百度S巨O投放。\n-负责线上直播活动和线下学校宣传活动的策划和推进，确保活动顺利进行。\n-描写用户画像，并根据画像进行朋友卷广告投放。\n-公司品牌V、海报、宣传册、视频以及其他素材的制作管理。",
+            "companyName": "上海佰思英教育科技有限公司",
+            "title": "市场主管",
+            "startDate": "2020-06-01",
+            "endDate": "2021-10-01"
+        },
+        {
+            "id": 3,
+            "description": "Nikon/Mitsubishi/Asahi PR project. Help clients manage brand risk and make brand \nstrategies through public opinion monitoring. \n-Analyzepublicopinionmonitoringdata of Nikonand its competitors \n(Canon/Sony/FujiFilm),writedaily&monthlyPRreportsinChinese&Japanesethat \nhelpNikonlearnitsbrandmediaexposuresituation,themarketingstrategies& \nproductinformationof competitors,product information. \n-Collectnewsletterdata of Asahibeer/Mitsubishi andtheir competitorbrands, \nanalyzethe data and writeweekly&monthlyreporttohelp clients learncompetitor \nproduct information, market information, corporate strategies etc. ",
+            "title": "ASATSU-DK/PR(Freelancer)",
+            "startDate": "2020-10-01",
+            "endDate": "2021-09-01"
+        },
+        {
+            "id": 4,
+            "description": "尼康相机以三菱电机/朝日啤酒PR项目。进行翼情监测，帮助客户了解品牌露出\n情况，进行风险管理。\n-每日分析品牌及竞品的舆情监测数据，撰写中日文的分析日报和月报，帮助了\n解产品露出情况、市场动态、企业方针等。\n-每周监测品牌新闻、社交媒体评论等信息，分析整理撰写中日文周报，帮助了\n解市场动态、新品信息和各企业战略方针。\n-公关事件案例调香整理。",
+            "companyName": "上海旭通广告/PR",
+            "title": "兼职freelancer",
+            "startDate": "2020-10-01",
+            "endDate": "2021-09-01"
+        },
+        {
+            "id": 5,
+            "description": "-Incharge ofsocial media accounts(wechat,bilibili,weibo) togetcustomerleads \nand build brand reputation.Content designand copywriting are included \n-Make company website design plan,partner with vendorto build the website,and in \ncharge of the website operation. Lead partnership with vendor to make SEO \nmarketing. \n-Leadonline&offlineevents(workshop,livestream),makeeventplan,manage \nthe event project, ensure the smooth running of event. \n-Produce &ManageV,posters,brochures, videos and other marketing content. ",
+            "companyName": "UK Boarding Schools Admission",
+            "startDate": "2020-06-01",
+            "endDate": "2020-10-01"
+        },
+        {
+            "id": 6,
+            "description": "-Makeannualmarketingstrategyforclients \n-Wechat officialaccountplanning &operation including content creation \ncopywriting,campaignetc \n-Build &operate websiteforclients includingnews release,banner update, \ncampaignetc. \n-Planand implementproductcampaignstoimprovesalesforclients \n-Organizeevents likeworkshops/exhibitions/media interviews/anniversaryevents \netc. \n-Createmarketingmaterials&contentlikebrochure/posters/video/productphotos. \n-Partnerwithvendortodevelopcompanyappforclient,plantheappandmanage \nthe whole APP development project. ",
+            "companyName": "ShimadzuAdcom",
+            "title": "AccountManager",
+            "startDate": "2016-01-01",
+            "endDate": "2018-05-01"
+        },
+        {
+            "id": 7,
+            "description": "为各个岛津集团旗下公司制定医疗器械&化学检测市场的相关市场策略并执行\n市场活动。\n-与岛津市场部沟通，了解需求，制定年度市场计划和各项活动方案。\n-负责微信公众号的策划运营，包括设计排版、文章撰写、微信campaign活动\n策划等。\n-负责网站的改版设计搭建的策划执行，以及网站日常维护，如素材的设计更\n新，新闻更新等。\n-负责在相关行业媒体上进行广告投放。负责定期进行EDM邮件广告投放。\n-沙龙/媒体采访/讲座等线下活动、大型医疗展会等的策划和落地执行。\n-产品宣传册（海报纪念品视频等物料的设计制作和管理。\n-与外包公司合作，策划并开发手机app，帮助更好展示和线上购买产品\n-对各个平台的客户线索素进行收集分类，并反馈给相关的销售。",
+            "companyName": "岛津Adcom",
+            "title": "广告客户经理",
+            "startDate": "2016-01-01",
+            "endDate": "2018-05-01"
+        },
+        {
+            "id": 8,
+            "description": "-ConductChinaprojectormarket research&dataanalysis/Productdata \nmanagement /Newproductplan \n-Communicate andpartnerwithglobal Hitachisalescompanies&Japanmarketing \nteamto support salesactivities,productdevelopment and marketingstrategy \n-Makeannual marketingplanandimplementmarketing activities & strategies \nincludingglobalexhibitions（InfoCommChina/InfocommUSA/ISE)/product \nbrochures/Vi/magazineads \n-Visitclients(government&dealers)periodicallytomaintaingoodcustomer \nrelationshipandgetlearnings ofuserexperience,userneedsandmarket \ninformation, ",
+            "companyName": "HitachiDigitalProductsChinaCo.,Ltd",
+            "title": "Global Marketing specialist",
+            "startDate": "2013-11-01",
+            "endDate": "2016-01-01"
+        },
+        {
+            "id": 9,
+            "description": "主要负责策划执行日立投影机产品的各种市场活动，促进销售。\n，通过拜访客户、与咨询公司合作等了解用户需求、市场信息等，与日本工程\n师团队&中国销售团队合作，进行产品线设计&产品定价等。\n-负责全球大型电子消费展会以及线下活动的策划和执行，包括北京InfoComm\n展、美国InfoComm展、荷兰LSE展等，以及国内其他电子产品类展会、代理\n商大会。与供应商以及各部团队协调合作，确保展会的顺利实施。\n-与日立全球销售公司7日本市场团队&技未团队沟通，帮助内部协作，反馈客\n户需求等，推进全球市场销售。\n-宣传册、海报、杂志广告、V等各种市场物料的制作管理。",
+            "companyName": "日日立数字映像中国有限公司",
+            "title": "市场企划",
+            "startDate": "2013-11-01",
+            "endDate": "2016-01-01"
+        }
+    ],
+    "start_time": "",
+    "last_update_time": "",
+    "parser_cost_time": "",
+    "fileName": "IPG-IPEVO-Marketing-郑静芷.pdf",
+    "page": 4,
+    "size": 1826,
+    "fileType": "pdf",
+    "skills": [
+        {
+            "id": 0,
+            "skillName": "策划",
+            "firstUsed": "2013-11-01",
+            "lastUsed": "2022-05-01",
+            "usedMonth": 6.0,
+            "score": 18.32
+        },
+        {
+            "id": 1,
+            "skillName": "设计",
+            "firstUsed": "2013-11-01",
+            "lastUsed": "2021-10-01",
+            "usedMonth": 16.0,
+            "score": 14.15
+        },
+        {
+            "id": 2,
+            "skillName": "运营",
+            "firstUsed": "2016-01-01",
+            "lastUsed": "2021-10-01",
+            "usedMonth": 16.0,
+            "score": 4.99
+        },
+        {
+            "id": 3,
+            "skillName": "广告投放",
+            "firstUsed": "2016-01-01",
+            "lastUsed": "2022-05-01",
+            "usedMonth": 6.0,
+            "score": 4.16
+        },
+        {
+            "id": 4,
+            "skillName": "沟通",
+            "firstUsed": "2013-11-01",
+            "lastUsed": "2022-05-01",
+            "usedMonth": 6.0,
+            "score": 2.67
+        },
+        {
+            "id": 5,
+            "skillName": "市场策略",
+            "firstUsed": "2016-01-01",
+            "lastUsed": "2018-05-01",
+            "usedMonth": 28.0,
+            "score": 2.33
+        },
+        {
+            "id": 6,
+            "skillName": "campaign",
+            "firstUsed": "2016-01-01",
+            "lastUsed": "2018-05-01",
+            "usedMonth": 28.0,
+            "score": 2.33
+        },
+        {
+            "id": 7,
+            "skillName": "网站日常维护",
+            "firstUsed": "2016-01-01",
+            "lastUsed": "2018-05-01",
+            "usedMonth": 28.0,
+            "score": 2.33
+        },
+        {
+            "id": 8,
+            "skillName": "EDM",
+            "firstUsed": "2016-01-01",
+            "lastUsed": "2018-05-01",
+            "usedMonth": 28.0,
+            "score": 2.33
+        },
+        {
+            "id": 9,
+            "skillName": "团队合作",
+            "firstUsed": "2013-11-01",
+            "lastUsed": "2016-01-01",
+            "usedMonth": 26.0,
+            "score": 2.17
+        },
+        {
+            "id": 10,
+            "skillName": "InfoComm",
+            "firstUsed": "2013-11-01",
+            "lastUsed": "2016-01-01",
+            "usedMonth": 26.0,
+            "score": 2.17
+        },
+        {
+            "id": 11,
+            "skillName": "协调",
+            "firstUsed": "2013-11-01",
+            "lastUsed": "2016-01-01",
+            "usedMonth": 26.0,
+            "score": 2.17
+        },
+        {
+            "id": 12,
+            "skillName": "b",
+            "firstUsed": "2020-06-01",
+            "lastUsed": "2021-10-01",
+            "usedMonth": 16.0,
+            "score": 1.33
+        },
+        {
+            "id": 13,
+            "skillName": "Photoshop",
+            "score": 1.0
+        },
+        {
+            "id": 14,
+            "skillName": "FinalCut",
+            "score": 1.0
+        },
+        {
+            "id": 15,
+            "skillName": "公关",
+            "firstUsed": "2020-10-01",
+            "lastUsed": "2021-09-01",
+            "usedMonth": 11.0,
+            "score": 0.92
+        },
+        {
+            "id": 16,
+            "skillName": "视频拍摄",
+            "firstUsed": "2021-11-01",
+            "lastUsed": "2022-05-01",
+            "usedMonth": 6.0,
+            "score": 0.5
+        },
+        {
+            "id": 17,
+            "skillName": "投放策略",
+            "firstUsed": "2021-11-01",
+            "lastUsed": "2022-05-01",
+            "usedMonth": 6.0,
+            "score": 0.5
+        },
+        {
+            "id": 18,
+            "skillName": "数据分析",
+            "firstUsed": "2021-11-01",
+            "lastUsed": "2022-05-01",
+            "usedMonth": 6.0,
+            "score": 0.5
+        },
+        {
+            "id": 19,
+            "skillName": "不断优化",
+            "firstUsed": "2021-11-01",
+            "lastUsed": "2022-05-01",
+            "usedMonth": 6.0,
+            "score": 0.5
+        },
+        {
+            "id": 20,
+            "skillName": "研究",
+            "firstUsed": "2021-11-01",
+            "lastUsed": "2022-05-01",
+            "usedMonth": 6.0,
+            "score": 0.5
+        },
+        {
+            "id": 21,
+            "skillName": "用户画像",
+            "firstUsed": "2021-11-01",
+            "lastUsed": "2022-05-01",
+            "usedMonth": 6.0,
+            "score": 0.5
+        },
+        {
+            "id": 22,
+            "skillName": "SEO",
+            "firstUsed": "2020-06-01",
+            "lastUsed": "2020-10-01",
+            "usedMonth": 4.0,
+            "score": 0.33
+        }
+    ]
+}

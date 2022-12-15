@@ -1,0 +1,172 @@
+{
+    "contacts": [
+        {
+            "type": "EMAIL",
+            "contact": "qmjianli@qq.com"
+        },
+        {
+            "type": "PHONE",
+            "contact": "+8618170488637"
+        }
+    ],
+    "currentLocation": {
+        "location": "Ganzhou, Jiangxi"
+    },
+    "preferredLocations": [
+        {
+            "location": "Ganzhou, Jiangxi"
+        }
+    ],
+    "languages": [
+        "MANDARIN",
+        "ENGLISH"
+    ],
+    "educations": [
+        {
+            "startDate": "2018-07-01",
+            "endDate": "2022-07-01",
+            "collegeName": "江西师范大学",
+            "degreeLevel": "BACHELOR",
+            "majorName": "网络工程"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "  工 作经验作经验负责微店商家平台增长业务后端的研发工作，日常工作包括但不限于:\n•  深入理解产品prd、参加需求评审、撰写技术方案和接口文档、参加技术评审\n•  编写业务代码、单元测试、联调、修复测试提出的bug、集成部署代码上线\n•  及时关注线上告警和群内用户反馈，修复线上bug\n•  不定期进行业务分享或技术分享  实 习经历习经历 G",
+            "companyName": "无",
+            "title": "Java开发工程师",
+            "startDate": "2022-07-01",
+            "endDate": "2022-12-01"
+        },
+        {
+            "description": "J Z 负责微店商家平台增长业务后端的研发工作，协助正式员工完成对应的需求开发，日常工作包 RF 括但不限于: F\n•  深入理解产品prd、参加需求评审、撰写技术方案和接口文档、参加技术评审y t \n•  编写业务代码、单元测试、联调、修复测试提出的bug、集成部署代码上线 3z \n•  及时关注线上告警和群内用户反馈，修复线上bug Jn \n•  不定期进行业务分享或技术分享 1Q m h O e R Z q f V 6 9 f 2 9 8 c 6 b 8 5 5 9 6 c 4 0 ",
+            "companyName": "无线生活（北京）信息技术有限公司",
+            "title": "Java实习生",
+            "startDate": "2021-07-01",
+            "endDate": "2022-04-01"
+        }
+    ],
+    "start_time": "",
+    "last_update_time": "",
+    "parser_cost_time": "",
+    "skills": [
+        {
+            "skillName": "分布式"
+        },
+        {
+            "skillName": "Java"
+        },
+        {
+            "skillName": "设计"
+        },
+        {
+            "skillName": "后端"
+        },
+        {
+            "skillName": "研发"
+        },
+        {
+            "skillName": "单元测试"
+        },
+        {
+            "skillName": "测试"
+        },
+        {
+            "skillName": "bug"
+        },
+        {
+            "skillName": "沟通能力"
+        },
+        {
+            "skillName": "IO"
+        },
+        {
+            "skillName": "多线程"
+        },
+        {
+            "skillName": "用Java语言进行业务开发"
+        },
+        {
+            "skillName": "面向对象"
+        },
+        {
+            "skillName": "网络编程"
+        },
+        {
+            "skillName": "JVM"
+        },
+        {
+            "skillName": "算法"
+        },
+        {
+            "skillName": "Mysql"
+        },
+        {
+            "skillName": "用Sql语言进行业务开发"
+        },
+        {
+            "skillName": "sql"
+        },
+        {
+            "skillName": "SpringBoot框架进行业务开发"
+        },
+        {
+            "skillName": "elasticSearch"
+        },
+        {
+            "skillName": "redis"
+        },
+        {
+            "skillName": "布式技术进行业务开发"
+        },
+        {
+            "skillName": "Intellij"
+        },
+        {
+            "skillName": "maven"
+        },
+        {
+            "skillName": "git"
+        },
+        {
+            "skillName": "开发工具协助业务开发"
+        },
+        {
+            "skillName": "linux"
+        },
+        {
+            "skillName": "debug"
+        },
+        {
+            "skillName": "研中间件进行业务开发"
+        },
+        {
+            "skillName": "devOps"
+        },
+        {
+            "skillName": "有过大数据开发"
+        },
+        {
+            "skillName": "DDD"
+        },
+        {
+            "skillName": "逻辑思维"
+        },
+        {
+            "skillName": "沟通"
+        },
+        {
+            "skillName": "自驱能力"
+        },
+        {
+            "skillName": "需求开发"
+        },
+        {
+            "skillName": "b"
+        },
+        {
+            "skillName": "R"
+        }
+    ],
+    "fullName": "陈海"
+}

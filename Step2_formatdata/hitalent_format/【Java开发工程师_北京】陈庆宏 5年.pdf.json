@@ -1,0 +1,151 @@
+{
+    "contacts": [
+        {
+            "type": "EMAIL",
+            "contact": "631953504@qq.com"
+        },
+        {
+            "type": "PHONE",
+            "contact": "+8617686412707"
+        }
+    ],
+    "currentLocation": {
+        "location": "Jinan, Shandong"
+    },
+    "preferredLocations": [
+        {
+            "location": "Jinan, Shandong"
+        }
+    ],
+    "languages": [
+        "MANDARIN"
+    ],
+    "educations": [
+        {
+            "collegeName": "山东科技大学",
+            "majorName": "计算机科学与技术"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "工作职责 1. 从事 web 项目后台开发\n2.  项目后期维护等\n3.  及时修复 BUG，不断优化改善系统",
+            "companyName": "北京智德天成信息技术有限公司",
+            "title": "Java开发工程师",
+            "startDate": "2021-06-01",
+            "endDate": "2022-09-01"
+        },
+        {
+            "companyName": "天地伟业技术有限公司",
+            "startDate": "2018-06-01",
+            "endDate": "2021-06-01"
+        }
+    ],
+    "start_time": "",
+    "last_update_time": "",
+    "parser_cost_time": "",
+    "skills": [
+        {
+            "skillName": "R"
+        },
+        {
+            "skillName": "关系型数据库"
+        },
+        {
+            "skillName": "Spring"
+        },
+        {
+            "skillName": "消息队列"
+        },
+        {
+            "skillName": "b"
+        },
+        {
+            "skillName": "从事 web 项目后台开发"
+        },
+        {
+            "skillName": "项目后期维护"
+        },
+        {
+            "skillName": "不断优化"
+        },
+        {
+            "skillName": "Java"
+        },
+        {
+            "skillName": "Java 面向对象编程"
+        },
+        {
+            "skillName": "Idea"
+        },
+        {
+            "skillName": "Git"
+        },
+        {
+            "skillName": "Maven"
+        },
+        {
+            "skillName": "MySQL"
+        },
+        {
+            "skillName": "Oracle"
+        },
+        {
+            "skillName": "sql"
+        },
+        {
+            "skillName": "Mybatis"
+        },
+        {
+            "skillName": "等进行项目开发"
+        },
+        {
+            "skillName": "Redis"
+        },
+        {
+            "skillName": "RabbitMq"
+        },
+        {
+            "skillName": "Active"
+        },
+        {
+            "skillName": "Linux"
+        },
+        {
+            "skillName": "Springcloud"
+        },
+        {
+            "skillName": "SpringBoot 对项目进行开发"
+        },
+        {
+            "skillName": "Dubbo"
+        },
+        {
+            "skillName": "Zookeeper"
+        },
+        {
+            "skillName": "分布式"
+        },
+        {
+            "skillName": "Elasticsearch"
+        },
+        {
+            "skillName": "JavaScript"
+        },
+        {
+            "skillName": "dojo"
+        },
+        {
+            "skillName": "分析能力"
+        },
+        {
+            "skillName": "动手能力"
+        },
+        {
+            "skillName": "沟通"
+        },
+        {
+            "skillName": "学习能力"
+        }
+    ],
+    "fullName": "陈庆宏"
+}

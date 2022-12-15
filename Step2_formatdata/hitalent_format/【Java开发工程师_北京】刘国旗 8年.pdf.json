@@ -1,0 +1,189 @@
+{
+    "contacts": [
+        {
+            "type": "EMAIL",
+            "contact": "673319831@qq.com"
+        },
+        {
+            "type": "PHONE",
+            "contact": "+8615652335958"
+        }
+    ],
+    "currentLocation": {
+        "location": "北京"
+    },
+    "preferredLocations": [
+        {
+            "location": "北京"
+        }
+    ],
+    "languages": [
+        "MANDARIN"
+    ],
+    "educations": [
+        {
+            "startDate": "2010-01-01",
+            "endDate": "2014-01-01",
+            "collegeName": "邯郸学院",
+            "degreeLevel": "BACHELOR",
+            "majorName": "计算机科学与技术"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "内容：创业公司从0-1的产品研讨，功能实现\n●后台管理系统，商品（测评量表，视频/语音/直播咨询，录播课程）的上架审核，咨询师的审核等\n●B端咨询师的入驻认证审核，店铺装修审核，发布咨询审核，咨询师接单，反馈，评价，待办事项\n●C端用户的下单，支付，语音咨询，视频咨询，评价，待办事项，订单校验\n●对接第三方声网语音视频，生成token创建直播房间号?BC端充值消费商品记录，历史足迹，量表/视频/语音/直播/录播课程的标签分类",
+            "companyName": "北京方寸悦动科技有限公司",
+            "title": "Java",
+            "startDate": "2021-10-01",
+            "current": true
+        },
+        {
+            "description": "内容：负责鑫方盛开放平台toB端openapi的开发工作和对外服务的对接。\n●保证第三方平台的预订单和异常订单的正常下推omS。\n●新项目中标后按照对方接口标准的文档开发接入。\n●负责的各个渠道商品的增量推送和全量推送，保证数据状态的正常对接。\n●跟进第三方测试联调进度，并保证进度如期上线。\n·处理线上正常订单和异常订单的工单。\n●参与开放平台初期建设专业技能\n●spring、springboot、springcloud等主流开发框架\n●Mysql、SQL、NoSQL、Mybatis、Linux、K-V缓存\n●MQ、Redis、ZooKeeper、RPC、xxl-job等中间件\n●XML、JSON、MaVen、GIT、IDEA等软件工程工具\n●熟悉SOA，微服务，了解JVM原理\n●良好的编码规范、良好的沟通表达能力和逻辑能力",
+            "companyName": "鑫方盛控股集团有限公司",
+            "title": "Java",
+            "startDate": "2020-09-01",
+            "endDate": "2021-09-01"
+        },
+        {
+            "description": "内容：\n●根据现阶段的业务需求整改之前项目中的业务逻辑\n●取消自家的物流系统改为供应商一件代发\n●没有城市的区域化划分\n●整改mysql数据库的商品库和库存\n●购物车中下单依据和对商品的判断，redis实现折扣价活动商品的预占库存\n●对接第三方的微信支付功能\n●协助分账系统的研发\n●对接第三方商品入库，属性标签转换，价格同步",
+            "companyName": "生活百科有限公司北京分公司",
+            "title": "java",
+            "startDate": "2019-03-01",
+            "endDate": "2020-07-01"
+        },
+        {
+            "description": "内容：\n●基本模块代码的编写\n●根据产品需求和设计进行软件开发、编码、单元测试\n●负责产品需求分析、设计和文档编写\n●根据产品需求和设计进行软件开发\n●参与研究、学习新的技术和知识；修复程序BUG\n●完成上级交办的其他任务等",
+            "companyName": "北京云飞时代网络科技有限公司",
+            "title": "java",
+            "startDate": "2016-01-01",
+            "endDate": "2019-01-01"
+        },
+        {
+            "description": "内容：\n0、担任项目开发过程中的Java工程师，参与公司多个项目的开发帮助项目经理整理材料和分析项目需求。\n1、在项目中团队合作，进行后台Java代码编写，同时进行jsp页面调试，前后端信息统一。",
+            "companyName": "北京天汇创业软件有限公司",
+            "title": "java",
+            "startDate": "2014-07-01",
+            "endDate": "2015-12-01"
+        }
+    ],
+    "start_time": "",
+    "last_update_time": "",
+    "parser_cost_time": "",
+    "skills": [
+        {
+            "skillName": "设计"
+        },
+        {
+            "skillName": "单元测试"
+        },
+        {
+            "skillName": "需求分析"
+        },
+        {
+            "skillName": "研究"
+        },
+        {
+            "skillName": "Mysql"
+        },
+        {
+            "skillName": "Redis"
+        },
+        {
+            "skillName": "担任项目开发"
+        },
+        {
+            "skillName": "Java"
+        },
+        {
+            "skillName": "jsp"
+        },
+        {
+            "skillName": "后端"
+        },
+        {
+            "skillName": "研发"
+        },
+        {
+            "skillName": "B"
+        },
+        {
+            "skillName": "BC"
+        },
+        {
+            "skillName": "协调能力"
+        },
+        {
+            "skillName": "逻辑思维能力"
+        },
+        {
+            "skillName": "抗压能力"
+        },
+        {
+            "skillName": "toB"
+        },
+        {
+            "skillName": "openapi"
+        },
+        {
+            "skillName": "文档开发"
+        },
+        {
+            "skillName": "测试"
+        },
+        {
+            "skillName": "spring"
+        },
+        {
+            "skillName": "springboot"
+        },
+        {
+            "skillName": "springcloud等主流开发"
+        },
+        {
+            "skillName": "SQL"
+        },
+        {
+            "skillName": "NoSQL"
+        },
+        {
+            "skillName": "Mybatis"
+        },
+        {
+            "skillName": "Linux"
+        },
+        {
+            "skillName": "ZooKeeper"
+        },
+        {
+            "skillName": "RPC"
+        },
+        {
+            "skillName": "XML"
+        },
+        {
+            "skillName": "JSON"
+        },
+        {
+            "skillName": "MaVen"
+        },
+        {
+            "skillName": "GIT"
+        },
+        {
+            "skillName": "SOA"
+        },
+        {
+            "skillName": "微服务"
+        },
+        {
+            "skillName": "JVM"
+        },
+        {
+            "skillName": "沟通表达能力"
+        },
+        {
+            "skillName": "逻辑能力"
+        }
+    ],
+    "fullName": "刘国旗"
+}

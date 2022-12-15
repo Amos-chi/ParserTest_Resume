@@ -1,0 +1,271 @@
+{
+    "firstName": "俊港",
+    "lastName": "王",
+    "contacts": [
+        {
+            "type": "EMAIL",
+            "contact": "18071807610@163.com"
+        },
+        {
+            "type": "PHONE",
+            "contact": "+8618071807610"
+        }
+    ],
+    "currentLocation": {
+        "location": "Huanggang, Hubei"
+    },
+    "preferredLocations": [
+        {
+            "location": "Huanggang, Hubei"
+        }
+    ],
+    "languages": [
+        "MANDARIN"
+    ],
+    "educations": [
+        {
+            "id": 0,
+            "startDate": "2015-09-01",
+            "endDate": "2019-07-01",
+            "collegeName": "三峡大学科技学院",
+            "degreeLevel": "BACHELOR"
+        }
+    ],
+    "experiences": [
+        {
+            "id": 0,
+            "description": "求职意向 工作经历\n工作内容: 参与产品及项目开发，完成需求分析，完成子系统和模块设计。\n参与产品讨论，业务逻辑实现，根据项目任务计划按时完成软件编码和单元测试工作。\n根据产品需求，完成后端项目设计与开发，确保项目进度。",
+            "companyName": "深圳市慧搭科技有限公司",
+            "startDate": "2021-04-01",
+            "endDate": "2022-09-01"
+        },
+        {
+            "id": 1,
+            "description": "工作内容: 主要从事软件编码工作\n涉及用户需求分析、功能模块分析及编码实现等。\n参与产品讨论、技术设计，与团队成员共同协作完成软件开发。",
+            "companyName": "深圳慧订网络科技有限公司",
+            "startDate": "2019-08-01",
+            "endDate": "2021-03-01"
+        }
+    ],
+    "start_time": "",
+    "last_update_time": "",
+    "parser_cost_time": "",
+    "fileName": "【java开发_武汉】王俊港 3年.pdf",
+    "page": 3,
+    "size": 302,
+    "fileType": "pdf",
+    "skills": [
+        {
+            "id": 0,
+            "skillName": "设计",
+            "firstUsed": "2019-08-01",
+            "usedMonth": 17.0,
+            "score": 7.42
+        },
+        {
+            "id": 1,
+            "skillName": "Redis",
+            "score": 4.0
+        },
+        {
+            "id": 2,
+            "skillName": "Docker",
+            "score": 3.0
+        },
+        {
+            "id": 3,
+            "skillName": "需求分析",
+            "firstUsed": "2019-08-01",
+            "lastUsed": "2022-09-01",
+            "usedMonth": 17.0,
+            "score": 3.0
+        },
+        {
+            "id": 4,
+            "skillName": "Spring",
+            "score": 2.0
+        },
+        {
+            "id": 5,
+            "skillName": "Git",
+            "score": 2.0
+        },
+        {
+            "id": 6,
+            "skillName": "微服务",
+            "score": 2.0
+        },
+        {
+            "id": 7,
+            "skillName": "共同协作完成软件开发",
+            "firstUsed": "2019-08-01",
+            "lastUsed": "2021-03-01",
+            "usedMonth": 19.0,
+            "score": 1.58
+        },
+        {
+            "id": 8,
+            "skillName": "项目开发",
+            "firstUsed": "2021-04-01",
+            "lastUsed": "2022-09-01",
+            "usedMonth": 17.0,
+            "score": 1.42
+        },
+        {
+            "id": 9,
+            "skillName": "单元测试",
+            "firstUsed": "2021-04-01",
+            "lastUsed": "2022-09-01",
+            "usedMonth": 17.0,
+            "score": 1.42
+        },
+        {
+            "id": 10,
+            "skillName": "后端",
+            "firstUsed": "2021-04-01",
+            "lastUsed": "2022-09-01",
+            "usedMonth": 17.0,
+            "score": 1.42
+        },
+        {
+            "id": 11,
+            "skillName": "JavaSE",
+            "score": 1.0
+        },
+        {
+            "id": 12,
+            "skillName": "面向对象",
+            "score": 1.0
+        },
+        {
+            "id": 13,
+            "skillName": "OOP",
+            "score": 1.0
+        },
+        {
+            "id": 14,
+            "skillName": "Mybatis",
+            "score": 1.0
+        },
+        {
+            "id": 15,
+            "skillName": "SpringMVC",
+            "score": 1.0
+        },
+        {
+            "id": 16,
+            "skillName": "SpringBoot",
+            "score": 1.0
+        },
+        {
+            "id": 17,
+            "skillName": "RabbitMq",
+            "score": 1.0
+        },
+        {
+            "id": 18,
+            "skillName": "SpringSecurity",
+            "score": 1.0
+        },
+        {
+            "id": 19,
+            "skillName": "Oauth2",
+            "score": 1.0
+        },
+        {
+            "id": 20,
+            "skillName": "Mysql",
+            "score": 1.0
+        },
+        {
+            "id": 21,
+            "skillName": "sql",
+            "score": 1.0
+        },
+        {
+            "id": 22,
+            "skillName": "分布式",
+            "score": 1.0
+        },
+        {
+            "id": 23,
+            "skillName": "Hystrix",
+            "score": 1.0
+        },
+        {
+            "id": 24,
+            "skillName": "Linux",
+            "score": 1.0
+        },
+        {
+            "id": 25,
+            "skillName": "持久化",
+            "score": 1.0
+        },
+        {
+            "id": 26,
+            "skillName": "淘汰策略",
+            "score": 1.0
+        },
+        {
+            "id": 27,
+            "skillName": "Elasticsearch",
+            "score": 1.0
+        },
+        {
+            "id": 28,
+            "skillName": "协调",
+            "score": 1.0
+        },
+        {
+            "id": 29,
+            "skillName": "XML",
+            "score": 1.0
+        },
+        {
+            "id": 30,
+            "skillName": "HTML",
+            "score": 1.0
+        },
+        {
+            "id": 31,
+            "skillName": "CSS",
+            "score": 1.0
+        },
+        {
+            "id": 32,
+            "skillName": "Jquery",
+            "score": 1.0
+        },
+        {
+            "id": 33,
+            "skillName": "JavaScript",
+            "score": 1.0
+        },
+        {
+            "id": 34,
+            "skillName": "AJAX",
+            "score": 1.0
+        },
+        {
+            "id": 35,
+            "skillName": "java",
+            "score": 1.0
+        },
+        {
+            "id": 36,
+            "skillName": "团队合作",
+            "score": 1.0
+        },
+        {
+            "id": 37,
+            "skillName": "热爱编程",
+            "score": 1.0
+        },
+        {
+            "id": 38,
+            "skillName": "沟通",
+            "score": 1.0
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "contacts": [
+        {
+            "type": "EMAIL",
+            "contact": "sara@163.c0m"
+        },
+        {
+            "type": "PHONE",
+            "contact": "+8613820563820"
+        }
+    ],
+    "currentLocation": {
+        "location": "Tianjin"
+    },
+    "preferredLocations": [
+        {
+            "location": "Tianjin"
+        }
+    ],
+    "languages": [
+        "MANDARIN",
+        "JAPANESE",
+        "ENGLISH"
+    ],
+    "educations": [
+        {
+            "endDate": "2020-01-01",
+            "collegeName": "PrattInstitute（普瑞特艺术设计学院）",
+            "degreeLevel": "MASTER",
+            "majorName": "视觉传达设计"
+        }
+    ],
+    "experiences": "",
+    "start_time": "",
+    "last_update_time": "",
+    "parser_cost_time": "",
+    "skills": [
+        {
+            "skillName": "设计"
+        },
+        {
+            "skillName": "插画"
+        },
+        {
+            "skillName": "UI"
+        },
+        {
+            "skillName": "Indesign"
+        },
+        {
+            "skillName": "Photoshop"
+        },
+        {
+            "skillName": "Premiere"
+        },
+        {
+            "skillName": "Principle"
+        },
+        {
+            "skillName": "Sketch"
+        },
+        {
+            "skillName": "MicrosoftOffice"
+        },
+        {
+            "skillName": "UX"
+        }
+    ],
+    "fullName": "刘靖晗"
+}

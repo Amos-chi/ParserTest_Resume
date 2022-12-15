@@ -1,0 +1,237 @@
+{
+    "firstName": "Congjia",
+    "lastName": "Jin",
+    "contacts": [
+        {
+            "type": "EMAIL",
+            "contact": "cjin02@mica.edu"
+        },
+        {
+            "type": "PHONE",
+            "contact": "+8617801011020"
+        }
+    ],
+    "currentLocation": {
+        "location": "Beijing"
+    },
+    "preferredLocations": [
+        {
+            "location": "Beijing"
+        }
+    ],
+    "languages": [
+        "MANDARIN",
+        "ENGLISH"
+    ],
+    "educations": [
+        {
+            "id": 0,
+            "startDate": "2018-01-01",
+            "endDate": "2020-01-01",
+            "collegeName": "Maryland Institute",
+            "majorName": "Graphic Design"
+        },
+        {
+            "id": 1,
+            "startDate": "2014-01-01",
+            "endDate": "2018-01-01",
+            "collegeName": "Beijing Institute of Fashion Technology (BIFT)",
+            "majorName": "Visual Communication Design"
+        }
+    ],
+    "experiences": [
+        {
+            "id": 0,
+            "description": ":针对国外院校视觉类课程为学生编写学习材料:\n·并且进行作品集辅导于提升。",
+            "companyName": "汉艺国际教育",
+            "title": "兼职辅导老师",
+            "endDate": "2020-01-01"
+        },
+        {
+            "id": 1,
+            "description": "Produced study materials in a variety of academic subjects to \nhelp senior students improve their design portfolio. ",
+            "companyName": "H ART International Art Education",
+            "title": "Part-time Tutor",
+            "endDate": "2020-01-01"
+        },
+        {
+            "id": 2,
+            "description": "Contributed articles on a variety of topics related to design to \nZuibishe learning platform, including experience sharing, \nanalysis of professional lecture and giving recommendations. ",
+            "companyName": "Zuibishe learning platform",
+            "title": "Freelance Writer",
+            "endDate": "2020-01-01"
+        },
+        {
+            "id": 3,
+            "description": ":为最毕设教育设计平台撰写有关设计类的文章分享；\n:其中包含个人经验，设计教育讲座分析以及国内外\n优秀设计作品的分析与推荐。",
+            "companyName": "最毕设教育平台自由撰稿人",
+            "endDate": "2020-01-01"
+        },
+        {
+            "id": 4,
+            "description": ":参与由马里兰艺术学院官方编辑整理的设计杂志\nFullBleed:AJournalofArt&DesignJournal的版式与文字设计。",
+            "companyName": "马里兰艺术学院",
+            "title": "自由设计师",
+            "endDate": "2019-01-01"
+        },
+        {
+            "id": 5,
+            "description": "Full Bleed: A Journal of Art & Design Journal published by MICA, \ndesigned and edited by students. \nFilm Branding project, collaborated with film major MFA \nstudents. Worked on the design of visual identity including \nposters, EPK and website design. ",
+            "companyName": "Maryland Institute College of Art",
+            "title": "Freelance Designer",
+            "endDate": "2019-01-01"
+        },
+        {
+            "id": 6,
+            "description": "·与高级设计师合作并辅助其完成设计项目；:其中有参与为客户项自提出设计概念\n·进行设计项目以及部分项目的创意部分的进一步完善:版式调整，插才，以及摄影图片的效果调整。",
+            "companyName": "KUDOSDesign",
+            "title": "设计实习",
+            "endDate": "2019-01-01"
+        },
+        {
+            "id": 7,
+            "description": "Assisted professor Maureen Weiss  in sophomore Graphic Design \nStudio I and Typography I. Participated in critiques for juniors. ",
+            "companyName": "Maryland Institute College of Art",
+            "title": "Graduate Teaching Intern",
+            "endDate": "2019-01-01"
+        },
+        {
+            "id": 8,
+            "description": "Provided assistance to senior designers. Formulated design \nconcepts and artwork for promotional materials. Worked on \nthe development and implementation of creative requirements, \nincluding layout, illustration, typography and photography. ",
+            "companyName": "KUDOS Design Collaboratory",
+            "title": "Design Intern",
+            "endDate": "2019-01-01"
+        },
+        {
+            "id": 9,
+            "description": "研究生阶段担任本科大四平面设计课程版式设计课程教授MaureenWeiss的课程助教，在课程中与教授合作制定课程内容\n·参与小组的作业分析与讲解。",
+            "companyName": "马里兰艺",
+            "endDate": "2019-01-01"
+        },
+        {
+            "id": 10,
+            "description": ":2019与电影系研究生的合作项，为其研究生毕业作品影片设计\n海报、EPK等相关视觉宣传。",
+            "companyName": "电影品牌项目",
+            "endDate": "2019-01-01"
+        },
+        {
+            "id": 11,
+            "description": "Created a branding image with a theme of “Solitude”. Included \nan expanded concept, design for a logo and visual identity. \nOrganized and assigned tasks to each member for completion \nof their work. ",
+            "companyName": "Brand Design Seminar",
+            "title": "Design Project Group Leader",
+            "endDate": "2016-01-01"
+        },
+        {
+            "id": 12,
+            "description": "·为美国运通百夫长信用金卡设计相关视觉包括卡面文学排版，包装及卡面的视觉呈现方式。",
+            "companyName": "中国建设银行",
+            "title": "自由设计师",
+            "endDate": "2016-01-01"
+        },
+        {
+            "id": 13,
+            "description": "Designed a specific visual identity for the American \nExpress Centurion Card, including the typography, packaging, \nand the display of the card. ",
+            "companyName": "Maryland Institute College of Art",
+            "endDate": "2016-01-01"
+        }
+    ],
+    "start_time": "",
+    "last_update_time": "",
+    "parser_cost_time": "",
+    "fileName": "114.FPX-MICA-金丛佳-用户体验设计师.pdf",
+    "page": 2,
+    "size": 150,
+    "fileType": "pdf",
+    "skills": [
+        {
+            "id": 0,
+            "skillName": "设计",
+            "lastUsed": "2020-01-01",
+            "score": 15.0
+        },
+        {
+            "id": 1,
+            "skillName": "Branding",
+            "score": 3.0
+        },
+        {
+            "id": 2,
+            "skillName": "研究",
+            "lastUsed": "2019-01-01",
+            "score": 3.0
+        },
+        {
+            "id": 3,
+            "skillName": "Motion Graphic",
+            "score": 2.0
+        },
+        {
+            "id": 4,
+            "skillName": "Photography",
+            "score": 2.0
+        },
+        {
+            "id": 5,
+            "skillName": "Illustrator",
+            "score": 2.0
+        },
+        {
+            "id": 6,
+            "skillName": "InDesign",
+            "score": 2.0
+        },
+        {
+            "id": 7,
+            "skillName": "Photoshop",
+            "score": 2.0
+        },
+        {
+            "id": 8,
+            "skillName": "CSS",
+            "score": 2.0
+        },
+        {
+            "id": 9,
+            "skillName": "HTML",
+            "score": 2.0
+        },
+        {
+            "id": 10,
+            "skillName": "Coding Lightroom",
+            "score": 1.0
+        },
+        {
+            "id": 11,
+            "skillName": "Lightroom",
+            "score": 1.0
+        },
+        {
+            "id": 12,
+            "skillName": "Coding",
+            "score": 1.0
+        },
+        {
+            "id": 13,
+            "skillName": "用户体验",
+            "score": 1.0
+        },
+        {
+            "id": 14,
+            "skillName": "编辑",
+            "lastUsed": "2019-01-01",
+            "score": 1.0
+        },
+        {
+            "id": 15,
+            "skillName": "Graphic Design",
+            "lastUsed": "2019-01-01",
+            "score": 1.0
+        },
+        {
+            "id": 16,
+            "skillName": "Express",
+            "lastUsed": "2016-01-01",
+            "score": 1.0
+        }
+    ]
+}

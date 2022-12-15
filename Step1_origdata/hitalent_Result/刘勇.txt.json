@@ -1,0 +1,37 @@
+{
+    "firstName": "勇",
+    "lastName": "刘",
+    "contacts": [
+        {
+            "type": "LINKEDIN",
+            "contact": "%e5%8b%87-%e5%88%98-70b011153",
+            "details": "https://www.linkedin.com/in/%e5%8b%87-%e5%88%98-70b011153"
+        }
+    ],
+    "currentLocation": "",
+    "preferredLocations": "",
+    "languages": [
+        "MANDARIN"
+    ],
+    "educations": "",
+    "experiences": "",
+    "start_time": "",
+    "last_update_time": "",
+    "parser_cost_time": "",
+    "fileName": "刘勇.txt",
+    "page": "",
+    "size": 1,
+    "fileType": "txt",
+    "skills": [
+        {
+            "id": 0,
+            "skillName": "设计",
+            "score": 4.0
+        },
+        {
+            "id": 1,
+            "skillName": "研究",
+            "score": 1.0
+        }
+    ]
+}

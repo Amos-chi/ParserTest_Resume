@@ -1,12 +1,14 @@
 {
+    "firstName": "晶晶",
+    "lastName": "马",
     "contacts": [
         {
-            "contact": "lilypps@163.com",
-            "type": "EMAIL"
+            "type": "EMAIL",
+            "contact": "lilypps@163.com"
         },
         {
-            "contact": "+8615922435363",
-            "type": "PHONE"
+            "type": "PHONE",
+            "contact": "+8615922435363"
         }
     ],
     "currentLocation": {
@@ -18,19 +20,21 @@
         }
     ],
     "languages": [
-        "中文"
+        "MANDARIN"
     ],
     "educations": [
         {
+            "id": 0,
             "startDate": "2010-09-01",
             "endDate": "2014-07-01",
             "collegeName": "安徽大学",
-            "degreeLevel": "Bachelor",
+            "degreeLevel": "BACHELOR",
             "majorName": "旅游管理"
         }
     ],
     "experiences": [
         {
+            "id": 0,
             "description": "汇报对象:RD 医生服务部全国总监\n工作职责:\n重新组建上海团队，面试、培训、考核员工，目前团队员工 7 人，覆盖多家上海大型三甲医\n院，团队业绩目前在全国第二。\n独立负责上海三甲医院，也是首次从事直接面对市场的工作。独立拜访科室、医生，协助打\n造科室医生个人品牌，增加影响力；推广网站，负责医院覆盖率、使用率有效提高 20%以上。\n连续一年业绩全国 TOP\n2016.04-2017.04  销售支持，\n协助 VP 创建销售支持团队，梳理业务模式和销售考核方向。日常负责数据分析、统计、转\n化，得到有效的数据支持销售达成，输出工作原则及方法。",
             "companyName": "好大夫在线·互动峰科技（北京）有限公司",
             "title": "地区经理",
@@ -38,6 +42,7 @@
             "current": true
         },
         {
+            "id": 1,
             "description": "服务于三胞集团旗下大健康板块 Natali 及安康通，是三胞旗下的专注健康养老的公司。任职于营销管理部，支持含渠道部在内的四个部门，工作主要汇报给 VP。\n1、销售支持:支持全体销售人员，包含销售团队数据收集，销售表格文档制作，团队项目情况汇总；会议安排，会议记录；差旅安排；财务报销；礼品采购；\n2、合同初拟，商务合作合同来往及跟进，合同档案管理；\n3、团队文档及销售项目文档制作:制作部门制度及部门培训 PPT、团队汇报材料等；对接销售人员进行项目方案的撰写及制作 PPT 材料（常用 word 及 PPT）；\n4、展会策划及主持。B2C 活动策划及现场暖场主持；黑龙江路演方案设计及活动支持；展会支持，已成功支持含 ChinaAid，西安老博会，武汉 CFFA 等各大展会，包括前期准备，后勤保障，物料管理，现场与客户沟通等；2015 年公司首次年会负责统筹，含出节目及活动流程安排及现场协调，现场人数约 200 人；\n5、商务接待:接待重要政府客户及渠道客户，协调用餐、住宿、用车等事宜；\n6、客户沟通:协助销售人员进行重点客户和潜在客户的电话沟通与商务面谈。",
             "companyName": "好大夫在线·互动峰科技（北京）有限公司",
             "title": "营销支持高级专员",
@@ -45,6 +50,7 @@
             "endDate": "2016-03-01"
         },
         {
+            "id": 2,
             "description": "外商独资·外企办事处食品/饮料/烟酒/日化 1000-2000 人职责业绩:\n1，校招加入如新，在上海总部工作，服务西北区 5 个经销商团队，人数约 100 人；\n2，作为公司面对经销商的培训代表，熟悉公司产品和销售模式，从而能够协助对接的经销商团队解读业绩方案，协助团队领导人设定团队月度、季度、年度目标，激励团队，帮助团队达成业绩考核。年底一个团队成功拿到公司额外 20 万奖金。\n3，主要的拜访方式是电话，微信沟通，每月出差一到两次和经销商沟通销售目标和团队情况。\n4，协助公司举办经销商大会，激励经销商达成销售业绩，内部培训主持演讲能力。",
             "companyName": "如新(中国)日用保健品有限公司",
             "title": "销售培训",
@@ -52,64 +58,113 @@
             "endDate": "2015-02-07"
         }
     ],
+    "start_time": "",
+    "last_update_time": "",
+    "parser_cost_time": "",
+    "fileName": "字节跳动-小荷健康-上海区域BD负责人-马晶晶.pdf",
+    "page": 2,
+    "size": 143,
+    "fileType": "pdf",
     "skills": [
         {
-            "skillName": "培训"
+            "id": 0,
+            "skillName": "面试",
+            "firstUsed": "2016-04-01",
+            "score": 6.71
         },
         {
-            "skillName": "面试"
+            "id": 1,
+            "skillName": "培训",
+            "firstUsed": "2016-04-01",
+            "score": 6.71
         },
         {
-            "skillName": "2016.04-2017.04 销售"
+            "id": 2,
+            "skillName": "2016.04-2017.04 销售",
+            "firstUsed": "2016-04-01",
+            "score": 6.71
         },
         {
-            "skillName": "数据分析"
+            "id": 3,
+            "skillName": "数据分析",
+            "firstUsed": "2016-04-01",
+            "score": 6.71
         },
         {
-            "skillName": "统计"
+            "id": 4,
+            "skillName": "统计",
+            "firstUsed": "2016-04-01",
+            "score": 6.71
         },
         {
-            "skillName": "支持销售"
+            "id": 5,
+            "skillName": "支持销售",
+            "firstUsed": "2016-04-01",
+            "score": 6.71
         },
         {
-            "skillName": "销售"
+            "id": 6,
+            "skillName": "沟通",
+            "firstUsed": "2014-07-01",
+            "lastUsed": "2016-03-01",
+            "usedMonth": 13.0,
+            "score": 3.3200000000000003
         },
         {
-            "skillName": "沟通"
+            "id": 7,
+            "skillName": "PPT",
+            "firstUsed": "2015-02-01",
+            "lastUsed": "2016-03-01",
+            "usedMonth": 13.0,
+            "score": 3.24
         },
         {
-            "skillName": "PPT"
+            "id": 8,
+            "skillName": "渠道",
+            "firstUsed": "2015-02-01",
+            "lastUsed": "2016-03-01",
+            "usedMonth": 13.0,
+            "score": 2.16
         },
         {
-            "skillName": "渠道"
+            "id": 9,
+            "skillName": "协调",
+            "firstUsed": "2015-02-01",
+            "lastUsed": "2016-03-01",
+            "usedMonth": 13.0,
+            "score": 2.16
         },
         {
-            "skillName": "协调"
+            "id": 10,
+            "skillName": "营销",
+            "firstUsed": "2015-02-01",
+            "lastUsed": "2016-03-01",
+            "usedMonth": 13.0,
+            "score": 1.08
         },
         {
-            "skillName": "营销"
+            "id": 11,
+            "skillName": "销售",
+            "firstUsed": "2014-07-01",
+            "lastUsed": "2015-02-07",
+            "usedMonth": 7.0,
+            "score": 0.58
         },
         {
-            "skillName": "全体销售"
+            "id": 12,
+            "skillName": "达成销售",
+            "firstUsed": "2014-07-01",
+            "lastUsed": "2015-02-07",
+            "usedMonth": 7.0,
+            "score": 0.58
         },
         {
-            "skillName": "包含销售"
-        },
-        {
-            "skillName": "财务"
-        },
-        {
-            "skillName": "对接销售"
-        },
-        {
-            "skillName": "协助销售"
-        },
-        {
-            "skillName": "达成销售"
-        },
-        {
-            "skillName": "内部培训主持演讲能力"
+            "id": 13,
+            "skillName": "内部培训主持演讲能力",
+            "firstUsed": "2014-07-01",
+            "lastUsed": "2015-02-07",
+            "usedMonth": 7.0,
+            "score": 0.58
         }
-    ],
-    "fullName": "马晶晶"
+    ]
 }

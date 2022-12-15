@@ -1,0 +1,132 @@
+{
+    "firstName": "颖",
+    "lastName": "蒙",
+    "contacts": [
+        {
+            "type": "EMAIL",
+            "contact": "1350437009@qq.com"
+        },
+        {
+            "type": "WECHAT",
+            "contact": "my1350437009"
+        },
+        {
+            "type": "PHONE",
+            "contact": "+8618788635108"
+        }
+    ],
+    "currentLocation": {
+        "location": "湖北省武汉市"
+    },
+    "preferredLocations": [
+        {
+            "location": "湖北省武汉市"
+        }
+    ],
+    "languages": [
+        "MANDARIN"
+    ],
+    "educations": [
+        {
+            "id": 0,
+            "startDate": "2019-09-01",
+            "endDate": "2023-06-01",
+            "collegeName": "武昌工学院",
+            "degreeLevel": "BACHELOR",
+            "majorName": "会计学"
+        }
+    ],
+    "experiences": [
+        {
+            "id": 0,
+            "description": "汇报对象:经理或LP下属人数:0工作内容:\n1、 通过各大招聘软件如:猎聘、BOSS直聘、脉脉、领英等相关软件，定位相关关键词来搜寻各大公司所需人才，搜寻到以后主动与候选人沟通，可通过电话或微信等方式与之沟通。\n2、 与候选人取得沟通之后，向候选人索要（必要时需附带英文简历），询问候选人的求职意向，目前所在地，期望所在地，期望薪资，英文口语等相关信息，以上信息均确认无误之后及向经理或LP汇报，需经经理或LP审核通过之后，提交给客户公司，并上传公司系统以作留存。\n3、 如客户公司满意候选人的基本状况，便立刻安排面试，需通知候选人准备面试，并告知候选人面试的注意事项，与候选人明确面试所需的论述话题，面试方式（线下或线上）等面试相关信息\n4、 候选人通过面试后即可入职相关业绩:\n1、 每周推荐量均为组内前三\n2、 平均客户一面量均为组内前三\n3、 入职至今以来给国内大客户--捷豹路虎中国投资有限公司寻找到两位合适的入职人选，并已经拿到部分回款分别是:AI算法工程师--7.8w敏捷项目经理--10w",
+            "companyName": "成都新大瀚人力资源有限责任公司",
+            "title": "HR猎头",
+            "startDate": "2022-06-01",
+            "current": true
+        }
+    ],
+    "start_time": "",
+    "last_update_time": "",
+    "parser_cost_time": "",
+    "fileName": "个人简历——蒙颖.docx",
+    "page": "",
+    "size": 18,
+    "fileType": "docx",
+    "skills": [
+        {
+            "id": 0,
+            "skillName": "面试",
+            "firstUsed": "2022-06-01",
+            "score": 5.78
+        },
+        {
+            "id": 1,
+            "skillName": "沟通",
+            "firstUsed": "2022-06-01",
+            "score": 1.62
+        },
+        {
+            "id": 2,
+            "skillName": "背调",
+            "score": 1.0
+        },
+        {
+            "id": 3,
+            "skillName": "本人有招聘",
+            "score": 1.0
+        },
+        {
+            "id": 4,
+            "skillName": "熟练使用各大招聘",
+            "score": 1.0
+        },
+        {
+            "id": 5,
+            "skillName": "熟知各类招聘",
+            "score": 1.0
+        },
+        {
+            "id": 6,
+            "skillName": "本人沟通能力",
+            "score": 1.0
+        },
+        {
+            "id": 7,
+            "skillName": "组织协调能力",
+            "score": 1.0
+        },
+        {
+            "id": 8,
+            "skillName": "协调",
+            "score": 1.0
+        },
+        {
+            "id": 9,
+            "skillName": "职业规划",
+            "score": 1.0
+        },
+        {
+            "id": 10,
+            "skillName": "抗压能力",
+            "score": 1.0
+        },
+        {
+            "id": 11,
+            "skillName": "坚持能力",
+            "score": 1.0
+        },
+        {
+            "id": 12,
+            "skillName": "通过各大招聘",
+            "firstUsed": "2022-06-01",
+            "score": 0.54
+        },
+        {
+            "id": 13,
+            "skillName": "口语",
+            "firstUsed": "2022-06-01",
+            "score": 0.54
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "firstName": "宁宁",
+    "lastName": "陈",
+    "contacts": [
+        {
+            "type": "EMAIL",
+            "contact": "rg15cn@163.com"
+        },
+        {
+            "type": "PHONE",
+            "contact": "+8615631167703"
+        },
+        {
+            "type": "WECHAT",
+            "contact": "cn17732014865"
+        }
+    ],
+    "currentLocation": {
+        "location": "Shijiazhuang, Hebei"
+    },
+    "preferredLocations": [
+        {
+            "location": "Shijiazhuang, Hebei"
+        }
+    ],
+    "languages": [
+        "MANDARIN"
+    ],
+    "educations": [
+        {
+            "id": 0,
+            "degreeLevel": "BACHELOR"
+        }
+    ],
+    "experiences": "",
+    "start_time": "",
+    "last_update_time": "",
+    "parser_cost_time": "",
+    "fileName": "【Java开发工程师_北京】陈宁宁 4年.pdf",
+    "page": 1,
+    "size": 147,
+    "fileType": "pdf",
+    "skills": [
+        {
+            "id": 0,
+            "skillName": "docker",
+            "score": 2.0
+        },
+        {
+            "id": 1,
+            "skillName": "Mysql",
+            "score": 1.0
+        },
+        {
+            "id": 2,
+            "skillName": "Redis",
+            "score": 1.0
+        },
+        {
+            "id": 3,
+            "skillName": "ES",
+            "score": 1.0
+        },
+        {
+            "id": 4,
+            "skillName": "Mybatis",
+            "score": 1.0
+        },
+        {
+            "id": 5,
+            "skillName": "Spring",
+            "score": 1.0
+        },
+        {
+            "id": 6,
+            "skillName": "SpringMVC",
+            "score": 1.0
+        },
+        {
+            "id": 7,
+            "skillName": "SpringBoot",
+            "score": 1.0
+        },
+        {
+            "id": 8,
+            "skillName": "JAVA",
+            "score": 1.0
+        },
+        {
+            "id": 9,
+            "skillName": "数据结构",
+            "score": 1.0
+        },
+        {
+            "id": 10,
+            "skillName": "算法",
+            "score": 1.0
+        },
+        {
+            "id": 11,
+            "skillName": "Lambda",
+            "score": 1.0
+        },
+        {
+            "id": 12,
+            "skillName": "问题排查能力",
+            "score": 1.0
+        },
+        {
+            "id": 13,
+            "skillName": "linux",
+            "score": 1.0
+        },
+        {
+            "id": 14,
+            "skillName": "git",
+            "score": 1.0
+        },
+        {
+            "id": 15,
+            "skillName": "svn",
+            "score": 1.0
+        },
+        {
+            "id": 16,
+            "skillName": "maven",
+            "score": 1.0
+        },
+        {
+            "id": 17,
+            "skillName": "postman",
+            "score": 1.0
+        }
+    ]
+}

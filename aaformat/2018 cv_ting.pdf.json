@@ -1,0 +1,239 @@
+{
+    "firstName": "Ting Huang",
+    "lastName": "Shu",
+    "contacts": [
+        {
+            "type": "PHONE",
+            "contact": "+447493060066"
+        }
+    ],
+    "currentLocation": {
+        "location": "United Kingdom"
+    },
+    "preferredLocations": [
+        {
+            "location": "United Kingdom"
+        }
+    ],
+    "languages": [
+        "MANDARIN",
+        "JAPANESE",
+        "ENGLISH"
+    ],
+    "educations": [
+        {
+            "id": 0,
+            "startDate": "2015-01-01",
+            "endDate": "2017-01-01",
+            "collegeName": "Royal College of Art, London",
+            "degreeLevel": "MASTER",
+            "majorName": "Innovation Design Engineering"
+        },
+        {
+            "id": 1,
+            "startDate": "2015-01-01",
+            "endDate": "2017-01-01",
+            "collegeName": "Imperial College",
+            "degreeLevel": "MASTER",
+            "majorName": "Innovation Design Engineering"
+        },
+        {
+            "id": 2,
+            "startDate": "2009-01-01",
+            "endDate": "2014-01-01",
+            "collegeName": "Shih Chien University, Taipei",
+            "degreeLevel": "BACHELOR",
+            "majorName": "Industrial Design"
+        }
+    ],
+    "experiences": [
+        {
+            "id": 0,
+            "description": "Human-centred design is the key to give Emotech’s products \nspirit. As an interaction designer, I am responsible for envisioning \nand executing the interaction between people and robot in the \nfuture home scenario, assessing product requirements (costs, \nmanufacturing feasibility and market requirements, etc.); doing \ncomplex tasks related to artificial intelligence and collaborating \nwith our machine learning scientists, researchers and developers; \ngaining experience working with a multi-disciplinary team. ",
+            "companyName": "Emotech Ltd.",
+            "title": "Interaction Designer",
+            "startDate": "2017-04-01",
+            "current": true
+        },
+        {
+            "id": 1,
+            "description": "An 8-week internship working in the design team to understand \nusers and social impact of space technology. This is part of the \nSpace Placements in INdustry (SPIN) scheme, which is managed \nby the Institute for Environmental Analytics at the University of \nReading and supported by the Satellite Applications Catapult and \nthe UK Space Agency. ",
+            "companyName": "Satellite Applications Catapult",
+            "title": "Design Thinker",
+            "startDate": "2016-07-01",
+            "endDate": "2016-08-01"
+        },
+        {
+            "id": 2,
+            "description": "Commissioned by the company as a contract designer to design its \nIPO presentation materials, including understanding and \nvisualising the company’s value proposition, as well as its products \n(long-acting analgesic injection and small molecule for the acute \nischemic stroke treatment). ",
+            "companyName": "Lumosa Therapeutics co. Ltd.",
+            "title": "Designer",
+            "startDate": "2015-04-01",
+            "endDate": "2015-07-01"
+        },
+        {
+            "id": 3,
+            "description": "Hired as a UX designer by Migo. I organised compatible structures \nof a project by field research (shadowing and interviewing \npotential users in Manila, the Philippines), defining user journey \nmap, narrating user stories and conducting usability tests (e.g. \nA/B testing). Migo is a consumer-focused innovation company \nfocusing on emerging markets, where transformative innovation in \nentertainment is lacking. ",
+            "companyName": "Migo TV",
+            "title": "Imagineer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-03-01"
+        },
+        {
+            "id": 4,
+            "description": "Worked in the project \"Experimental Program of Visual Guiding \nSystem\" as a UI designer with Taipei Digital Art Centre, Smart \nNetwork System Institute of the Institute for Information Industry, \nChipSiP Technology Co. and Kupo Co., Ltd. ",
+            "companyName": "Taipei Digital Art Centre",
+            "title": "UI Designer",
+            "startDate": "2014-05-01",
+            "endDate": "2014-07-01"
+        }
+    ],
+    "start_time": "",
+    "last_update_time": "",
+    "parser_cost_time": "",
+    "fileName": "2018 cv_ting.pdf",
+    "page": 1,
+    "size": 362,
+    "fileType": "pdf",
+    "skills": [
+        {
+            "id": 0,
+            "skillName": "UX",
+            "firstUsed": "2014-09-01",
+            "usedMonth": 6.0,
+            "score": 2.5
+        },
+        {
+            "id": 1,
+            "skillName": "Fabrication",
+            "score": 2.0
+        },
+        {
+            "id": 2,
+            "skillName": "HTML",
+            "score": 2.0
+        },
+        {
+            "id": 3,
+            "skillName": "Illustrator",
+            "score": 1.0
+        },
+        {
+            "id": 4,
+            "skillName": "Adobe Photoshop",
+            "score": 1.0
+        },
+        {
+            "id": 5,
+            "skillName": "User Journey Map",
+            "score": 1.0
+        },
+        {
+            "id": 6,
+            "skillName": "Sketch",
+            "score": 1.0
+        },
+        {
+            "id": 7,
+            "skillName": "Final Cut Pro",
+            "score": 1.0
+        },
+        {
+            "id": 8,
+            "skillName": "Usability Test",
+            "score": 1.0
+        },
+        {
+            "id": 9,
+            "skillName": "Analog",
+            "score": 1.0
+        },
+        {
+            "id": 10,
+            "skillName": "Unity",
+            "score": 1.0
+        },
+        {
+            "id": 11,
+            "skillName": "Lathe",
+            "score": 1.0
+        },
+        {
+            "id": 12,
+            "skillName": "Coding",
+            "score": 1.0
+        },
+        {
+            "id": 13,
+            "skillName": "Soldering",
+            "score": 1.0
+        },
+        {
+            "id": 14,
+            "skillName": "Python",
+            "score": 1.0
+        },
+        {
+            "id": 15,
+            "skillName": "CSS",
+            "score": 1.0
+        },
+        {
+            "id": 16,
+            "skillName": "Javascript",
+            "score": 1.0
+        },
+        {
+            "id": 17,
+            "skillName": "Tensorflow",
+            "score": 1.0
+        },
+        {
+            "id": 18,
+            "skillName": "Communication",
+            "score": 1.0
+        },
+        {
+            "id": 19,
+            "skillName": "Project Management",
+            "score": 1.0
+        },
+        {
+            "id": 20,
+            "skillName": "industrial",
+            "score": 1.0
+        },
+        {
+            "id": 21,
+            "skillName": "B",
+            "firstUsed": "2014-09-01",
+            "lastUsed": "2015-03-01",
+            "usedMonth": 6.0,
+            "score": 0.5
+        },
+        {
+            "id": 22,
+            "skillName": "UI",
+            "firstUsed": "2014-05-01",
+            "lastUsed": "2014-07-01",
+            "usedMonth": 2.0,
+            "score": 0.17
+        },
+        {
+            "id": 23,
+            "skillName": "pli",
+            "firstUsed": "2016-07-01",
+            "lastUsed": "2016-08-01",
+            "usedMonth": 1.0,
+            "score": 0.08
+        },
+        {
+            "id": 24,
+            "skillName": "Satellite",
+            "firstUsed": "2016-07-01",
+            "lastUsed": "2016-08-01",
+            "usedMonth": 1.0,
+            "score": 0.08
+        }
+    ]
+}

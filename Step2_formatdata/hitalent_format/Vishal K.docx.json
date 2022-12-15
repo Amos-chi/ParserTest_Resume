@@ -1,0 +1,354 @@
+{
+    "contacts": [
+        {
+            "type": "EMAIL",
+            "contact": "vishalk21831@gmail.com"
+        },
+        {
+            "type": "PHONE",
+            "contact": "+15713101272"
+        }
+    ],
+    "currentLocation": {
+        "location": "Virginia"
+    },
+    "preferredLocations": [
+        {
+            "location": "Virginia"
+        }
+    ],
+    "languages": [
+        "ENGLISH"
+    ],
+    "educations": "",
+    "experiences": [
+        {
+            "description": "Responsibilities: \n• Prepared and analyzed System Requirements Specifications (SRS) for a project and interactedwith client during requirements specifications. \n• Implemented and enhanced CRUD operations for the applications using the MVC (Model ViewController) architecture framework. \n• Developed microservices to increase productivity, quality and security. \n• Created most important Business Rules which are useful for the scope of project and needs ofcustomers. \n• Developed and tested many features for dashboard using Ruby on Rails, Bootstrap, CSS andJavaScript. \n• Planned and carried out daily scrums, weekly estimations and retrospectives and pairprogramming. \n• Followed Test Driven Development (TDD), Scrum concepts of the Agile Methodology to producehigh Quality Software. \n• Practiced Test-Driven Development with RSpec as well as Behavior Driven Development withCucumber and Capybara to specify and test controller classes, models, view templates, helpersand routing. \n• User Interface for website with ERB, JQuery, html, css, Ajax in Ruby on Rails Framework. \n• Used Extreme Programming (XP) and Scrum practices. \n• Developed ETL workflows involving Data extraction, serialization, transformations and loadinginto mongodb. \n• Involved in creating and maintaining Database objects, Profiles and associated tablespaces, Rolesand Privileges. \n• Used AMQP for messaging protocol. \n• Have exposer in building containers using Docker. \n• Used JQuery, Angularjs, Reactjs and Ajax in web applications to enhance the customer websiteexperience. \n• Design and maintain ROR code. Implement upgrades, patches, code releases, and databasechanges using Mongo DB (NoSQL) \n• Peer-review code to satisfy quality, stability, performance, DRY patterns and security checklist. \n• Wrote ruby scripts for deployments onto AWS and Continuous Integration provisioning. \n• Analyzed software requirements and provide solutions and performed analysis, design, coding,testing, implementation, and maintenance of software solutions. ",
+            "companyName": "M9 Consulting Inc.",
+            "title": "Senior Software Engineer / Ruby on Rails Developer",
+            "startDate": "2017-07-01",
+            "current": true
+        },
+        {
+            "description": "Responsibilities: \n• Developed web application using Ruby on Rails on Unix/Linux operating system, backed byMySQL, and PostgreSQL. \n• Planned and carried out daily scrums, weekly estimations and retrospectives and pairprogramming. \n• Involved in Software Development which is driven by Agile methodology. \n• Develop user friendly and sophisticated graphical representation of the catalogue of items thatwould be configured for a piece of equipment. \n• Design and implementation of MVC framework using technologies like JavaScript, HTML, CSS,and RUBY on RAILS. \n• Upgraded associated gems, across multiple Ruby and Rails versions. \n• Implemented Behavior Driven Deployment (BDD) using R spec and Cucumber to perform crossbrowser and regression testing. \n• Execute lossless data migrations in production from a MySQL database to a redesignedPostgreSQL database. \n• ETL: Data extraction, managing, aggregations and loading into Hive. \n• Used Talend to perform ETL jobs. \n• Implemented Big Data tools within Hadoop ecosystem (HDFS, Hive, Pig, Sqoop, Oozie). \n• Created Hive External tables and loaded the data into tables and queried data using HQL thathelped market analysts to look for emerging trends by comparing fresh data with EDW referencetables. \n• Used Hive to analyze the partitioned and bucketed data and compute various metrics forreporting. \n• Worked closely with other developers, project managers, UX designers, and marketers on agileuser stories. ",
+            "companyName": "M9 Consulting Inc.",
+            "title": "Software Developer",
+            "startDate": "2016-08-01",
+            "endDate": "2017-07-01"
+        },
+        {
+            "description": "Responsibilities: \n• Involved in various phases of Software development life cycle (SDLC) as requirement gathering,modeling, analysis, architecture design & development. \n• Designed and developed web applications using Ruby, Rails, Java/J2EE design patterns, HTML,CSS, Java Script AJAX and JQuery. \n• Designed and developed necessary UML Diagrams (Use Case, Class, Sequence, State). \n• Responsibilities included developing new features, fixing bugs, interfacing with the productdevelopment and software quality assurance group. \n• Developed custom Rails applications specific to client's unique needs. \n• Database modeling and design. Involved in developing and implementation of the webapplication using Ruby on Rails. \n• Participated in requirements definition and story carding. \n• Worked extensively with arrays and hashes in the ruby environment. \n• Used many regular expressions in order to match the pattern with the existing one. \n• Designed, development controller and view part of the system by scaffolding. \n• Understanding of how web applications work including security, session management and bestdevelopment practices. \n• Focus on Ruby development, both inside of a traditional Rails application, and as part of a reportgenerating application. \n• Developed the user authentication and order processing modules for customer facingapplication. \n• Develop user friendly and sophisticated graphical representation of the catalogue of items thatwould be configured for a piece of equipment. \n• Responsible for most view/controller changes, as well as model/database integration with othermembers of team. \n• Developed cross-browser/platform using HTML, CSS, JQuery and JavaScript to match designspecs for complex page layouts while adhering to code standards \n• Deployed application and provide continuous maintenance using Git. \n• Developed Session Beans to process user requests and Entity Beans to load and storeinformation from database. \n• Designed and used JUnit test cases during the development phase. \n• Used Tortoise SVN for version control of the source code. \n• Open source cross-platform WebTesting (WSDL) using SoapUI. \n• Designed and implemented relational database, and stored procedures, views, and triggersusing MS SQL server development tool. ",
+            "companyName": "Cognizant Technology Solutions",
+            "title": "Senior Programmer Analyst",
+            "startDate": "2009-11-01",
+            "endDate": "2015-05-01"
+        }
+    ],
+    "start_time": "",
+    "last_update_time": "",
+    "parser_cost_time": "",
+    "page": "",
+    "skills": [
+        {
+            "skillName": "Ruby"
+        },
+        {
+            "skillName": "Jquery"
+        },
+        {
+            "skillName": "JavaScript"
+        },
+        {
+            "skillName": "Linux"
+        },
+        {
+            "skillName": "Rails"
+        },
+        {
+            "skillName": "HTML5"
+        },
+        {
+            "skillName": "CSS3"
+        },
+        {
+            "skillName": "Agile"
+        },
+        {
+            "skillName": "Bootstrap"
+        },
+        {
+            "skillName": "JSON"
+        },
+        {
+            "skillName": "Rubygems"
+        },
+        {
+            "skillName": "Unix"
+        },
+        {
+            "skillName": "GIT"
+        },
+        {
+            "skillName": "RSPEC"
+        },
+        {
+            "skillName": "Cucumber"
+        },
+        {
+            "skillName": "AmazonEC2"
+        },
+        {
+            "skillName": "MySQL"
+        },
+        {
+            "skillName": "MongoDB"
+        },
+        {
+            "skillName": "Hive"
+        },
+        {
+            "skillName": "AngularJS"
+        },
+        {
+            "skillName": "ReactJS"
+        },
+        {
+            "skillName": "GitHub"
+        },
+        {
+            "skillName": "Restful"
+        },
+        {
+            "skillName": "WEBrick"
+        },
+        {
+            "skillName": "Pig"
+        },
+        {
+            "skillName": "Sqoop"
+        },
+        {
+            "skillName": "Oozie"
+        },
+        {
+            "skillName": "Ruby 2.3"
+        },
+        {
+            "skillName": "Ruby 2.5"
+        },
+        {
+            "skillName": "Rails 4.2"
+        },
+        {
+            "skillName": "Rails 5.2"
+        },
+        {
+            "skillName": "OJ"
+        },
+        {
+            "skillName": "Multi_JSON"
+        },
+        {
+            "skillName": "Minitest"
+        },
+        {
+            "skillName": "Faraday"
+        },
+        {
+            "skillName": "httparty"
+        },
+        {
+            "skillName": "Actionmailer"
+        },
+        {
+            "skillName": "Selenium-webdriver"
+        },
+        {
+            "skillName": "Capybara"
+        },
+        {
+            "skillName": "Devise"
+        },
+        {
+            "skillName": "concurrent-ruby"
+        },
+        {
+            "skillName": "Rubo 3T"
+        },
+        {
+            "skillName": "ROBOMONGO"
+        },
+        {
+            "skillName": "AMQP"
+        },
+        {
+            "skillName": "Docker"
+        },
+        {
+            "skillName": "Puma"
+        },
+        {
+            "skillName": "pli"
+        },
+        {
+            "skillName": "Ap"
+        },
+        {
+            "skillName": "SQL"
+        },
+        {
+            "skillName": "Oracle"
+        },
+        {
+            "skillName": "Java"
+        },
+        {
+            "skillName": "Ubuntu"
+        },
+        {
+            "skillName": "XML"
+        },
+        {
+            "skillName": "Python"
+        },
+        {
+            "skillName": "Testing"
+        },
+        {
+            "skillName": "Apache"
+        },
+        {
+            "skillName": "Mac"
+        },
+        {
+            "skillName": "Operating Systems"
+        },
+        {
+            "skillName": "Spring"
+        },
+        {
+            "skillName": "AWS"
+        },
+        {
+            "skillName": "EC2"
+        },
+        {
+            "skillName": "TCP"
+        },
+        {
+            "skillName": "Network Protocols"
+        },
+        {
+            "skillName": "UI"
+        },
+        {
+            "skillName": "Programming"
+        },
+        {
+            "skillName": "SQLite"
+        },
+        {
+            "skillName": "AJAX"
+        },
+        {
+            "skillName": "PHP"
+        },
+        {
+            "skillName": "C++"
+        },
+        {
+            "skillName": "Scripting"
+        },
+        {
+            "skillName": "Tomcat"
+        },
+        {
+            "skillName": "LAMP"
+        },
+        {
+            "skillName": "UML"
+        },
+        {
+            "skillName": "Sublime"
+        },
+        {
+            "skillName": "Atom"
+        },
+        {
+            "skillName": "Eclipse"
+        },
+        {
+            "skillName": "Intellij"
+        },
+        {
+            "skillName": "EMR"
+        },
+        {
+            "skillName": "IP"
+        },
+        {
+            "skillName": "UDP"
+        },
+        {
+            "skillName": "Marketing"
+        },
+        {
+            "skillName": "HTML"
+        },
+        {
+            "skillName": "CSS"
+        },
+        {
+            "skillName": "JSP"
+        },
+        {
+            "skillName": "J2EE"
+        },
+        {
+            "skillName": "UX"
+        },
+        {
+            "skillName": "OOP"
+        },
+        {
+            "skillName": "Scrum"
+        },
+        {
+            "skillName": "Analyze"
+        },
+        {
+            "skillName": "TDD"
+        },
+        {
+            "skillName": "gherkin"
+        },
+        {
+            "skillName": "RDBMS"
+        },
+        {
+            "skillName": "MS-SQL"
+        },
+        {
+            "skillName": "NoSQL"
+        },
+        {
+            "skillName": "DB"
+        },
+        {
+            "skillName": "designing and implementation"
+        },
+        {
+            "skillName": "web frameworks"
+        },
+        {
+            "skillName": "XSLT"
+        },
+        {
+            "skillName": "ANT"
+        },
+        {
+            "skillName": "Angular"
+        }
+    ],
+    "fullName": "Vishal Kalletla"
+}

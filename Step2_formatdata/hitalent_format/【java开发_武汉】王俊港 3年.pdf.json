@@ -1,12 +1,12 @@
 {
     "contacts": [
         {
-            "contact": "18071807610@163.com",
-            "type": "EMAIL"
+            "type": "EMAIL",
+            "contact": "18071807610@163.com"
         },
         {
-            "contact": "+8618071807610",
-            "type": "PHONE"
+            "type": "PHONE",
+            "contact": "+8618071807610"
         }
     ],
     "currentLocation": {
@@ -18,14 +18,14 @@
         }
     ],
     "languages": [
-        "中文"
+        "MANDARIN"
     ],
     "educations": [
         {
             "startDate": "2015-09-01",
             "endDate": "2019-07-01",
             "collegeName": "三峡大学科技学院",
-            "degreeLevel": "Bachelor"
+            "degreeLevel": "BACHELOR"
         }
     ],
     "experiences": [
@@ -42,6 +42,9 @@
             "endDate": "2021-03-01"
         }
     ],
+    "start_time": "",
+    "last_update_time": "",
+    "parser_cost_time": "",
     "skills": [
         {
             "skillName": "设计"

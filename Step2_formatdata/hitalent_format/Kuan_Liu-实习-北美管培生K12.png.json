@@ -1,0 +1,113 @@
+{
+    "contacts": [
+        {
+            "type": "EMAIL",
+            "contact": "alan1997liu@berkeley.edu"
+        },
+        {
+            "type": "LINKEDIN",
+            "contact": "kuan-liu",
+            "details": "https://www.linkedin.com/in/kuan-liu"
+        },
+        {
+            "type": "PHONE",
+            "contact": "+17143193123"
+        }
+    ],
+    "currentLocation": {
+        "location": "Fullerton, CA 92835 1"
+    },
+    "preferredLocations": [
+        {
+            "location": "Fullerton, CA 92835 1"
+        }
+    ],
+    "languages": [
+        "MANDARIN",
+        "ENGLISH"
+    ],
+    "educations": [
+        {
+            "collegeName": "StanfordUniversity",
+            "degreeLevel": "MASTER",
+            "majorName": "Materials Science and Engineering"
+        },
+        {
+            "collegeName": "University of California,Berkeley",
+            "degreeLevel": "BACHELOR",
+            "majorName": "Chemical Engineering"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "• Leveraged Python computer vision and deep learning modules to extract information from piping and instrumentation diaqrams (P&IDs) as part of a team of three interns. \n• Provided a P&ID UI feature for the gas turbine human-machine interface using JavaScript, HTML andcss. ",
+            "companyName": "Solar Turbines",
+            "startDate": "2020-06-01",
+            "endDate": "2020-08-01"
+        },
+        {
+            "description": "• Implemented thermodynamic equilibrium calculations in MATLAB for predicting ternary phase diagrams of salt hydrate systems. \n• Investigated methods for synthesizing novel salt hydrate materials. ",
+            "companyName": "National RenewableEnergy Laboratory",
+            "title": "EngineeringMaterialsIntern",
+            "startDate": "2020-01-01",
+            "endDate": "2020-05-01"
+        },
+        {
+            "description": "• Saved 78 engineering hours and $8,500 per turbine project by developing a Python & Java program that automatically determines optimal gas detector placements in turbine packages \n• Implemented the automation program using CFD data, CAD and optimization algorithms Conducted training on how to use the program to CFD engineers within the department. ",
+            "companyName": "Solar Turbines",
+            "title": "Engineering Assistant",
+            "startDate": "2019-05-01",
+            "endDate": "2019-08-01"
+        },
+        {
+            "description": "• Developed Python and Bash programs to automatically calculate energies of perovskite materials withDFT. ",
+            "companyName": "MarkAsta Computational Materials ScienceResearch Group",
+            "title": "Undergraduate Research Assistant",
+            "startDate": "2018-07-01",
+            "endDate": "2019-05-01"
+        }
+    ],
+    "start_time": "",
+    "last_update_time": "",
+    "parser_cost_time": "",
+    "page": "",
+    "skills": [
+        {
+            "skillName": "Python"
+        },
+        {
+            "skillName": "Bash"
+        },
+        {
+            "skillName": "MATLAB"
+        },
+        {
+            "skillName": "Java"
+        },
+        {
+            "skillName": "HTML"
+        },
+        {
+            "skillName": "JavaScript"
+        },
+        {
+            "skillName": "CSS"
+        },
+        {
+            "skillName": "COMSOL"
+        },
+        {
+            "skillName": "data science"
+        },
+        {
+            "skillName": "CFD"
+        },
+        {
+            "skillName": "CAD"
+        },
+        {
+            "skillName": "UI"
+        }
+    ],
+    "fullName": "Kuan Liu"
+}

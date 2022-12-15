@@ -1,0 +1,135 @@
+{
+    "contacts": [
+        {
+            "type": "PHONE",
+            "contact": "+8615822516730"
+        },
+        {
+            "type": "EMAIL",
+            "contact": "lihaoji1994@163.com"
+        }
+    ],
+    "currentLocation": {
+        "location": "Tianjin"
+    },
+    "preferredLocations": [
+        {
+            "location": "Tianjin"
+        }
+    ],
+    "languages": [
+        "MANDARIN"
+    ],
+    "educations": [
+        {
+            "startDate": "2020-04-01",
+            "collegeName": "北京邮电大学",
+            "majorName": "计算机信息管理"
+        },
+        {
+            "startDate": "2013-09-01",
+            "endDate": "2016-06-01",
+            "collegeName": "天津职业大学",
+            "degreeLevel": "ASSOCIATE",
+            "majorName": "机械制造与自动化"
+        }
+    ],
+    "experiences": [
+        {
+            "companyName": "小黄狗环保科技有限公司",
+            "title": "Java开发工程师",
+            "startDate": "2019-11-01",
+            "current": true
+        },
+        {
+            "companyName": "软通动力信息技术有限公司",
+            "title": "Java开发工程师",
+            "startDate": "2017-08-01",
+            "endDate": "2019-10-01"
+        },
+        {
+            "companyName": "北京中宝世纪科技有限公司",
+            "title": "Java开发工程师",
+            "startDate": "2016-07-01",
+            "endDate": "2017-08-01"
+        }
+    ],
+    "start_time": "",
+    "last_update_time": "",
+    "parser_cost_time": "",
+    "skills": [
+        {
+            "skillName": "Java"
+        },
+        {
+            "skillName": "Redis"
+        },
+        {
+            "skillName": "分布式"
+        },
+        {
+            "skillName": "沟通能力"
+        },
+        {
+            "skillName": "JUC"
+        },
+        {
+            "skillName": "多线程编程"
+        },
+        {
+            "skillName": "数据结构"
+        },
+        {
+            "skillName": "算法"
+        },
+        {
+            "skillName": "Spring"
+        },
+        {
+            "skillName": "SpringMVC"
+        },
+        {
+            "skillName": "Mybatis"
+        },
+        {
+            "skillName": "Springcloud"
+        },
+        {
+            "skillName": "微服务"
+        },
+        {
+            "skillName": "SpringBoot"
+        },
+        {
+            "skillName": "SQL"
+        },
+        {
+            "skillName": "索引优化"
+        },
+        {
+            "skillName": "MySQL"
+        },
+        {
+            "skillName": "熟练使用 SQL语句编程"
+        },
+        {
+            "skillName": "过期策略"
+        },
+        {
+            "skillName": "消息中间件"
+        },
+        {
+            "skillName": "Linux"
+        },
+        {
+            "skillName": "判断能力"
+        },
+        {
+            "skillName": "学习能力"
+        },
+        {
+            "skillName": "抗压能力"
+        }
+    ],
+    "fullName": "李浩吉"
+}

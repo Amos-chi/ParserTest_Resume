@@ -123,7 +123,7 @@ def hitlant_format():
             if '\u4e00' <= _char <= '\u9fa5':
                 jdata['fullName'] = jdata['lastName'] + jdata['firstName']
             else:
-                jdata['fullName'] = jdata['firstName'] + ' ' +  + jdata['lastName']
+                jdata['fullName'] = jdata['firstName'] + ' ' + jdata['lastName']
 
         del jdata['firstName']
         del jdata['lastName']
@@ -271,37 +271,119 @@ def Xiaoxi_format():
         dict = {}
 
         # fullname
-        dict['fullName'] = data['name']
+        dict['fullName'] = data['parsing_result']['basic_info']['name']
 
         # contacts
-        for i in data['parsing_result']['contact_info'].keys():
-            print(i)
+        contacts = []
+        if not data['parsing_result']['contact_info']['phone_number']  == '':
+            contacts.append({
+                "contact": data['parsing_result']['contact_info']['phone_number'],
+                "type": "PHONE"
+            })
+        if not data['parsing_result']['contact_info']['email']  == '':
+            contacts.append({
+                "contact": data['parsing_result']['contact_info']['email'],
+                "type": "EMAIL"
+            })
+        if not data['parsing_result']['contact_info']['wechat']  == '':
+            contacts.append({
+                "contact": data['parsing_result']['contact_info']['wechat'],
+                "type": "WECHAT"
+            })
+        if not data['parsing_result']['contact_info']['QQ']  == '':
+            contacts.append({
+                "contact": data['parsing_result']['contact_info']['QQ'],
+                "type": "QQ"
+            })
+        if not data['parsing_result']['contact_info']['home_phone_number']  == '':
+            contacts.append({
+                "contact": data['parsing_result']['contact_info']['home_phone_number'],
+                "type": "PHONE"
+            })
+        dict['contacts'] = contacts
 
+        # current_location
+        if not data['parsing_result']['basic_info']['current_location'] == '':
+            dict['currentLocation'] = data['parsing_result']['basic_info']['current_location']
+        # expect_location
+        if not data['parsing_result']['basic_info']['expect_location'] == '':
+            dict['preferredLocations'] = data['parsing_result']['basic_info']['expect_location']
 
+        # languages
+        if not data['parsing_result']['others']['language'] == []:
+            dict['languages'] = data['parsing_result']['others']['language']
 
+        # educations
+        educations = []
+        for i in data['parsing_result']['education_experience']:
+            edudic = {}
+            if i['start_time_year'] != '' :
+                if i['start_time_month'] != '' :
+                    edudic['startDate'] = f"{i['start_time_year']}-{i['start_time_month']}-01"
+                else:
+                    edudic['startDate'] = f"{i['start_time_year']}-01-01"
+            if i['still_active'] == 1:
+                edudic['current'] = True
+            else:
+                if i['end_time_year'] != '':
+                    if i['end_time_month'] != '':
+                        edudic['endDate'] = f"{i['end_time_year']}-{i['end_time_month']}-01"
+                    else:
+                        edudic['endDate'] = f"{i['end_time_year']}-01-01"
+            if i['school_name'] != '':
+                edudic['collegeName'] = i['school_name']
+            if i['degree'] != '':
+                edudic['degreeLevel'] = i['degree']
+            if i['major'] != '':
+                edudic['majorName'] = i['major']
+            educations.append(edudic)
+        dict['educations'] = educations
 
+        # experiences
+        experiences = []
+        for i in data['parsing_result']['work_experience']:
+            expdic = {}
+            if i['description'] != '':
+                expdic['description'] = i['description']
+            if i['company_name'] != '':
+                expdic['companyName'] = i['company_name']
+            if i['job_title'] != '':
+                expdic['title'] = i['job_title']
+            if i['start_time_year'] != '' :
+                if i['start_time_month'] != '' :
+                    expdic['startDate'] = f"{i['start_time_year']}-{i['start_time_month']}-01"
+                else:
+                    expdic['startDate'] = f"{i['start_time_year']}-01-01"
+            if i['still_active'] == 1:
+                expdic['current'] = True
+            else:
+                if i['end_time_year'] != '':
+                    if i['end_time_month'] != '':
+                        expdic['endDate'] = f"{i['end_time_year']}-{i['end_time_month']}-01"
+                    else:
+                        expdic['endDate'] = f"{i['end_time_year']}-01-01"
 
+            experiences.append(expdic)
+        dict['experiences'] = experiences
 
+        # skills
+        dict['skills'] = []
+        if data['parsing_result']['others']['skills'] != '':
+            for i in data['parsing_result']['others']['skills']:
+                dict['skills'].append({"skillName": f"{i}"})
 
-
-
-
-
-
-
-
-
-
-
-
+        #print(json.dumps(dict, indent=4, ensure_ascii=False))
+        print(f'affinda_format :  {file}')
+        ff = open(os.path.join(tar_path, file), 'w', encoding='utf-8')
+        ff.write(json.dumps(dict, indent=4, ensure_ascii=False))
 
 
 
 
 if __name__ == '__main__':
-    #hitlant_format()
+    hitlant_format()
     #ResumeSDK_format()
     #affinda_format()
-    Xiaoxi_format()
+    #Xiaoxi_format()
 
 

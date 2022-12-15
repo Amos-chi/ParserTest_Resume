@@ -1,0 +1,99 @@
+{
+    "contacts": [
+        {
+            "type": "EMAIL",
+            "contact": "cjennings7@my.apsu.edu"
+        },
+        {
+            "type": "LINKEDIN",
+            "contact": "chloe",
+            "details": "https://www.linkedin.com/in/chloe"
+        },
+        {
+            "type": "PHONE",
+            "contact": "+19315610716"
+        }
+    ],
+    "currentLocation": {
+        "location": "158LynnwoodCircle"
+    },
+    "preferredLocations": [
+        {
+            "location": "158LynnwoodCircle"
+        }
+    ],
+    "languages": [
+        "ENGLISH"
+    ],
+    "educations": "",
+    "experiences": [
+        {
+            "description": "Carriedoutthesamedutiesasmostrecent roleatPostmates IncduetoUber's \nacquisition.WhilealsoutilizingUber'stools toassistwith orders on the Uber side as \ntheintegrationprogressed.LatertransitionedtoUber'snewPremiumSupport \ndepartment. ",
+            "companyName": "UberTechnology",
+            "title": "COESpecialistII",
+            "startDate": "2021-03-01",
+            "current": true
+        },
+        {
+            "description": "Offeringinboundsupporttoourtopandmostprominentbusinessesontheplatform \nviaphoneand email.Forissues suchasliveorderconcerns,accountupdates,and ",
+            "companyName": "PostmatesInc",
+            "title": "VIPSupportSpecialist",
+            "startDate": "2021-02-01",
+            "endDate": "2021-03-01"
+        },
+        {
+            "description": "supportingtechnicaldifficulties. \nphoneoremail.Assistedwithconcernsoveraccountissuesandupdatesaswellas ",
+            "companyName": "Offeringinboundsupporttocustomers,drivers,andbusinessesontheplatformvia",
+            "title": "Account&TechSupportSpecialist",
+            "startDate": "2020-11-01",
+            "endDate": "2021-02-01"
+        },
+        {
+            "description": "technicalsupport. \nissuessuchasliveorderconcerns,accountupdates,andsupportingtechnical \ndifficulties. ",
+            "companyName": "Offeringinboundsupporttobusinessesontheplatformviaphoneandemail.For",
+            "title": "MerchantSupportSpecialist",
+            "startDate": "2020-03-01",
+            "endDate": "2020-11-01"
+        },
+        {
+            "companyName": "PublixSupermarkets·920Highway76",
+            "title": "DeliAssociate",
+            "startDate": "2019-08-01",
+            "endDate": "2020-03-01"
+        },
+        {
+            "companyName": "StarbucksCoffeeCompany",
+            "title": "Barista",
+            "startDate": "2017-09-01",
+            "endDate": "2019-12-01"
+        },
+        {
+            "description": "ManageallUniversityRecreationsocialmediaaccountsonFacebook,Twitter,and \nInstagram.Creatingengagingcontentforeachplatformandkeepingfollowers \ninformedofallupcomingeventsandclasscancellationsasrequired. ",
+            "companyName": "451MarionStreet",
+            "title": "APSUUniversityRecreation|MarketingIntern",
+            "startDate": "2018-12-01",
+            "endDate": "2019-04-01"
+        },
+        {
+            "companyName": "SonicDriveIn 1761iWilmaRudolphBlvd",
+            "title": "CrewLeader",
+            "startDate": "2016-01-01",
+            "endDate": "2017-08-01"
+        },
+        {
+            "companyName": "SonicDriveIn 1761iWilmaRudolphBlvd",
+            "startDate": "2015-05-01",
+            "endDate": "2016-01-01"
+        }
+    ],
+    "start_time": "",
+    "last_update_time": "",
+    "parser_cost_time": "",
+    "page": "",
+    "skills": [
+        {
+            "skillName": "support"
+        }
+    ],
+    "fullName": "Chloe Jennings"
+}

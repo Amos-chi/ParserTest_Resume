@@ -1,0 +1,118 @@
+{
+    "contacts": [
+        {
+            "type": "EMAIL",
+            "contact": "xfan79@wisc.edu"
+        },
+        {
+            "type": "PHONE",
+            "contact": "+8615801806638"
+        }
+    ],
+    "currentLocation": {
+        "location": "Madison, WI"
+    },
+    "preferredLocations": [
+        {
+            "location": "Madison, WI"
+        }
+    ],
+    "languages": [
+        "MANDARIN",
+        "ENGLISH"
+    ],
+    "educations": [
+        {
+            "startDate": "1990-03-01",
+            "endDate": "2020-12-01",
+            "collegeName": "威斯康星-麦迪逊分校",
+            "degreeLevel": "MASTER",
+            "majorName": "数理经济"
+        },
+        {
+            "endDate": "2020-12-01",
+            "collegeName": "University of Wisconsin-Madison",
+            "degreeLevel": "MASTER",
+            "majorName": "Economics"
+        },
+        {
+            "startDate": "2015-09-01",
+            "endDate": "2019-06-01",
+            "collegeName": "上海财经大学",
+            "degreeLevel": "BACHELOR",
+            "majorName": "金融学"
+        },
+        {
+            "endDate": "2019-06-01",
+            "collegeName": "Shanghai University of Finance and Economics",
+            "degreeLevel": "BACHELOR",
+            "majorName": "Economics in Finance"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "协助项目经理优化/制定企业流程图，协助准备指导、培训企业员工的材料\n·对当前保险行业的趋势和前景进行市场调研和案例研究，整合数据和关键发现，形成演示文稿和报告\n·参与客户会议，收集和识别需求，通过图表管理等可视化多个阶段的进展",
+            "companyName": "安永咨询",
+            "title": "金融服务业绩提升组实习生",
+            "startDate": "2019-08-01",
+            "endDate": "2019-12-01"
+        },
+        {
+            "description": "•    Conducted market research and case studies of current trends and prospects in the insurance industry \n•    Consolidated data and key findings into presentations and reports deliverable to clients ",
+            "companyName": "Ernst & Young LLP.",
+            "title": "FSO-PI Intern",
+            "startDate": "2019-08-01",
+            "endDate": "2019-12-01"
+        },
+        {
+            "description": "协助团队研究宏观经济与政策及其他课题并每周汇报，课题包括但不限于大类资产配置及养老基金\n通过分析上市公司年报等协助研究券商资产管理发展战略，完成专题报告并展示",
+            "companyName": "东北证券股份有限公司",
+            "title": "战略规划部实习生",
+            "startDate": "2019-01-01",
+            "endDate": "2019-04-01"
+        },
+        {
+            "description": "•    Analyzed industry data using WIND to evaluate potential growth opportunities \n•    Presented weekly updates to the management team, reviewing current projects and key next steps ",
+            "companyName": "Northeast Securities Co., Ltd.",
+            "title": "Strategic Planning Intern",
+            "startDate": "2019-01-01",
+            "endDate": "2019-04-01"
+        }
+    ],
+    "start_time": "",
+    "last_update_time": "",
+    "parser_cost_time": "",
+    "skills": [
+        {
+            "skillName": "Julia"
+        },
+        {
+            "skillName": "Stata"
+        },
+        {
+            "skillName": "MSOffice"
+        },
+        {
+            "skillName": "Python"
+        },
+        {
+            "skillName": "MS Office"
+        },
+        {
+            "skillName": "linkedin"
+        },
+        {
+            "skillName": "研究"
+        },
+        {
+            "skillName": "协助项目经理优化"
+        },
+        {
+            "skillName": "培训"
+        },
+        {
+            "skillName": "市场调研"
+        }
+    ],
+    "fullName": "范晓航"
+}

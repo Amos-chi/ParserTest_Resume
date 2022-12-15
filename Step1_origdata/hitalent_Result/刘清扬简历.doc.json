@@ -1,0 +1,93 @@
+{
+    "firstName": "清扬",
+    "lastName": "刘",
+    "contacts": [
+        {
+            "type": "PHONE",
+            "contact": "+8618934661537"
+        },
+        {
+            "type": "EMAIL",
+            "contact": "2386682293@qq.com"
+        }
+    ],
+    "currentLocation": {
+        "location": "湖北省武汉市江夏区"
+    },
+    "preferredLocations": [
+        {
+            "location": "湖北省武汉市江夏区"
+        }
+    ],
+    "languages": [
+        "MANDARIN"
+    ],
+    "educations": [
+        {
+            "id": 0,
+            "startDate": "2019-09-01",
+            "endDate": "2023-06-01",
+            "collegeName": "武汉学院",
+            "degreeLevel": "BACHELOR",
+            "majorName": "英语"
+        }
+    ],
+    "experiences": [
+        {
+            "id": 0,
+            "description": "l 负责教导小升初的小朋友英语。\nl 负责课程编排、批改作业与试卷、学习重难点分析等一系列教学过程。",
+            "companyName": "树人教育",
+            "title": "英语教师",
+            "startDate": "2021-08-01",
+            "endDate": "2021-09-01"
+        },
+        {
+            "id": 1,
+            "description": "l 体温测量:根据体温检测要求，单日完成体温测量100人；\nl 秩序维护:通过现场人群的引流和疏导，降低疫情蔓延风险，连续30天新增确诊病例为0。",
+            "companyName": "情志愿者",
+            "title": "疫",
+            "startDate": "2020-07-01",
+            "endDate": "2020-08-01"
+        }
+    ],
+    "start_time": "",
+    "last_update_time": "",
+    "parser_cost_time": "",
+    "fileName": "刘清扬简历.doc",
+    "page": "",
+    "size": 92,
+    "fileType": "doc",
+    "skills": [
+        {
+            "id": 0,
+            "skillName": "语言组织能力",
+            "score": 1.0
+        },
+        {
+            "id": 1,
+            "skillName": "逻辑思维",
+            "score": 1.0
+        },
+        {
+            "id": 2,
+            "skillName": "学习能力",
+            "score": 1.0
+        },
+        {
+            "id": 3,
+            "skillName": "秩序维护",
+            "firstUsed": "2020-07-01",
+            "lastUsed": "2020-08-01",
+            "usedMonth": 1.0,
+            "score": 0.08
+        },
+        {
+            "id": 4,
+            "skillName": "引流",
+            "firstUsed": "2020-07-01",
+            "lastUsed": "2020-08-01",
+            "usedMonth": 1.0,
+            "score": 0.08
+        }
+    ]
+}
