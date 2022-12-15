@@ -1,6 +1,5 @@
 {
-    "firstName": "Chloe",
-    "lastName": "Jennings",
+    "fullName": "Chloe Jennings",
     "contacts": [
         {
             "type": "EMAIL",
@@ -27,10 +26,8 @@
     "languages": [
         "ENGLISH"
     ],
-    "educations": "",
     "experiences": [
         {
-            "id": 0,
             "description": "Carriedoutthesamedutiesasmostrecent roleatPostmates IncduetoUber's \nacquisition.WhilealsoutilizingUber'stools toassistwith orders on the Uber side as \ntheintegrationprogressed.LatertransitionedtoUber'snewPremiumSupport \ndepartment. ",
             "companyName": "UberTechnology",
             "title": "COESpecialistII",
@@ -38,7 +35,6 @@
             "current": true
         },
         {
-            "id": 1,
             "description": "Offeringinboundsupporttoourtopandmostprominentbusinessesontheplatform \nviaphoneand email.Forissues suchasliveorderconcerns,accountupdates,and ",
             "companyName": "PostmatesInc",
             "title": "VIPSupportSpecialist",
@@ -46,7 +42,6 @@
             "endDate": "2021-03-01"
         },
         {
-            "id": 2,
             "description": "supportingtechnicaldifficulties. \nphoneoremail.Assistedwithconcernsoveraccountissuesandupdatesaswellas ",
             "companyName": "Offeringinboundsupporttocustomers,drivers,andbusinessesontheplatformvia",
             "title": "Account&TechSupportSpecialist",
@@ -54,7 +49,6 @@
             "endDate": "2021-02-01"
         },
         {
-            "id": 3,
             "description": "technicalsupport. \nissuessuchasliveorderconcerns,accountupdates,andsupportingtechnical \ndifficulties. ",
             "companyName": "Offeringinboundsupporttobusinessesontheplatformviaphoneandemail.For",
             "title": "MerchantSupportSpecialist",
@@ -62,21 +56,18 @@
             "endDate": "2020-11-01"
         },
         {
-            "id": 4,
             "companyName": "PublixSupermarkets·920Highway76",
             "title": "DeliAssociate",
             "startDate": "2019-08-01",
             "endDate": "2020-03-01"
         },
         {
-            "id": 5,
             "companyName": "StarbucksCoffeeCompany",
             "title": "Barista",
             "startDate": "2017-09-01",
             "endDate": "2019-12-01"
         },
         {
-            "id": 6,
             "description": "ManageallUniversityRecreationsocialmediaaccountsonFacebook,Twitter,and \nInstagram.Creatingengagingcontentforeachplatformandkeepingfollowers \ninformedofallupcomingeventsandclasscancellationsasrequired. ",
             "companyName": "451MarionStreet",
             "title": "APSUUniversityRecreation|MarketingIntern",
@@ -84,31 +75,20 @@
             "endDate": "2019-04-01"
         },
         {
-            "id": 7,
             "companyName": "SonicDriveIn 1761iWilmaRudolphBlvd",
             "title": "CrewLeader",
             "startDate": "2016-01-01",
             "endDate": "2017-08-01"
         },
         {
-            "id": 8,
             "companyName": "SonicDriveIn 1761iWilmaRudolphBlvd",
             "startDate": "2015-05-01",
             "endDate": "2016-01-01"
         }
     ],
-    "start_time": "",
-    "last_update_time": "",
-    "parser_cost_time": "",
-    "fileName": "IMG_2496.jpeg",
-    "page": "",
-    "size": 247,
-    "fileType": "jpeg",
     "skills": [
         {
-            "id": 0,
-            "skillName": "support",
-            "score": 1.0
+            "skillName": "support"
         }
     ]
 }

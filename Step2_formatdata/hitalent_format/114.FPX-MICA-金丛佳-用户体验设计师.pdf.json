@@ -1,4 +1,5 @@
 {
+    "fullName": "Congjia Jin",
     "contacts": [
         {
             "type": "EMAIL",
@@ -117,9 +118,6 @@
             "endDate": "2016-01-01"
         }
     ],
-    "start_time": "",
-    "last_update_time": "",
-    "parser_cost_time": "",
     "skills": [
         {
             "skillName": "设计"
@@ -172,6 +170,5 @@
         {
             "skillName": "Express"
         }
-    ],
-    "fullName": "Congjia Jin"
+    ]
 }

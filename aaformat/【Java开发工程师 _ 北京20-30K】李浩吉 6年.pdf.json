@@ -1,6 +1,5 @@
 {
-    "firstName": "浩吉",
-    "lastName": "李",
+    "fullName": "李浩吉",
     "contacts": [
         {
             "type": "PHONE",
@@ -24,13 +23,11 @@
     ],
     "educations": [
         {
-            "id": 0,
             "startDate": "2020-04-01",
             "collegeName": "北京邮电大学",
             "majorName": "计算机信息管理"
         },
         {
-            "id": 1,
             "startDate": "2013-09-01",
             "endDate": "2016-06-01",
             "collegeName": "天津职业大学",
@@ -40,154 +37,96 @@
     ],
     "experiences": [
         {
-            "id": 0,
             "companyName": "小黄狗环保科技有限公司",
             "title": "Java开发工程师",
             "startDate": "2019-11-01",
             "current": true
         },
         {
-            "id": 1,
             "companyName": "软通动力信息技术有限公司",
             "title": "Java开发工程师",
             "startDate": "2017-08-01",
             "endDate": "2019-10-01"
         },
         {
-            "id": 2,
             "companyName": "北京中宝世纪科技有限公司",
             "title": "Java开发工程师",
             "startDate": "2016-07-01",
             "endDate": "2017-08-01"
         }
     ],
-    "start_time": "",
-    "last_update_time": "",
-    "parser_cost_time": "",
-    "fileName": "【Java开发工程师 _ 北京20-30K】李浩吉 6年.pdf",
-    "page": 3,
-    "size": 112,
-    "fileType": "pdf",
     "skills": [
         {
-            "id": 0,
-            "skillName": "Java",
-            "score": 3.0
+            "skillName": "Java"
         },
         {
-            "id": 1,
-            "skillName": "Redis",
-            "score": 3.0
+            "skillName": "Redis"
         },
         {
-            "id": 2,
-            "skillName": "分布式",
-            "score": 2.0
+            "skillName": "分布式"
         },
         {
-            "id": 3,
-            "skillName": "沟通能力",
-            "score": 2.0
+            "skillName": "沟通能力"
         },
         {
-            "id": 4,
-            "skillName": "JUC",
-            "score": 1.0
+            "skillName": "JUC"
         },
         {
-            "id": 5,
-            "skillName": "多线程编程",
-            "score": 1.0
+            "skillName": "多线程编程"
         },
         {
-            "id": 6,
-            "skillName": "数据结构",
-            "score": 1.0
+            "skillName": "数据结构"
         },
         {
-            "id": 7,
-            "skillName": "算法",
-            "score": 1.0
+            "skillName": "算法"
         },
         {
-            "id": 8,
-            "skillName": "Spring",
-            "score": 1.0
+            "skillName": "Spring"
         },
         {
-            "id": 9,
-            "skillName": "SpringMVC",
-            "score": 1.0
+            "skillName": "SpringMVC"
         },
         {
-            "id": 10,
-            "skillName": "Mybatis",
-            "score": 1.0
+            "skillName": "Mybatis"
         },
         {
-            "id": 11,
-            "skillName": "Springcloud",
-            "score": 1.0
+            "skillName": "Springcloud"
         },
         {
-            "id": 12,
-            "skillName": "微服务",
-            "score": 1.0
+            "skillName": "微服务"
         },
         {
-            "id": 13,
-            "skillName": "SpringBoot",
-            "score": 1.0
+            "skillName": "SpringBoot"
         },
         {
-            "id": 14,
-            "skillName": "SQL",
-            "score": 1.0
+            "skillName": "SQL"
         },
         {
-            "id": 15,
-            "skillName": "索引优化",
-            "score": 1.0
+            "skillName": "索引优化"
         },
         {
-            "id": 16,
-            "skillName": "MySQL",
-            "score": 1.0
+            "skillName": "MySQL"
         },
         {
-            "id": 17,
-            "skillName": "熟练使用 SQL语句编程",
-            "score": 1.0
+            "skillName": "熟练使用 SQL语句编程"
         },
         {
-            "id": 18,
-            "skillName": "过期策略",
-            "score": 1.0
+            "skillName": "过期策略"
         },
         {
-            "id": 19,
-            "skillName": "消息中间件",
-            "score": 1.0
+            "skillName": "消息中间件"
         },
         {
-            "id": 20,
-            "skillName": "Linux",
-            "score": 1.0
+            "skillName": "Linux"
         },
         {
-            "id": 21,
-            "skillName": "判断能力",
-            "score": 1.0
+            "skillName": "判断能力"
         },
         {
-            "id": 22,
-            "skillName": "学习能力",
-            "score": 1.0
+            "skillName": "学习能力"
         },
         {
-            "id": 23,
-            "skillName": "抗压能力",
-            "score": 1.0
+            "skillName": "抗压能力"
         }
     ]
 }

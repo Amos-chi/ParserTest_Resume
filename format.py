@@ -118,12 +118,13 @@ def hitlant_format():
     for file in files:
         f = open(os.path.join(path,file), 'r', encoding='utf-8')
         jdata = json.load(f)
+        newdata = {}
         # 判断中文名还是英文名, 选择firstName lastName的拼接方式
         for _char in jdata['firstName']:
             if '\u4e00' <= _char <= '\u9fa5':
-                jdata['fullName'] = jdata['lastName'] + jdata['firstName']
+                newdata['fullName'] = jdata['lastName'] + jdata['firstName']
             else:
-                jdata['fullName'] = jdata['firstName'] + ' ' + jdata['lastName']
+                newdata['fullName'] = jdata['firstName'] + ' ' + jdata['lastName']
 
         del jdata['firstName']
         del jdata['lastName']
@@ -154,13 +155,23 @@ def hitlant_format():
 
         otherKeys = ['start_time', 'last_update_time', 'parser_cost_time', 'fileName', 'page', 'size', 'fileType']
         for e in otherKeys:
-            if jdata.get(e) or jdata.get(e) == 0:
+            if jdata.get(e) or jdata.get(e) == 0 or jdata.get(e) == '':
                 del jdata[e]
 
-        #print(json.dumps(jdata, indent=4, ensure_ascii=False))
+
+
+
+
+        for k in jdata.keys():
+            # 删除空字符串和空集合
+            if jdata[k] != '' and jdata[k] != [] and jdata[k] != {}:
+                newdata[k] = jdata[k]
+
+
+        #print(json.dumps(newdata, indent=4, ensure_ascii=False))
         print(f'hitlant_format :  {file}')
         ff = open(f'{tar_path}\{file}', 'w', encoding='utf-8')
-        ff.write(json.dumps(jdata, indent=4, ensure_ascii=False))
+        ff.write(json.dumps(newdata, indent=4, ensure_ascii=False))
 
 def affinda_format():
     path = 'Step1_origdata/Affinda_Reuslt'

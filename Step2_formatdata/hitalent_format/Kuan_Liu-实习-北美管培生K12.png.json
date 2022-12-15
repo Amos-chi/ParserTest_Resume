@@ -1,4 +1,5 @@
 {
+    "fullName": "Kuan Liu",
     "contacts": [
         {
             "type": "EMAIL",
@@ -67,10 +68,6 @@
             "endDate": "2019-05-01"
         }
     ],
-    "start_time": "",
-    "last_update_time": "",
-    "parser_cost_time": "",
-    "page": "",
     "skills": [
         {
             "skillName": "Python"
@@ -108,6 +105,5 @@
         {
             "skillName": "UI"
         }
-    ],
-    "fullName": "Kuan Liu"
+    ]
 }

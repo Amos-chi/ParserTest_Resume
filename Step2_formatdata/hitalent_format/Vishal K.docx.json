@@ -1,4 +1,5 @@
 {
+    "fullName": "Vishal Kalletla",
     "contacts": [
         {
             "type": "EMAIL",
@@ -20,7 +21,6 @@
     "languages": [
         "ENGLISH"
     ],
-    "educations": "",
     "experiences": [
         {
             "description": "Responsibilities: \n• Prepared and analyzed System Requirements Specifications (SRS) for a project and interactedwith client during requirements specifications. \n• Implemented and enhanced CRUD operations for the applications using the MVC (Model ViewController) architecture framework. \n• Developed microservices to increase productivity, quality and security. \n• Created most important Business Rules which are useful for the scope of project and needs ofcustomers. \n• Developed and tested many features for dashboard using Ruby on Rails, Bootstrap, CSS andJavaScript. \n• Planned and carried out daily scrums, weekly estimations and retrospectives and pairprogramming. \n• Followed Test Driven Development (TDD), Scrum concepts of the Agile Methodology to producehigh Quality Software. \n• Practiced Test-Driven Development with RSpec as well as Behavior Driven Development withCucumber and Capybara to specify and test controller classes, models, view templates, helpersand routing. \n• User Interface for website with ERB, JQuery, html, css, Ajax in Ruby on Rails Framework. \n• Used Extreme Programming (XP) and Scrum practices. \n• Developed ETL workflows involving Data extraction, serialization, transformations and loadinginto mongodb. \n• Involved in creating and maintaining Database objects, Profiles and associated tablespaces, Rolesand Privileges. \n• Used AMQP for messaging protocol. \n• Have exposer in building containers using Docker. \n• Used JQuery, Angularjs, Reactjs and Ajax in web applications to enhance the customer websiteexperience. \n• Design and maintain ROR code. Implement upgrades, patches, code releases, and databasechanges using Mongo DB (NoSQL) \n• Peer-review code to satisfy quality, stability, performance, DRY patterns and security checklist. \n• Wrote ruby scripts for deployments onto AWS and Continuous Integration provisioning. \n• Analyzed software requirements and provide solutions and performed analysis, design, coding,testing, implementation, and maintenance of software solutions. ",
@@ -44,10 +44,6 @@
             "endDate": "2015-05-01"
         }
     ],
-    "start_time": "",
-    "last_update_time": "",
-    "parser_cost_time": "",
-    "page": "",
     "skills": [
         {
             "skillName": "Ruby"
@@ -349,6 +345,5 @@
         {
             "skillName": "Angular"
         }
-    ],
-    "fullName": "Vishal Kalletla"
+    ]
 }

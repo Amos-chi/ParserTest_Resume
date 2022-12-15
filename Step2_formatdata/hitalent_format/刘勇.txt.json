@@ -1,4 +1,5 @@
 {
+    "fullName": "刘勇",
     "contacts": [
         {
             "type": "LINKEDIN",
@@ -6,17 +7,9 @@
             "details": "https://www.linkedin.com/in/%e5%8b%87-%e5%88%98-70b011153"
         }
     ],
-    "currentLocation": "",
-    "preferredLocations": "",
     "languages": [
         "MANDARIN"
     ],
-    "educations": "",
-    "experiences": "",
-    "start_time": "",
-    "last_update_time": "",
-    "parser_cost_time": "",
-    "page": "",
     "skills": [
         {
             "skillName": "设计"
@@ -24,6 +17,5 @@
         {
             "skillName": "研究"
         }
-    ],
-    "fullName": "刘勇"
+    ]
 }

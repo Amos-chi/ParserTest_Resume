@@ -1,6 +1,5 @@
 {
-    "firstName": "海",
-    "lastName": "陈",
+    "fullName": "陈海",
     "contacts": [
         {
             "type": "EMAIL",
@@ -25,7 +24,6 @@
     ],
     "educations": [
         {
-            "id": 0,
             "startDate": "2018-07-01",
             "endDate": "2022-07-01",
             "collegeName": "江西师范大学",
@@ -35,7 +33,6 @@
     ],
     "experiences": [
         {
-            "id": 0,
             "description": "  工 作经验作经验负责微店商家平台增长业务后端的研发工作，日常工作包括但不限于:\n•  深入理解产品prd、参加需求评审、撰写技术方案和接口文档、参加技术评审\n•  编写业务代码、单元测试、联调、修复测试提出的bug、集成部署代码上线\n•  及时关注线上告警和群内用户反馈，修复线上bug\n•  不定期进行业务分享或技术分享  实 习经历习经历 G",
             "companyName": "无",
             "title": "Java开发工程师",
@@ -43,7 +40,6 @@
             "endDate": "2022-12-01"
         },
         {
-            "id": 1,
             "description": "J Z 负责微店商家平台增长业务后端的研发工作，协助正式员工完成对应的需求开发，日常工作包 RF 括但不限于: F\n•  深入理解产品prd、参加需求评审、撰写技术方案和接口文档、参加技术评审y t \n•  编写业务代码、单元测试、联调、修复测试提出的bug、集成部署代码上线 3z \n•  及时关注线上告警和群内用户反馈，修复线上bug Jn \n•  不定期进行业务分享或技术分享 1Q m h O e R Z q f V 6 9 f 2 9 8 c 6 b 8 5 5 9 6 c 4 0 ",
             "companyName": "无线生活（北京）信息技术有限公司",
             "title": "Java实习生",
@@ -51,232 +47,123 @@
             "endDate": "2022-04-01"
         }
     ],
-    "start_time": "",
-    "last_update_time": "",
-    "parser_cost_time": "",
-    "fileName": "【Java开发工程师_北京】陈海彬 1年以内.pdf",
-    "page": 2,
-    "size": 108,
-    "fileType": "pdf",
     "skills": [
         {
-            "id": 0,
-            "skillName": "分布式",
-            "score": 5.0
+            "skillName": "分布式"
         },
         {
-            "id": 1,
-            "skillName": "Java",
-            "score": 3.0
+            "skillName": "Java"
         },
         {
-            "id": 2,
-            "skillName": "设计",
-            "score": 2.0
+            "skillName": "设计"
         },
         {
-            "id": 3,
-            "skillName": "后端",
-            "firstUsed": "2021-07-01",
-            "lastUsed": "2022-12-01",
-            "usedMonth": 5.0,
-            "score": 1.17
+            "skillName": "后端"
         },
         {
-            "id": 4,
-            "skillName": "研发",
-            "firstUsed": "2021-07-01",
-            "lastUsed": "2022-12-01",
-            "usedMonth": 5.0,
-            "score": 1.17
+            "skillName": "研发"
         },
         {
-            "id": 5,
-            "skillName": "单元测试",
-            "firstUsed": "2021-07-01",
-            "lastUsed": "2022-12-01",
-            "usedMonth": 5.0,
-            "score": 1.17
+            "skillName": "单元测试"
         },
         {
-            "id": 6,
-            "skillName": "测试",
-            "firstUsed": "2021-07-01",
-            "lastUsed": "2022-12-01",
-            "usedMonth": 5.0,
-            "score": 1.17
+            "skillName": "测试"
         },
         {
-            "id": 7,
-            "skillName": "bug",
-            "firstUsed": "2021-07-01",
-            "lastUsed": "2022-12-01",
-            "usedMonth": 5.0,
-            "score": 1.17
+            "skillName": "bug"
         },
         {
-            "id": 8,
-            "skillName": "沟通能力",
-            "score": 1.0
+            "skillName": "沟通能力"
         },
         {
-            "id": 9,
-            "skillName": "IO",
-            "score": 1.0
+            "skillName": "IO"
         },
         {
-            "id": 10,
-            "skillName": "多线程",
-            "score": 1.0
+            "skillName": "多线程"
         },
         {
-            "id": 11,
-            "skillName": "用Java语言进行业务开发",
-            "score": 1.0
+            "skillName": "用Java语言进行业务开发"
         },
         {
-            "id": 12,
-            "skillName": "面向对象",
-            "score": 1.0
+            "skillName": "面向对象"
         },
         {
-            "id": 13,
-            "skillName": "网络编程",
-            "score": 1.0
+            "skillName": "网络编程"
         },
         {
-            "id": 14,
-            "skillName": "JVM",
-            "score": 1.0
+            "skillName": "JVM"
         },
         {
-            "id": 15,
-            "skillName": "算法",
-            "score": 1.0
+            "skillName": "算法"
         },
         {
-            "id": 16,
-            "skillName": "Mysql",
-            "score": 1.0
+            "skillName": "Mysql"
         },
         {
-            "id": 17,
-            "skillName": "用Sql语言进行业务开发",
-            "score": 1.0
+            "skillName": "用Sql语言进行业务开发"
         },
         {
-            "id": 18,
-            "skillName": "sql",
-            "score": 1.0
+            "skillName": "sql"
         },
         {
-            "id": 19,
-            "skillName": "SpringBoot框架进行业务开发",
-            "score": 1.0
+            "skillName": "SpringBoot框架进行业务开发"
         },
         {
-            "id": 20,
-            "skillName": "elasticSearch",
-            "score": 1.0
+            "skillName": "elasticSearch"
         },
         {
-            "id": 21,
-            "skillName": "redis",
-            "score": 1.0
+            "skillName": "redis"
         },
         {
-            "id": 22,
-            "skillName": "布式技术进行业务开发",
-            "score": 1.0
+            "skillName": "布式技术进行业务开发"
         },
         {
-            "id": 23,
-            "skillName": "Intellij",
-            "score": 1.0
+            "skillName": "Intellij"
         },
         {
-            "id": 24,
-            "skillName": "maven",
-            "score": 1.0
+            "skillName": "maven"
         },
         {
-            "id": 25,
-            "skillName": "git",
-            "score": 1.0
+            "skillName": "git"
         },
         {
-            "id": 26,
-            "skillName": "开发工具协助业务开发",
-            "score": 1.0
+            "skillName": "开发工具协助业务开发"
         },
         {
-            "id": 27,
-            "skillName": "linux",
-            "score": 1.0
+            "skillName": "linux"
         },
         {
-            "id": 28,
-            "skillName": "debug",
-            "score": 1.0
+            "skillName": "debug"
         },
         {
-            "id": 29,
-            "skillName": "研中间件进行业务开发",
-            "score": 1.0
+            "skillName": "研中间件进行业务开发"
         },
         {
-            "id": 30,
-            "skillName": "devOps",
-            "score": 1.0
+            "skillName": "devOps"
         },
         {
-            "id": 31,
-            "skillName": "有过大数据开发",
-            "score": 1.0
+            "skillName": "有过大数据开发"
         },
         {
-            "id": 32,
-            "skillName": "DDD",
-            "score": 1.0
+            "skillName": "DDD"
         },
         {
-            "id": 33,
-            "skillName": "逻辑思维",
-            "score": 1.0
+            "skillName": "逻辑思维"
         },
         {
-            "id": 34,
-            "skillName": "沟通",
-            "score": 1.0
+            "skillName": "沟通"
         },
         {
-            "id": 35,
-            "skillName": "自驱能力",
-            "score": 1.0
+            "skillName": "自驱能力"
         },
         {
-            "id": 36,
-            "skillName": "需求开发",
-            "firstUsed": "2021-07-01",
-            "lastUsed": "2022-04-01",
-            "usedMonth": 9.0,
-            "score": 0.75
+            "skillName": "需求开发"
         },
         {
-            "id": 37,
-            "skillName": "b",
-            "firstUsed": "2021-07-01",
-            "lastUsed": "2022-04-01",
-            "usedMonth": 9.0,
-            "score": 0.75
+            "skillName": "b"
         },
         {
-            "id": 38,
-            "skillName": "R",
-            "firstUsed": "2021-07-01",
-            "lastUsed": "2022-04-01",
-            "usedMonth": 9.0,
-            "score": 0.75
+            "skillName": "R"
         }
     ]
 }

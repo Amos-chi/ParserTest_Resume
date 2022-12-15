@@ -1,4 +1,5 @@
 {
+    "fullName": "Chris Huang",
     "contacts": [
         {
             "type": "EMAIL",
@@ -82,10 +83,6 @@
             "endDate": "2006-04-01"
         }
     ],
-    "start_time": "",
-    "last_update_time": "",
-    "parser_cost_time": "",
-    "page": "",
     "skills": [
         {
             "skillName": "System"
@@ -141,6 +138,5 @@
         {
             "skillName": "ICS"
         }
-    ],
-    "fullName": "Chris Huang"
+    ]
 }

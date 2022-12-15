@@ -1,4 +1,5 @@
 {
+    "fullName": "李浩吉",
     "contacts": [
         {
             "type": "PHONE",
@@ -54,9 +55,6 @@
             "endDate": "2017-08-01"
         }
     ],
-    "start_time": "",
-    "last_update_time": "",
-    "parser_cost_time": "",
     "skills": [
         {
             "skillName": "Java"
@@ -130,6 +128,5 @@
         {
             "skillName": "抗压能力"
         }
-    ],
-    "fullName": "李浩吉"
+    ]
 }

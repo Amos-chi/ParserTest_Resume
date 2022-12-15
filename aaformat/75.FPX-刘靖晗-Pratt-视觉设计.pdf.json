@@ -1,6 +1,5 @@
 {
-    "firstName": "靖晗",
-    "lastName": "刘",
+    "fullName": "刘靖晗",
     "contacts": [
         {
             "type": "EMAIL",
@@ -26,71 +25,42 @@
     ],
     "educations": [
         {
-            "id": 0,
             "endDate": "2020-01-01",
             "collegeName": "PrattInstitute（普瑞特艺术设计学院）",
             "degreeLevel": "MASTER",
             "majorName": "视觉传达设计"
         }
     ],
-    "experiences": "",
-    "start_time": "",
-    "last_update_time": "",
-    "parser_cost_time": "",
-    "fileName": "75.FPX-刘靖晗-Pratt-视觉设计.pdf",
-    "page": 48,
-    "size": 21776,
-    "fileType": "pdf",
     "skills": [
         {
-            "id": 0,
-            "skillName": "设计",
-            "score": 2.0
+            "skillName": "设计"
         },
         {
-            "id": 1,
-            "skillName": "插画",
-            "score": 2.0
+            "skillName": "插画"
         },
         {
-            "id": 2,
-            "skillName": "UI",
-            "score": 2.0
+            "skillName": "UI"
         },
         {
-            "id": 3,
-            "skillName": "Indesign",
-            "score": 1.0
+            "skillName": "Indesign"
         },
         {
-            "id": 4,
-            "skillName": "Photoshop",
-            "score": 1.0
+            "skillName": "Photoshop"
         },
         {
-            "id": 5,
-            "skillName": "Premiere",
-            "score": 1.0
+            "skillName": "Premiere"
         },
         {
-            "id": 6,
-            "skillName": "Principle",
-            "score": 1.0
+            "skillName": "Principle"
         },
         {
-            "id": 7,
-            "skillName": "Sketch",
-            "score": 1.0
+            "skillName": "Sketch"
         },
         {
-            "id": 8,
-            "skillName": "MicrosoftOffice",
-            "score": 1.0
+            "skillName": "MicrosoftOffice"
         },
         {
-            "id": 9,
-            "skillName": "UX",
-            "score": 1.0
+            "skillName": "UX"
         }
     ]
 }

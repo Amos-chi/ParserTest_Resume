@@ -1,4 +1,5 @@
 {
+    "fullName": "范晓航",
     "contacts": [
         {
             "type": "EMAIL",
@@ -79,9 +80,6 @@
             "endDate": "2019-04-01"
         }
     ],
-    "start_time": "",
-    "last_update_time": "",
-    "parser_cost_time": "",
     "skills": [
         {
             "skillName": "Julia"
@@ -113,6 +111,5 @@
         {
             "skillName": "市场调研"
         }
-    ],
-    "fullName": "范晓航"
+    ]
 }

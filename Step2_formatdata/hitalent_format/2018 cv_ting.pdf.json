@@ -1,4 +1,5 @@
 {
+    "fullName": "Ting Huang Shu",
     "contacts": [
         {
             "type": "PHONE",
@@ -78,9 +79,6 @@
             "endDate": "2014-07-01"
         }
     ],
-    "start_time": "",
-    "last_update_time": "",
-    "parser_cost_time": "",
     "skills": [
         {
             "skillName": "UX"
@@ -157,6 +155,5 @@
         {
             "skillName": "Satellite"
         }
-    ],
-    "fullName": "Ting Huang Shu"
+    ]
 }

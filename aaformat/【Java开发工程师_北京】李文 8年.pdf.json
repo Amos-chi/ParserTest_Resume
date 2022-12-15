@@ -1,6 +1,5 @@
 {
-    "firstName": "文",
-    "lastName": "李",
+    "fullName": "李文",
     "contacts": [
         {
             "type": "EMAIL",
@@ -25,7 +24,6 @@
     ],
     "educations": [
         {
-            "id": 0,
             "startDate": "2010-09-01",
             "endDate": "2014-06-01",
             "collegeName": "北京工业大学",
@@ -34,7 +32,6 @@
     ],
     "experiences": [
         {
-            "id": 0,
             "description": "工作经 验验\n由于之前工作比较劳累，所以想休息一段时间，在此期间，和家人共同做了一些创业的尝\n试，主要业务是国学课程培训和芳香疗法培训，我主要负责线下课程开展和业务相关的一些\n工具小程序的开发，基本的业务已稳定，而且我也更喜欢对技术的持续探索，所以由家人继\n续相关业务的开展，我回归到自己最擅长的技术专业领域发挥自己的价值",
             "companyName": "天津仙草仙草文化传播有限公司",
             "title": "联合创始人",
@@ -42,7 +39,6 @@
             "endDate": "2022-08-01"
         },
         {
-            "id": 1,
             "description": "五彩鹿是一家自闭症早期干预机构，核心业务形式是线下自闭症幼儿园，由于规模的不断扩大，非常需要通过线上平台提供对教务、教学、客户服务的有效支撑，提升教学质量和服务精准性，我负责带领团队进行线上平台核心模块及支撑子系统的开发和运维工作，主要包括:缴费及订单相关功能、排课及课时计算相关功能、专业评估及教学计划制定工具、功能权限及数据权限控制、工作流、客户管理子系统、批任务子系统、C端应用等。具体工作内容:\n● 参与重难点功能开发，解决团队遇到的各种复杂技术及业务问题\n● 构建CI/CD工具链，在团队实际项目中全方位落地CI/CD以及Scrum，提升研发效率\n● 负责架构设计及重构，根据业务需求制定相应解决方案\n● 制定团队目标，根据公司战略目标，定位部门角色，细化部门年度、季度、月度目标\n● 帮助团队建立工作信心，制定岗位职责和目标，与团队成员定期1v1沟通，了解成员工作状态及发展规划，向其传达公司及团队目标，帮助成员更好的融入团队并建立团队荣誉感",
             "companyName": "五彩鹿（北京）教育咨询有限责任公司",
             "title": "技术经理/架构师",
@@ -50,7 +46,6 @@
             "endDate": "2021-12-01"
         },
         {
-            "id": 2,
             "description": "公司在心理学行业耕耘多年，希望可以通过线上扩大影响力，所以成立了技术部，主导线上产品的研发业务目标:\n● 研发线上心里咨询平台--生活没烦恼APP\n● 为公司公益项目开心屋项目研发官网及论坛\n● 为新业务线国学业务线研发线上学习平台具体工作内容:\n● 负责各技术产品的设计及项目管理\n● 负责自研项目的全部开发任务\n● 维护线上产品正常运行\n● 负责协助公司改善内部工作流，提供技术解决方案\n● 为公司一切有关技术的问题提供相关建议和方案",
             "companyName": "简快教育科技（北京）有限公司",
             "title": "Java开发工程师",
@@ -58,14 +53,12 @@
             "endDate": "2018-03-01"
         },
         {
-            "id": 3,
             "description": "开心屋社区是一个专为公司开心屋公益项目提供的，用于相关全国各地的老师交流、分享的论坛，并且提供简单CMS功能，可以让更多人了解开心屋公益项目。系统主要提供新闻、论坛相关基本功能、开心屋游戏打卡签到、开心屋人才管理等功能。主要负责:\n● 整理需求，制作功能结构图，制作页面原型，数据库设计\n● 域名申请及备案\n● 独立完成前后端开发工作并部署上线\n● 后期服务器维护技术栈:\n● Spring MVC \n● Spring Data JPA \n● MySQL \n● VueJS ",
             "companyName": "开心屋社区",
             "startDate": "2017-04-01",
             "endDate": "2017-06-01"
         },
         {
-            "id": 4,
             "description": "负责在线学习平台的功能优化和新功能开发功能；负责在线学习平台用户的技术支持工作 ；\n负责公司内部网络管理工作。",
             "companyName": "北京华夏赛科技术发展有限公司",
             "title": "Java开发工程师",
@@ -73,253 +66,123 @@
             "endDate": "2015-07-01"
         }
     ],
-    "start_time": "",
-    "last_update_time": "",
-    "parser_cost_time": "",
-    "fileName": "【Java开发工程师_北京】李文 8年.pdf",
-    "page": 4,
-    "size": 144,
-    "fileType": "pdf",
     "skills": [
         {
-            "id": 0,
-            "skillName": "研发",
-            "firstUsed": "2015-08-01",
-            "lastUsed": "2021-12-01",
-            "usedMonth": 45.0,
-            "score": 14.07
+            "skillName": "研发"
         },
         {
-            "id": 1,
-            "skillName": "CI",
-            "firstUsed": "2018-03-01",
-            "usedMonth": 45.0,
-            "score": 8.5
+            "skillName": "CI"
         },
         {
-            "id": 2,
-            "skillName": "设计",
-            "firstUsed": "2015-08-01",
-            "usedMonth": 45.0,
-            "score": 7.5
+            "skillName": "设计"
         },
         {
-            "id": 3,
-            "skillName": "运维",
-            "firstUsed": "2018-03-01",
-            "lastUsed": "2021-12-01",
-            "usedMonth": 45.0,
-            "score": 3.75
+            "skillName": "运维"
         },
         {
-            "id": 4,
-            "skillName": "重难点功能开发",
-            "firstUsed": "2018-03-01",
-            "lastUsed": "2021-12-01",
-            "usedMonth": 45.0,
-            "score": 3.75
+            "skillName": "重难点功能开发"
         },
         {
-            "id": 5,
-            "skillName": "Scrum",
-            "firstUsed": "2018-03-01",
-            "lastUsed": "2021-12-01",
-            "usedMonth": 45.0,
-            "score": 3.75
+            "skillName": "Scrum"
         },
         {
-            "id": 6,
-            "skillName": "心理学",
-            "firstUsed": "2015-08-01",
-            "lastUsed": "2018-03-01",
-            "usedMonth": 31.0,
-            "score": 2.58
+            "skillName": "心理学"
         },
         {
-            "id": 7,
-            "skillName": "项目管理",
-            "firstUsed": "2015-08-01",
-            "lastUsed": "2018-03-01",
-            "usedMonth": 31.0,
-            "score": 2.58
+            "skillName": "项目管理"
         },
         {
-            "id": 8,
-            "skillName": "全部开发",
-            "firstUsed": "2015-08-01",
-            "lastUsed": "2018-03-01",
-            "usedMonth": 31.0,
-            "score": 2.58
+            "skillName": "全部开发"
         },
         {
-            "id": 9,
-            "skillName": "Docker",
-            "score": 2.0
+            "skillName": "Docker"
         },
         {
-            "id": 10,
-            "skillName": "Java",
-            "score": 2.0
+            "skillName": "Java"
         },
         {
-            "id": 11,
-            "skillName": "R",
-            "score": 2.0
+            "skillName": "R"
         },
         {
-            "id": 12,
-            "skillName": "功能优化",
-            "firstUsed": "2014-03-01",
-            "lastUsed": "2015-07-01",
-            "usedMonth": 16.0,
-            "score": 1.33
+            "skillName": "功能优化"
         },
         {
-            "id": 13,
-            "skillName": "新功能开发",
-            "firstUsed": "2014-03-01",
-            "lastUsed": "2015-07-01",
-            "usedMonth": 16.0,
-            "score": 1.33
+            "skillName": "新功能开发"
         },
         {
-            "id": 14,
-            "skillName": "Spring MVC",
-            "firstUsed": "2017-04-01",
-            "usedMonth": 2.0,
-            "score": 1.17
+            "skillName": "Spring MVC"
         },
         {
-            "id": 15,
-            "skillName": "JPA",
-            "firstUsed": "2017-04-01",
-            "usedMonth": 2.0,
-            "score": 1.17
+            "skillName": "JPA"
         },
         {
-            "id": 16,
-            "skillName": "Spring Data",
-            "firstUsed": "2017-04-01",
-            "usedMonth": 2.0,
-            "score": 1.17
+            "skillName": "Spring Data"
         },
         {
-            "id": 17,
-            "skillName": "MySQL",
-            "firstUsed": "2017-04-01",
-            "usedMonth": 2.0,
-            "score": 1.17
+            "skillName": "MySQL"
         },
         {
-            "id": 18,
-            "skillName": "JQuery",
-            "score": 1.0
+            "skillName": "JQuery"
         },
         {
-            "id": 19,
-            "skillName": "Cloud",
-            "score": 1.0
+            "skillName": "Cloud"
         },
         {
-            "id": 20,
-            "skillName": "Spring",
-            "score": 1.0
+            "skillName": "Spring"
         },
         {
-            "id": 21,
-            "skillName": "Javascript",
-            "score": 1.0
+            "skillName": "Javascript"
         },
         {
-            "id": 22,
-            "skillName": "Elasticsearch",
-            "score": 1.0
+            "skillName": "Elasticsearch"
         },
         {
-            "id": 23,
-            "skillName": "团队管理",
-            "score": 1.0
+            "skillName": "团队管理"
         },
         {
-            "id": 24,
-            "skillName": "全栈",
-            "score": 1.0
+            "skillName": "全栈"
         },
         {
-            "id": 25,
-            "skillName": "JVM",
-            "score": 1.0
+            "skillName": "JVM"
         },
         {
-            "id": 26,
-            "skillName": "多线程",
-            "score": 1.0
+            "skillName": "多线程"
         },
         {
-            "id": 27,
-            "skillName": "微服务",
-            "score": 1.0
+            "skillName": "微服务"
         },
         {
-            "id": 28,
-            "skillName": "消息中间件",
-            "score": 1.0
+            "skillName": "消息中间件"
         },
         {
-            "id": 29,
-            "skillName": "Vue",
-            "score": 1.0
+            "skillName": "Vue"
         },
         {
-            "id": 30,
-            "skillName": "React",
-            "score": 1.0
+            "skillName": "React"
         },
         {
-            "id": 31,
-            "skillName": "DevOps",
-            "score": 1.0
+            "skillName": "DevOps"
         },
         {
-            "id": 32,
-            "skillName": "Python",
-            "score": 1.0
+            "skillName": "Python"
         },
         {
-            "id": 33,
-            "skillName": "Go",
-            "score": 1.0
+            "skillName": "Go"
         },
         {
-            "id": 34,
-            "skillName": "Nodejs",
-            "score": 1.0
+            "skillName": "Nodejs"
         },
         {
-            "id": 35,
-            "skillName": "沟通",
-            "score": 1.0
+            "skillName": "沟通"
         },
         {
-            "id": 36,
-            "skillName": "对软件开发",
-            "score": 1.0
+            "skillName": "对软件开发"
         },
         {
-            "id": 37,
-            "skillName": "后端开发",
-            "firstUsed": "2017-04-01",
-            "lastUsed": "2017-06-01",
-            "usedMonth": 2.0,
-            "score": 0.17
+            "skillName": "后端开发"
         },
         {
-            "id": 38,
-            "skillName": "期服务器维护",
-            "firstUsed": "2017-04-01",
-            "lastUsed": "2017-06-01",
-            "usedMonth": 2.0,
-            "score": 0.17
+            "skillName": "期服务器维护"
         }
     ]
 }

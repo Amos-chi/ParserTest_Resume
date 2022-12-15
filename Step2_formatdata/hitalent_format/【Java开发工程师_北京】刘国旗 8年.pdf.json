@@ -1,4 +1,5 @@
 {
+    "fullName": "刘国旗",
     "contacts": [
         {
             "type": "EMAIL",
@@ -66,9 +67,6 @@
             "endDate": "2015-12-01"
         }
     ],
-    "start_time": "",
-    "last_update_time": "",
-    "parser_cost_time": "",
     "skills": [
         {
             "skillName": "设计"
@@ -184,6 +182,5 @@
         {
             "skillName": "逻辑能力"
         }
-    ],
-    "fullName": "刘国旗"
+    ]
 }

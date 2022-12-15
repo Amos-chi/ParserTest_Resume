@@ -1,6 +1,5 @@
 {
-    "firstName": "Meixin",
-    "lastName": "YU",
+    "fullName": "Meixin YU",
     "contacts": [
         {
             "type": "EMAIL",
@@ -29,13 +28,11 @@
     ],
     "educations": [
         {
-            "id": 0,
             "startDate": "2019-01-01",
             "endDate": "2021-01-01",
             "collegeName": "北大"
         },
         {
-            "id": 1,
             "startDate": "2013-01-01",
             "endDate": "2017-01-01",
             "collegeName": "南大",
@@ -43,170 +40,91 @@
             "majorName": "ProductDesign"
         },
         {
-            "id": 2,
             "collegeName": "南大",
             "majorName": "SIT创新设计学"
         },
         {
-            "id": 3,
             "collegeName": "南大",
             "majorName": "英语"
         }
     ],
     "experiences": [
         {
-            "id": 0,
             "description": "MITRealityHack-黑客马拉松团队获得TheBestUseofEyeTracking\n波土顿，美国11.16.2020一1.20.2020\n中国人体头部数据库一团队获得2018全国大学生工业设计大赛金奖\n湖南大学与华为合作项目，中国112.2016一6.2017\n利用ArtecSpider在初期阶段扫描和处理人头模型的数据，\n并从6个代表性城市中共选出300个有效被测\n使用Geomagic，C4D和SPSS处理数据，并参考人机数据库\n逻辑进行数据库交互设计\n响应式设计：适合Apple产品屏幕的基础编程的网页设计，并\n将简洁的科技样式融入界面设计中\n优化可视化的人头数据以提高数据的清晰度，为可穿戴设备\n的设计提供帮助\nAR超能学院手绘本项目一小组获奖\n深圳实习，中国6.2016一7.2016\n带领4人小组完成公司分配的项目并展示最终结果\n设计的AR图画书，通过童涂鸦与拼图游戏结合\n再由AR技术展示出来，帮助儿童扩大想象力\n新媒体部UI/UXDesigner-实习\n长沙风和丽日广告有限公司，中国17.2016一8.2016\n团队制作办公的墙绘项目\n独立负责“云壹”餐厅七夕节整套VI设计，包括logo，\n海报，宣传册，餐垫等\n负责运营微信公众号，特别是动态图形设计和网页排版",
             "title": "远程实习",
             "startDate": "2020-06-24",
             "endDate": "2020-08-29"
         }
     ],
-    "start_time": "",
-    "last_update_time": "",
-    "parser_cost_time": "",
-    "fileName": "123.FPX-于美心-东北大学-视觉设计.pdf",
-    "page": 1,
-    "size": 186,
-    "fileType": "pdf",
     "skills": [
         {
-            "id": 0,
-            "skillName": "设计",
-            "firstUsed": "2020-06-24",
-            "usedMonth": 2.0,
-            "score": 8.53
+            "skillName": "设计"
         },
         {
-            "id": 1,
-            "skillName": "UI",
-            "firstUsed": "2020-06-24",
-            "usedMonth": 2.0,
-            "score": 2.17
+            "skillName": "UI"
         },
         {
-            "id": 2,
-            "skillName": "Illustrator",
-            "score": 2.0
+            "skillName": "Illustrator"
         },
         {
-            "id": 3,
-            "skillName": "Html5",
-            "score": 2.0
+            "skillName": "Html5"
         },
         {
-            "id": 4,
-            "skillName": "SPSS",
-            "firstUsed": "2020-06-24",
-            "usedMonth": 2.0,
-            "score": 1.17
+            "skillName": "SPSS"
         },
         {
-            "id": 5,
-            "skillName": "基础编程",
-            "firstUsed": "2020-06-24",
-            "usedMonth": 2.0,
-            "score": 1.17
+            "skillName": "基础编程"
         },
         {
-            "id": 6,
-            "skillName": "UX",
-            "score": 1.0
+            "skillName": "UX"
         },
         {
-            "id": 7,
-            "skillName": "手绘",
-            "score": 1.0
+            "skillName": "手绘"
         },
         {
-            "id": 8,
-            "skillName": "Photoshop",
-            "score": 1.0
+            "skillName": "Photoshop"
         },
         {
-            "id": 9,
-            "skillName": "InDesign",
-            "score": 1.0
+            "skillName": "InDesign"
         },
         {
-            "id": 10,
-            "skillName": "Premiere",
-            "score": 1.0
+            "skillName": "Premiere"
         },
         {
-            "id": 11,
-            "skillName": "cSS",
-            "score": 1.0
+            "skillName": "cSS"
         },
         {
-            "id": 12,
-            "skillName": "JavaScript",
-            "score": 1.0
+            "skillName": "JavaScript"
         },
         {
-            "id": 13,
-            "skillName": "js",
-            "score": 1.0
+            "skillName": "js"
         },
         {
-            "id": 14,
-            "skillName": "Arduino",
-            "score": 1.0
+            "skillName": "Arduino"
         },
         {
-            "id": 15,
-            "skillName": "Industrial",
-            "score": 1.0
+            "skillName": "Industrial"
         },
         {
-            "id": 16,
-            "skillName": "Rhinoceros",
-            "score": 1.0
+            "skillName": "Rhinoceros"
         },
         {
-            "id": 17,
-            "skillName": "Unity",
-            "score": 1.0
+            "skillName": "Unity"
         },
         {
-            "id": 18,
-            "skillName": "AR",
-            "firstUsed": "2020-06-24",
-            "lastUsed": "2020-08-29",
-            "usedMonth": 2.0,
-            "score": 0.51
+            "skillName": "AR"
         },
         {
-            "id": 19,
-            "skillName": "C4D",
-            "firstUsed": "2020-06-24",
-            "lastUsed": "2020-08-29",
-            "usedMonth": 2.0,
-            "score": 0.17
+            "skillName": "C4D"
         },
         {
-            "id": 20,
-            "skillName": "高数",
-            "firstUsed": "2020-06-24",
-            "lastUsed": "2020-08-29",
-            "usedMonth": 2.0,
-            "score": 0.17
+            "skillName": "高数"
         },
         {
-            "id": 21,
-            "skillName": "运营",
-            "firstUsed": "2020-06-24",
-            "lastUsed": "2020-08-29",
-            "usedMonth": 2.0,
-            "score": 0.17
+            "skillName": "运营"
         },
         {
-            "id": 22,
-            "skillName": "排版",
-            "firstUsed": "2020-06-24",
-            "lastUsed": "2020-08-29",
-            "usedMonth": 2.0,
-            "score": 0.17
+            "skillName": "排版"
         }
     ]
 }

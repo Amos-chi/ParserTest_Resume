@@ -1,4 +1,5 @@
 {
+    "fullName": "郑静芷",
     "contacts": [
         {
             "type": "EMAIL",
@@ -128,9 +129,6 @@
             "endDate": "2016-01-01"
         }
     ],
-    "start_time": "",
-    "last_update_time": "",
-    "parser_cost_time": "",
     "skills": [
         {
             "skillName": "策划"
@@ -201,6 +199,5 @@
         {
             "skillName": "SEO"
         }
-    ],
-    "fullName": "郑静芷"
+    ]
 }

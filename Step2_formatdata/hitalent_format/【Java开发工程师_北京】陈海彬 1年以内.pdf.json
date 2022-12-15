@@ -1,4 +1,5 @@
 {
+    "fullName": "陈海",
     "contacts": [
         {
             "type": "EMAIL",
@@ -46,9 +47,6 @@
             "endDate": "2022-04-01"
         }
     ],
-    "start_time": "",
-    "last_update_time": "",
-    "parser_cost_time": "",
     "skills": [
         {
             "skillName": "分布式"
@@ -167,6 +165,5 @@
         {
             "skillName": "R"
         }
-    ],
-    "fullName": "陈海"
+    ]
 }

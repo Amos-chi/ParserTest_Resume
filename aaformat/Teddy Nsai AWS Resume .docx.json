@@ -1,6 +1,5 @@
 {
-    "firstName": "Teddy",
-    "lastName": "Nsai",
+    "fullName": "Teddy Nsai",
     "contacts": [
         {
             "type": "EMAIL",
@@ -20,14 +19,12 @@
     ],
     "educations": [
         {
-            "id": 0,
             "startDate": "2013-04-01",
             "collegeName": "Northeastern University, Boston",
             "degreeLevel": "MASTER",
             "majorName": "Sciences in Project Manager and Information Security"
         },
         {
-            "id": 1,
             "startDate": "2011-04-01",
             "endDate": "2013-04-01",
             "collegeName": "Northeastern University, Boston",
@@ -35,7 +32,6 @@
             "majorName": "Sciences in Global Studies and International Affairs"
         },
         {
-            "id": 2,
             "startDate": "2005-10-01",
             "endDate": "2008-10-01",
             "collegeName": "University of Buea Cameroon",
@@ -45,7 +41,6 @@
     ],
     "experiences": [
         {
-            "id": 0,
             "description": "· Implement security best practices around Clouds Infrastructure using tools like; VPC, AWS WAF, AWS SHIELD, AWSGuard Duty, VPC Flow logs, IAM, Security Groups, NACLs, Security Hub. \n· Also used CloudWatch and CloudTrail for Monitoring and Logging respectively, thereby utilizing these tools to monitorevent driven patterns and to integrated with Lambda Functions for Auto-remediations. \n· Using encryption and Certificates, for data security and Privacy using standard encryption mechanisms like KMS, forencryption at rest and encryption in transit. \n· Work with customers to define key capabilities and performance requirements. Develops technical roadmaps for futureimplementations. \n· Designed secure, cost-optimized, highly available, and fault-tolerant infrastructure in AWS. \n· Architected and configured Dev / Stage / QA environments in AWS (VPC, subnets, security groups, EC2 instances, loadbalancer, RDS, Redis, route53, etc.). \n· Implemented security best practices in AWS including multi-factor authentication, access key rotation, role-basedpermissions, enforced strong password policy, configured security groups and NACLs, S3 bucket policies and ACLs,etc. \n· Optimized cost through reserved instances, selection and changing of EC2 instance types based on resource need, S3storage classes and S3 lifecycle policies, leveraging Autoscaling, etc. \n· Leveraged EC2 CreateSnapshot API call to create snapshots of EBS Volumes on scheduled intervals. \n· Configured CloudWatch alarm rules for operational and performance metrics for AWS resources and applications. \n· Configured S3 events to set up automated communication between S3 and other AWS services. \n· Review Infrastructure as code and develop patterns, review patterns to support DevSecOps \n· Develops business case analysis on potential projects.Ensures security is integrated into all architecture solutions \n· Evaluates new application, infrastructure and cloud decisions in existing context of applications, infrastructure, standards,current business strategy and future business strategy. \n· Perform continues monitoring on the AWS, HUBZone, DataPipe, Salesforce and MS Azure cloud systems using Splunk,remediating all vulnerability and closing of all open POA&Ms. \n· Develop deliverables associated with a FedRAMP security authorization package (System Security Plan, InformationSystem Contingency Plan, Security Assessment Plan, Security Assessment Report, Authorization to Operate (ATO),Risk Assessment Report (RAR), Business Impact Analysis, Privacy Impact Analysis, Contingency Plan, ContingencyPlan Testing and Plan of Action & Milestones (POA&Ms). \n· Work closely with Engineer to deliver FedRAMP requirements and perform FedRAMP advisory engagements and 3PAOassessments and to ensure mitigation of System findings, updating POAMS. \n· Work with the client, SaaS providers and internal development team to identify security gaps and resolve them to protectclient data. \n· Establishing, monitoring, and re-assessing systems Plan of Action and Milestones to effectively address systemsweakness or vulnerabilities. \n· Advise developers and assist with the Lifecycle Assessment and Authorization (A&A) process and developing SSP. \n· Provide support for security related FedRAMP compliance controls; and audit systems, services, and processes to verifyadherence to company security policies and procedures. \n· Develop information security policies, standards, procedures, and best practices to support a FedRAMP moderateoperating environment. \n· Actively participate in the risk management program. \n· Perform security risk assessments, analyze results, and provide recommendations for mitigations/enhancements. \n· Consult with business groups and provide guidance on security-related topics and participate in team on-call rotation. \n· Preform detail Security Assessment on HUBZone, DataPipe, Salesforce and MS Azure AWS cloud systems by ensuringthat costumer responsibility statement and FedRAMP packages are well implemented. \n· Evaluate, recommend, and implement security solutions and practices that protect online services and information assetsand help the company manage risks and meet compliance obligations. ",
             "companyName": "XLA",
             "title": "FedRAMP Compliance /Clouds Security Architect",
@@ -53,7 +48,6 @@
             "current": true
         },
         {
-            "id": 1,
             "description": "· Implemented C&A duties and updated POA&M and Critical Control Review (CCR) analysis and remediation ofPOA&M and CCR findings. Involved in System Security Plan (SSP) Contingency Plans (CP) Contingency Plan Test(CPT), authorship, analysis and modification. \n· Provide ongoing gap analysis of current policies, practices, and procedures as they relate to established guidelinesoutlined by NIST, OMB, FISMA. \n· Updated and reviewed A&A Packages to include Core Docs, Policy & Procedures, Operations and Maintenance Artifacts,SSP, SAR, FIPS 200, FIPS 199, POA&M, BIA, PTA, PIA, and more Collected Operation and Maintenance artifacts onan ongoing basis so that Security Control Assessment (SCA) is seamless. \n· Provided security expertise and guidance in support of security assessments and supported A&A activities according tothe A&A project plan. \n· Reviewed authorization documentation for completeness and accuracy for compliance and facilitated Security ControlAssessment and Continuous Monitoring Activities. \n· Executed examine, interview, test procedures in accordance with NIST SP 800-53A Revision 4. \n· Oversaw the preparation of a Comprehensive and Executive Certification & Accreditation (C&A) packages forsubmission to the Information Assurance Program Office for approval of an Authorization to Operate. \n· Reviewed and updating System Security Plan based on findings from Assessing controls using NIST SP 800-18 rev1,NIST SP 800-53a rev4 and NIST SP 800-53. \n· Applies appropriate information control for Federal Information Security based on NIST 800-37 rev1, SP 800-53 rev4,FIPS 199 and FIPS 200. \n· Conduct Security Assessment via document examination, interviews and manual assessments; Populate the RequirementsTraceability Matrix (RTM) with results of Security Assessment. \n· Reviewed and update some of the system categorization using FIPS 199. Created and update Contingency plans andDisaster recovery plans for information systems using NIST SP 800 - 34. \n· Updated IT security policies, procedures, standards, and guidelines according to department and federal requirements. ",
             "companyName": "WASHINGTONTECH SOLUTION Inc.",
             "title": "Information Security Analyst",
@@ -61,179 +55,96 @@
             "endDate": "2016-11-01"
         }
     ],
-    "start_time": "",
-    "last_update_time": "",
-    "parser_cost_time": "",
-    "fileName": "Teddy Nsai AWS Resume .docx",
-    "page": "",
-    "size": 20,
-    "fileType": "docx",
     "skills": [
         {
-            "id": 0,
-            "skillName": "AWS",
-            "firstUsed": "2016-11-01",
-            "score": 81.96
+            "skillName": "AWS"
         },
         {
-            "id": 1,
-            "skillName": "S3",
-            "firstUsed": "2016-11-01",
-            "score": 26.48
+            "skillName": "S3"
         },
         {
-            "id": 2,
-            "skillName": "System",
-            "firstUsed": "2014-12-01",
-            "score": 17.08,
-            "usedMonth": 23.0
+            "skillName": "System"
         },
         {
-            "id": 3,
-            "skillName": "CloudWatch",
-            "firstUsed": "2016-11-01",
-            "score": 15.24
+            "skillName": "CloudWatch"
         },
         {
-            "id": 4,
-            "skillName": "EC2",
-            "firstUsed": "2016-11-01",
-            "score": 14.24
+            "skillName": "EC2"
         },
         {
-            "id": 5,
-            "skillName": "MS Azure",
-            "firstUsed": "2016-11-01",
-            "score": 12.24
+            "skillName": "MS Azure"
         },
         {
-            "id": 6,
-            "skillName": "Monitoring",
-            "firstUsed": "2014-12-01",
-            "score": 10.04,
-            "usedMonth": 23.0
+            "skillName": "Monitoring"
         },
         {
-            "id": 7,
-            "skillName": "Lambda",
-            "firstUsed": "2016-11-01",
-            "score": 8.120000000000001
+            "skillName": "Lambda"
         },
         {
-            "id": 8,
-            "skillName": "QA",
-            "firstUsed": "2016-11-01",
-            "score": 6.12
+            "skillName": "QA"
         },
         {
-            "id": 9,
-            "skillName": "Leveraged EC2 CreateSnapshot API",
-            "firstUsed": "2016-11-01",
-            "score": 6.12
+            "skillName": "Leveraged EC2 CreateSnapshot API"
         },
         {
-            "id": 10,
-            "skillName": "Testing",
-            "firstUsed": "2016-11-01",
-            "score": 6.12
+            "skillName": "Testing"
         },
         {
-            "id": 11,
-            "skillName": "AWS Systems",
-            "score": 2.0
+            "skillName": "AWS Systems"
         },
         {
-            "id": 12,
-            "skillName": "Project Management",
-            "score": 2.0
+            "skillName": "Project Management"
         },
         {
-            "id": 13,
-            "skillName": "planning",
-            "score": 2.0
+            "skillName": "planning"
         },
         {
-            "id": 14,
-            "skillName": "Cloud",
-            "score": 2.0
+            "skillName": "Cloud"
         },
         {
-            "id": 15,
-            "skillName": "Office",
-            "firstUsed": "2014-12-01",
-            "lastUsed": "2016-11-01",
-            "usedMonth": 23.0,
-            "score": 1.92
+            "skillName": "Office"
         },
         {
-            "id": 16,
-            "skillName": "RDS",
-            "score": 1.0
+            "skillName": "RDS"
         },
         {
-            "id": 17,
-            "skillName": "SDLC",
-            "score": 1.0
+            "skillName": "SDLC"
         },
         {
-            "id": 18,
-            "skillName": "Risk",
-            "score": 1.0
+            "skillName": "Risk"
         },
         {
-            "id": 19,
-            "skillName": "Communication",
-            "score": 1.0
+            "skillName": "Communication"
         },
         {
-            "id": 20,
-            "skillName": "Negotiation",
-            "score": 1.0
+            "skillName": "Negotiation"
         },
         {
-            "id": 21,
-            "skillName": "Mediation",
-            "score": 1.0
+            "skillName": "Mediation"
         },
         {
-            "id": 22,
-            "skillName": "Automation",
-            "score": 1.0
+            "skillName": "Automation"
         },
         {
-            "id": 23,
-            "skillName": "Ansible",
-            "score": 1.0
+            "skillName": "Ansible"
         },
         {
-            "id": 24,
-            "skillName": "Docker",
-            "score": 1.0
+            "skillName": "Docker"
         },
         {
-            "id": 25,
-            "skillName": "Jenkins",
-            "score": 1.0
+            "skillName": "Jenkins"
         },
         {
-            "id": 26,
-            "skillName": "Firewall",
-            "score": 1.0
+            "skillName": "Firewall"
         },
         {
-            "id": 27,
-            "skillName": "Access",
-            "score": 1.0
+            "skillName": "Access"
         },
         {
-            "id": 28,
-            "skillName": "Active Directory",
-            "score": 1.0
+            "skillName": "Active Directory"
         },
         {
-            "id": 29,
-            "skillName": "pli",
-            "score": 1.0
+            "skillName": "pli"
         }
     ]
 }

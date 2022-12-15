@@ -1,4 +1,5 @@
 {
+    "fullName": "Yichun Qu",
     "contacts": [
         {
             "type": "EMAIL",
@@ -67,9 +68,6 @@
             "endDate": "2015-06-01"
         }
     ],
-    "start_time": "",
-    "last_update_time": "",
-    "parser_cost_time": "",
     "skills": [
         {
             "skillName": "Power BI"
@@ -101,6 +99,5 @@
         {
             "skillName": "SAS"
         }
-    ],
-    "fullName": "Yichun Qu"
+    ]
 }

@@ -1,4 +1,5 @@
 {
+    "fullName": "李文",
     "contacts": [
         {
             "type": "EMAIL",
@@ -65,9 +66,6 @@
             "endDate": "2015-07-01"
         }
     ],
-    "start_time": "",
-    "last_update_time": "",
-    "parser_cost_time": "",
     "skills": [
         {
             "skillName": "研发"
@@ -186,6 +184,5 @@
         {
             "skillName": "期服务器维护"
         }
-    ],
-    "fullName": "李文"
+    ]
 }

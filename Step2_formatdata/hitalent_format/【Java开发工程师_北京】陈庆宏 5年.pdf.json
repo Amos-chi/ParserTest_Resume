@@ -1,4 +1,5 @@
 {
+    "fullName": "陈庆宏",
     "contacts": [
         {
             "type": "EMAIL",
@@ -40,9 +41,6 @@
             "endDate": "2021-06-01"
         }
     ],
-    "start_time": "",
-    "last_update_time": "",
-    "parser_cost_time": "",
     "skills": [
         {
             "skillName": "R"
@@ -146,6 +144,5 @@
         {
             "skillName": "学习能力"
         }
-    ],
-    "fullName": "陈庆宏"
+    ]
 }

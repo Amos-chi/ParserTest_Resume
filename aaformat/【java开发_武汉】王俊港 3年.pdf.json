@@ -2,12 +2,12 @@
     "fullName": "王俊港",
     "contacts": [
         {
-            "contact": "18071807610@163.com",
-            "type": "EMAIL"
+            "type": "EMAIL",
+            "contact": "18071807610@163.com"
         },
         {
-            "contact": "+8618071807610",
-            "type": "PHONE"
+            "type": "PHONE",
+            "contact": "+8618071807610"
         }
     ],
     "currentLocation": {
@@ -19,31 +19,34 @@
         }
     ],
     "languages": [
-        "中文"
+        "MANDARIN"
     ],
     "educations": [
         {
             "startDate": "2015-09-01",
             "endDate": "2019-07-01",
-            "collegeName": "三峡(大学(科技(学院)?)?)?",
-            "degreeLevel": "Bachelor"
+            "collegeName": "三峡大学科技学院",
+            "degreeLevel": "BACHELOR"
         }
     ],
     "experiences": [
         {
             "description": "求职意向 工作经历\n工作内容: 参与产品及项目开发，完成需求分析，完成子系统和模块设计。\n参与产品讨论，业务逻辑实现，根据项目任务计划按时完成软件编码和单元测试工作。\n根据产品需求，完成后端项目设计与开发，确保项目进度。",
-            "companyName": "(深圳市)?慧搭(科技(有限公司)?)?",
+            "companyName": "深圳市慧搭科技有限公司",
             "startDate": "2021-04-01",
             "endDate": "2022-09-01"
         },
         {
             "description": "工作内容: 主要从事软件编码工作\n涉及用户需求分析、功能模块分析及编码实现等。\n参与产品讨论、技术设计，与团队成员共同协作完成软件开发。",
-            "companyName": "(深圳)?慧订(网络(科技(有限公司)?)?)?",
+            "companyName": "深圳慧订网络科技有限公司",
             "startDate": "2019-08-01",
             "endDate": "2021-03-01"
         }
     ],
     "skills": [
+        {
+            "skillName": "设计"
+        },
         {
             "skillName": "Redis"
         },
@@ -51,10 +54,91 @@
             "skillName": "Docker"
         },
         {
+            "skillName": "需求分析"
+        },
+        {
             "skillName": "Spring"
         },
         {
+            "skillName": "Git"
+        },
+        {
+            "skillName": "微服务"
+        },
+        {
+            "skillName": "共同协作完成软件开发"
+        },
+        {
+            "skillName": "项目开发"
+        },
+        {
+            "skillName": "单元测试"
+        },
+        {
+            "skillName": "后端"
+        },
+        {
+            "skillName": "JavaSE"
+        },
+        {
+            "skillName": "面向对象"
+        },
+        {
+            "skillName": "OOP"
+        },
+        {
+            "skillName": "Mybatis"
+        },
+        {
+            "skillName": "SpringMVC"
+        },
+        {
+            "skillName": "SpringBoot"
+        },
+        {
+            "skillName": "RabbitMq"
+        },
+        {
+            "skillName": "SpringSecurity"
+        },
+        {
+            "skillName": "Oauth2"
+        },
+        {
+            "skillName": "Mysql"
+        },
+        {
             "skillName": "sql"
+        },
+        {
+            "skillName": "分布式"
+        },
+        {
+            "skillName": "Hystrix"
+        },
+        {
+            "skillName": "Linux"
+        },
+        {
+            "skillName": "持久化"
+        },
+        {
+            "skillName": "淘汰策略"
+        },
+        {
+            "skillName": "Elasticsearch"
+        },
+        {
+            "skillName": "协调"
+        },
+        {
+            "skillName": "XML"
+        },
+        {
+            "skillName": "HTML"
+        },
+        {
+            "skillName": "CSS"
         },
         {
             "skillName": "Jquery"
@@ -63,7 +147,19 @@
             "skillName": "JavaScript"
         },
         {
+            "skillName": "AJAX"
+        },
+        {
             "skillName": "java"
+        },
+        {
+            "skillName": "团队合作"
+        },
+        {
+            "skillName": "热爱编程"
+        },
+        {
+            "skillName": "沟通"
         }
     ]
 }

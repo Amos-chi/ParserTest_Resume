@@ -1,4 +1,5 @@
 {
+    "fullName": "Chloe Jennings",
     "contacts": [
         {
             "type": "EMAIL",
@@ -25,7 +26,6 @@
     "languages": [
         "ENGLISH"
     ],
-    "educations": "",
     "experiences": [
         {
             "description": "Carriedoutthesamedutiesasmostrecent roleatPostmates IncduetoUber's \nacquisition.WhilealsoutilizingUber'stools toassistwith orders on the Uber side as \ntheintegrationprogressed.LatertransitionedtoUber'snewPremiumSupport \ndepartment. ",
@@ -86,14 +86,9 @@
             "endDate": "2016-01-01"
         }
     ],
-    "start_time": "",
-    "last_update_time": "",
-    "parser_cost_time": "",
-    "page": "",
     "skills": [
         {
             "skillName": "support"
         }
-    ],
-    "fullName": "Chloe Jennings"
+    ]
 }

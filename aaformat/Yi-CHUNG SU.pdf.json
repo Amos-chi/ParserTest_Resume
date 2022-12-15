@@ -1,6 +1,5 @@
 {
-    "firstName": "Yi-Chung",
-    "lastName": "SU",
+    "fullName": "Yi-Chung SU",
     "contacts": [
         {
             "type": "EMAIL",
@@ -24,14 +23,12 @@
     ],
     "educations": [
         {
-            "id": 0,
             "endDate": "2018-04-01",
             "collegeName": "University of Michigan, Ann Arbor",
             "degreeLevel": "MASTER",
             "majorName": "Mechanical Engineering"
         },
         {
-            "id": 1,
             "endDate": "2014-06-01",
             "collegeName": "National Taiwan University, Taipei",
             "degreeLevel": "BACHELOR",
@@ -40,7 +37,6 @@
     ],
     "experiences": [
         {
-            "id": 0,
             "description": "•   Worked in the Agile Scrum team to improve the John Deere tractor’s control system with python and Docker. \n•   Redesigned the Tractor’s safety system to deal with emergency conditions based on Test-driven Development. \n•   Built the hardware simulator with fake CAN messages, fake perception messages and fake GPS data to test the system. \n•   Programmed unit tests and integration tests for every function in the program using Travis, Catch2, and Fake-it. \n•   Developed radar detection code using C++ and Bosch mid-range radar and Continental Radar. \n•   Launched a heartbeat program between main CPU and redundant CPU by serial communication. \n•   Implemented the Safety Stop program through I2C Bus between redundant CPU and brake module. \n•   Developed  the  speed  controller  algorithm(Gear  selection  and  throttle  adjustment)  for  tractors  with  Power  Shift Transmission by using state machine QNX environment. ",
             "companyName": "Smart Ag.",
             "title": "Autonomous Vehicle Engineer",
@@ -48,7 +44,6 @@
             "current": true
         },
         {
-            "id": 1,
             "description": "•   Built 3D CAD models including robotic arm, CNC, and conveyor system to demo industry 4.0 products. \n•   Simulated milling processes using ABB Robotstudio Machining PowerPac to assess its auto-path generation function. ",
             "companyName": "Syntec Technology",
             "title": "Mechanical Engineering Intern",
@@ -56,148 +51,81 @@
             "endDate": "2017-06-01"
         }
     ],
-    "start_time": "",
-    "last_update_time": "",
-    "parser_cost_time": "",
-    "fileName": "Yi-CHUNG SU.pdf",
-    "page": 1,
-    "size": 137,
-    "fileType": "pdf",
     "skills": [
         {
-            "id": 0,
-            "skillName": "CPU",
-            "firstUsed": "2018-09-01",
-            "score": 12.870000000000001
+            "skillName": "CPU"
         },
         {
-            "id": 1,
-            "skillName": "C++",
-            "firstUsed": "2018-09-01",
-            "score": 6.29
+            "skillName": "C++"
         },
         {
-            "id": 2,
-            "skillName": "Docker",
-            "firstUsed": "2018-09-01",
-            "score": 5.29
+            "skillName": "Docker"
         },
         {
-            "id": 3,
-            "skillName": "Scrum",
-            "firstUsed": "2018-09-01",
-            "score": 4.29
+            "skillName": "Scrum"
         },
         {
-            "id": 4,
-            "skillName": "Agile",
-            "firstUsed": "2018-09-01",
-            "score": 4.29
+            "skillName": "Agile"
         },
         {
-            "id": 5,
-            "skillName": "I2C",
-            "firstUsed": "2018-09-01",
-            "score": 4.29
+            "skillName": "I2C"
         },
         {
-            "id": 6,
-            "skillName": "QNX",
-            "firstUsed": "2018-09-01",
-            "score": 4.29
+            "skillName": "QNX"
         },
         {
-            "id": 7,
-            "skillName": "CUDA",
-            "score": 2.0
+            "skillName": "CUDA"
         },
         {
-            "id": 8,
-            "skillName": "Python",
-            "score": 1.0
+            "skillName": "Python"
         },
         {
-            "id": 9,
-            "skillName": "Matlab",
-            "score": 1.0
+            "skillName": "Matlab"
         },
         {
-            "id": 10,
-            "skillName": "Simulink",
-            "score": 1.0
+            "skillName": "Simulink"
         },
         {
-            "id": 11,
-            "skillName": "Labview",
-            "score": 1.0
+            "skillName": "Labview"
         },
         {
-            "id": 12,
-            "skillName": "Arduino",
-            "score": 1.0
+            "skillName": "Arduino"
         },
         {
-            "id": 13,
-            "skillName": "SolidWorks",
-            "score": 1.0
+            "skillName": "SolidWorks"
         },
         {
-            "id": 14,
-            "skillName": "Linux",
-            "score": 1.0
+            "skillName": "Linux"
         },
         {
-            "id": 15,
-            "skillName": "OpenCV",
-            "score": 1.0
+            "skillName": "OpenCV"
         },
         {
-            "id": 16,
-            "skillName": "ROS",
-            "score": 1.0
+            "skillName": "ROS"
         },
         {
-            "id": 17,
-            "skillName": "MySQL",
-            "score": 1.0
+            "skillName": "MySQL"
         },
         {
-            "id": 18,
-            "skillName": "Git",
-            "score": 1.0
+            "skillName": "Git"
         },
         {
-            "id": 19,
-            "skillName": "React",
-            "score": 1.0
+            "skillName": "React"
         },
         {
-            "id": 20,
-            "skillName": "Redux",
-            "score": 1.0
+            "skillName": "Redux"
         },
         {
-            "id": 21,
-            "skillName": "CI",
-            "score": 1.0
+            "skillName": "CI"
         },
         {
-            "id": 22,
-            "skillName": "CMake",
-            "score": 1.0
+            "skillName": "CMake"
         },
         {
-            "id": 23,
-            "skillName": "UDP",
-            "score": 1.0
+            "skillName": "UDP"
         },
         {
-            "id": 24,
-            "skillName": "CAD",
-            "firstUsed": "2017-05-01",
-            "lastUsed": "2017-06-01",
-            "usedMonth": 1.0,
-            "score": 0.08
+            "skillName": "CAD"
         }
     ]
 }

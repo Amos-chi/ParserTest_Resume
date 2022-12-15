@@ -2,12 +2,12 @@
     "fullName": "马晶晶",
     "contacts": [
         {
-            "contact": "lilypps@163.com",
-            "type": "EMAIL"
+            "type": "EMAIL",
+            "contact": "lilypps@163.com"
         },
         {
-            "contact": "+8615922435363",
-            "type": "PHONE"
+            "type": "PHONE",
+            "contact": "+8615922435363"
         }
     ],
     "currentLocation": {
@@ -19,14 +19,14 @@
         }
     ],
     "languages": [
-        "中文"
+        "MANDARIN"
     ],
     "educations": [
         {
             "startDate": "2010-09-01",
             "endDate": "2014-07-01",
             "collegeName": "安徽大学",
-            "degreeLevel": "Bachelor",
+            "degreeLevel": "BACHELOR",
             "majorName": "旅游管理"
         }
     ],
@@ -55,16 +55,46 @@
     ],
     "skills": [
         {
+            "skillName": "面试"
+        },
+        {
+            "skillName": "培训"
+        },
+        {
+            "skillName": "2016.04-2017.04 销售"
+        },
+        {
             "skillName": "数据分析"
         },
         {
             "skillName": "统计"
         },
         {
-            "skillName": "销售"
+            "skillName": "支持销售"
+        },
+        {
+            "skillName": "沟通"
+        },
+        {
+            "skillName": "PPT"
+        },
+        {
+            "skillName": "渠道"
+        },
+        {
+            "skillName": "协调"
         },
         {
             "skillName": "营销"
+        },
+        {
+            "skillName": "销售"
+        },
+        {
+            "skillName": "达成销售"
+        },
+        {
+            "skillName": "内部培训主持演讲能力"
         }
     ]
 }

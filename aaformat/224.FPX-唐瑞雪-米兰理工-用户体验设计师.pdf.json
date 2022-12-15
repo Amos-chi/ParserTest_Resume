@@ -1,6 +1,5 @@
 {
-    "firstName": "瑞雪",
-    "lastName": "唐",
+    "fullName": "唐瑞雪",
     "contacts": [
         {
             "type": "EMAIL",
@@ -22,7 +21,6 @@
     ],
     "educations": [
         {
-            "id": 0,
             "startDate": "2016-01-01",
             "endDate": "2017-01-01",
             "collegeName": "Kunstuniversitat",
@@ -31,80 +29,54 @@
     ],
     "experiences": [
         {
-            "id": 0,
             "companyName": "Fukusada Ltd.",
             "title": "Associate Product Designer (Internship)",
             "startDate": "2019-07-01",
             "endDate": "2019-10-01"
         },
         {
-            "id": 1,
             "companyName": "Teawith",
             "title": "Junior Product Designer",
             "endDate": "2018-09-01"
         },
         {
-            "id": 2,
             "companyName": "Fengming Company",
             "title": "Graphic Designer",
             "startDate": "2018-05-01",
             "endDate": "2018-07-01"
         },
         {
-            "id": 3,
             "companyName": "Jizao Industrial Design",
             "title": "Junior Product Designer",
             "endDate": "2018-05-01"
         },
         {
-            "id": 4,
             "companyName": "Company from",
             "title": "Graphic Designer in Advertising",
             "endDate": "2018-01-01"
         }
     ],
-    "start_time": "",
-    "last_update_time": "",
-    "parser_cost_time": "",
-    "fileName": "224.FPX-唐瑞雪-米兰理工-用户体验设计师.pdf",
-    "page": 32,
-    "size": 7749,
-    "fileType": "pdf",
     "skills": [
         {
-            "id": 0,
-            "skillName": "Product design",
-            "score": 2.0
+            "skillName": "Product design"
         },
         {
-            "id": 1,
-            "skillName": "Photoshop",
-            "score": 1.0
+            "skillName": "Photoshop"
         },
         {
-            "id": 2,
-            "skillName": "Illustrator",
-            "score": 1.0
+            "skillName": "Illustrator"
         },
         {
-            "id": 3,
-            "skillName": "Indesign",
-            "score": 1.0
+            "skillName": "Indesign"
         },
         {
-            "id": 4,
-            "skillName": "Rhino",
-            "score": 1.0
+            "skillName": "Rhino"
         },
         {
-            "id": 5,
-            "skillName": "R",
-            "score": 1.0
+            "skillName": "R"
         },
         {
-            "id": 6,
-            "skillName": "Industrial",
-            "score": 1.0
+            "skillName": "Industrial"
         }
     ]
 }

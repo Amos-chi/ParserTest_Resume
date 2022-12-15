@@ -1,4 +1,5 @@
 {
+    "fullName": "熊成",
     "contacts": [
         {
             "type": "EMAIL",
@@ -45,9 +46,6 @@
             "endDate": "2022-06-01"
         }
     ],
-    "start_time": "",
-    "last_update_time": "",
-    "parser_cost_time": "",
     "skills": [
         {
             "skillName": "hadoop"
@@ -100,6 +98,5 @@
         {
             "skillName": "项目开发"
         }
-    ],
-    "fullName": "熊成"
+    ]
 }
