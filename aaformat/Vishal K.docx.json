@@ -10,14 +10,6 @@
             "contact": "+15713101272"
         }
     ],
-    "currentLocation": {
-        "location": "Virginia"
-    },
-    "preferredLocations": [
-        {
-            "location": "Virginia"
-        }
-    ],
     "languages": [
         "ENGLISH"
     ],
@@ -52,298 +44,28 @@
             "skillName": "Jquery"
         },
         {
-            "skillName": "JavaScript"
-        },
-        {
-            "skillName": "Linux"
-        },
-        {
-            "skillName": "Rails"
-        },
-        {
-            "skillName": "HTML5"
-        },
-        {
-            "skillName": "CSS3"
-        },
-        {
-            "skillName": "Agile"
-        },
-        {
-            "skillName": "Bootstrap"
-        },
-        {
-            "skillName": "JSON"
-        },
-        {
-            "skillName": "Rubygems"
-        },
-        {
             "skillName": "Unix"
-        },
-        {
-            "skillName": "GIT"
-        },
-        {
-            "skillName": "RSPEC"
-        },
-        {
-            "skillName": "Cucumber"
-        },
-        {
-            "skillName": "AmazonEC2"
-        },
-        {
-            "skillName": "MySQL"
-        },
-        {
-            "skillName": "MongoDB"
-        },
-        {
-            "skillName": "Hive"
-        },
-        {
-            "skillName": "AngularJS"
-        },
-        {
-            "skillName": "ReactJS"
-        },
-        {
-            "skillName": "GitHub"
-        },
-        {
-            "skillName": "Restful"
-        },
-        {
-            "skillName": "WEBrick"
-        },
-        {
-            "skillName": "Pig"
-        },
-        {
-            "skillName": "Sqoop"
-        },
-        {
-            "skillName": "Oozie"
-        },
-        {
-            "skillName": "Ruby 2.3"
-        },
-        {
-            "skillName": "Ruby 2.5"
-        },
-        {
-            "skillName": "Rails 4.2"
-        },
-        {
-            "skillName": "Rails 5.2"
-        },
-        {
-            "skillName": "OJ"
-        },
-        {
-            "skillName": "Multi_JSON"
-        },
-        {
-            "skillName": "Minitest"
-        },
-        {
-            "skillName": "Faraday"
-        },
-        {
-            "skillName": "httparty"
-        },
-        {
-            "skillName": "Actionmailer"
-        },
-        {
-            "skillName": "Selenium-webdriver"
-        },
-        {
-            "skillName": "Capybara"
-        },
-        {
-            "skillName": "Devise"
-        },
-        {
-            "skillName": "concurrent-ruby"
-        },
-        {
-            "skillName": "Rubo 3T"
-        },
-        {
-            "skillName": "ROBOMONGO"
-        },
-        {
-            "skillName": "AMQP"
-        },
-        {
-            "skillName": "Docker"
-        },
-        {
-            "skillName": "Puma"
-        },
-        {
-            "skillName": "pli"
-        },
-        {
-            "skillName": "Ap"
         },
         {
             "skillName": "SQL"
         },
         {
-            "skillName": "Oracle"
-        },
-        {
             "skillName": "Java"
-        },
-        {
-            "skillName": "Ubuntu"
-        },
-        {
-            "skillName": "XML"
         },
         {
             "skillName": "Python"
         },
         {
-            "skillName": "Testing"
-        },
-        {
-            "skillName": "Apache"
-        },
-        {
-            "skillName": "Mac"
-        },
-        {
-            "skillName": "Operating Systems"
-        },
-        {
             "skillName": "Spring"
         },
         {
-            "skillName": "AWS"
-        },
-        {
-            "skillName": "EC2"
-        },
-        {
-            "skillName": "TCP"
-        },
-        {
-            "skillName": "Network Protocols"
-        },
-        {
             "skillName": "UI"
-        },
-        {
-            "skillName": "Programming"
-        },
-        {
-            "skillName": "SQLite"
-        },
-        {
-            "skillName": "AJAX"
         },
         {
             "skillName": "PHP"
         },
         {
             "skillName": "C++"
-        },
-        {
-            "skillName": "Scripting"
-        },
-        {
-            "skillName": "Tomcat"
-        },
-        {
-            "skillName": "LAMP"
-        },
-        {
-            "skillName": "UML"
-        },
-        {
-            "skillName": "Sublime"
-        },
-        {
-            "skillName": "Atom"
-        },
-        {
-            "skillName": "Eclipse"
-        },
-        {
-            "skillName": "Intellij"
-        },
-        {
-            "skillName": "EMR"
-        },
-        {
-            "skillName": "IP"
-        },
-        {
-            "skillName": "UDP"
-        },
-        {
-            "skillName": "Marketing"
-        },
-        {
-            "skillName": "HTML"
-        },
-        {
-            "skillName": "CSS"
-        },
-        {
-            "skillName": "JSP"
-        },
-        {
-            "skillName": "J2EE"
-        },
-        {
-            "skillName": "UX"
-        },
-        {
-            "skillName": "OOP"
-        },
-        {
-            "skillName": "Scrum"
-        },
-        {
-            "skillName": "Analyze"
-        },
-        {
-            "skillName": "TDD"
-        },
-        {
-            "skillName": "gherkin"
-        },
-        {
-            "skillName": "RDBMS"
-        },
-        {
-            "skillName": "MS-SQL"
-        },
-        {
-            "skillName": "NoSQL"
-        },
-        {
-            "skillName": "DB"
-        },
-        {
-            "skillName": "designing and implementation"
-        },
-        {
-            "skillName": "web frameworks"
-        },
-        {
-            "skillName": "XSLT"
-        },
-        {
-            "skillName": "ANT"
-        },
-        {
-            "skillName": "Angular"
         }
     ]
 }

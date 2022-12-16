@@ -7,8 +7,7 @@
         },
         {
             "type": "LINKEDIN",
-            "contact": "kuowei-huang",
-            "details": "https://www.linkedin.com/in/kuowei-huang"
+            "contact": "kuowei-huang"
         },
         {
             "type": "PHONE",
@@ -37,7 +36,7 @@
             "endDate": "2002-06-01",
             "collegeName": "University of California, Davis",
             "degreeLevel": "MASTER",
-            "majorName": "Engineering & Applied"
+            "majorName": "(Engineering\\W{0,5}Applied\\W{0,2}Science\\W{0,5})?Communications"
         },
         {
             "endDate": "1999-06-01",
@@ -85,58 +84,25 @@
     ],
     "skills": [
         {
-            "skillName": "System"
-        },
-        {
-            "skillName": "Self"
-        },
-        {
-            "skillName": "Access"
-        },
-        {
             "skillName": "Big Data Analytics"
-        },
-        {
-            "skillName": "Agile"
         },
         {
             "skillName": "Linux"
         },
         {
-            "skillName": "SNMP"
-        },
-        {
-            "skillName": "IP"
-        },
-        {
-            "skillName": "Surveillance"
-        },
-        {
-            "skillName": "Transformation"
-        },
-        {
-            "skillName": "Support"
-        },
-        {
             "skillName": "System Architecture"
-        },
-        {
-            "skillName": "NG Aeronautics Systems"
         },
         {
             "skillName": "AI"
         },
         {
-            "skillName": "large-scale mission critical"
+            "skillName": "SQL"
         },
         {
-            "skillName": "networks and aeronautics systems"
+            "skillName": "Tableau"
         },
         {
-            "skillName": "pli"
-        },
-        {
-            "skillName": "ICS"
+            "skillName": "Power BI"
         }
     ]
 }

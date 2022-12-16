@@ -1,5 +1,5 @@
 {
-    "fullName": "XIAOHANG\\W{0,1}FAN",
+    "fullName": "",
     "contacts": [
         {
             "type": "EMAIL",
@@ -29,29 +29,29 @@
     "educations": [
         {
             "endDate": "2020-12-01",
-            "collegeName": "(University of )?Wisconsin-?(Madison)?",
+            "collegeName": "",
             "degreeLevel": "MASTER",
-            "majorName": "(Science in )?Economics"
+            "majorName": ""
         },
         {
             "endDate": "2019-06-01",
-            "collegeName": "Shanghai University of Finance( and Economics)?",
+            "collegeName": "",
             "degreeLevel": "BACHELOR",
-            "majorName": "[Economics in Finance|Economics|Finance]"
+            "majorName": ""
         }
     ],
     "experiences": [
         {
-            "description": "•    Conducted market research and case studies of current trends and prospects in the insurance industry \n•    Consolidated data and key findings into presentations and reports deliverable to clients ",
-            "companyName": "Ernst( & Young( LLP.)?)?",
-            "title": "((FSO-)?PI)? Intern",
+            "description": "",
+            "companyName": "",
+            "title": "",
             "startDate": "2019-08-01",
             "endDate": "2019-12-01"
         },
         {
-            "description": "•    Analyzed industry data using WIND to evaluate potential growth opportunities \n•    Presented weekly updates to the management team, reviewing current projects and key next steps ",
-            "companyName": "Northeast Securities( Co.(, Ltd.)?)?",
-            "title": "Strategic Planning Intern",
+            "description": "",
+            "companyName": "NortheastSecurities(Co(Ltd)?)?",
+            "title": "",
             "startDate": "2019-01-01",
             "endDate": "2019-04-01"
         }

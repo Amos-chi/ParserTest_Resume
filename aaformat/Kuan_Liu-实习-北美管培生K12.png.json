@@ -7,8 +7,7 @@
         },
         {
             "type": "LINKEDIN",
-            "contact": "kuan-liu",
-            "details": "https://www.linkedin.com/in/kuan-liu"
+            "contact": "kuan-liu"
         },
         {
             "type": "PHONE",
@@ -16,11 +15,11 @@
         }
     ],
     "currentLocation": {
-        "location": "Fullerton, CA 92835 1"
+        "location": "Fullerton, CA 92835"
     },
     "preferredLocations": [
         {
-            "location": "Fullerton, CA 92835 1"
+            "location": "Fullerton, CA 92835"
         }
     ],
     "languages": [
@@ -29,11 +28,14 @@
     ],
     "educations": [
         {
+            "startDate": "2020-09-01",
+            "endDate": "2022-06-01",
             "collegeName": "StanfordUniversity",
             "degreeLevel": "MASTER",
             "majorName": "Materials Science and Engineering"
         },
         {
+            "endDate": "2019-12-01",
             "collegeName": "University of California,Berkeley",
             "degreeLevel": "BACHELOR",
             "majorName": "Chemical Engineering"
@@ -43,13 +45,14 @@
         {
             "description": "• Leveraged Python computer vision and deep learning modules to extract information from piping and instrumentation diaqrams (P&IDs) as part of a team of three interns. \n• Provided a P&ID UI feature for the gas turbine human-machine interface using JavaScript, HTML andcss. ",
             "companyName": "Solar Turbines",
+            "title": "Software Engineering Assistant",
             "startDate": "2020-06-01",
             "endDate": "2020-08-01"
         },
         {
             "description": "• Implemented thermodynamic equilibrium calculations in MATLAB for predicting ternary phase diagrams of salt hydrate systems. \n• Investigated methods for synthesizing novel salt hydrate materials. ",
-            "companyName": "National RenewableEnergy Laboratory",
-            "title": "EngineeringMaterialsIntern",
+            "companyName": "National Renewable Energy Laboratory",
+            "title": "Engineering Materials Intern",
             "startDate": "2020-01-01",
             "endDate": "2020-05-01"
         },
@@ -62,7 +65,7 @@
         },
         {
             "description": "• Developed Python and Bash programs to automatically calculate energies of perovskite materials withDFT. ",
-            "companyName": "MarkAsta Computational Materials ScienceResearch Group",
+            "companyName": "Mark Asta Computational Materials ScienceResearch Group",
             "title": "Undergraduate Research Assistant",
             "startDate": "2018-07-01",
             "endDate": "2019-05-01"
@@ -73,31 +76,13 @@
             "skillName": "Python"
         },
         {
-            "skillName": "Bash"
-        },
-        {
             "skillName": "MATLAB"
         },
         {
             "skillName": "Java"
         },
         {
-            "skillName": "HTML"
-        },
-        {
-            "skillName": "JavaScript"
-        },
-        {
-            "skillName": "CSS"
-        },
-        {
-            "skillName": "COMSOL"
-        },
-        {
             "skillName": "data science"
-        },
-        {
-            "skillName": "CFD"
         },
         {
             "skillName": "CAD"

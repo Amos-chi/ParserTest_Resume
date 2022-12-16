@@ -1,17 +1,9 @@
 {
-    "fullName": "Ting Huang Shu",
+    "fullName": "ShuTingHuang",
     "contacts": [
         {
             "type": "PHONE",
             "contact": "+447493060066"
-        }
-    ],
-    "currentLocation": {
-        "location": "United Kingdom"
-    },
-    "preferredLocations": [
-        {
-            "location": "United Kingdom"
         }
     ],
     "languages": [
@@ -23,21 +15,21 @@
         {
             "startDate": "2015-01-01",
             "endDate": "2017-01-01",
-            "collegeName": "Royal College of Art, London",
+            "collegeName": "Royal College of Art",
             "degreeLevel": "MASTER",
             "majorName": "Innovation Design Engineering"
         },
         {
             "startDate": "2015-01-01",
             "endDate": "2017-01-01",
-            "collegeName": "Imperial College",
+            "collegeName": "Imperial College London",
             "degreeLevel": "MASTER",
             "majorName": "Innovation Design Engineering"
         },
         {
             "startDate": "2009-01-01",
             "endDate": "2014-01-01",
-            "collegeName": "Shih Chien University, Taipei",
+            "collegeName": "Shih Chien University",
             "degreeLevel": "BACHELOR",
             "majorName": "Industrial Design"
         }
@@ -96,31 +88,7 @@
             "skillName": "Adobe Photoshop"
         },
         {
-            "skillName": "User Journey Map"
-        },
-        {
             "skillName": "Sketch"
-        },
-        {
-            "skillName": "Final Cut Pro"
-        },
-        {
-            "skillName": "Usability Test"
-        },
-        {
-            "skillName": "Analog"
-        },
-        {
-            "skillName": "Unity"
-        },
-        {
-            "skillName": "Lathe"
-        },
-        {
-            "skillName": "Coding"
-        },
-        {
-            "skillName": "Soldering"
         },
         {
             "skillName": "Python"
@@ -135,25 +103,10 @@
             "skillName": "Tensorflow"
         },
         {
-            "skillName": "Communication"
-        },
-        {
             "skillName": "Project Management"
         },
         {
-            "skillName": "industrial"
-        },
-        {
-            "skillName": "B"
-        },
-        {
             "skillName": "UI"
-        },
-        {
-            "skillName": "pli"
-        },
-        {
-            "skillName": "Satellite"
         }
     ]
 }

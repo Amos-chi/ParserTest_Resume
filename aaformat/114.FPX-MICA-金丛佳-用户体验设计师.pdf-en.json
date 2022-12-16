@@ -10,14 +10,6 @@
             "contact": "+8617801011020"
         }
     ],
-    "currentLocation": {
-        "location": "Beijing"
-    },
-    "preferredLocations": [
-        {
-            "location": "Beijing"
-        }
-    ],
     "languages": [
         "MANDARIN",
         "ENGLISH"
@@ -26,23 +18,19 @@
         {
             "startDate": "2018-01-01",
             "endDate": "2020-01-01",
-            "collegeName": "Maryland Institute",
+            "collegeName": "Maryland Institute College of Art (MICA)",
+            "degreeLevel": "MASTER",
             "majorName": "Graphic Design"
         },
         {
             "startDate": "2014-01-01",
             "endDate": "2018-01-01",
             "collegeName": "Beijing Institute of Fashion Technology (BIFT)",
+            "degreeLevel": "BACHELOR",
             "majorName": "Visual Communication Design"
         }
     ],
     "experiences": [
-        {
-            "description": ":针对国外院校视觉类课程为学生编写学习材料:\n·并且进行作品集辅导于提升。",
-            "companyName": "汉艺国际教育",
-            "title": "兼职辅导老师",
-            "endDate": "2020-01-01"
-        },
         {
             "description": "Produced study materials in a variety of academic subjects to \nhelp senior students improve their design portfolio. ",
             "companyName": "H ART International Art Education",
@@ -56,26 +44,9 @@
             "endDate": "2020-01-01"
         },
         {
-            "description": ":为最毕设教育设计平台撰写有关设计类的文章分享；\n:其中包含个人经验，设计教育讲座分析以及国内外\n优秀设计作品的分析与推荐。",
-            "companyName": "最毕设教育平台自由撰稿人",
-            "endDate": "2020-01-01"
-        },
-        {
-            "description": ":参与由马里兰艺术学院官方编辑整理的设计杂志\nFullBleed:AJournalofArt&DesignJournal的版式与文字设计。",
-            "companyName": "马里兰艺术学院",
-            "title": "自由设计师",
-            "endDate": "2019-01-01"
-        },
-        {
             "description": "Full Bleed: A Journal of Art & Design Journal published by MICA, \ndesigned and edited by students. \nFilm Branding project, collaborated with film major MFA \nstudents. Worked on the design of visual identity including \nposters, EPK and website design. ",
             "companyName": "Maryland Institute College of Art",
             "title": "Freelance Designer",
-            "endDate": "2019-01-01"
-        },
-        {
-            "description": "·与高级设计师合作并辅助其完成设计项目；:其中有参与为客户项自提出设计概念\n·进行设计项目以及部分项目的创意部分的进一步完善:版式调整，插才，以及摄影图片的效果调整。",
-            "companyName": "KUDOSDesign",
-            "title": "设计实习",
             "endDate": "2019-01-01"
         },
         {
@@ -91,42 +62,21 @@
             "endDate": "2019-01-01"
         },
         {
-            "description": "研究生阶段担任本科大四平面设计课程版式设计课程教授MaureenWeiss的课程助教，在课程中与教授合作制定课程内容\n·参与小组的作业分析与讲解。",
-            "companyName": "马里兰艺",
-            "endDate": "2019-01-01"
-        },
-        {
-            "description": ":2019与电影系研究生的合作项，为其研究生毕业作品影片设计\n海报、EPK等相关视觉宣传。",
-            "companyName": "电影品牌项目",
-            "endDate": "2019-01-01"
-        },
-        {
             "description": "Created a branding image with a theme of “Solitude”. Included \nan expanded concept, design for a logo and visual identity. \nOrganized and assigned tasks to each member for completion \nof their work. ",
             "companyName": "Brand Design Seminar",
             "title": "Design Project Group Leader",
             "endDate": "2016-01-01"
         },
         {
-            "description": "·为美国运通百夫长信用金卡设计相关视觉包括卡面文学排版，包装及卡面的视觉呈现方式。",
-            "companyName": "中国建设银行",
-            "title": "自由设计师",
-            "endDate": "2016-01-01"
-        },
-        {
             "description": "Designed a specific visual identity for the American \nExpress Centurion Card, including the typography, packaging, \nand the display of the card. ",
-            "companyName": "Maryland Institute College of Art",
+            "companyName": "China Construction Bank",
+            "title": "Freelance Designer",
             "endDate": "2016-01-01"
         }
     ],
     "skills": [
         {
-            "skillName": "设计"
-        },
-        {
             "skillName": "Branding"
-        },
-        {
-            "skillName": "研究"
         },
         {
             "skillName": "Motion Graphic"
@@ -150,25 +100,7 @@
             "skillName": "HTML"
         },
         {
-            "skillName": "Coding Lightroom"
-        },
-        {
-            "skillName": "Lightroom"
-        },
-        {
-            "skillName": "Coding"
-        },
-        {
-            "skillName": "用户体验"
-        },
-        {
-            "skillName": "编辑"
-        },
-        {
             "skillName": "Graphic Design"
-        },
-        {
-            "skillName": "Express"
         }
     ]
 }

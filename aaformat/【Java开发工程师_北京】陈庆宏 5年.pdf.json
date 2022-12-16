@@ -1,5 +1,5 @@
 {
-    "fullName": "陈庆宏",
+    "fullName": "陈庆宏|(CHENQINGHONG)",
     "contacts": [
         {
             "type": "EMAIL",
@@ -11,11 +11,11 @@
         }
     ],
     "currentLocation": {
-        "location": "Jinan, Shandong"
+        "location": "北京"
     },
     "preferredLocations": [
         {
-            "location": "Jinan, Shandong"
+            "location": "北京"
         }
     ],
     "languages": [
@@ -24,6 +24,7 @@
     "educations": [
         {
             "collegeName": "山东科技大学",
+            "degreeLevel": "BACHELOR",
             "majorName": "计算机科学与技术"
         }
     ],
@@ -43,106 +44,13 @@
     ],
     "skills": [
         {
-            "skillName": "R"
-        },
-        {
-            "skillName": "关系型数据库"
-        },
-        {
-            "skillName": "Spring"
-        },
-        {
-            "skillName": "消息队列"
-        },
-        {
-            "skillName": "b"
-        },
-        {
-            "skillName": "从事 web 项目后台开发"
-        },
-        {
-            "skillName": "项目后期维护"
-        },
-        {
-            "skillName": "不断优化"
-        },
-        {
             "skillName": "Java"
-        },
-        {
-            "skillName": "Java 面向对象编程"
-        },
-        {
-            "skillName": "Idea"
-        },
-        {
-            "skillName": "Git"
-        },
-        {
-            "skillName": "Maven"
-        },
-        {
-            "skillName": "MySQL"
-        },
-        {
-            "skillName": "Oracle"
         },
         {
             "skillName": "sql"
         },
         {
-            "skillName": "Mybatis"
-        },
-        {
-            "skillName": "等进行项目开发"
-        },
-        {
             "skillName": "Redis"
-        },
-        {
-            "skillName": "RabbitMq"
-        },
-        {
-            "skillName": "Active"
-        },
-        {
-            "skillName": "Linux"
-        },
-        {
-            "skillName": "Springcloud"
-        },
-        {
-            "skillName": "SpringBoot 对项目进行开发"
-        },
-        {
-            "skillName": "Dubbo"
-        },
-        {
-            "skillName": "Zookeeper"
-        },
-        {
-            "skillName": "分布式"
-        },
-        {
-            "skillName": "Elasticsearch"
-        },
-        {
-            "skillName": "JavaScript"
-        },
-        {
-            "skillName": "dojo"
-        },
-        {
-            "skillName": "分析能力"
-        },
-        {
-            "skillName": "动手能力"
-        },
-        {
-            "skillName": "沟通"
-        },
-        {
-            "skillName": "学习能力"
         }
     ]
 }

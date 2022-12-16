@@ -10,21 +10,15 @@
             "contact": "lihaoji1994@163.com"
         }
     ],
-    "currentLocation": {
-        "location": "Tianjin"
-    },
-    "preferredLocations": [
-        {
-            "location": "Tianjin"
-        }
-    ],
     "languages": [
         "MANDARIN"
     ],
     "educations": [
         {
             "startDate": "2020-04-01",
+            "current": true,
             "collegeName": "北京邮电大学",
+            "degreeLevel": "BACHELOR",
             "majorName": "计算机信息管理"
         },
         {
@@ -63,70 +57,10 @@
             "skillName": "Redis"
         },
         {
-            "skillName": "分布式"
-        },
-        {
-            "skillName": "沟通能力"
-        },
-        {
-            "skillName": "JUC"
-        },
-        {
-            "skillName": "多线程编程"
-        },
-        {
-            "skillName": "数据结构"
-        },
-        {
-            "skillName": "算法"
-        },
-        {
-            "skillName": "Spring"
-        },
-        {
-            "skillName": "SpringMVC"
-        },
-        {
-            "skillName": "Mybatis"
-        },
-        {
-            "skillName": "Springcloud"
-        },
-        {
-            "skillName": "微服务"
-        },
-        {
-            "skillName": "SpringBoot"
-        },
-        {
             "skillName": "SQL"
         },
         {
-            "skillName": "索引优化"
-        },
-        {
-            "skillName": "MySQL"
-        },
-        {
-            "skillName": "熟练使用 SQL语句编程"
-        },
-        {
-            "skillName": "过期策略"
-        },
-        {
-            "skillName": "消息中间件"
-        },
-        {
             "skillName": "Linux"
-        },
-        {
-            "skillName": "判断能力"
-        },
-        {
-            "skillName": "学习能力"
-        },
-        {
-            "skillName": "抗压能力"
         }
     ]
 }

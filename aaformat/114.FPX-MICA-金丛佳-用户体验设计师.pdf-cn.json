@@ -1,0 +1,106 @@
+{
+    "fullName": "金丛佳",
+    "contacts": [
+        {
+            "type": "EMAIL",
+            "contact": "cjin02@mica.edu"
+        },
+        {
+            "type": "PHONE",
+            "contact": "+8617801011020"
+        }
+    ],
+    "languages": [
+        "MANDARIN",
+        "ENGLISH"
+    ],
+    "educations": [
+        {
+            "startDate": "2018-01-01",
+            "endDate": "2020-01-01",
+            "collegeName": "马里兰艺术设计学院（MICA）",
+            "degreeLevel": "MASTER",
+            "majorName": "平面设计专业"
+        },
+        {
+            "startDate": "2014-01-01",
+            "endDate": "2018-01-01",
+            "collegeName": "北京服装学院（BIFT）",
+            "degreeLevel": "BACHELOR",
+            "majorName": "视觉传达"
+        }
+    ],
+    "experiences": [
+        {
+            "description": ":针对国外院校视觉类课程为学生编写学习材料:\n·并且进行作品集辅导于提升。",
+            "companyName": "汉艺国际教育",
+            "title": "兼职辅导老师",
+            "endDate": "2020-01-01"
+        },
+        {
+            "description": ":为最毕设教育设计平台撰写有关设计类的文章分享；\n:其中包含个人经验，设计教育讲座分析以及国内外\n优秀设计作品的分析与推荐。",
+            "companyName": "最毕设教育平台",
+            "title": "自由撰稿人",
+            "endDate": "2020-01-01"
+        },
+        {
+            "description": ":参与由马里兰艺术学院官方编辑整理的设计杂志\nFullBleed:AJournalofArt&DesignJournal的版式与文字设计。",
+            "companyName": "马里兰艺术学院",
+            "title": "自由设计师",
+            "endDate": "2019-01-01"
+        },
+        {
+            "description": "·与高级设计师合作并辅助其完成设计项目；:其中有参与为客户项自提出设计概念\n·进行设计项目以及部分项目的创意部分的进一步完善:版式调整，插才，以及摄影图片的效果调整。",
+            "companyName": "KUDOS Design",
+            "title": "设计实习",
+            "endDate": "2019-01-01"
+        },
+        {
+            "description": "研究生阶段担任本科大四平面设计课程版式设计课程教授MaureenWeiss的课程助教，在课程中与教授合作制定课程内容\n·参与小组的作业分析与讲解。",
+            "companyName": "马里兰艺术学院",
+            "title": "研究生助教",
+            "endDate": "2019-01-01"
+        },
+        {
+            "description": ":2019与电影系研究生的合作项，为其研究生毕业作品影片设计\n海报、EPK等相关视觉宣传。",
+            "companyName": "电影品牌项目",
+            "title": "自由设计师",
+            "endDate": "2019-01-01"
+        },
+        {
+            "description": "·为美国运通百夫长信用金卡设计相关视觉包括卡面文学排版，包装及卡面的视觉呈现方式。",
+            "companyName": "中国建设银行",
+            "title": "自由设计师",
+            "endDate": "2016-01-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "设计"
+        },
+        {
+            "skillName": "Photography"
+        },
+        {
+            "skillName": "Illustrator"
+        },
+        {
+            "skillName": "InDesign"
+        },
+        {
+            "skillName": "Photoshop"
+        },
+        {
+            "skillName": "CSS"
+        },
+        {
+            "skillName": "HTML"
+        },
+        {
+            "skillName": "用户体验"
+        },
+        {
+            "skillName": "Graphic Design"
+        }
+    ]
+}

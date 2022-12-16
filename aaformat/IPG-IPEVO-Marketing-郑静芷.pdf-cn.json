@@ -6,20 +6,8 @@
             "contact": "uczi410@ucl.ac.uk"
         },
         {
-            "type": "EMAIL",
-            "contact": "uczl410@ucl.ac.uk"
-        },
-        {
             "type": "PHONE",
             "contact": "+8615601720763"
-        }
-    ],
-    "currentLocation": {
-        "location": "Shanghai"
-    },
-    "preferredLocations": [
-        {
-            "location": "Shanghai"
         }
     ],
     "languages": [
@@ -31,21 +19,9 @@
         {
             "startDate": "2018-09-01",
             "endDate": "2019-09-01",
+            "collegeName": "伦敦大学学院(UCL)",
             "degreeLevel": "MASTER",
             "majorName": "Entrepreneurship"
-        },
-        {
-            "startDate": "2011-09-01",
-            "endDate": "2019-09-01",
-            "collegeName": "伦敦大学学院",
-            "degreeLevel": "MASTER",
-            "majorName": "Entrepreneurship"
-        },
-        {
-            "startDate": "2009-09-01",
-            "endDate": "2013-07-01",
-            "collegeName": "Dalian University",
-            "degreeLevel": "BACHELOR"
         },
         {
             "startDate": "2009-09-01",
@@ -53,11 +29,6 @@
             "collegeName": "大连理工大学",
             "degreeLevel": "BACHELOR",
             "majorName": "日语"
-        },
-        {
-            "startDate": "2011-09-01",
-            "endDate": "2012-09-01",
-            "collegeName": "OsakaUniversity"
         }
     ],
     "experiences": [
@@ -69,23 +40,11 @@
             "endDate": "2022-05-01"
         },
         {
-            "description": "-Conduct customerpersonaanalysis and marketresearchtoprovide insightson market trends and marketing strategy. -Make marketingplan&managethemarketing projects including live stream,social media campaign,miniprogram,social mediaKOL,oohetc.tobuildbrandreputation and get customer leads. Ensure all the maketing project quality in line with EF brand positioning -Makevideo creativeplan,and managebranding video,Douyin video and other contentproductionprojects,ensurethe contentquality,trackthe ads effectsdatato provide insights on marketing strategy and increase ROl. \n- Lead partnership and communication with vendors and internal teams to ensureall the marketing projects progress smoothly. ",
-            "title": "EFEducationFirst/Digital MarketingProjectManager",
-            "startDate": "2021-11-01",
-            "endDate": "2022-05-01"
-        },
-        {
             "description": "负责通过各种市场宣传，为英国高端私立中学进行招生\n-负责微信公众号、微博、b站的账号搭建运营，把控账号方向定位，进行内容\n素材的设计和文案的创作，与其他留学教育类KOL账号的合作联动，获取流量，\n-与供应商合作，进行网站设计搭建，日常运营，以及网站的百度S巨O投放。\n-负责线上直播活动和线下学校宣传活动的策划和推进，确保活动顺利进行。\n-描写用户画像，并根据画像进行朋友卷广告投放。\n-公司品牌V、海报、宣传册、视频以及其他素材的制作管理。",
             "companyName": "上海佰思英教育科技有限公司",
             "title": "市场主管",
             "startDate": "2020-06-01",
             "endDate": "2021-10-01"
-        },
-        {
-            "description": "Nikon/Mitsubishi/Asahi PR project. Help clients manage brand risk and make brand \nstrategies through public opinion monitoring. \n-Analyzepublicopinionmonitoringdata of Nikonand its competitors \n(Canon/Sony/FujiFilm),writedaily&monthlyPRreportsinChinese&Japanesethat \nhelpNikonlearnitsbrandmediaexposuresituation,themarketingstrategies& \nproductinformationof competitors,product information. \n-Collectnewsletterdata of Asahibeer/Mitsubishi andtheir competitorbrands, \nanalyzethe data and writeweekly&monthlyreporttohelp clients learncompetitor \nproduct information, market information, corporate strategies etc. ",
-            "title": "ASATSU-DK/PR(Freelancer)",
-            "startDate": "2020-10-01",
-            "endDate": "2021-09-01"
         },
         {
             "description": "尼康相机以三菱电机/朝日啤酒PR项目。进行翼情监测，帮助客户了解品牌露出\n情况，进行风险管理。\n-每日分析品牌及竞品的舆情监测数据，撰写中日文的分析日报和月报，帮助了\n解产品露出情况、市场动态、企业方针等。\n-每周监测品牌新闻、社交媒体评论等信息，分析整理撰写中日文周报，帮助了\n解市场动态、新品信息和各企业战略方针。\n-公关事件案例调香整理。",
@@ -95,31 +54,11 @@
             "endDate": "2021-09-01"
         },
         {
-            "description": "-Incharge ofsocial media accounts(wechat,bilibili,weibo) togetcustomerleads \nand build brand reputation.Content designand copywriting are included \n-Make company website design plan,partner with vendorto build the website,and in \ncharge of the website operation. Lead partnership with vendor to make SEO \nmarketing. \n-Leadonline&offlineevents(workshop,livestream),makeeventplan,manage \nthe event project, ensure the smooth running of event. \n-Produce &ManageV,posters,brochures, videos and other marketing content. ",
-            "companyName": "UK Boarding Schools Admission",
-            "startDate": "2020-06-01",
-            "endDate": "2020-10-01"
-        },
-        {
-            "description": "-Makeannualmarketingstrategyforclients \n-Wechat officialaccountplanning &operation including content creation \ncopywriting,campaignetc \n-Build &operate websiteforclients includingnews release,banner update, \ncampaignetc. \n-Planand implementproductcampaignstoimprovesalesforclients \n-Organizeevents likeworkshops/exhibitions/media interviews/anniversaryevents \netc. \n-Createmarketingmaterials&contentlikebrochure/posters/video/productphotos. \n-Partnerwithvendortodevelopcompanyappforclient,plantheappandmanage \nthe whole APP development project. ",
-            "companyName": "ShimadzuAdcom",
-            "title": "AccountManager",
-            "startDate": "2016-01-01",
-            "endDate": "2018-05-01"
-        },
-        {
             "description": "为各个岛津集团旗下公司制定医疗器械&化学检测市场的相关市场策略并执行\n市场活动。\n-与岛津市场部沟通，了解需求，制定年度市场计划和各项活动方案。\n-负责微信公众号的策划运营，包括设计排版、文章撰写、微信campaign活动\n策划等。\n-负责网站的改版设计搭建的策划执行，以及网站日常维护，如素材的设计更\n新，新闻更新等。\n-负责在相关行业媒体上进行广告投放。负责定期进行EDM邮件广告投放。\n-沙龙/媒体采访/讲座等线下活动、大型医疗展会等的策划和落地执行。\n-产品宣传册（海报纪念品视频等物料的设计制作和管理。\n-与外包公司合作，策划并开发手机app，帮助更好展示和线上购买产品\n-对各个平台的客户线索素进行收集分类，并反馈给相关的销售。",
             "companyName": "岛津Adcom",
             "title": "广告客户经理",
             "startDate": "2016-01-01",
             "endDate": "2018-05-01"
-        },
-        {
-            "description": "-ConductChinaprojectormarket research&dataanalysis/Productdata \nmanagement /Newproductplan \n-Communicate andpartnerwithglobal Hitachisalescompanies&Japanmarketing \nteamto support salesactivities,productdevelopment and marketingstrategy \n-Makeannual marketingplanandimplementmarketing activities & strategies \nincludingglobalexhibitions（InfoCommChina/InfocommUSA/ISE)/product \nbrochures/Vi/magazineads \n-Visitclients(government&dealers)periodicallytomaintaingoodcustomer \nrelationshipandgetlearnings ofuserexperience,userneedsandmarket \ninformation, ",
-            "companyName": "HitachiDigitalProductsChinaCo.,Ltd",
-            "title": "Global Marketing specialist",
-            "startDate": "2013-11-01",
-            "endDate": "2016-01-01"
         },
         {
             "description": "主要负责策划执行日立投影机产品的各种市场活动，促进销售。\n，通过拜访客户、与咨询公司合作等了解用户需求、市场信息等，与日本工程\n师团队&中国销售团队合作，进行产品线设计&产品定价等。\n-负责全球大型电子消费展会以及线下活动的策划和执行，包括北京InfoComm\n展、美国InfoComm展、荷兰LSE展等，以及国内其他电子产品类展会、代理\n商大会。与供应商以及各部团队协调合作，确保展会的顺利实施。\n-与日立全球销售公司7日本市场团队&技未团队沟通，帮助内部协作，反馈客\n户需求等，推进全球市场销售。\n-宣传册、海报、杂志广告、V等各种市场物料的制作管理。",
@@ -143,61 +82,10 @@
             "skillName": "广告投放"
         },
         {
-            "skillName": "沟通"
-        },
-        {
-            "skillName": "市场策略"
-        },
-        {
-            "skillName": "campaign"
-        },
-        {
-            "skillName": "网站日常维护"
-        },
-        {
-            "skillName": "EDM"
-        },
-        {
-            "skillName": "团队合作"
-        },
-        {
-            "skillName": "InfoComm"
-        },
-        {
-            "skillName": "协调"
-        },
-        {
-            "skillName": "b"
-        },
-        {
             "skillName": "Photoshop"
         },
         {
-            "skillName": "FinalCut"
-        },
-        {
-            "skillName": "公关"
-        },
-        {
-            "skillName": "视频拍摄"
-        },
-        {
-            "skillName": "投放策略"
-        },
-        {
             "skillName": "数据分析"
-        },
-        {
-            "skillName": "不断优化"
-        },
-        {
-            "skillName": "研究"
-        },
-        {
-            "skillName": "用户画像"
-        },
-        {
-            "skillName": "SEO"
         }
     ]
 }

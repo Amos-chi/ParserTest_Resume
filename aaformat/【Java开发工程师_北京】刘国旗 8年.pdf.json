@@ -69,118 +69,16 @@
     ],
     "skills": [
         {
-            "skillName": "设计"
-        },
-        {
-            "skillName": "单元测试"
-        },
-        {
-            "skillName": "需求分析"
-        },
-        {
-            "skillName": "研究"
-        },
-        {
-            "skillName": "Mysql"
-        },
-        {
             "skillName": "Redis"
-        },
-        {
-            "skillName": "担任项目开发"
         },
         {
             "skillName": "Java"
         },
         {
-            "skillName": "jsp"
-        },
-        {
-            "skillName": "后端"
-        },
-        {
-            "skillName": "研发"
-        },
-        {
-            "skillName": "B"
-        },
-        {
-            "skillName": "BC"
-        },
-        {
-            "skillName": "协调能力"
-        },
-        {
-            "skillName": "逻辑思维能力"
-        },
-        {
-            "skillName": "抗压能力"
-        },
-        {
-            "skillName": "toB"
-        },
-        {
-            "skillName": "openapi"
-        },
-        {
-            "skillName": "文档开发"
-        },
-        {
-            "skillName": "测试"
-        },
-        {
-            "skillName": "spring"
-        },
-        {
-            "skillName": "springboot"
-        },
-        {
-            "skillName": "springcloud等主流开发"
-        },
-        {
             "skillName": "SQL"
         },
         {
-            "skillName": "NoSQL"
-        },
-        {
-            "skillName": "Mybatis"
-        },
-        {
             "skillName": "Linux"
-        },
-        {
-            "skillName": "ZooKeeper"
-        },
-        {
-            "skillName": "RPC"
-        },
-        {
-            "skillName": "XML"
-        },
-        {
-            "skillName": "JSON"
-        },
-        {
-            "skillName": "MaVen"
-        },
-        {
-            "skillName": "GIT"
-        },
-        {
-            "skillName": "SOA"
-        },
-        {
-            "skillName": "微服务"
-        },
-        {
-            "skillName": "JVM"
-        },
-        {
-            "skillName": "沟通表达能力"
-        },
-        {
-            "skillName": "逻辑能力"
         }
     ]
 }

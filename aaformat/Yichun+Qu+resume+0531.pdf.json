@@ -33,7 +33,7 @@
         {
             "startDate": "2014-09-01",
             "endDate": "2016-08-01",
-            "collegeName": "Shanghai Jiao Tong University",
+            "collegeName": "(Shanghai Jiao Tong University)|(The University of Texas at Dallas, Naveen Jindal School of Management)",
             "degreeLevel": "MASTER",
             "majorName": "Finance"
         },
@@ -73,28 +73,16 @@
             "skillName": "Power BI"
         },
         {
-            "skillName": "Excel"
-        },
-        {
             "skillName": "SQL"
         },
         {
             "skillName": "Tableau"
         },
         {
-            "skillName": "CRM"
-        },
-        {
-            "skillName": "PowerPoint"
-        },
-        {
             "skillName": "ERP"
         },
         {
             "skillName": "Python"
-        },
-        {
-            "skillName": "R"
         },
         {
             "skillName": "SAS"

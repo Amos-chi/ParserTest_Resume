@@ -1,17 +1,9 @@
 {
-    "fullName": "唐瑞雪",
+    "fullName": "(唐瑞雪)|(RUIXUE\\W{0,2}TANG)",
     "contacts": [
         {
             "type": "EMAIL",
             "contact": "ashley.ruixue@yahoo.com"
-        }
-    ],
-    "currentLocation": {
-        "location": "Kyoto, Japan"
-    },
-    "preferredLocations": [
-        {
-            "location": "Kyoto, Japan"
         }
     ],
     "languages": [
@@ -21,15 +13,16 @@
     ],
     "educations": [
         {
-            "startDate": "2016-01-01",
+            "startDate": "2013-01-01",
             "endDate": "2017-01-01",
-            "collegeName": "Kunstuniversitat",
+            "collegeName": "ShanghaiMaritime(University)?",
+            "degreeLevel": "BACHELOR",
             "majorName": "Industrial Design"
         }
     ],
     "experiences": [
         {
-            "companyName": "Fukusada Ltd.",
+            "companyName": "Fukusada(Ltd)?",
             "title": "Associate Product Designer (Internship)",
             "startDate": "2019-07-01",
             "endDate": "2019-10-01"
@@ -37,6 +30,7 @@
         {
             "companyName": "Teawith",
             "title": "Junior Product Designer",
+            "startDate": "2018-07-01",
             "endDate": "2018-09-01"
         },
         {
@@ -48,11 +42,13 @@
         {
             "companyName": "Jizao Industrial Design",
             "title": "Junior Product Designer",
+            "startDate": "2018-01-01",
             "endDate": "2018-05-01"
         },
         {
-            "companyName": "Company from",
-            "title": "Graphic Designer in Advertising",
+            "companyName": "Advertising Company",
+            "title": "Graphic Designer",
+            "startDate": "2017-11-01",
             "endDate": "2018-01-01"
         }
     ],
@@ -71,9 +67,6 @@
         },
         {
             "skillName": "Rhino"
-        },
-        {
-            "skillName": "R"
         },
         {
             "skillName": "Industrial"

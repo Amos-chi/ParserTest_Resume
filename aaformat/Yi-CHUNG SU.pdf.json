@@ -53,9 +53,6 @@
     ],
     "skills": [
         {
-            "skillName": "CPU"
-        },
-        {
             "skillName": "C++"
         },
         {
@@ -65,64 +62,19 @@
             "skillName": "Scrum"
         },
         {
-            "skillName": "Agile"
-        },
-        {
-            "skillName": "I2C"
-        },
-        {
-            "skillName": "QNX"
-        },
-        {
-            "skillName": "CUDA"
-        },
-        {
             "skillName": "Python"
         },
         {
             "skillName": "Matlab"
         },
         {
-            "skillName": "Simulink"
-        },
-        {
-            "skillName": "Labview"
-        },
-        {
-            "skillName": "Arduino"
-        },
-        {
-            "skillName": "SolidWorks"
-        },
-        {
             "skillName": "Linux"
-        },
-        {
-            "skillName": "OpenCV"
-        },
-        {
-            "skillName": "ROS"
         },
         {
             "skillName": "MySQL"
         },
         {
-            "skillName": "Git"
-        },
-        {
             "skillName": "React"
-        },
-        {
-            "skillName": "Redux"
-        },
-        {
-            "skillName": "CI"
-        },
-        {
-            "skillName": "CMake"
-        },
-        {
-            "skillName": "UDP"
         },
         {
             "skillName": "CAD"

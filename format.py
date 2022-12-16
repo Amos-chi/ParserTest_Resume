@@ -130,7 +130,7 @@ def hitlant_format():
         del jdata['lastName']
 
         for j in jdata['contacts']:
-            contactsKeys = ['createdDate', 'lastModifiedDate', 'sort']
+            contactsKeys = ['createdDate', 'lastModifiedDate', 'sort', 'details']
             for e in contactsKeys:
                 if j.get(e) or j.get(e) == 0:
                     del j[e]

@@ -1,5 +1,5 @@
 {
-    "fullName": "Chloe Jennings",
+    "fullName": "ChloeJennings",
     "contacts": [
         {
             "type": "EMAIL",
@@ -7,8 +7,7 @@
         },
         {
             "type": "LINKEDIN",
-            "contact": "chloe",
-            "details": "https://www.linkedin.com/in/chloe"
+            "contact": "chloe-jennings-31a785175"
         },
         {
             "type": "PHONE",
@@ -16,11 +15,11 @@
         }
     ],
     "currentLocation": {
-        "location": "158LynnwoodCircle"
+        "location": "158 Lynnwood Circle·Clraksville,TN·37040"
     },
     "preferredLocations": [
         {
-            "location": "158LynnwoodCircle"
+            "location": "158 Lynnwood Circle·Clraksville,TN·37040"
         }
     ],
     "languages": [
@@ -30,34 +29,34 @@
         {
             "description": "Carriedoutthesamedutiesasmostrecent roleatPostmates IncduetoUber's \nacquisition.WhilealsoutilizingUber'stools toassistwith orders on the Uber side as \ntheintegrationprogressed.LatertransitionedtoUber'snewPremiumSupport \ndepartment. ",
             "companyName": "UberTechnology",
-            "title": "COESpecialistII",
+            "title": "COE Specialist II",
             "startDate": "2021-03-01",
             "current": true
         },
         {
-            "description": "Offeringinboundsupporttoourtopandmostprominentbusinessesontheplatform \nviaphoneand email.Forissues suchasliveorderconcerns,accountupdates,and ",
+            "description": "Offeringinboundsupporttoourtopandmostprominentbusinessesontheplatform \nviaphoneand email.Forissues suchasliveorderconcerns,accountupdates,and supportingtechnicaldifficulties. ",
             "companyName": "PostmatesInc",
-            "title": "VIPSupportSpecialist",
+            "title": "VIP Support Specialist",
             "startDate": "2021-02-01",
             "endDate": "2021-03-01"
         },
         {
-            "description": "supportingtechnicaldifficulties. \nphoneoremail.Assistedwithconcernsoveraccountissuesandupdatesaswellas ",
-            "companyName": "Offeringinboundsupporttocustomers,drivers,andbusinessesontheplatformvia",
-            "title": "Account&TechSupportSpecialist",
+            "description": "Offeringinboundsupporttocustomers,drivers,andbusinessesontheplatformvia \nphoneoremail.Assistedwithconcernsoveraccountissuesandupdatesaswellas technicalsupport",
+            "companyName": "PostmatesInc",
+            "title": "Account & Tech Support Specialist",
             "startDate": "2020-11-01",
             "endDate": "2021-02-01"
         },
         {
-            "description": "technicalsupport. \nissuessuchasliveorderconcerns,accountupdates,andsupportingtechnical \ndifficulties. ",
-            "companyName": "Offeringinboundsupporttobusinessesontheplatformviaphoneandemail.For",
-            "title": "MerchantSupportSpecialist",
+            "description": "Offeringinboundsupporttobusinessesontheplatformviaphoneandemail.For\nissuessuchasliveorderconcerns,accountupdates,andsupportingtechnical \ndifficulties. ",
+            "companyName": "PostmatesInc",
+            "title": "Merchant Support Specialist",
             "startDate": "2020-03-01",
             "endDate": "2020-11-01"
         },
         {
             "companyName": "PublixSupermarkets·920Highway76",
-            "title": "DeliAssociate",
+            "title": "Deli Associate",
             "startDate": "2019-08-01",
             "endDate": "2020-03-01"
         },
@@ -69,19 +68,20 @@
         },
         {
             "description": "ManageallUniversityRecreationsocialmediaaccountsonFacebook,Twitter,and \nInstagram.Creatingengagingcontentforeachplatformandkeepingfollowers \ninformedofallupcomingeventsandclasscancellationsasrequired. ",
-            "companyName": "451MarionStreet",
-            "title": "APSUUniversityRecreation|MarketingIntern",
+            "companyName": "APSUUniversityRecreation",
+            "title": "Marketing Intern",
             "startDate": "2018-12-01",
             "endDate": "2019-04-01"
         },
         {
             "companyName": "SonicDriveIn 1761iWilmaRudolphBlvd",
-            "title": "CrewLeader",
+            "title": "Crew Leader",
             "startDate": "2016-01-01",
             "endDate": "2017-08-01"
         },
         {
             "companyName": "SonicDriveIn 1761iWilmaRudolphBlvd",
+            "title": "Car Hop",
             "startDate": "2015-05-01",
             "endDate": "2016-01-01"
         }

@@ -4,6 +4,10 @@
         {
             "type": "EMAIL",
             "contact": "nsaiemperior@yahoo.com"
+        },
+        {
+            "type": "PHONE",
+            "contact": "8573120689 "
         }
     ],
     "currentLocation": {
@@ -20,6 +24,7 @@
     "educations": [
         {
             "startDate": "2013-04-01",
+            "current": true,
             "collegeName": "Northeastern University, Boston",
             "degreeLevel": "MASTER",
             "majorName": "Sciences in Project Manager and Information Security"
@@ -60,91 +65,22 @@
             "skillName": "AWS"
         },
         {
-            "skillName": "S3"
-        },
-        {
-            "skillName": "System"
-        },
-        {
             "skillName": "CloudWatch"
-        },
-        {
-            "skillName": "EC2"
         },
         {
             "skillName": "MS Azure"
         },
         {
-            "skillName": "Monitoring"
-        },
-        {
             "skillName": "Lambda"
         },
         {
-            "skillName": "QA"
-        },
-        {
-            "skillName": "Leveraged EC2 CreateSnapshot API"
-        },
-        {
-            "skillName": "Testing"
-        },
-        {
-            "skillName": "AWS Systems"
-        },
-        {
             "skillName": "Project Management"
-        },
-        {
-            "skillName": "planning"
-        },
-        {
-            "skillName": "Cloud"
-        },
-        {
-            "skillName": "Office"
-        },
-        {
-            "skillName": "RDS"
-        },
-        {
-            "skillName": "SDLC"
-        },
-        {
-            "skillName": "Risk"
-        },
-        {
-            "skillName": "Communication"
-        },
-        {
-            "skillName": "Negotiation"
-        },
-        {
-            "skillName": "Mediation"
-        },
-        {
-            "skillName": "Automation"
-        },
-        {
-            "skillName": "Ansible"
         },
         {
             "skillName": "Docker"
         },
         {
             "skillName": "Jenkins"
-        },
-        {
-            "skillName": "Firewall"
-        },
-        {
-            "skillName": "Access"
-        },
-        {
-            "skillName": "Active Directory"
-        },
-        {
-            "skillName": "pli"
         }
     ]
 }

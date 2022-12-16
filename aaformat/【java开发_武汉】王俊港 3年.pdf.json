@@ -10,12 +10,9 @@
             "contact": "+8618071807610"
         }
     ],
-    "currentLocation": {
-        "location": "Huanggang, Hubei"
-    },
     "preferredLocations": [
         {
-            "location": "Huanggang, Hubei"
+            "location": "武汉"
         }
     ],
     "languages": [
@@ -31,7 +28,7 @@
     ],
     "experiences": [
         {
-            "description": "求职意向 工作经历\n工作内容: 参与产品及项目开发，完成需求分析，完成子系统和模块设计。\n参与产品讨论，业务逻辑实现，根据项目任务计划按时完成软件编码和单元测试工作。\n根据产品需求，完成后端项目设计与开发，确保项目进度。",
+            "description": "工作内容: 参与产品及项目开发，完成需求分析，完成子系统和模块设计。\n参与产品讨论，业务逻辑实现，根据项目任务计划按时完成软件编码和单元测试工作。\n根据产品需求，完成后端项目设计与开发，确保项目进度。",
             "companyName": "深圳市慧搭科技有限公司",
             "startDate": "2021-04-01",
             "endDate": "2022-09-01"
@@ -45,67 +42,13 @@
     ],
     "skills": [
         {
-            "skillName": "设计"
-        },
-        {
             "skillName": "Redis"
         },
         {
             "skillName": "Docker"
         },
         {
-            "skillName": "需求分析"
-        },
-        {
-            "skillName": "Spring"
-        },
-        {
-            "skillName": "Git"
-        },
-        {
-            "skillName": "微服务"
-        },
-        {
-            "skillName": "共同协作完成软件开发"
-        },
-        {
-            "skillName": "项目开发"
-        },
-        {
-            "skillName": "单元测试"
-        },
-        {
-            "skillName": "后端"
-        },
-        {
             "skillName": "JavaSE"
-        },
-        {
-            "skillName": "面向对象"
-        },
-        {
-            "skillName": "OOP"
-        },
-        {
-            "skillName": "Mybatis"
-        },
-        {
-            "skillName": "SpringMVC"
-        },
-        {
-            "skillName": "SpringBoot"
-        },
-        {
-            "skillName": "RabbitMq"
-        },
-        {
-            "skillName": "SpringSecurity"
-        },
-        {
-            "skillName": "Oauth2"
-        },
-        {
-            "skillName": "Mysql"
         },
         {
             "skillName": "sql"
@@ -120,46 +63,7 @@
             "skillName": "Linux"
         },
         {
-            "skillName": "持久化"
-        },
-        {
-            "skillName": "淘汰策略"
-        },
-        {
-            "skillName": "Elasticsearch"
-        },
-        {
-            "skillName": "协调"
-        },
-        {
-            "skillName": "XML"
-        },
-        {
-            "skillName": "HTML"
-        },
-        {
-            "skillName": "CSS"
-        },
-        {
             "skillName": "Jquery"
-        },
-        {
-            "skillName": "JavaScript"
-        },
-        {
-            "skillName": "AJAX"
-        },
-        {
-            "skillName": "java"
-        },
-        {
-            "skillName": "团队合作"
-        },
-        {
-            "skillName": "热爱编程"
-        },
-        {
-            "skillName": "沟通"
         }
     ]
 }

@@ -27,6 +27,7 @@
             "startDate": "2010-09-01",
             "endDate": "2014-06-01",
             "collegeName": "北京工业大学",
+            "degreeLevel": "BACHELOR",
             "majorName": "通信工程"
         }
     ],
@@ -53,12 +54,6 @@
             "endDate": "2018-03-01"
         },
         {
-            "description": "开心屋社区是一个专为公司开心屋公益项目提供的，用于相关全国各地的老师交流、分享的论坛，并且提供简单CMS功能，可以让更多人了解开心屋公益项目。系统主要提供新闻、论坛相关基本功能、开心屋游戏打卡签到、开心屋人才管理等功能。主要负责:\n● 整理需求，制作功能结构图，制作页面原型，数据库设计\n● 域名申请及备案\n● 独立完成前后端开发工作并部署上线\n● 后期服务器维护技术栈:\n● Spring MVC \n● Spring Data JPA \n● MySQL \n● VueJS ",
-            "companyName": "开心屋社区",
-            "startDate": "2017-04-01",
-            "endDate": "2017-06-01"
-        },
-        {
             "description": "负责在线学习平台的功能优化和新功能开发功能；负责在线学习平台用户的技术支持工作 ；\n负责公司内部网络管理工作。",
             "companyName": "北京华夏赛科技术发展有限公司",
             "title": "Java开发工程师",
@@ -68,31 +63,13 @@
     ],
     "skills": [
         {
-            "skillName": "研发"
-        },
-        {
-            "skillName": "CI"
-        },
-        {
-            "skillName": "设计"
-        },
-        {
             "skillName": "运维"
-        },
-        {
-            "skillName": "重难点功能开发"
         },
         {
             "skillName": "Scrum"
         },
         {
-            "skillName": "心理学"
-        },
-        {
             "skillName": "项目管理"
-        },
-        {
-            "skillName": "全部开发"
         },
         {
             "skillName": "Docker"
@@ -101,67 +78,7 @@
             "skillName": "Java"
         },
         {
-            "skillName": "R"
-        },
-        {
-            "skillName": "功能优化"
-        },
-        {
-            "skillName": "新功能开发"
-        },
-        {
-            "skillName": "Spring MVC"
-        },
-        {
-            "skillName": "JPA"
-        },
-        {
-            "skillName": "Spring Data"
-        },
-        {
-            "skillName": "MySQL"
-        },
-        {
             "skillName": "JQuery"
-        },
-        {
-            "skillName": "Cloud"
-        },
-        {
-            "skillName": "Spring"
-        },
-        {
-            "skillName": "Javascript"
-        },
-        {
-            "skillName": "Elasticsearch"
-        },
-        {
-            "skillName": "团队管理"
-        },
-        {
-            "skillName": "全栈"
-        },
-        {
-            "skillName": "JVM"
-        },
-        {
-            "skillName": "多线程"
-        },
-        {
-            "skillName": "微服务"
-        },
-        {
-            "skillName": "消息中间件"
-        },
-        {
-            "skillName": "Vue"
-        },
-        {
-            "skillName": "React"
-        },
-        {
-            "skillName": "DevOps"
         },
         {
             "skillName": "Python"
@@ -171,18 +88,6 @@
         },
         {
             "skillName": "Nodejs"
-        },
-        {
-            "skillName": "沟通"
-        },
-        {
-            "skillName": "对软件开发"
-        },
-        {
-            "skillName": "后端开发"
-        },
-        {
-            "skillName": "期服务器维护"
         }
     ]
 }

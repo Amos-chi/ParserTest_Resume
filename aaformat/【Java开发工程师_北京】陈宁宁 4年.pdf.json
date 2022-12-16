@@ -27,7 +27,33 @@
     ],
     "educations": [
         {
-            "degreeLevel": "BACHELOR"
+            "endDate": "2019-01-01",
+            "collegeName": "石家庄学院",
+            "degreeLevel": "BACHELOR",
+            "majorName": "软件工程"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "负责腾讯会议渠道设计与开发、其他业务处理以及页面开发",
+            "companyName": "上海朝讯（北京）",
+            "title": "JAVA开发工程师",
+            "startDate": "2021-07-01",
+            "current": true
+        },
+        {
+            "description": "负责后端部分业务开发",
+            "companyName": "石家庄聪联科技有限公司",
+            "title": "JAVA开发工程师",
+            "startDate": "2019-07-01",
+            "endDate": "2021-06-01"
+        },
+        {
+            "description": "参与亚信大型电商开发建设",
+            "companyName": "亚信科技校企合作中心",
+            "title": "实习",
+            "startDate": "2018-06-01",
+            "endDate": "2019-06-01"
         }
     ],
     "skills": [
@@ -41,49 +67,10 @@
             "skillName": "Redis"
         },
         {
-            "skillName": "ES"
-        },
-        {
-            "skillName": "Mybatis"
-        },
-        {
-            "skillName": "Spring"
-        },
-        {
-            "skillName": "SpringMVC"
-        },
-        {
-            "skillName": "SpringBoot"
-        },
-        {
             "skillName": "JAVA"
         },
         {
-            "skillName": "数据结构"
-        },
-        {
-            "skillName": "算法"
-        },
-        {
-            "skillName": "Lambda"
-        },
-        {
-            "skillName": "问题排查能力"
-        },
-        {
             "skillName": "linux"
-        },
-        {
-            "skillName": "git"
-        },
-        {
-            "skillName": "svn"
-        },
-        {
-            "skillName": "maven"
-        },
-        {
-            "skillName": "postman"
         }
     ]
 }

@@ -51,34 +51,13 @@
             "skillName": "hadoop"
         },
         {
-            "skillName": "Springboot+Redis+Mysql+Mybatis+SpringCloud"
-        },
-        {
-            "skillName": "Springboot+Alluxio+Presto+Flume+Kafka+Hadoop+Redis"
-        },
-        {
             "skillName": "java"
-        },
-        {
-            "skillName": "SpringBoot"
-        },
-        {
-            "skillName": "Spring"
-        },
-        {
-            "skillName": "Mybatis 等相关开发"
-        },
-        {
-            "skillName": "后端开发"
         },
         {
             "skillName": "Mysql"
         },
         {
             "skillName": "Redis"
-        },
-        {
-            "skillName": "大数据"
         },
         {
             "skillName": "hive"
@@ -88,15 +67,6 @@
         },
         {
             "skillName": "flink"
-        },
-        {
-            "skillName": "团队合作"
-        },
-        {
-            "skillName": "交流能力"
-        },
-        {
-            "skillName": "项目开发"
         }
     ]
 }
