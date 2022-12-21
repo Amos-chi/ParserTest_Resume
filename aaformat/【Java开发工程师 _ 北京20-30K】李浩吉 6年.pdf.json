@@ -31,19 +31,19 @@
     ],
     "experiences": [
         {
-            "companyName": "小黄狗环保科技有限公司",
+            "companyName": "小黄狗环保(科技(有限公司))?",
             "title": "Java开发工程师",
             "startDate": "2019-11-01",
             "current": true
         },
         {
-            "companyName": "软通动力信息技术有限公司",
+            "companyName": "软通动力(信息技术(有限公司)?)?",
             "title": "Java开发工程师",
             "startDate": "2017-08-01",
             "endDate": "2019-10-01"
         },
         {
-            "companyName": "北京中宝世纪科技有限公司",
+            "companyName": "北京中宝世纪(科技(有限公司)?)?",
             "title": "Java开发工程师",
             "startDate": "2016-07-01",
             "endDate": "2017-08-01"

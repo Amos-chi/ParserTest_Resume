@@ -15,11 +15,11 @@
         }
     ],
     "currentLocation": {
-        "location": "Shijiazhuang, Hebei"
+        "location": "Shijiazhuang(\\W{0,2}Hebei)?"
     },
     "preferredLocations": [
         {
-            "location": "Shijiazhuang, Hebei"
+            "location": "Shijiazhuang(\\W{0,2}Hebei)?"
         }
     ],
     "languages": [
@@ -36,21 +36,21 @@
     "experiences": [
         {
             "description": "负责腾讯会议渠道设计与开发、其他业务处理以及页面开发",
-            "companyName": "上海朝讯（北京）",
+            "companyName": "上海朝讯",
             "title": "JAVA开发工程师",
             "startDate": "2021-07-01",
             "current": true
         },
         {
             "description": "负责后端部分业务开发",
-            "companyName": "石家庄聪联科技有限公司",
+            "companyName": "石家庄聪联(科技(有限公司)?)?",
             "title": "JAVA开发工程师",
             "startDate": "2019-07-01",
             "endDate": "2021-06-01"
         },
         {
             "description": "参与亚信大型电商开发建设",
-            "companyName": "亚信科技校企合作中心",
+            "companyName": "亚信科技(校企合作中心)?",
             "title": "实习",
             "startDate": "2018-06-01",
             "endDate": "2019-06-01"

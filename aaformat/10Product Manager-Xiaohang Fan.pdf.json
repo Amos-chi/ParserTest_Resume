@@ -69,7 +69,7 @@
             "skillName": "Python"
         },
         {
-            "skillName": "MSOffice"
+            "skillName": "MS\\W{0,2}Office"
         },
         {
             "skillName": "市场调研"

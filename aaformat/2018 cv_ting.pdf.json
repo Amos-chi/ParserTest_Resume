@@ -15,21 +15,21 @@
         {
             "startDate": "2015-01-01",
             "endDate": "2017-01-01",
-            "collegeName": "Royal College of Art",
+            "collegeName": "RoyalCollegeofArt(\\W{0,3}London)?",
             "degreeLevel": "MASTER",
             "majorName": "Innovation Design Engineering"
         },
         {
             "startDate": "2015-01-01",
             "endDate": "2017-01-01",
-            "collegeName": "Imperial College London",
+            "collegeName": "ImperialCollege(London)?",
             "degreeLevel": "MASTER",
             "majorName": "Innovation Design Engineering"
         },
         {
             "startDate": "2009-01-01",
             "endDate": "2014-01-01",
-            "collegeName": "Shih Chien University",
+            "collegeName": "ShihChien(University(\\W{0,3}Taipei)?)?",
             "degreeLevel": "BACHELOR",
             "majorName": "Industrial Design"
         }
@@ -37,35 +37,35 @@
     "experiences": [
         {
             "description": "Human-centred design is the key to give Emotech’s products \nspirit. As an interaction designer, I am responsible for envisioning \nand executing the interaction between people and robot in the \nfuture home scenario, assessing product requirements (costs, \nmanufacturing feasibility and market requirements, etc.); doing \ncomplex tasks related to artificial intelligence and collaborating \nwith our machine learning scientists, researchers and developers; \ngaining experience working with a multi-disciplinary team. ",
-            "companyName": "Emotech Ltd.",
+            "companyName": "Emotech(Ltd\\W{0,2})?",
             "title": "Interaction Designer",
             "startDate": "2017-04-01",
             "current": true
         },
         {
             "description": "An 8-week internship working in the design team to understand \nusers and social impact of space technology. This is part of the \nSpace Placements in INdustry (SPIN) scheme, which is managed \nby the Institute for Environmental Analytics at the University of \nReading and supported by the Satellite Applications Catapult and \nthe UK Space Agency. ",
-            "companyName": "Satellite Applications Catapult",
+            "companyName": "SatelliteApplicationsCatapult",
             "title": "Design Thinker",
             "startDate": "2016-07-01",
             "endDate": "2016-08-01"
         },
         {
             "description": "Commissioned by the company as a contract designer to design its \nIPO presentation materials, including understanding and \nvisualising the company’s value proposition, as well as its products \n(long-acting analgesic injection and small molecule for the acute \nischemic stroke treatment). ",
-            "companyName": "Lumosa Therapeutics co. Ltd.",
+            "companyName": "LumosaTherapeutics(co\\W{0,2}(Ltd\\W{0,2})?)?",
             "title": "Designer",
             "startDate": "2015-04-01",
             "endDate": "2015-07-01"
         },
         {
             "description": "Hired as a UX designer by Migo. I organised compatible structures \nof a project by field research (shadowing and interviewing \npotential users in Manila, the Philippines), defining user journey \nmap, narrating user stories and conducting usability tests (e.g. \nA/B testing). Migo is a consumer-focused innovation company \nfocusing on emerging markets, where transformative innovation in \nentertainment is lacking. ",
-            "companyName": "Migo TV",
+            "companyName": "MigoTV",
             "title": "Imagineer",
             "startDate": "2014-09-01",
             "endDate": "2015-03-01"
         },
         {
             "description": "Worked in the project \"Experimental Program of Visual Guiding \nSystem\" as a UI designer with Taipei Digital Art Centre, Smart \nNetwork System Institute of the Institute for Information Industry, \nChipSiP Technology Co. and Kupo Co., Ltd. ",
-            "companyName": "Taipei Digital Art Centre",
+            "companyName": "TaipeiDigitalArtCentre",
             "title": "UI Designer",
             "startDate": "2014-05-01",
             "endDate": "2014-07-01"
@@ -85,7 +85,7 @@
             "skillName": "Illustrator"
         },
         {
-            "skillName": "Adobe Photoshop"
+            "skillName": "Adobe\\W{0,2}Photoshop"
         },
         {
             "skillName": "Sketch"
@@ -103,7 +103,7 @@
             "skillName": "Tensorflow"
         },
         {
-            "skillName": "Project Management"
+            "skillName": "Project\\W{0,2}Management"
         },
         {
             "skillName": "UI"

@@ -1,5 +1,5 @@
 {
-    "fullName": "Teddy Nsai",
+    "fullName": "TeddyNsai",
     "contacts": [
         {
             "type": "EMAIL",
@@ -11,11 +11,11 @@
         }
     ],
     "currentLocation": {
-        "location": "9108 Elaine Court Apt X3, Laurel MD 20708"
+        "location": "9108\\W{0,2}Elaine\\W{0,2}Court\\W{0,2}Apt\\W{0,2}X3\\W{0,3}Laurel\\W{0,2}MD\\W{0,2}20708"
     },
     "preferredLocations": [
         {
-            "location": "9108 Elaine Court Apt X3, Laurel MD 20708"
+            "location": "9108\\W{0,2}Elaine\\W{0,2}Court\\W{0,2}Apt\\W{0,2}X3\\W{0,3}Laurel\\W{0,2}MD\\W{0,2}20708"
         }
     ],
     "languages": [
@@ -25,21 +25,21 @@
         {
             "startDate": "2013-04-01",
             "current": true,
-            "collegeName": "Northeastern University, Boston",
+            "collegeName": "NortheasternUniversity\\W{0,2}Boston",
             "degreeLevel": "MASTER",
             "majorName": "Sciences in Project Manager and Information Security"
         },
         {
             "startDate": "2011-04-01",
             "endDate": "2013-04-01",
-            "collegeName": "Northeastern University, Boston",
+            "collegeName": "NortheasternUniversity\\W{0,2}Boston",
             "degreeLevel": "MASTER",
             "majorName": "Sciences in Global Studies and International Affairs"
         },
         {
             "startDate": "2005-10-01",
             "endDate": "2008-10-01",
-            "collegeName": "University of Buea Cameroon",
+            "collegeName": "UniversityofBueaCameroon",
             "degreeLevel": "BACHELOR",
             "majorName": "Sciences in Sociology and Anthropology"
         }
@@ -54,7 +54,7 @@
         },
         {
             "description": "\\W*Implemented\\W*C\\W*A\\W*duties\\W*and\\W*updated\\W*POA\\W*M\\W*and\\W*Critical\\W*Control\\W*Review\\W*CCR\\W*analysis\\W*and\\W*remediation\\W*ofPOA\\W*M\\W*and\\W*CCR\\W*findings\\W*Involved\\W*in\\W*System\\W*Security\\W*Plan\\W*SSP\\W*Contingency\\W*Plans\\W*CP\\W*Contingency\\W*Plan\\W*Test\\W*CPT\\W*authorship\\W*analysis\\W*and\\W*modification\\W*Provide\\W*ongoing\\W*gap\\W*analysis\\W*of\\W*current\\W*policies\\W*practices\\W*and\\W*procedures\\W*as\\W*they\\W*relate\\W*to\\W*established\\W*guidelinesoutlined\\W*by\\W*NIST\\W*OMB\\W*FISMA\\W*Updated\\W*and\\W*reviewed\\W*A\\W*A\\W*Packages\\W*to\\W*include\\W*Core\\W*Docs\\W*Policy\\W*Procedures\\W*Operations\\W*and\\W*Maintenance\\W*Artifacts\\W*SSP\\W*SAR\\W*FIPS\\W*200\\W*FIPS\\W*199\\W*POA\\W*M\\W*BIA\\W*PTA\\W*PIA\\W*and\\W*more\\W*Collected\\W*Operation\\W*and\\W*Maintenance\\W*artifacts\\W*onan\\W*ongoing\\W*basis\\W*so\\W*that\\W*Security\\W*Control\\W*Assessment\\W*SCA\\W*is\\W*seamless\\W*Provided\\W*security\\W*expertise\\W*and\\W*guidance\\W*in\\W*support\\W*of\\W*security\\W*assessments\\W*and\\W*supported\\W*A\\W*A\\W*activities\\W*according\\W*tothe\\W*A\\W*A\\W*project\\W*plan\\W*Reviewed\\W*authorization\\W*documentation\\W*for\\W*completeness\\W*and\\W*accuracy\\W*for\\W*compliance\\W*and\\W*facilitated\\W*Security\\W*ControlAssessment\\W*and\\W*Continuous\\W*Monitoring\\W*Activities\\W*Executed\\W*examine\\W*interview\\W*test\\W*procedures\\W*in\\W*accordance\\W*with\\W*NIST\\W*SP\\W*800\\W*53A\\W*Revision\\W*4\\W*Oversaw\\W*the\\W*preparation\\W*of\\W*a\\W*Comprehensive\\W*and\\W*Executive\\W*Certification\\W*Accreditation\\W*C\\W*A\\W*packages\\W*forsubmission\\W*to\\W*the\\W*Information\\W*Assurance\\W*Program\\W*Office\\W*for\\W*approval\\W*of\\W*an\\W*Authorization\\W*to\\W*Operate\\W*Reviewed\\W*and\\W*updating\\W*System\\W*Security\\W*Plan\\W*based\\W*on\\W*findings\\W*from\\W*Assessing\\W*controls\\W*using\\W*NIST\\W*SP\\W*800\\W*18\\W*rev1\\W*NIST\\W*SP\\W*800\\W*53a\\W*rev4\\W*and\\W*NIST\\W*SP\\W*800\\W*53\\W*Applies\\W*appropriate\\W*information\\W*control\\W*for\\W*Federal\\W*Information\\W*Security\\W*based\\W*on\\W*NIST\\W*800\\W*37\\W*rev1\\W*SP\\W*800\\W*53\\W*rev4\\W*FIPS\\W*199\\W*and\\W*FIPS\\W*200\\W*Conduct\\W*Security\\W*Assessment\\W*via\\W*document\\W*examination\\W*interviews\\W*and\\W*manual\\W*assessments\\W*Populate\\W*the\\W*RequirementsTraceability\\W*Matrix\\W*RTM\\W*with\\W*results\\W*of\\W*Security\\W*Assessment\\W*Reviewed\\W*and\\W*update\\W*some\\W*of\\W*the\\W*system\\W*categorization\\W*using\\W*FIPS\\W*199\\W*Created\\W*and\\W*update\\W*Contingency\\W*plans\\W*andDisaster\\W*recovery\\W*plans\\W*for\\W*information\\W*systems\\W*using\\W*NIST\\W*SP\\W*800\\W*34\\W*Updated\\W*IT\\W*security\\W*policies\\W*procedures\\W*standards\\W*and\\W*guidelines\\W*according\\W*to\\W*department\\W*and\\W*federal\\W*requirements\\W*",
-            "companyName": "WASHINGTONTECH SOLUTION Inc.",
+            "companyName": "WASHINGTONTECHSOLUTION(Inc\\W{0,2})?",
             "title": "Information Security Analyst",
             "startDate": "2014-12-01",
             "endDate": "2016-11-01"
@@ -68,13 +68,13 @@
             "skillName": "CloudWatch"
         },
         {
-            "skillName": "MS Azure"
+            "skillName": "MS\\W{0,2}Azure"
         },
         {
             "skillName": "Lambda"
         },
         {
-            "skillName": "Project Management"
+            "skillName": "Project\\W{0,2}Management"
         },
         {
             "skillName": "Docker"

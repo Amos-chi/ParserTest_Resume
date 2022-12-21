@@ -11,11 +11,11 @@
         }
     ],
     "currentLocation": {
-        "location": "湖北省武汉市"
+        "location": "(湖北省)?武汉(市)?"
     },
     "preferredLocations": [
         {
-            "location": "湖北省武汉市"
+            "location": "(湖北省)?武汉(市)?"
         }
     ],
     "languages": [

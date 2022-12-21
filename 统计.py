@@ -33,13 +33,15 @@ def getResult(file):
     #print(json.dumps(data,indent=4))
 
 if __name__ == '__main__':
-    files = os.listdir('aaformat')
+    # files = os.listdir('aaformat')
+    #
+    # for file in files:
+    #     #if file not in ['2018 cv_ting.pdf.json']:
+    #     try:
+    #         getResult(file)
+    #     except Exception as e:
+    #         print(f'------------------------ {file} error!!!')
+    d = os.popen(r'ssh -i C:\Users\Administrator\Desktop\amos -p 6000 -L 5000:127.0.0.1:5000 amos@wuhan.hitalent.com')
 
-    for file in files:
-        #if file not in ['2018 cv_ting.pdf.json']:
-        try:
-            getResult(file)
-        except Exception as e:
-            print(f'------------------------ {file} error!!!')
 
-    #getResult('IPG-IPEVO-Marketing-郑静芷.pdf.json')
+    getResult('字节跳动-小荷健康-上海区域BD负责人-马晶晶.pdf.json')

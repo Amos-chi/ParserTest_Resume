@@ -15,11 +15,11 @@
         }
     ],
     "currentLocation": {
-        "location": "158 Lynnwood Circle·Clraksville,TN·37040"
+        "location": "(158\\W{0,2}Lynnwood\\W{0,2}Circle(\\W{0,2}Clraksville\\W{0,2}TN(\\W{0,2}37040)?)?)|(Clraksville\\W{0,2}TN)"
     },
     "preferredLocations": [
         {
-            "location": "158 Lynnwood Circle·Clraksville,TN·37040"
+            "location": "(158\\W{0,2}Lynnwood\\W{0,2}Circle(\\W{0,2}Clraksville\\W{0,2}TN(\\W{0,2}37040)?)?)|(Clraksville\\W{0,2}TN)"
         }
     ],
     "languages": [
@@ -28,40 +28,40 @@
     "experiences": [
         {
             "description": "Carriedoutthesamedutiesasmostrecent roleatPostmates IncduetoUber's \nacquisition.WhilealsoutilizingUber'stools toassistwith orders on the Uber side as \ntheintegrationprogressed.LatertransitionedtoUber'snewPremiumSupport \ndepartment. ",
-            "companyName": "UberTechnology",
-            "title": "COE Specialist II",
+            "companyName": "Uber(Technology)?",
+            "title": "COE\\W{0,2}Specialist\\W{0,2}II",
             "startDate": "2021-03-01",
             "current": true
         },
         {
             "description": "Offeringinboundsupporttoourtopandmostprominentbusinessesontheplatform \nviaphoneand email.Forissues suchasliveorderconcerns,accountupdates,and supportingtechnicaldifficulties. ",
-            "companyName": "PostmatesInc",
-            "title": "VIP Support Specialist",
+            "companyName": "Postmates(Inc)?",
+            "title": "VIP\\W{0,2}Support\\W{0,2}Specialist",
             "startDate": "2021-02-01",
             "endDate": "2021-03-01"
         },
         {
             "description": "Offeringinboundsupporttocustomers,drivers,andbusinessesontheplatformvia \nphoneoremail.Assistedwithconcernsoveraccountissuesandupdatesaswellas technicalsupport",
-            "companyName": "PostmatesInc",
-            "title": "Account & Tech Support Specialist",
+            "companyName": "Postmates(Inc)?",
+            "title": "Account\\W{0,3}Tech\\W{0,2}Support\\W{0,2}Specialist",
             "startDate": "2020-11-01",
             "endDate": "2021-02-01"
         },
         {
             "description": "Offeringinboundsupporttobusinessesontheplatformviaphoneandemail.For\nissuessuchasliveorderconcerns,accountupdates,andsupportingtechnical \ndifficulties. ",
-            "companyName": "PostmatesInc",
-            "title": "Merchant Support Specialist",
+            "companyName": "Postmates(Inc)?",
+            "title": "Merchant\\W{0,2}Support\\W{0,2}Specialist",
             "startDate": "2020-03-01",
             "endDate": "2020-11-01"
         },
         {
-            "companyName": "PublixSupermarkets·920Highway76",
-            "title": "Deli Associate",
+            "companyName": "PublixSupermarkets(\\W{0,2}920Highway76)?",
+            "title": "Deli\\W{0,2}Associate",
             "startDate": "2019-08-01",
             "endDate": "2020-03-01"
         },
         {
-            "companyName": "StarbucksCoffeeCompany",
+            "companyName": "Starbucks(Coffee(Company)?)?",
             "title": "Barista",
             "startDate": "2017-09-01",
             "endDate": "2019-12-01"
@@ -69,19 +69,19 @@
         {
             "description": "ManageallUniversityRecreationsocialmediaaccountsonFacebook,Twitter,and \nInstagram.Creatingengagingcontentforeachplatformandkeepingfollowers \ninformedofallupcomingeventsandclasscancellationsasrequired. ",
             "companyName": "APSUUniversityRecreation",
-            "title": "Marketing Intern",
+            "title": "Marketing\\W{0,2}Intern",
             "startDate": "2018-12-01",
             "endDate": "2019-04-01"
         },
         {
-            "companyName": "SonicDriveIn 1761iWilmaRudolphBlvd",
-            "title": "Crew Leader",
+            "companyName": "SonicDriveIn(\\W{0,2}1761iWilmaRudolphBlvd)?",
+            "title": "Crew\\W{0,2}Leader",
             "startDate": "2016-01-01",
             "endDate": "2017-08-01"
         },
         {
-            "companyName": "SonicDriveIn 1761iWilmaRudolphBlvd",
-            "title": "Car Hop",
+            "companyName": "SonicDriveIn(\\W{0,2}1761iWilmaRudolphBlvd)?",
+            "title": "Car\\W{0,2}Hop",
             "startDate": "2015-05-01",
             "endDate": "2016-01-01"
         }

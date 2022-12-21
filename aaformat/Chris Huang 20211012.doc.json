@@ -1,5 +1,5 @@
 {
-    "fullName": "Chris Huang",
+    "fullName": "ChrisHuang",
     "contacts": [
         {
             "type": "EMAIL",
@@ -15,11 +15,11 @@
         }
     ],
     "currentLocation": {
-        "location": "41450 Culpepper Way. Leonardtown, MD 20650"
+        "location": "41450\\W{0,2}Culpepper\\W{0,2}Way\\W{0,2}Leonardtown\\W{0,2}MD\\W{0,2}20650"
     },
     "preferredLocations": [
         {
-            "location": "41450 Culpepper Way. Leonardtown, MD 20650"
+            "location": "41450\\W{0,2}Culpepper\\W{0,2}Way\\W{0,2}Leonardtown\\W{0,2}MD\\W{0,2}20650"
         }
     ],
     "languages": [
@@ -28,19 +28,19 @@
     "educations": [
         {
             "endDate": "2021-03-01",
-            "collegeName": "Defense Acquisition University",
+            "collegeName": "DefenseAcquisitionUniversity",
             "degreeLevel": "CERTIFICATE",
             "majorName": "Engineering"
         },
         {
             "endDate": "2002-06-01",
-            "collegeName": "University of California, Davis",
+            "collegeName": "UniversityofCalifornia\\W{0,2}Davis",
             "degreeLevel": "MASTER",
             "majorName": "(Engineering\\W{0,5}Applied\\W{0,2}Science\\W{0,5})?Communications"
         },
         {
             "endDate": "1999-06-01",
-            "collegeName": "University of California, Los Angeles",
+            "collegeName": "UniversityofCalifornia\\W{0,2}LosAngeles",
             "degreeLevel": "BACHELOR",
             "majorName": "Cybernetics"
         }
@@ -55,28 +55,28 @@
         },
         {
             "description": "· Served as the NG Aeronautics Systems scrum master NGIDE team on MBSE digitalengineering initiative in developing Methodology, Process, Templates, Reference Models,Profiles, Checklist, Style Guide, Model Maturity Metrics for internal programs usage. \n· Supported Global Hawks Modernization contract execution with AI image processingcustomization; GBSD on software modeling; NGAD MDAO design integration. \n· Experience with UAF DoDAF frameworks, SysML, UML, LML, OMS, DDS, ModelMaturity and Metrics, system to software model transition; Cameo and Rhapsody tools. ",
-            "companyName": "Northrop Grumman",
+            "companyName": "NorthropGrumman",
             "title": "Staff Engineer",
             "startDate": "2019-03-01",
             "endDate": "2020-10-01"
         },
         {
             "description": "· MBSE support of: weapon systems (SSDS ICS & AEGIS), ships (DDG & CVN) andnetworks (NGEN & JWICS); research AOA, defined & synthesized requirements; plannedand coordinated model development efforts. \n· Served as a member of the NMCI Cyber Security Tiger Team in assessing and reviewingsecurity features and solutions on endpoints, networks, servers and services/processes, aswell as identifying data for analysis. \n· Performed data analytics, model design and creation of SysML/DoDAF models; ledinternal development team on Cameo tool capabilities development; outlined Model as a Service solution for network consolidation; supported NGEN Transformation modelingeffort. ",
-            "companyName": "Naval Information Warfare Center - Pacific",
+            "companyName": "NavalInformationWarfareCenter\\W{0,2}Pacific",
             "title": "Lead Engineer",
             "startDate": "2018-04-01",
             "endDate": "2019-02-01"
         },
         {
             "description": "· Piloted MBSE system methodology in support of DRM cryptographic security system lifecycle from definition to validation; o Created MBSE models in support of design analysis, with simulations to showhow messages are coordinated, and keys are staying in sync. o Developed expert knowledge on PKI, federated identity and accessmanagement; patent submitted on Self Provisioning. \n· Performed MBSE modeling in SysML on MediaCipher Conditional Access system andDTA Encryption Infrastructure for video content protection over cable; o Demonstrated the security of the systems using model, resulted in certificationto deliver high value content (new release theater graded movies) to settops. o Participated in Comcast Big Data Analytics as the access network lead in datamanicuring, data analysis, supervised learning algorithm tuning. \n· Served as the subject matter expert in System Engineering over Agile development processby trial the processes to Key Server and embedded security client projects; o Developed SysML-based models that include use cases, activity, architectures,components, sequences, states, classes and requirements diagrams. o Led SW (Java) development of Linux based Key Server in cloud microservice(Kubernetes) with intelligent network health monitoring system. ",
-            "companyName": "Comcast Cable",
+            "companyName": "ComcastCable",
             "title": "Senior Staff Systems Engineer",
             "startDate": "2006-04-01",
             "endDate": "2018-02-01"
         },
         {
             "description": "· Led software development of industry first microwave transceiver remote monitor unitwith embedded SNMP and TCP/IP protocols in C for Boeing Video Surveillance System. \n· Performed network simulation (Opnet), link budget propagation and coverage analysis,create system design prototypes for network layer requirement and performance analysis. \n· Awarded patent: “Device and Method for Sharpening Image Signal” # 20070070428. ",
-            "companyName": "Cable AML",
+            "companyName": "CableAML",
             "title": "Software Engineer",
             "startDate": "2002-06-01",
             "endDate": "2006-04-01"
@@ -84,13 +84,10 @@
     ],
     "skills": [
         {
-            "skillName": "Big Data Analytics"
+            "skillName": "Big\\W{0,2}Data\\W{0,2}Analytics"
         },
         {
             "skillName": "Linux"
-        },
-        {
-            "skillName": "System Architecture"
         },
         {
             "skillName": "AI"
@@ -100,9 +97,6 @@
         },
         {
             "skillName": "Tableau"
-        },
-        {
-            "skillName": "Power BI"
         }
     ]
 }

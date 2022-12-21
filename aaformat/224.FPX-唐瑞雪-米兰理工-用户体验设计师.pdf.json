@@ -1,5 +1,5 @@
 {
-    "fullName": "(唐瑞雪)|(RUIXUE\\W{0,2}TANG)",
+    "fullName": "(唐瑞雪)|(RUIXUETANG)",
     "contacts": [
         {
             "type": "EMAIL",
@@ -23,7 +23,7 @@
     "experiences": [
         {
             "companyName": "Fukusada(Ltd)?",
-            "title": "Associate Product Designer (Internship)",
+            "title": "Associate Product Designer(\\W{0,2}Internship\\W{0,2})?",
             "startDate": "2019-07-01",
             "endDate": "2019-10-01"
         },
@@ -34,19 +34,19 @@
             "endDate": "2018-09-01"
         },
         {
-            "companyName": "Fengming Company",
+            "companyName": "Fengming(Company)?",
             "title": "Graphic Designer",
             "startDate": "2018-05-01",
             "endDate": "2018-07-01"
         },
         {
-            "companyName": "Jizao Industrial Design",
+            "companyName": "JizaoIndustrial(Design)?",
             "title": "Junior Product Designer",
             "startDate": "2018-01-01",
             "endDate": "2018-05-01"
         },
         {
-            "companyName": "Advertising Company",
+            "companyName": "Advertising(Company)?",
             "title": "Graphic Designer",
             "startDate": "2017-11-01",
             "endDate": "2018-01-01"
@@ -54,7 +54,7 @@
     ],
     "skills": [
         {
-            "skillName": "Product design"
+            "skillName": "Productdesign"
         },
         {
             "skillName": "Photoshop"
