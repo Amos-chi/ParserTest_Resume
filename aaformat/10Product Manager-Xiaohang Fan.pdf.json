@@ -44,14 +44,14 @@
     ],
     "experiences": [
         {
-            "description": "(.*协助项目经理优化.*制定企业流程图.*协助准备指导.*培训企业员工的材料.*对当前保险行业的趋势和前景进行市场调研和案例研究.*整合数据和关键发现.*形成演示文稿和报告.*参与客户会议.*收集和识别需求.*通过图表管理等可视化多个阶段的进展)|(.*Conducted.*market.*research.*and.*case.*studies.*of.*current.*trends.*and.*prospects.*in.*the.*insurance.*industry.*Consolidated.*data.*and.*key.*findings.*into.*presentations.*and.*reports.*deliverable.*to.*clients)",
+            "description": "(协助项目经理优化\\W*制定企业流程图\\W*协助准备指导\\W*培训企业员工的材料\\W*对当前保险行业的趋势和前景进行市场调研和案例研究\\W*整合数据和关键发现\\W*形成演示文稿和报告\\W*参与客户会议\\W*收集和识别需求\\W*通过图表管理等可视化多个阶段的进展)|(\\W*Conducted\\W*market\\W*research\\W*and\\W*case\\W*studies\\W*of\\W*current\\W*trends\\W*and\\W*prospects\\W*in\\W*the\\W*insurance\\W*industry\\W*Consolidated\\W*data\\W*and\\W*key\\W*findings\\W*into\\W*presentations\\W*and\\W*reports\\W*deliverable\\W*to\\W*clients)",
             "companyName": "(安永(咨询)?)|(Ernst(Young)?(LLP)?)",
             "title": "(((金融服务)?业绩提升组)?实习生)|(((FSO-)?PI)? Intern)",
             "startDate": "2019-08-01",
             "endDate": "2019-12-01"
         },
         {
-            "description": "(·协助团队研究宏观经济与政策及其他课题并每周汇报，课题包括但不限于大类资产配置及养老基金\n·通过分析上市公司年报等协助研究券商资产管理发展战略，完成专题报告并展示)|(•    Analyzed industry data using WIND to evaluate potential growth opportunities \n•    Presented weekly updates to the management team, reviewing current projects and key next steps )",
+            "description": "(\\W*协助团队研究宏观经济与政策及其他课题并每周汇报\\W*课题包括但不限于大类资产配置及养老基金\\W*通过分析上市公司年报等协助研究券商资产管理发展战略\\W*完成专题报告并展示)|(\\W*Analyzed\\W*industry\\W*data\\W*using\\W*WIND\\W*to\\W*evaluate\\W*potential\\W*growth\\W*opportunities\\W*Presented\\W*weekly\\W*updates\\W*to\\W*the\\W*management\\W*team\\W*reviewing\\W*current\\W*projects\\W*and\\W*key\\W*next\\W*steps\\W*)",
             "companyName": "(东北证券(股份(有限公司)?)?)|(NortheastSecurities(Co(Ltd)?)?)",
             "title": "(((战略)?规划部)?实习生)|(Strategic\\W{0,2}Planning\\W{0,2}Intern)",
             "startDate": "2019-01-01",

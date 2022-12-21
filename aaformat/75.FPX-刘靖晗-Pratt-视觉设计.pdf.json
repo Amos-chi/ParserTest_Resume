@@ -23,16 +23,16 @@
         {
             "startDate": "2018-01-01",
             "endDate": "2020-01-01",
-            "collegeName": "Pratt(\\W{0,2}Institute(\\（普瑞特艺术设计学院\\）)?)?",
+            "collegeName": "PrattInstitute(\\W{0,2}普瑞特(艺术(设计(学院)?)?)?\\W{0,2})?",
             "degreeLevel": "MASTER",
-            "majorName": "视觉传达设计"
+            "majorName": "视觉传达(设计)?"
         },
         {
             "startDate": "2013-01-01",
             "endDate": "2017-01-01",
             "collegeName": "(天津)?财经(大学)?",
             "degreeLevel": "BACHELOR",
-            "majorName": "商务英语（国际商务方向）"
+            "majorName": "商务英语(\\W{0,2}国际商务方向\\W{0,2})?"
         }
     ],
     "skills": [
