@@ -13,7 +13,7 @@
     "educations": [
         {
             "startDate": "2020.04",
-            "endDate": "至今",
+            "current": true,
             "collegeName": "北京邮电大学",
             "degreeLevel": "本科",
             "majorName": "计算机信息管理"

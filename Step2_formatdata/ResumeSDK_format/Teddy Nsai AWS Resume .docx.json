@@ -9,7 +9,7 @@
     "educations": [
         {
             "startDate": "2013.04",
-            "endDate": "至今",
+            "current": true,
             "collegeName": "Northeastern University",
             "majorName": "Information Security"
         },
