@@ -1,0 +1,18 @@
+{
+    "fullName": "Kuan Liu",
+    "contacts": [
+        {
+            "contact": "alan1997liu@berkeley.edu",
+            "type": "EMAIL"
+        }
+    ],
+    "educations": [
+        {
+            "startDate": "2020.09",
+            "endDate": "2022.06",
+            "collegeName": "Stanford University",
+            "degreeLevel": "Master of Science",
+            "majorName": "Materials Science and Engineering"
+        }
+    ]
+}

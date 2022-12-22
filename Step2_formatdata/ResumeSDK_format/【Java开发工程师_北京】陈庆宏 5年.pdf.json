@@ -1,0 +1,124 @@
+{
+    "fullName": "陈庆宏",
+    "contacts": [
+        {
+            "contact": "631953504@qq.com",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "17686412707",
+            "type": "PHONE"
+        },
+        {
+            "contact": "631953504",
+            "type": "QQ"
+        }
+    ],
+    "educations": [
+        {
+            "collegeName": "山东科技大学",
+            "degreeLevel": "本科",
+            "majorName": "计算机科学与技术"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "工作职责1.从事web项目后台开发\n2. 项目后期维护等\n3. 及时修复BUG,不断优化改善系统",
+            "companyName": "北京智德天成信息技术有限公司",
+            "title": "Java开发工程师",
+            "startDate": "2021.06",
+            "endDate": "2022.09"
+        },
+        {
+            "companyName": "天地伟业技术有限公司",
+            "startDate": "2018.06",
+            "endDate": "2021.06"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "Java"
+        },
+        {
+            "skillName": "Java面向对象编程"
+        },
+        {
+            "skillName": "Git"
+        },
+        {
+            "skillName": "Maven"
+        },
+        {
+            "skillName": "项目管理"
+        },
+        {
+            "skillName": "MySQL"
+        },
+        {
+            "skillName": "Oracle"
+        },
+        {
+            "skillName": "关系型数据库"
+        },
+        {
+            "skillName": "sql"
+        },
+        {
+            "skillName": "Spring"
+        },
+        {
+            "skillName": "Mybatis"
+        },
+        {
+            "skillName": "Redis"
+        },
+        {
+            "skillName": "RabbitMq"
+        },
+        {
+            "skillName": "ActiveMQ"
+        },
+        {
+            "skillName": "Linux"
+        },
+        {
+            "skillName": "Dubbo"
+        },
+        {
+            "skillName": "Zookeeper"
+        },
+        {
+            "skillName": "Spring框架"
+        },
+        {
+            "skillName": "分布式"
+        },
+        {
+            "skillName": "Elasticsearch"
+        },
+        {
+            "skillName": "JavaScript"
+        },
+        {
+            "skillName": "前端技术"
+        },
+        {
+            "skillName": "数据分析"
+        },
+        {
+            "skillName": "VUE"
+        },
+        {
+            "skillName": "CRM"
+        },
+        {
+            "skillName": "数据处理"
+        },
+        {
+            "skillName": "财务管理"
+        },
+        {
+            "skillName": "etl"
+        }
+    ]
+}

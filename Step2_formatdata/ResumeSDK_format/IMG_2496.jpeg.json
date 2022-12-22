@@ -1,0 +1,18 @@
+{
+    "fullName": "Chloe Jennings",
+    "contacts": [
+        {
+            "contact": "cjennings7@my.apsu.edu",
+            "type": "EMAIL"
+        }
+    ],
+    "educations": [
+        {
+            "startDate": "2021.02",
+            "endDate": "2021.03",
+            "collegeName": "Austin Peay State University",
+            "degreeLevel": "Bachelor of Science",
+            "majorName": "Science in"
+        }
+    ]
+}

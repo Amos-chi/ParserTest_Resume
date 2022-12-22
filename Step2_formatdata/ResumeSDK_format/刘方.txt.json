@@ -1,0 +1,56 @@
+{
+    "fullName": "刘方",
+    "contacts": [
+        {
+            "contact": "leo.liu@originplus.com",
+            "type": "EMAIL"
+        }
+    ],
+    "educations": [
+        {
+            "collegeName": "Jiangnan University"
+        },
+        {
+            "startDate": "2004",
+            "endDate": "2007",
+            "collegeName": "master of engineering of design"
+        },
+        {
+            "startDate": "1993",
+            "endDate": "1993",
+            "collegeName": "Bachelor of Arts"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "Leading the design team for global marketing,GE Plastics, reporting to GM of\nglobal design.\nUsing design as a tool to explore the future opportunity of the innovative\napplication of plastic resin, which gave critical possibilities for marketing\nstrategy and material R&D as well.\nClosely collaborating with industry leaders on the most forward looking areas\nsuch as renewable energy house, high-speed train,  electric vehicle,  mobile\ncomputing etc.",
+            "title": "Design Manager",
+            "startDate": "2004.07",
+            "endDate": "2006.05"
+        },
+        {
+            "description": "Working as a senior design consultant for GE/FITCH, which was a joint\nventure of GE Plastic and Fitch worldwide at the time.\nProviding pretty hard-core design services such as DFMA to GE Plastics,\nand strategic design services such as PI ( product identity) to other clients in\nGreater China and SEA .\nMidea",
+            "title": "Senior Design Consultant",
+            "startDate": "2002.07",
+            "endDate": "2004.07"
+        },
+        {
+            "description": "of in-house industrial designer in China,  providing product\ndesign service to Midea and other benefit-conflict free external clients.  Beside\nusing the very old school design techniques of hand sketching, hand rendering\nand hand made prototypes, we were the pioneers of adopting contemporary\ndesign techniques, such 2D rendering, 3D modeling and 3D printing back then.\nAs the major driver, to help import user-centric approach into design process,\nincluding adoption  of  user research and UX/UI design  .",
+            "companyName": "pioneer",
+            "title": "lead designer",
+            "startDate": "1997.08",
+            "endDate": "2002.03"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "R"
+        },
+        {
+            "skillName": "3D"
+        },
+        {
+            "skillName": "UI"
+        }
+    ]
+}

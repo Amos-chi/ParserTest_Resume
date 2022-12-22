@@ -1,0 +1,98 @@
+{
+    "fullName": "王俊港",
+    "contacts": [
+        {
+            "contact": "18071807610@163.com",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "18071807610",
+            "type": "PHONE"
+        }
+    ],
+    "educations": [
+        {
+            "startDate": "2015.09",
+            "endDate": "2019.07",
+            "collegeName": "三峡大学科技学院",
+            "degreeLevel": "本科"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "JavaSE"
+        },
+        {
+            "skillName": "OOP"
+        },
+        {
+            "skillName": "面向对象"
+        },
+        {
+            "skillName": "设计模式"
+        },
+        {
+            "skillName": "Spring"
+        },
+        {
+            "skillName": "Mybatis"
+        },
+        {
+            "skillName": "SpringMVC"
+        },
+        {
+            "skillName": "RabbitMq"
+        },
+        {
+            "skillName": "数据库"
+        },
+        {
+            "skillName": "Mysql"
+        },
+        {
+            "skillName": "Redis"
+        },
+        {
+            "skillName": "sql"
+        },
+        {
+            "skillName": "分布式"
+        },
+        {
+            "skillName": "Docker"
+        },
+        {
+            "skillName": "Linux"
+        },
+        {
+            "skillName": "负载均衡"
+        },
+        {
+            "skillName": "Git"
+        },
+        {
+            "skillName": "Elasticsearch"
+        },
+        {
+            "skillName": "XML"
+        },
+        {
+            "skillName": "HTML"
+        },
+        {
+            "skillName": "CSS"
+        },
+        {
+            "skillName": "Jquery"
+        },
+        {
+            "skillName": "JavaScript"
+        },
+        {
+            "skillName": "AJAX"
+        },
+        {
+            "skillName": "Vue"
+        }
+    ]
+}

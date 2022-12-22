@@ -1,0 +1,34 @@
+{
+    "fullName": "Shu Ting Huang",
+    "contacts": [],
+    "educations": [
+        {
+            "startDate": "2015",
+            "endDate": "2017",
+            "collegeName": "Royal College of Art",
+            "majorName": "Design Engineering"
+        },
+        {
+            "startDate": "2015",
+            "endDate": "2017",
+            "collegeName": "Imperial College London",
+            "degreeLevel": "Master of Science",
+            "majorName": "Design Engineering"
+        },
+        {
+            "startDate": "2009",
+            "endDate": "2014",
+            "collegeName": "Shih Chien University",
+            "majorName": "Industrial Design"
+        },
+        {
+            "collegeName": "International School"
+        },
+        {
+            "startDate": "2012",
+            "endDate": "2013",
+            "collegeName": "University of Applied Sciences",
+            "majorName": "Exchange student"
+        }
+    ]
+}

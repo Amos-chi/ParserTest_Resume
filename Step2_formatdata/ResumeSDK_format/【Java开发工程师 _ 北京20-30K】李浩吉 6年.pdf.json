@@ -1,0 +1,144 @@
+{
+    "fullName": "李浩吉",
+    "contacts": [
+        {
+            "contact": "lihaoji1994@163.com",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "15822516730",
+            "type": "PHONE"
+        }
+    ],
+    "educations": [
+        {
+            "startDate": "2020.04",
+            "endDate": "至今",
+            "collegeName": "北京邮电大学",
+            "degreeLevel": "本科",
+            "majorName": "计算机信息管理"
+        },
+        {
+            "startDate": "2013.09",
+            "endDate": "2016.06",
+            "collegeName": "天津职业大学",
+            "degreeLevel": "大专",
+            "majorName": "机械制造与自动化"
+        }
+    ],
+    "experiences": [
+        {
+            "companyName": "小黄狗环保科技有限公司",
+            "title": "Java开发工程师",
+            "startDate": "2019.11",
+            "current": true
+        },
+        {
+            "companyName": "软通动力信息技术有限公司",
+            "title": "Java开发工程师",
+            "startDate": "2017.08",
+            "endDate": "2019.10"
+        },
+        {
+            "companyName": "北京中宝世纪科技有限公司",
+            "title": "Java开发工程师",
+            "startDate": "2016.07",
+            "endDate": "2017.08"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "Java"
+        },
+        {
+            "skillName": "数据结构"
+        },
+        {
+            "skillName": "多线程编程"
+        },
+        {
+            "skillName": "JVM"
+        },
+        {
+            "skillName": "算法"
+        },
+        {
+            "skillName": "Spring"
+        },
+        {
+            "skillName": "SpringMVC"
+        },
+        {
+            "skillName": "Mybatis"
+        },
+        {
+            "skillName": "分布式"
+        },
+        {
+            "skillName": "Dubbo"
+        },
+        {
+            "skillName": "netty"
+        },
+        {
+            "skillName": "MySQL数据库"
+        },
+        {
+            "skillName": "SQL"
+        },
+        {
+            "skillName": "Redis"
+        },
+        {
+            "skillName": "Nginx"
+        },
+        {
+            "skillName": "负载均衡"
+        },
+        {
+            "skillName": "jdbc"
+        },
+        {
+            "skillName": "数据库"
+        },
+        {
+            "skillName": "Linux"
+        },
+        {
+            "skillName": "Maven"
+        },
+        {
+            "skillName": "Git"
+        },
+        {
+            "skillName": "SVN"
+        },
+        {
+            "skillName": "大数据"
+        },
+        {
+            "skillName": "游戏"
+        },
+        {
+            "skillName": "数据库设计"
+        },
+        {
+            "skillName": "架构设计"
+        },
+        {
+            "skillName": "ActiveMQ"
+        },
+        {
+            "skillName": "ElasticSearch"
+        },
+        {
+            "skillName": "Vue"
+        },
+        {
+            "skillName": "MVC"
+        },
+        {
+            "skillName": "db"
+        }
+    ]
+}

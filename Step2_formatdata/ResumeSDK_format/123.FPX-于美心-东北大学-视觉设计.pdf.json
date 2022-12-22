@@ -1,0 +1,45 @@
+{
+    "fullName": "MEIXIN YU",
+    "contacts": [
+        {
+            "contact": "yu.mei@northeastern.edu",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "(+1) 9173791880",
+            "type": "PHONE"
+        }
+    ],
+    "educations": [
+        {
+            "startDate": "2019",
+            "endDate": "2021",
+            "collegeName": "东北大学"
+        },
+        {
+            "startDate": "2013",
+            "endDate": "2017",
+            "collegeName": "湖南大学",
+            "majorName": "工业设计"
+        },
+        {
+            "collegeName": "湖南大学",
+            "majorName": "设计思维"
+        },
+        {
+            "startDate": "2016.06",
+            "endDate": "2016.07",
+            "collegeName": "超能学院",
+            "majorName": "手绘"
+        },
+        {
+            "collegeName": "湖南大学"
+        },
+        {
+            "startDate": "2013",
+            "endDate": "2017",
+            "collegeName": "湖南大学",
+            "majorName": "思想政治"
+        }
+    ]
+}

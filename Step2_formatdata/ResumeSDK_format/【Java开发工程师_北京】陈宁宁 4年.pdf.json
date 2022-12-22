@@ -1,0 +1,97 @@
+{
+    "fullName": "陈宁宁",
+    "contacts": [
+        {
+            "contact": "rg15cn@163.com",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "15631167703",
+            "type": "PHONE"
+        },
+        {
+            "contact": "cn17732014865",
+            "type": "WECHAT"
+        }
+    ],
+    "educations": [
+        {
+            "collegeName": "石家庄学院",
+            "degreeLevel": "本科",
+            "majorName": "软件工程"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "会议渠道设计与开发、其他业务处理以及页面开发。",
+            "companyName": "腾讯",
+            "title": "上海朝讯(北京)-JAVA开发工程师",
+            "startDate": "2021.07",
+            "current": true
+        },
+        {
+            "title": "JAVA开发工程师",
+            "startDate": "2019.07",
+            "endDate": "2021.06"
+        },
+        {
+            "companyName": "亚信科技校企合作中心",
+            "title": "电商开发",
+            "startDate": "2018.06",
+            "endDate": "2019.06"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "Redis"
+        },
+        {
+            "skillName": "Mybatis"
+        },
+        {
+            "skillName": "Spring"
+        },
+        {
+            "skillName": "SpringMVC"
+        },
+        {
+            "skillName": "dubbo"
+        },
+        {
+            "skillName": "JAVA基础"
+        },
+        {
+            "skillName": "数据结构与算法"
+        },
+        {
+            "skillName": "docker"
+        },
+        {
+            "skillName": "jenkins"
+        },
+        {
+            "skillName": "linux"
+        },
+        {
+            "skillName": "git"
+        },
+        {
+            "skillName": "svn"
+        },
+        {
+            "skillName": "maven"
+        },
+        {
+            "skillName": "JAVA"
+        },
+        {
+            "skillName": "excel"
+        },
+        {
+            "skillName": "vue"
+        },
+        {
+            "skillName": "ui"
+        }
+    ]
+}

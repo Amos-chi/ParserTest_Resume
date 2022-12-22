@@ -1,0 +1,94 @@
+{
+    "fullName": "陈海彬",
+    "contacts": [
+        {
+            "contact": "qmjianli@qq.com",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "18170488637",
+            "type": "PHONE"
+        }
+    ],
+    "languages": [
+        "英语"
+    ],
+    "educations": [
+        {
+            "startDate": "2018.07",
+            "endDate": "2022.07",
+            "collegeName": "江西师范大学",
+            "degreeLevel": "本科",
+            "majorName": "网络工程"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "负责微店商家平台增长业务后端的研发工作,日常工作包括但不限于:\n• 深入理解产品prd、参加需求评审、撰写技术方案和接口文档、参加技术评审\n• 编写业务代码、单元测试、联调、修复测试提出的bug、集成部署代码上线\n• 及时关注线上告警和群内用户反馈,修复线上bug\n• 不定期进行业务分享或技术分享",
+            "companyName": "无线生活(北京)信息技术有限公司",
+            "title": "Java开发工程师",
+            "startDate": "2022.07",
+            "endDate": "2022.12"
+        },
+        {
+            "description": "负责微店商家平台增长业务后端的研发工作,协助正式员工完成对应的需求开发,日常工作包\n括但不限于:\n• 深入理解产品prd、参加需求评审、撰写技术方案和接口文档、参加技术评审\n• 编写业务代码、单元测试、联调、修复测试提出的bug、集成部署代码上线\n• 及时关注线上告警和群内用户反馈,修复线上bug\n• 不定期进行业务分享或技术分享\n技术栈",
+            "companyName": "无线生活(北京)信息技术有限公司",
+            "title": "Java实习生",
+            "startDate": "2021.07",
+            "endDate": "2022.04"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "Java"
+        },
+        {
+            "skillName": "prd"
+        },
+        {
+            "skillName": "数据分析"
+        },
+        {
+            "skillName": "大数据"
+        },
+        {
+            "skillName": "maven"
+        },
+        {
+            "skillName": "git"
+        },
+        {
+            "skillName": "docker"
+        },
+        {
+            "skillName": "数据库"
+        },
+        {
+            "skillName": "mysql"
+        },
+        {
+            "skillName": "elasticSearch"
+        },
+        {
+            "skillName": "hive"
+        },
+        {
+            "skillName": "sql"
+        },
+        {
+            "skillName": "分布式"
+        },
+        {
+            "skillName": "spring"
+        },
+        {
+            "skillName": "redis"
+        },
+        {
+            "skillName": "db"
+        },
+        {
+            "skillName": "hbase"
+        }
+    ]
+}

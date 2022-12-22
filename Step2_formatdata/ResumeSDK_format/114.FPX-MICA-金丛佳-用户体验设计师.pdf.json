@@ -1,0 +1,22 @@
+{
+    "fullName": "金丛佳",
+    "contacts": [
+        {
+            "contact": "cjin02@mica.edu",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "17801011020",
+            "type": "PHONE"
+        }
+    ],
+    "educations": [
+        {
+            "startDate": "2018",
+            "endDate": "2020",
+            "collegeName": "马里兰艺术设计学院",
+            "degreeLevel": "硕士",
+            "majorName": "平面设计"
+        }
+    ]
+}
