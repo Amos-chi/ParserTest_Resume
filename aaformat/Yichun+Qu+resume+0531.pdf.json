@@ -10,18 +10,6 @@
             "contact": "+8618964858957"
         }
     ],
-    "currentLocation": {
-        "location": "Shanghai"
-    },
-    "preferredLocations": [
-        {
-            "location": "Shanghai"
-        }
-    ],
-    "languages": [
-        "MANDARIN",
-        "ENGLISH"
-    ],
     "educations": [
         {
             "startDate": "2016-08-01",
@@ -47,21 +35,21 @@
     ],
     "experiences": [
         {
-            "description": "Workwithbusiness stakeholders to translate business requirement into functional requirement. \nSetupthePower BI database, design and develop all the custom metrics, reports and dashboards in Power BI to meet functional \nrequirements for the whole operation department by cooperating with IT team in Spain. \nClarifyend user’s inquiry on reports’ features and functionalities, continuously optimize reports along with the developing \noperating procedure. \nCollectand consolidate data from different portals to prepare monthly and quarterly operational reports for upper management to \ntrack enterprise level KPI. \nConductanalytical projects on massive datasets with tableau to analyze system operational constraints, deficiencies and defects, \ncollaborate with operation team and tech team to develop solutions. \nMonitorand report on accurate transaction generation at the roadside, timely data transmission, data validation of transaction, \ntrack and analyze system performance and operation performance. \nParticipate in the implementation and testing of Central Systems, track results and records and escalate system performance issues. ",
+            "description": "Workwithbusiness\\W*stakeholders\\W*to\\W*translate\\W*business\\W*requirement\\W*into\\W*functional\\W*requirement\\W*SetupthePower\\W*BI\\W*database\\W*design\\W*and\\W*develop\\W*all\\W*the\\W*custom\\W*metrics\\W*reports\\W*and\\W*dashboards\\W*in\\W*Power\\W*BI\\W*to\\W*meet\\W*functional\\W*requirements\\W*for\\W*the\\W*whole\\W*operation\\W*department\\W*by\\W*cooperating\\W*with\\W*IT\\W*team\\W*in\\W*Spain\\W*Clarifyend\\W*user\\W*s\\W*inquiry\\W*on\\W*reports\\W*features\\W*and\\W*functionalities\\W*continuously\\W*optimize\\W*reports\\W*along\\W*with\\W*the\\W*developing\\W*operating\\W*procedure\\W*Collectand\\W*consolidate\\W*data\\W*from\\W*different\\W*portals\\W*to\\W*prepare\\W*monthly\\W*and\\W*quarterly\\W*operational\\W*reports\\W*for\\W*upper\\W*management\\W*to\\W*track\\W*enterprise\\W*level\\W*KPI\\W*Conductanalytical\\W*projects\\W*on\\W*massive\\W*datasets\\W*with\\W*tableau\\W*to\\W*analyze\\W*system\\W*operational\\W*constraints\\W*deficiencies\\W*and\\W*defects\\W*collaborate\\W*with\\W*operation\\W*team\\W*and\\W*tech\\W*team\\W*to\\W*develop\\W*solutions\\W*Monitorand\\W*report\\W*on\\W*accurate\\W*transaction\\W*generation\\W*at\\W*the\\W*roadside\\W*timely\\W*data\\W*transmission\\W*data\\W*validation\\W*of\\W*transaction\\W*track\\W*and\\W*analyze\\W*system\\W*performance\\W*and\\W*operation\\W*performance\\W*Participate\\W*in\\W*the\\W*implementation\\W*and\\W*testing\\W*of\\W*Central\\W*Systems\\W*track\\W*results\\W*and\\W*records\\W*and\\W*escalate\\W*system\\W*performance\\W*issues\\W*",
             "companyName": "I\\W{0,2}77MobilityPartners(LLC)?(\\W{0,2}CintraUS(\\W{0,2}Ferrovial)?)?",
             "title": "Operation Data Analyst",
             "startDate": "2018-07-01",
             "endDate": "2021-04-01"
         },
         {
-            "description": "Extracted data from CRM system, created monthly reports based on different key performance indicators including customer \ncomplaint code, complaint over 60 days and average complaint solving days. \nCreatedand compared charts, tables and graphs, identified trends and occurrences. \nPrepared advanced shipping notice by using electronic data interchange system, maintained data integrity of inventory system by \ntrouble shooting between Redtail and Microsoft GP. \nSearched, extracted, managed and analyzed data in Microsoft Dynamics Great Plains system to support daily business process \nand annual auditing. ",
+            "description": "Extracted\\W*data\\W*from\\W*CRM\\W*system\\W*created\\W*monthly\\W*reports\\W*based\\W*on\\W*different\\W*key\\W*performance\\W*indicators\\W*including\\W*customer\\W*complaint\\W*code\\W*complaint\\W*over\\W*60\\W*days\\W*and\\W*average\\W*complaint\\W*solving\\W*days\\W*Createdand\\W*compared\\W*charts\\W*tables\\W*and\\W*graphs\\W*identified\\W*trends\\W*and\\W*occurrences\\W*Prepared\\W*advanced\\W*shipping\\W*notice\\W*by\\W*using\\W*electronic\\W*data\\W*interchange\\W*system\\W*maintained\\W*data\\W*integrity\\W*of\\W*inventory\\W*system\\W*by\\W*trouble\\W*shooting\\W*between\\W*Redtail\\W*and\\W*Microsoft\\W*GP\\W*Searched\\W*extracted\\W*managed\\W*and\\W*analyzed\\W*data\\W*in\\W*Microsoft\\W*Dynamics\\W*Great\\W*Plains\\W*system\\W*to\\W*support\\W*daily\\W*business\\W*process\\W*and\\W*annual\\W*auditing\\W*",
             "companyName": "ProdigyDiabetesCare(LLC)?",
             "title": "Data and Billing Analyst",
             "startDate": "2017-10-01",
             "endDate": "2018-06-01"
         },
         {
-            "description": "Performed ad-hoc reports of beauty advisors’ basic information for training and sales department. \nCreated monthly, quarterly, and yearly coaching reports for more than 200 beauty advisors from the whole China department \nand presented it in PowerPoint in department meetings to improve beauty advisors’ selling skills. \nTroubleshooted and analyzed reports using Excel (V lookup, pivot tables) to follow up beauty advisors’ performance every \nseason, helped training department to achieve higher efficiency on training beauty advisors’ selling skills by 15%. \nTracked and analyzed actual product using and ordering on a monthly basis, forecasted second year product ordering based on \nthe purchase price variance and budget variance. \nSupported the creation of key door action plan, provided insight into  the  establishment  of SKU sales  target of each beauty \nadvisor. ",
+            "description": "Performed\\W*ad\\W*hoc\\W*reports\\W*of\\W*beauty\\W*advisors\\W*basic\\W*information\\W*for\\W*training\\W*and\\W*sales\\W*department\\W*Created\\W*monthly\\W*quarterly\\W*and\\W*yearly\\W*coaching\\W*reports\\W*for\\W*more\\W*than\\W*200\\W*beauty\\W*advisors\\W*from\\W*the\\W*whole\\W*China\\W*department\\W*and\\W*presented\\W*it\\W*in\\W*PowerPoint\\W*in\\W*department\\W*meetings\\W*to\\W*improve\\W*beauty\\W*advisors\\W*selling\\W*skills\\W*Troubleshooted\\W*and\\W*analyzed\\W*reports\\W*using\\W*Excel\\W*V\\W*lookup\\W*pivot\\W*tables\\W*to\\W*follow\\W*up\\W*beauty\\W*advisors\\W*performance\\W*every\\W*season\\W*helped\\W*training\\W*department\\W*to\\W*achieve\\W*higher\\W*efficiency\\W*on\\W*training\\W*beauty\\W*advisors\\W*selling\\W*skills\\W*by\\W*15\\W*Tracked\\W*and\\W*analyzed\\W*actual\\W*product\\W*using\\W*and\\W*ordering\\W*on\\W*a\\W*monthly\\W*basis\\W*forecasted\\W*second\\W*year\\W*product\\W*ordering\\W*based\\W*on\\W*the\\W*purchase\\W*price\\W*variance\\W*and\\W*budget\\W*variance\\W*Supported\\W*the\\W*creation\\W*of\\W*key\\W*door\\W*action\\W*plan\\W*provided\\W*insight\\W*into\\W*the\\W*establishment\\W*of\\W*SKU\\W*sales\\W*target\\W*of\\W*each\\W*beauty\\W*advisor\\W*",
             "companyName": "(LVMH)?Perfumes\\W{0,2}Cosmetics(Company(Limited)?)?",
             "title": "FRESH Training Department Business Analyst Intern",
             "startDate": "2014-01-01",

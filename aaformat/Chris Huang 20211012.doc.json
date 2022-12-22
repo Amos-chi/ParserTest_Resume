@@ -17,14 +17,6 @@
     "currentLocation": {
         "location": "41450\\W{0,2}Culpepper\\W{0,2}Way\\W{0,2}Leonardtown\\W{0,2}MD\\W{0,2}20650"
     },
-    "preferredLocations": [
-        {
-            "location": "41450\\W{0,2}Culpepper\\W{0,2}Way\\W{0,2}Leonardtown\\W{0,2}MD\\W{0,2}20650"
-        }
-    ],
-    "languages": [
-        "ENGLISH"
-    ],
     "educations": [
         {
             "endDate": "2021-03-01",
@@ -47,35 +39,35 @@
     ],
     "experiences": [
         {
-            "description": "· Support PMA-209 for Modular Open System Architecture (MOSA) realization at NAVAIR on MQ-25, FVL, E-XX, NGAD platforms. \n· Serve as the NAVAIR RE/SME in guiding program offices in building Model Based Open Architecture models; chair NAVAIR Digital Transformation Data Modeling COP TIM. \n· Research SysML v2 and API framework for model consistency, interoperability and re-usability; draft Model Maturity Whitepaper with Georgia Tech over an awarded S&T fund. ",
+            "description": "\\W*Support\\W*PMA\\W*209\\W*for\\W*Modular\\W*Open\\W*System\\W*Architecture\\W*MOSA\\W*realization\\W*at\\W*NAVAIR\\W*on\\W*MQ\\W*25\\W*FVL\\W*E\\W*XX\\W*NGAD\\W*platforms\\W*Serve\\W*as\\W*the\\W*NAVAIR\\W*RE\\W*SME\\W*in\\W*guiding\\W*program\\W*offices\\W*in\\W*building\\W*Model\\W*Based\\W*Open\\W*Architecture\\W*models\\W*chair\\W*NAVAIR\\W*Digital\\W*Transformation\\W*Data\\W*Modeling\\W*COP\\W*TIM\\W*Research\\W*SysML\\W*v2\\W*and\\W*API\\W*framework\\W*for\\W*model\\W*consistency\\W*interoperability\\W*and\\W*re\\W*usability\\W*draft\\W*Model\\W*Maturity\\W*Whitepaper\\W*with\\W*Georgia\\W*Tech\\W*over\\W*an\\W*awarded\\W*S\\W*T\\W*fund\\W*",
             "companyName": "NAVAIR",
             "title": "Platform Integration & Modeling Lead Engineer",
             "startDate": "2020-10-01",
             "current": true
         },
         {
-            "description": "· Served as the NG Aeronautics Systems scrum master NGIDE team on MBSE digitalengineering initiative in developing Methodology, Process, Templates, Reference Models,Profiles, Checklist, Style Guide, Model Maturity Metrics for internal programs usage. \n· Supported Global Hawks Modernization contract execution with AI image processingcustomization; GBSD on software modeling; NGAD MDAO design integration. \n· Experience with UAF DoDAF frameworks, SysML, UML, LML, OMS, DDS, ModelMaturity and Metrics, system to software model transition; Cameo and Rhapsody tools. ",
+            "description": "\\W*Served\\W*as\\W*the\\W*NG\\W*Aeronautics\\W*Systems\\W*scrum\\W*master\\W*NGIDE\\W*team\\W*on\\W*MBSE\\W*digitalengineering\\W*initiative\\W*in\\W*developing\\W*Methodology\\W*Process\\W*Templates\\W*Reference\\W*Models\\W*Profiles\\W*Checklist\\W*Style\\W*Guide\\W*Model\\W*Maturity\\W*Metrics\\W*for\\W*internal\\W*programs\\W*usage\\W*Supported\\W*Global\\W*Hawks\\W*Modernization\\W*contract\\W*execution\\W*with\\W*AI\\W*image\\W*processingcustomization\\W*GBSD\\W*on\\W*software\\W*modeling\\W*NGAD\\W*MDAO\\W*design\\W*integration\\W*Experience\\W*with\\W*UAF\\W*DoDAF\\W*frameworks\\W*SysML\\W*UML\\W*LML\\W*OMS\\W*DDS\\W*ModelMaturity\\W*and\\W*Metrics\\W*system\\W*to\\W*software\\W*model\\W*transition\\W*Cameo\\W*and\\W*Rhapsody\\W*tools\\W*",
             "companyName": "NorthropGrumman",
             "title": "Staff Engineer",
             "startDate": "2019-03-01",
             "endDate": "2020-10-01"
         },
         {
-            "description": "· MBSE support of: weapon systems (SSDS ICS & AEGIS), ships (DDG & CVN) andnetworks (NGEN & JWICS); research AOA, defined & synthesized requirements; plannedand coordinated model development efforts. \n· Served as a member of the NMCI Cyber Security Tiger Team in assessing and reviewingsecurity features and solutions on endpoints, networks, servers and services/processes, aswell as identifying data for analysis. \n· Performed data analytics, model design and creation of SysML/DoDAF models; ledinternal development team on Cameo tool capabilities development; outlined Model as a Service solution for network consolidation; supported NGEN Transformation modelingeffort. ",
-            "companyName": "NavalInformationWarfareCenter\\W{0,2}Pacific",
+            "description": "\\W*MBSE\\W*support\\W*of\\W*weapon\\W*systems\\W*SSDS\\W*ICS\\W*AEGIS\\W*ships\\W*DDG\\W*CVN\\W*andnetworks\\W*NGEN\\W*JWICS\\W*research\\W*AOA\\W*defined\\W*synthesized\\W*requirements\\W*plannedand\\W*coordinated\\W*model\\W*development\\W*efforts\\W*Served\\W*as\\W*a\\W*member\\W*of\\W*the\\W*NMCI\\W*Cyber\\W*Security\\W*Tiger\\W*Team\\W*in\\W*assessing\\W*and\\W*reviewingsecurity\\W*features\\W*and\\W*solutions\\W*on\\W*endpoints\\W*networks\\W*servers\\W*and\\W*services\\W*processes\\W*aswell\\W*as\\W*identifying\\W*data\\W*for\\W*analysis\\W*Performed\\W*data\\W*analytics\\W*model\\W*design\\W*and\\W*creation\\W*of\\W*SysML\\W*DoDAF\\W*models\\W*ledinternal\\W*development\\W*team\\W*on\\W*Cameo\\W*tool\\W*capabilities\\W*development\\W*outlined\\W*Model\\W*as\\W*a\\W*Service\\W*solution\\W*for\\W*network\\W*consolidation\\W*supported\\W*NGEN\\W*Transformation\\W*modelingeffort\\W*",
+            "companyName": "NavalInformationWarfareCenter(\\W{0,2}Pacific)?",
             "title": "Lead Engineer",
             "startDate": "2018-04-01",
             "endDate": "2019-02-01"
         },
         {
-            "description": "· Piloted MBSE system methodology in support of DRM cryptographic security system lifecycle from definition to validation; o Created MBSE models in support of design analysis, with simulations to showhow messages are coordinated, and keys are staying in sync. o Developed expert knowledge on PKI, federated identity and accessmanagement; patent submitted on Self Provisioning. \n· Performed MBSE modeling in SysML on MediaCipher Conditional Access system andDTA Encryption Infrastructure for video content protection over cable; o Demonstrated the security of the systems using model, resulted in certificationto deliver high value content (new release theater graded movies) to settops. o Participated in Comcast Big Data Analytics as the access network lead in datamanicuring, data analysis, supervised learning algorithm tuning. \n· Served as the subject matter expert in System Engineering over Agile development processby trial the processes to Key Server and embedded security client projects; o Developed SysML-based models that include use cases, activity, architectures,components, sequences, states, classes and requirements diagrams. o Led SW (Java) development of Linux based Key Server in cloud microservice(Kubernetes) with intelligent network health monitoring system. ",
+            "description": "\\W*Piloted\\W*MBSE\\W*system\\W*methodology\\W*in\\W*support\\W*of\\W*DRM\\W*cryptographic\\W*security\\W*system\\W*lifecycle\\W*from\\W*definition\\W*to\\W*validation\\W*o\\W*Created\\W*MBSE\\W*models\\W*in\\W*support\\W*of\\W*design\\W*analysis\\W*with\\W*simulations\\W*to\\W*showhow\\W*messages\\W*are\\W*coordinated\\W*and\\W*keys\\W*are\\W*staying\\W*in\\W*sync\\W*o\\W*Developed\\W*expert\\W*knowledge\\W*on\\W*PKI\\W*federated\\W*identity\\W*and\\W*accessmanagement\\W*patent\\W*submitted\\W*on\\W*Self\\W*Provisioning\\W*Performed\\W*MBSE\\W*modeling\\W*in\\W*SysML\\W*on\\W*MediaCipher\\W*Conditional\\W*Access\\W*system\\W*andDTA\\W*Encryption\\W*Infrastructure\\W*for\\W*video\\W*content\\W*protection\\W*over\\W*cable\\W*o\\W*Demonstrated\\W*the\\W*security\\W*of\\W*the\\W*systems\\W*using\\W*model\\W*resulted\\W*in\\W*certificationto\\W*deliver\\W*high\\W*value\\W*content\\W*new\\W*release\\W*theater\\W*graded\\W*movies\\W*to\\W*settops\\W*o\\W*Participated\\W*in\\W*Comcast\\W*Big\\W*Data\\W*Analytics\\W*as\\W*the\\W*access\\W*network\\W*lead\\W*in\\W*datamanicuring\\W*data\\W*analysis\\W*supervised\\W*learning\\W*algorithm\\W*tuning\\W*Served\\W*as\\W*the\\W*subject\\W*matter\\W*expert\\W*in\\W*System\\W*Engineering\\W*over\\W*Agile\\W*development\\W*processby\\W*trial\\W*the\\W*processes\\W*to\\W*Key\\W*Server\\W*and\\W*embedded\\W*security\\W*client\\W*projects\\W*o\\W*Developed\\W*SysML\\W*based\\W*models\\W*that\\W*include\\W*use\\W*cases\\W*activity\\W*architectures\\W*components\\W*sequences\\W*states\\W*classes\\W*and\\W*requirements\\W*diagrams\\W*o\\W*Led\\W*SW\\W*Java\\W*development\\W*of\\W*Linux\\W*based\\W*Key\\W*Server\\W*in\\W*cloud\\W*microservice\\W*Kubernetes\\W*with\\W*intelligent\\W*network\\W*health\\W*monitoring\\W*system\\W*",
             "companyName": "ComcastCable",
             "title": "Senior Staff Systems Engineer",
             "startDate": "2006-04-01",
             "endDate": "2018-02-01"
         },
         {
-            "description": "· Led software development of industry first microwave transceiver remote monitor unitwith embedded SNMP and TCP/IP protocols in C for Boeing Video Surveillance System. \n· Performed network simulation (Opnet), link budget propagation and coverage analysis,create system design prototypes for network layer requirement and performance analysis. \n· Awarded patent: “Device and Method for Sharpening Image Signal” # 20070070428. ",
+            "description": "\\W*Led\\W*software\\W*development\\W*of\\W*industry\\W*first\\W*microwave\\W*transceiver\\W*remote\\W*monitor\\W*unitwith\\W*embedded\\W*SNMP\\W*and\\W*TCP\\W*IP\\W*protocols\\W*in\\W*C\\W*for\\W*Boeing\\W*Video\\W*Surveillance\\W*System\\W*Performed\\W*network\\W*simulation\\W*Opnet\\W*link\\W*budget\\W*propagation\\W*and\\W*coverage\\W*analysis\\W*create\\W*system\\W*design\\W*prototypes\\W*for\\W*network\\W*layer\\W*requirement\\W*and\\W*performance\\W*analysis\\W*Awarded\\W*patent\\W*Device\\W*and\\W*Method\\W*for\\W*Sharpening\\W*Image\\W*Signal\\W*20070070428\\W*",
             "companyName": "CableAML",
             "title": "Software Engineer",
             "startDate": "2002-06-01",
@@ -84,13 +76,7 @@
     ],
     "skills": [
         {
-            "skillName": "Big\\W{0,2}Data\\W{0,2}Analytics"
-        },
-        {
             "skillName": "Linux"
-        },
-        {
-            "skillName": "AI"
         },
         {
             "skillName": "SQL"

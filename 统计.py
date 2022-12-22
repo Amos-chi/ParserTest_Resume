@@ -11,6 +11,7 @@ def getResult(file):
     print(f'处理 {file}中..')
     target_dir = 'aaformat'
     step2_dir = 'Step2_formatdata\hitalent_format'
+    #step2_dir = 'Step2_formatdata\ResumeSDK_format'
     url = 'http://127.0.0.1:5000/parser/v3/resume/assert_resume'
 
 
@@ -28,20 +29,23 @@ def getResult(file):
         del data['important_keys'][k]
 
     #print(json.dumps(data,indent=4))
-    f = open(f'Result\hitalent\{file}','w', encoding='utf-8')
+    #f = open(fr'Result\resumeSDK\{file}','w', encoding='utf-8')
+    f = open(fr'Result\hitalent\{file}','w', encoding='utf-8')
     f.write(json.dumps(data,indent=4,ensure_ascii=False))
     #print(json.dumps(data,indent=4))
 
+    # f = open('hitalentResult.csv','a', encoding='utf-8')
+    # f.write(f'{file},{data["all"]},{data["important"]},{data["desc"]},{data["correct_important"]},,,,,{data["correct_important"]/data["important"]},,,,,{data["correct_desc"]},,,,,{data["additional"]}\n')
+
 if __name__ == '__main__':
+    d = os.popen(r'ssh -i C:\Users\Administrator\Desktop\amos -p 6000 -L 5000:127.0.0.1:5000 amos@wuhan.hitalent.com')
+
     # files = os.listdir('aaformat')
-    #
     # for file in files:
-    #     #if file not in ['2018 cv_ting.pdf.json']:
     #     try:
     #         getResult(file)
     #     except Exception as e:
     #         print(f'------------------------ {file} error!!!')
-    d = os.popen(r'ssh -i C:\Users\Administrator\Desktop\amos -p 6000 -L 5000:127.0.0.1:5000 amos@wuhan.hitalent.com')
 
 
-    getResult('字节跳动-小荷健康-上海区域BD负责人-马晶晶.pdf.json')
+    getResult('【java开发_武汉】王俊港 3年.pdf.json')

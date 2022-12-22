@@ -17,11 +17,6 @@
     "currentLocation": {
         "location": "Madison\\W{0,2}(WI)?"
     },
-    "preferredLocations": [
-        {
-            "location": "Madison\\W{0,2}(WI)?"
-        }
-    ],
     "languages": [
         "MANDARIN",
         "ENGLISH"

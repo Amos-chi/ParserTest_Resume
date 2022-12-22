@@ -10,11 +10,12 @@ import os
 
 tar_dir = r'Step1_origdata\Affinda_Reuslt'
 
-f = open('affinda-parser-wgbdEwKM.json','r', encoding='utf-8')
+f = open('affinda-parser-sMcmpETT.json','r', encoding='utf-8')
 data = json.load(f)
 
 for json_ in data['resumes']:
     fileName = f"{json_['meta']['fileName']}.json"
+    print(fileName)
     pr = json_['data']
 
     ff = open(os.path.join(tar_dir,fileName),'w', encoding='utf-8')

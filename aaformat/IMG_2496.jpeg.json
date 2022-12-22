@@ -17,38 +17,30 @@
     "currentLocation": {
         "location": "(158\\W{0,2}Lynnwood\\W{0,2}Circle(\\W{0,2}Clraksville\\W{0,2}TN(\\W{0,2}37040)?)?)|(Clraksville\\W{0,2}TN)"
     },
-    "preferredLocations": [
-        {
-            "location": "(158\\W{0,2}Lynnwood\\W{0,2}Circle(\\W{0,2}Clraksville\\W{0,2}TN(\\W{0,2}37040)?)?)|(Clraksville\\W{0,2}TN)"
-        }
-    ],
-    "languages": [
-        "ENGLISH"
-    ],
     "experiences": [
         {
-            "description": "Carriedoutthesamedutiesasmostrecent roleatPostmates IncduetoUber's \nacquisition.WhilealsoutilizingUber'stools toassistwith orders on the Uber side as \ntheintegrationprogressed.LatertransitionedtoUber'snewPremiumSupport \ndepartment. ",
+            "description": "Carriedoutthesamedutiesasmostrecent\\W*roleatPostmates\\W*IncduetoUber\\W*s\\W*acquisition\\W*WhilealsoutilizingUber\\W*stools\\W*toassistwith\\W*orders\\W*on\\W*the\\W*Uber\\W*side\\W*as\\W*theintegrationprogressed\\W*LatertransitionedtoUber\\W*snewPremiumSupport\\W*department\\W*",
             "companyName": "Uber(Technology)?",
             "title": "COE\\W{0,2}Specialist\\W{0,2}II",
             "startDate": "2021-03-01",
             "current": true
         },
         {
-            "description": "Offeringinboundsupporttoourtopandmostprominentbusinessesontheplatform \nviaphoneand email.Forissues suchasliveorderconcerns,accountupdates,and supportingtechnicaldifficulties. ",
+            "description": "Offeringinboundsupporttoourtopandmostprominentbusinessesontheplatform\\W*viaphoneand\\W*email\\W*Forissues\\W*suchasliveorderconcerns\\W*accountupdates\\W*and\\W*supportingtechnicaldifficulties\\W*",
             "companyName": "Postmates(Inc)?",
             "title": "VIP\\W{0,2}Support\\W{0,2}Specialist",
             "startDate": "2021-02-01",
             "endDate": "2021-03-01"
         },
         {
-            "description": "Offeringinboundsupporttocustomers,drivers,andbusinessesontheplatformvia \nphoneoremail.Assistedwithconcernsoveraccountissuesandupdatesaswellas technicalsupport",
+            "description": "Offeringinboundsupporttocustomers\\W*drivers\\W*andbusinessesontheplatformvia\\W*phoneoremail\\W*Assistedwithconcernsoveraccountissuesandupdatesaswellas\\W*technicalsupport",
             "companyName": "Postmates(Inc)?",
             "title": "Account\\W{0,3}Tech\\W{0,2}Support\\W{0,2}Specialist",
             "startDate": "2020-11-01",
             "endDate": "2021-02-01"
         },
         {
-            "description": "Offeringinboundsupporttobusinessesontheplatformviaphoneandemail.For\nissuessuchasliveorderconcerns,accountupdates,andsupportingtechnical \ndifficulties. ",
+            "description": "Offeringinboundsupporttobusinessesontheplatformviaphoneandemail\\W*For\\W*issuessuchasliveorderconcerns\\W*accountupdates\\W*andsupportingtechnical\\W*difficulties\\W*",
             "companyName": "Postmates(Inc)?",
             "title": "Merchant\\W{0,2}Support\\W{0,2}Specialist",
             "startDate": "2020-03-01",
@@ -67,7 +59,7 @@
             "endDate": "2019-12-01"
         },
         {
-            "description": "ManageallUniversityRecreationsocialmediaaccountsonFacebook,Twitter,and \nInstagram.Creatingengagingcontentforeachplatformandkeepingfollowers \ninformedofallupcomingeventsandclasscancellationsasrequired. ",
+            "description": "ManageallUniversityRecreationsocialmediaaccountsonFacebook\\W*Twitter\\W*and\\W*Instagram\\W*Creatingengagingcontentforeachplatformandkeepingfollowers\\W*informedofallupcomingeventsandclasscancellationsasrequired\\W*",
             "companyName": "APSUUniversityRecreation",
             "title": "Marketing\\W{0,2}Intern",
             "startDate": "2018-12-01",

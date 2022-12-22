@@ -18,7 +18,8 @@ def ResumeSDK_format():
 
         # fullname
         dict = {}
-        dict['fullName'] = data['result']['name']
+        if data['result'].get('name'):
+            dict['fullName'] = data['result']['name']
 
         # contacts format
         contacts = []
@@ -27,7 +28,7 @@ def ResumeSDK_format():
             cont['contact'] = data['result']['email']
             cont['type'] = 'EMAIL'
             contacts.append(cont)
-        if data['result'].get('email'):
+        if data['result'].get('phone'):
             cont = {}
             cont['contact'] = data['result']['phone']
             cont['type'] = 'PHONE'
@@ -70,7 +71,10 @@ def ResumeSDK_format():
                 }
                 for k in keys.keys():
                     if edu.get(keys[k]):
-                        edudict[k] = edu[keys[k]]
+                        if edu[keys[k]] == '至今':
+                            edudict['current'] = True
+                        else:
+                            edudict[k] = edu[keys[k]]
 
                 eduList.append(edudict)
             dict['educations'] = eduList
@@ -175,21 +179,23 @@ def hitlant_format():
 
 def affinda_format():
     path = 'Step1_origdata/Affinda_Reuslt'
-    tar_path = 'Step2_formatdata/Affinda_format'
+    tar_path = 'Step2_formatdata\\Affinda_format'
 
     files = os.listdir(path)
     for file in files:
+        print(f'affinda_format :  {file}')
         f = open(os.path.join(path,file), 'r', encoding='utf-8')
         data = json.load(f)
         # 判断中文名还是英文名, 选择firstName lastName的拼接方式
         dict = {}
 
         # fullName
-        for _char in data['name']:
-            if '\u4e00' <= _char <= '\u9fa5':
-                dict['fullName'] = data['name']['last'] + data['name']['first']
-            else:
-                dict['fullName'] = data['name']['first'] + ' ' + data['name']['last']
+        if data.get('name'):
+            for _char in data['name']:
+                if '\u4e00' <= _char <= '\u9fa5':
+                    dict['fullName'] = data['name']['last'] + data['name']['middle']+ data['name']['first']
+                else:
+                    dict['fullName'] = data['name']['first'] + ' ' + data['name']['middle'] + ' ' + data['name']['last']
 
         # contacts
         contacts = []
@@ -205,7 +211,11 @@ def affinda_format():
                 con_dic['contact'] = i
                 con_dic['type'] = 'PHONE'
                 contacts.append(con_dic)
-        dict['contacts'] = contacts
+        if len(contacts) > 0:
+            dict['contacts'] = contacts
+        else:
+            pass
+
 
         # locations
         if data.get('location'):
@@ -225,18 +235,21 @@ def affinda_format():
             dict['educations'] = []
             for i in data['education']:
                 educations = {}
-                if i['dates']['startDate']:
-                    educations['startDate'] = i['dates']['startDate']
-                if i['dates']['completionDate']:
-                    educations['endDate'] = i['dates']['completionDate']
-                if i['dates']['isCurrent'] == True:
-                    educations['current'] = True
-                if i['organization']:
-                    educations['collegeName'] = i['organization']
-                if i['accreditation']['educationLevel']:
-                    educations['degreeLevel'] = i['accreditation']['educationLevel']
-                if i['accreditation']['education']:
-                    educations['majorName'] = i['accreditation']['education']
+                if i.get('dates'):
+                    if i['dates']['startDate']:
+                        educations['startDate'] = i['dates']['startDate']
+                    if i['dates']['completionDate']:
+                        educations['endDate'] = i['dates']['completionDate']
+                    if i['dates']['isCurrent'] == True:
+                        educations['current'] = True
+                if i.get('organization'):
+                    if i['organization']:
+                        educations['collegeName'] = i['organization']
+                if i.get('accreditation'):
+                    if i['accreditation']['educationLevel']:
+                        educations['degreeLevel'] = i['accreditation']['educationLevel']
+                    if i['accreditation'].get('education'):
+                        educations['majorName'] = i['accreditation']['education']
                 dict['educations'].append(educations)
 
         # experiences
@@ -250,12 +263,13 @@ def affinda_format():
                     experiences['companyName'] = i['organization']
                 if i['jobTitle'] :
                     experiences['title'] = i['jobTitle']
-                if i['dates']['startDate'] :
-                    experiences['startDate'] = i['dates']['startDate']
-                if i['dates']['endDate'] :
-                    experiences['endDate'] = i['dates']['endDate']
-                if i['dates']['isCurrent'] == True:
-                    experiences['current'] = True
+                if i.get('dates') :
+                    if i['dates']['startDate']:
+                        experiences['startDate'] = i['dates']['startDate']
+                    if i['dates']['endDate'] :
+                        experiences['endDate'] = i['dates']['endDate']
+                    if i['dates']['isCurrent'] == True:
+                        experiences['current'] = True
                 dict['experiences'].append(experiences)
 
         # skills
@@ -265,9 +279,8 @@ def affinda_format():
                 dict['skills'].append({"skillName": i['name']})
 
 
-
+        print(f'{file} done..')
         #print(json.dumps(dict, indent=4 , ensure_ascii=False))
-        print(f'affinda_format :  {file}')
         ff = open(os.path.join(tar_path, file), 'w', encoding='utf-8')
         ff.write(json.dumps(dict, indent=4, ensure_ascii=False))
 
@@ -277,114 +290,223 @@ def Xiaoxi_format():
 
     files = os.listdir(path)
     for file in files:
+        print(f'format file: {file}..')
         f = open(os.path.join(path, file), 'r', encoding='utf-8')
         data = json.load(f)
         dict = {}
 
         # fullname
-        dict['fullName'] = data['parsing_result']['basic_info']['name']
+        if data.get('english_parsing_result'):
+            dict['fullName'] = data['english_parsing_result']['basic_info']['name']
 
-        # contacts
-        contacts = []
-        if not data['parsing_result']['contact_info']['phone_number']  == '':
-            contacts.append({
-                "contact": data['parsing_result']['contact_info']['phone_number'],
-                "type": "PHONE"
-            })
-        if not data['parsing_result']['contact_info']['email']  == '':
-            contacts.append({
-                "contact": data['parsing_result']['contact_info']['email'],
-                "type": "EMAIL"
-            })
-        if not data['parsing_result']['contact_info']['wechat']  == '':
-            contacts.append({
-                "contact": data['parsing_result']['contact_info']['wechat'],
-                "type": "WECHAT"
-            })
-        if not data['parsing_result']['contact_info']['QQ']  == '':
-            contacts.append({
-                "contact": data['parsing_result']['contact_info']['QQ'],
-                "type": "QQ"
-            })
-        if not data['parsing_result']['contact_info']['home_phone_number']  == '':
-            contacts.append({
-                "contact": data['parsing_result']['contact_info']['home_phone_number'],
-                "type": "PHONE"
-            })
-        dict['contacts'] = contacts
 
-        # current_location
-        if not data['parsing_result']['basic_info']['current_location'] == '':
-            dict['currentLocation'] = data['parsing_result']['basic_info']['current_location']
-        # expect_location
-        if not data['parsing_result']['basic_info']['expect_location'] == '':
-            dict['preferredLocations'] = data['parsing_result']['basic_info']['expect_location']
+            # contacts
+            contacts = []
+            if not data['english_parsing_result']['contact_info']['phone_number']  == '':
+                contacts.append({
+                    "contact": data['english_parsing_result']['contact_info']['phone_number'],
+                    "type": "PHONE"
+                })
+            if not data['english_parsing_result']['contact_info']['email']  == '':
+                contacts.append({
+                    "contact": data['english_parsing_result']['contact_info']['email'],
+                    "type": "EMAIL"
+                })
+            if not data['english_parsing_result']['contact_info']['wechat']  == '':
+                contacts.append({
+                    "contact": data['english_parsing_result']['contact_info']['wechat'],
+                    "type": "WECHAT"
+                })
+            if not data['english_parsing_result']['contact_info']['QQ']  == '':
+                contacts.append({
+                    "contact": data['english_parsing_result']['contact_info']['QQ'],
+                    "type": "QQ"
+                })
+            if not data['english_parsing_result']['contact_info']['home_phone_number']  == '':
+                contacts.append({
+                    "contact": data['english_parsing_result']['contact_info']['home_phone_number'],
+                    "type": "PHONE"
+                })
+            dict['contacts'] = contacts
 
-        # languages
-        if not data['parsing_result']['others']['language'] == []:
-            dict['languages'] = data['parsing_result']['others']['language']
+            # current_location
+            if not data['english_parsing_result']['basic_info']['current_location'] == '':
+                dict['currentLocation'] = data['english_parsing_result']['basic_info']['current_location']
+            # expect_location
+            if not data['english_parsing_result']['basic_info']['expect_location'] == '':
+                dict['preferredLocations'] = data['english_parsing_result']['basic_info']['expect_location']
 
-        # educations
-        educations = []
-        for i in data['parsing_result']['education_experience']:
-            edudic = {}
-            if i['start_time_year'] != '' :
-                if i['start_time_month'] != '' :
-                    edudic['startDate'] = f"{i['start_time_year']}-{i['start_time_month']}-01"
-                else:
-                    edudic['startDate'] = f"{i['start_time_year']}-01-01"
-            if i['still_active'] == 1:
-                edudic['current'] = True
-            else:
-                if i['end_time_year'] != '':
-                    if i['end_time_month'] != '':
-                        edudic['endDate'] = f"{i['end_time_year']}-{i['end_time_month']}-01"
+            # languages
+            if not data['english_parsing_result']['others']['language'] == []:
+                dict['languages'] = data['english_parsing_result']['others']['language']
+
+            # educations
+            educations = []
+            for i in data['english_parsing_result']['education_experience']:
+                edudic = {}
+                if i['start_time_year'] != '' :
+                    if i['start_time_month'] != '' :
+                        edudic['startDate'] = f"{i['start_time_year']}-{i['start_time_month']}-01"
                     else:
-                        edudic['endDate'] = f"{i['end_time_year']}-01-01"
-            if i['school_name'] != '':
-                edudic['collegeName'] = i['school_name']
-            if i['degree'] != '':
-                edudic['degreeLevel'] = i['degree']
-            if i['major'] != '':
-                edudic['majorName'] = i['major']
-            educations.append(edudic)
-        dict['educations'] = educations
-
-        # experiences
-        experiences = []
-        for i in data['parsing_result']['work_experience']:
-            expdic = {}
-            if i['description'] != '':
-                expdic['description'] = i['description']
-            if i['company_name'] != '':
-                expdic['companyName'] = i['company_name']
-            if i['job_title'] != '':
-                expdic['title'] = i['job_title']
-            if i['start_time_year'] != '' :
-                if i['start_time_month'] != '' :
-                    expdic['startDate'] = f"{i['start_time_year']}-{i['start_time_month']}-01"
+                        edudic['startDate'] = f"{i['start_time_year']}-01-01"
+                if i['still_active'] == 1:
+                    edudic['current'] = True
                 else:
-                    expdic['startDate'] = f"{i['start_time_year']}-01-01"
-            if i['still_active'] == 1:
-                expdic['current'] = True
-            else:
-                if i['end_time_year'] != '':
-                    if i['end_time_month'] != '':
-                        expdic['endDate'] = f"{i['end_time_year']}-{i['end_time_month']}-01"
+                    if i['end_time_year'] != '':
+                        if i['end_time_month'] != '':
+                            edudic['endDate'] = f"{i['end_time_year']}-{i['end_time_month']}-01"
+                        else:
+                            edudic['endDate'] = f"{i['end_time_year']}-01-01"
+                if i['school_name'] != '':
+                    edudic['collegeName'] = i['school_name']
+                if i['degree'] != '':
+                    edudic['degreeLevel'] = i['degree']
+                if i['major'] != '':
+                    edudic['majorName'] = i['major']
+                educations.append(edudic)
+            if len(educations) > 0:
+                dict['educations'] = educations
+
+            # experiences
+            experiences = []
+            for i in data['english_parsing_result']['work_experience']:
+                expdic = {}
+                if i['description'] != '':
+                    expdic['description'] = i['description']
+                if i['company_name'] != '':
+                    expdic['companyName'] = i['company_name']
+                if i['job_title'] != '':
+                    expdic['title'] = i['job_title']
+                if i['start_time_year'] != '' :
+                    if i['start_time_month'] != '' :
+                        expdic['startDate'] = f"{i['start_time_year']}-{i['start_time_month']}-01"
                     else:
-                        expdic['endDate'] = f"{i['end_time_year']}-01-01"
+                        expdic['startDate'] = f"{i['start_time_year']}-01-01"
+                if i['still_active'] == 1:
+                    expdic['current'] = True
+                else:
+                    if i['end_time_year'] != '':
+                        if i['end_time_month'] != '':
+                            expdic['endDate'] = f"{i['end_time_year']}-{i['end_time_month']}-01"
+                        else:
+                            expdic['endDate'] = f"{i['end_time_year']}-01-01"
 
-            experiences.append(expdic)
-        dict['experiences'] = experiences
+                experiences.append(expdic)
+            if len(experiences) > 0:
+                dict['experiences'] = experiences
 
-        # skills
-        dict['skills'] = []
-        if data['parsing_result']['others']['skills'] != '':
-            for i in data['parsing_result']['others']['skills']:
-                dict['skills'].append({"skillName": f"{i}"})
+            # skills
+            dict['skills'] = []
+            if data['english_parsing_result']['others']['skills'] != '':
+                for i in data['english_parsing_result']['others']['skills']:
+                    dict['skills'].append({"skillName": f"{i}"})
+
+        elif data.get('parsing_result'):
+            dict['fullName'] = data['parsing_result']['basic_info']['name']
+
+            # contacts
+            contacts = []
+            if not data['parsing_result']['contact_info']['phone_number'] == '':
+                contacts.append({
+                    "contact": data['parsing_result']['contact_info']['phone_number'],
+                    "type": "PHONE"
+                })
+            if not data['parsing_result']['contact_info']['email'] == '':
+                contacts.append({
+                    "contact": data['parsing_result']['contact_info']['email'],
+                    "type": "EMAIL"
+                })
+            if not data['parsing_result']['contact_info']['wechat'] == '':
+                contacts.append({
+                    "contact": data['parsing_result']['contact_info']['wechat'],
+                    "type": "WECHAT"
+                })
+            if not data['parsing_result']['contact_info']['QQ'] == '':
+                contacts.append({
+                    "contact": data['parsing_result']['contact_info']['QQ'],
+                    "type": "QQ"
+                })
+            if not data['parsing_result']['contact_info']['home_phone_number'] == '':
+                contacts.append({
+                    "contact": data['parsing_result']['contact_info']['home_phone_number'],
+                    "type": "PHONE"
+                })
+            dict['contacts'] = contacts
+
+            # current_location
+            if not data['parsing_result']['basic_info']['current_location'] == '':
+                dict['currentLocation'] = data['parsing_result']['basic_info']['current_location']
+            # expect_location
+            if not data['parsing_result']['basic_info']['expect_location'] == '':
+                dict['preferredLocations'] = data['parsing_result']['basic_info']['expect_location']
+
+            # languages
+            if not data['parsing_result']['others']['language'] == []:
+                dict['languages'] = data['parsing_result']['others']['language']
+
+            # educations
+            educations = []
+            for i in data['parsing_result']['education_experience']:
+                edudic = {}
+                if i['start_time_year'] != '':
+                    if i['start_time_month'] != '':
+                        edudic['startDate'] = f"{i['start_time_year']}-{i['start_time_month']}-01"
+                    else:
+                        edudic['startDate'] = f"{i['start_time_year']}-01-01"
+                if i['still_active'] == 1:
+                    edudic['current'] = True
+                else:
+                    if i['end_time_year'] != '':
+                        if i['end_time_month'] != '':
+                            edudic['endDate'] = f"{i['end_time_year']}-{i['end_time_month']}-01"
+                        else:
+                            edudic['endDate'] = f"{i['end_time_year']}-01-01"
+                if i['school_name'] != '':
+                    edudic['collegeName'] = i['school_name']
+                if i['degree'] != '':
+                    edudic['degreeLevel'] = i['degree']
+                if i['major'] != '':
+                    edudic['majorName'] = i['major']
+                educations.append(edudic)
+            if len(educations) > 0:
+                dict['educations'] = educations
+
+            # experiences
+            experiences = []
+            for i in data['parsing_result']['work_experience']:
+                expdic = {}
+                if i['description'] != '':
+                    expdic['description'] = i['description']
+                if i['company_name'] != '':
+                    expdic['companyName'] = i['company_name']
+                if i['job_title'] != '':
+                    expdic['title'] = i['job_title']
+                if i['start_time_year'] != '':
+                    if i['start_time_month'] != '':
+                        expdic['startDate'] = f"{i['start_time_year']}-{i['start_time_month']}-01"
+                    else:
+                        expdic['startDate'] = f"{i['start_time_year']}-01-01"
+                if i['still_active'] == 1:
+                    expdic['current'] = True
+                else:
+                    if i['end_time_year'] != '':
+                        if i['end_time_month'] != '':
+                            expdic['endDate'] = f"{i['end_time_year']}-{i['end_time_month']}-01"
+                        else:
+                            expdic['endDate'] = f"{i['end_time_year']}-01-01"
+
+                experiences.append(expdic)
+            if len(experiences) > 0:
+                dict['experiences'] = experiences
+
+            # skills
+            dict['skills'] = []
+            if data['parsing_result']['others']['skills'] != '':
+                for i in data['parsing_result']['others']['skills']:
+                    dict['skills'].append({"skillName": f"{i}"})
 
         #print(json.dumps(dict, indent=4, ensure_ascii=False))
-        print(f'affinda_format :  {file}')
+
         ff = open(os.path.join(tar_path, file), 'w', encoding='utf-8')
         ff.write(json.dumps(dict, indent=4, ensure_ascii=False))
 
@@ -392,8 +514,8 @@ def Xiaoxi_format():
 
 
 if __name__ == '__main__':
-    hitlant_format()
-    #ResumeSDK_format()
+    #hitlant_format()
+    ResumeSDK_format()
     #affinda_format()
     #Xiaoxi_format()
 

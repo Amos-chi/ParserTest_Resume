@@ -15,7 +15,7 @@
         {
             "startDate": "2015-01-01",
             "endDate": "2017-01-01",
-            "collegeName": "RoyalCollegeofArt(\\W{0,3}London)?",
+            "collegeName": "Royal\\W*College\\W*of\\W*Art(\\W{0,3}London)?",
             "degreeLevel": "MASTER",
             "majorName": "Innovation Design Engineering"
         },
@@ -29,42 +29,42 @@
         {
             "startDate": "2009-01-01",
             "endDate": "2014-01-01",
-            "collegeName": "ShihChien(University(\\W{0,3}Taipei)?)?",
+            "collegeName": "Shih\\W*Chien\\W*(University(\\W{0,3}Taipei)?)?",
             "degreeLevel": "BACHELOR",
             "majorName": "Industrial Design"
         }
     ],
     "experiences": [
         {
-            "description": "Human-centred design is the key to give Emotech’s products \nspirit. As an interaction designer, I am responsible for envisioning \nand executing the interaction between people and robot in the \nfuture home scenario, assessing product requirements (costs, \nmanufacturing feasibility and market requirements, etc.); doing \ncomplex tasks related to artificial intelligence and collaborating \nwith our machine learning scientists, researchers and developers; \ngaining experience working with a multi-disciplinary team. ",
+            "description": "Human\\W*centred\\W*design\\W*is\\W*the\\W*key\\W*to\\W*give\\W*Emotech\\W*s\\W*products\\W*spirit\\W*As\\W*an\\W*interaction\\W*designer\\W*I\\W*am\\W*responsible\\W*for\\W*envisioning\\W*and\\W*executing\\W*the\\W*interaction\\W*between\\W*people\\W*and\\W*robot\\W*in\\W*the\\W*future\\W*home\\W*scenario\\W*assessing\\W*product\\W*requirements\\W*costs\\W*manufacturing\\W*feasibility\\W*and\\W*market\\W*requirements\\W*etc\\W*doing\\W*complex\\W*tasks\\W*related\\W*to\\W*artificial\\W*intelligence\\W*and\\W*collaborating\\W*with\\W*our\\W*machine\\W*learning\\W*scientists\\W*researchers\\W*and\\W*developers\\W*gaining\\W*experience\\W*working\\W*with\\W*a\\W*multi\\W*disciplinary\\W*team\\W*",
             "companyName": "Emotech(Ltd\\W{0,2})?",
             "title": "Interaction Designer",
             "startDate": "2017-04-01",
             "current": true
         },
         {
-            "description": "An 8-week internship working in the design team to understand \nusers and social impact of space technology. This is part of the \nSpace Placements in INdustry (SPIN) scheme, which is managed \nby the Institute for Environmental Analytics at the University of \nReading and supported by the Satellite Applications Catapult and \nthe UK Space Agency. ",
+            "description": "An\\W*8\\W*week\\W*internship\\W*working\\W*in\\W*the\\W*design\\W*team\\W*to\\W*understand\\W*users\\W*and\\W*social\\W*impact\\W*of\\W*space\\W*technology\\W*This\\W*is\\W*part\\W*of\\W*the\\W*Space\\W*Placements\\W*in\\W*INdustry\\W*SPIN\\W*scheme\\W*which\\W*is\\W*managed\\W*by\\W*the\\W*Institute\\W*for\\W*Environmental\\W*Analytics\\W*at\\W*the\\W*University\\W*of\\W*Reading\\W*and\\W*supported\\W*by\\W*the\\W*Satellite\\W*Applications\\W*Catapult\\W*and\\W*the\\W*UK\\W*Space\\W*Agency\\W*",
             "companyName": "SatelliteApplicationsCatapult",
             "title": "Design Thinker",
             "startDate": "2016-07-01",
             "endDate": "2016-08-01"
         },
         {
-            "description": "Commissioned by the company as a contract designer to design its \nIPO presentation materials, including understanding and \nvisualising the company’s value proposition, as well as its products \n(long-acting analgesic injection and small molecule for the acute \nischemic stroke treatment). ",
+            "description": "Commissioned\\W*by\\W*the\\W*company\\W*as\\W*a\\W*contract\\W*designer\\W*to\\W*design\\W*its\\W*IPO\\W*presentation\\W*materials\\W*including\\W*understanding\\W*and\\W*visualising\\W*the\\W*company\\W*s\\W*value\\W*proposition\\W*as\\W*well\\W*as\\W*its\\W*products\\W*long\\W*acting\\W*analgesic\\W*injection\\W*and\\W*small\\W*molecule\\W*for\\W*the\\W*acute\\W*ischemic\\W*stroke\\W*treatment\\W*",
             "companyName": "LumosaTherapeutics(co\\W{0,2}(Ltd\\W{0,2})?)?",
             "title": "Designer",
             "startDate": "2015-04-01",
             "endDate": "2015-07-01"
         },
         {
-            "description": "Hired as a UX designer by Migo. I organised compatible structures \nof a project by field research (shadowing and interviewing \npotential users in Manila, the Philippines), defining user journey \nmap, narrating user stories and conducting usability tests (e.g. \nA/B testing). Migo is a consumer-focused innovation company \nfocusing on emerging markets, where transformative innovation in \nentertainment is lacking. ",
+            "description": "Hired\\W*as\\W*a\\W*UX\\W*designer\\W*by\\W*Migo\\W*I\\W*organised\\W*compatible\\W*structures\\W*of\\W*a\\W*project\\W*by\\W*field\\W*research\\W*shadowing\\W*and\\W*interviewing\\W*potential\\W*users\\W*in\\W*Manila\\W*the\\W*Philippines\\W*defining\\W*user\\W*journey\\W*map\\W*narrating\\W*user\\W*stories\\W*and\\W*conducting\\W*usability\\W*tests\\W*e\\W*g\\W*A\\W*B\\W*testing\\W*Migo\\W*is\\W*a\\W*consumer\\W*focused\\W*innovation\\W*company\\W*focusing\\W*on\\W*emerging\\W*markets\\W*where\\W*transformative\\W*innovation\\W*in\\W*entertainment\\W*is\\W*lacking\\W*",
             "companyName": "MigoTV",
             "title": "Imagineer",
             "startDate": "2014-09-01",
             "endDate": "2015-03-01"
         },
         {
-            "description": "Worked in the project \"Experimental Program of Visual Guiding \nSystem\" as a UI designer with Taipei Digital Art Centre, Smart \nNetwork System Institute of the Institute for Information Industry, \nChipSiP Technology Co. and Kupo Co., Ltd. ",
+            "description": "Worked\\W*in\\W*the\\W*project\\W*Experimental\\W*Program\\W*of\\W*Visual\\W*Guiding\\W*System\\W*as\\W*a\\W*UI\\W*designer\\W*with\\W*Taipei\\W*Digital\\W*Art\\W*Centre\\W*Smart\\W*Network\\W*System\\W*Institute\\W*of\\W*the\\W*Institute\\W*for\\W*Information\\W*Industry\\W*ChipSiP\\W*Technology\\W*Co\\W*and\\W*Kupo\\W*Co\\W*Ltd\\W*",
             "companyName": "TaipeiDigitalArtCentre",
             "title": "UI Designer",
             "startDate": "2014-05-01",

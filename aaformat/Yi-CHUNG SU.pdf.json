@@ -13,14 +13,6 @@
     "currentLocation": {
         "location": "321\\W{0,2}South\\W{0,2}5th\\W{0,2}Street\\W{0,3}Unit\\W{0,2}240\\W{0,3}Ames\\W{0,3}Iowa\\W{0,2}50010"
     },
-    "preferredLocations": [
-        {
-            "location": "321\\W{0,2}South\\W{0,2}5th\\W{0,2}Street\\W{0,3}Unit\\W{0,2}240\\W{0,3}Ames\\W{0,3}Iowa\\W{0,2}50010"
-        }
-    ],
-    "languages": [
-        "ENGLISH"
-    ],
     "educations": [
         {
             "endDate": "2018-04-01",
