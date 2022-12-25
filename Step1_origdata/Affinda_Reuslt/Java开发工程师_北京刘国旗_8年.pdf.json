@@ -1,0 +1,638 @@
+{
+    "certifications": [],
+    "dateOfBirth": null,
+    "education": [],
+    "emails": [
+        "673319831@qq.com"
+    ],
+    "location": {
+        "formatted": "Beijing, China",
+        "streetNumber": null,
+        "street": null,
+        "apartmentNumber": null,
+        "city": "Beijing",
+        "postalCode": null,
+        "state": "Beijing",
+        "country": "China",
+        "rawInput": "北 京",
+        "countryCode": "CN"
+    },
+    "name": {
+        "raw": "刘 国 旗",
+        "last": "旗",
+        "first": "刘",
+        "title": "",
+        "middle": "国"
+    },
+    "objective": "",
+    "phoneNumbers": [
+        "+8615652335958"
+    ],
+    "publications": [],
+    "referees": [],
+    "sections": [
+        {
+            "sectionType": "PersonalDetails",
+            "bbox": [
+                27.0,
+                5.0,
+                546.0,
+                124.0
+            ],
+            "pageIndex": 0,
+            "text": "Oede1b172cd4c1f71nF-2dS9GVdRxpG6VfqZReOhmQ -- 刘 国 旗 男 生 日 :1992/02 | 北 京 C 15652335958 ☑ 673319831@qq.com"
+        },
+        {
+            "sectionType": "Summary",
+            "bbox": [
+                28.0,
+                132.0,
+                407.0,
+                346.0
+            ],
+            "pageIndex": 0,
+            "text": "7 年 工 作 经 验 | 求 职 意 向 :Java | 期 望 薪 资 :30-35K 个 人 优 势 0. 为 人 随 和 、 坦 诚 、 有 责 任 感 。 1. 扎 实 , 勤 奋 , 爱 钻 研 新 的 技 术 ; 2. 具 有 很 强 的 团 队 精 神 , 有 良 好 的 组 织 和 协 调 能 力 和 逻 辑 思 维 能 力 , 有 强 烈 的 集 体 荣 誉 感 。 3. 敢 于 面 对 和 克 服 困 难 。 4. 抗 压 能 力 强 。 5. 善 于 站 在 公 司 的 利 益 思 考 问 题 。"
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                29.0,
+                381.0,
+                565.0,
+                796.0
+            ],
+            "pageIndex": 0,
+            "text": "工 作 经 历 北 京 方 寸 悦 动 科 技 有 限 公 司 2021.10 - 至 今 技 术 部 Java 内 容 : 创 业 公 司 从 0-1 的 产 品 研 讨 , 功 能 实 现 后 台 管 理 系 统 , 商 品 ( 测 评 量 表 , 视 频 / 语 音 / 直 播 咨 询 , 录 播 课 程 ) 的 上 架 审 核 , 咨 询 师 的 审 核 等 B 端 咨 询 师 的 入 驻 认 证 审 核 , 店 铺 装 修 审 核 , 发 布 咨 询 审 核 , 咨 询 师 接 单 , 反 馈 , 评 价 , 待 办 事 项 C 端 用 户 的 下 单 , 支 付 , 语 音 咨 询 , 视 频 咨 询 , 评 价 , 待 办 事 项 , 订 单 校 验 对 接 第 三 方 声 网 语 音 视 频 , 生 成 token 创 建 直 播 房 间 号 BC 端 充 值 消 费 商 品 记 录 , 历 史 足 迹 , 量 表 / 视 频 / 语 音 / 直 播 / 录 播 课 程 的 标 签 分 类 鑫 方 盛 控 股 集 团 有 限 公 司 2020.09 - 2021.09 开 放 平 台 Java 内 容 : 负 责 鑫 方 盛 开 放 平 台 toB 端 openapi 的 开 发 工 作 和 对 外 服 务 的 对 接 。 保 证 第 三 方 平 台 的 预 订 单 和 异 常 订 单 的 正 常 下 推 oms 。 新 项 目 中 标 后 按 照 对 方 接 口 标 准 的 文 档 开 发 接 入 。 负 责 的 各 个 渠 道 商 品 的 增 量 推 送 和 全 量 推 送 , 保 证 数 据 状 态 的 正 常 对 接 。 跟 进 第 三 方 测 试 联 调 进 度 , 并 保 证 进 度 如 期 上 线 。 处 理 线 上 正 常 订 单 和 异 常 订 单 的 工 单 。"
+        },
+        {
+            "sectionType": "Skills/Interests/Languages",
+            "bbox": [
+                30.0,
+                51.0,
+                265.0,
+                200.0
+            ],
+            "pageIndex": 1,
+            "text": "● 参 与 开 放 平 台 初 期 建 设 专 业 技 能 spring, springboot, springcloud 等 主 流 开 发 框 架 Mysql, SQL, NoSQL. Mybatis, Linux, K-VI77 MQ, Redis, Zookeeper, RPC. xxl-job$$ (@)# XML 、 JSON 、 Maven 、 GIT 、 IDEA 等 软 件 工 程 工 具 熟 悉 SOA, 微 服 务 , 了 解 JVM 原 理 良 好 的 编 码 规 范 、 良 好 的 沟 通 表 达 能 力 和 逻 辑 能 力"
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                27.0,
+                219.0,
+                565.0,
+                781.0
+            ],
+            "pageIndex": 1,
+            "text": "生 活 百 科 有 限 公 司 北 京 分 公 司 2019.03 - 2020.07 技 术 部 java 内 容 : 根 据 现 阶 段 的 业 务 需 求 整 改 之 前 项 目 中 的 业 务 逻 辑 取 消 自 家 的 物 流 系 统 改 为 供 应 商 一 件 代 发 没 有 城 市 的 区 域 化 划 分 整 改 mysql 数 据 库 的 商 品 库 和 库 存 购 物 车 中 下 单 依 据 和 对 商 品 的 判 断 ,redis 实 现 折 扣 价 活 动 商 品 的 预 占 库 存 对 接 第 三 方 的 微 信 支 付 功 能 协 助 分 账 系 统 的 研 发 ● 对 接 第 三 方 商 品 入 库 , 属 性 标 签 转 换 , 价 格 同 步 北 京 云 飞 时 代 网 络 科 技 有 限 公 司 2016.01 - 2019.01 技 术 部 java 内 容 : 基 本 模 块 代 码 的 编 写 根 据 产 品 需 求 和 设 计 进 行 软 件 开 发 、 编 码 、 单 元 测 试 负 责 产 品 需 求 分 析 、 设 计 和 文 档 编 写 根 据 产 品 需 求 和 设 计 进 行 软 件 开 发 参 与 研 究 、 学 习 新 的 技 术 和 知 识 ; 修 复 程 序 BUG 完 成 上 级 交 办 的 其 他 任 务 等 北 京 天 汇 创 业 软 件 有 限 公 司 2014.07 - 2015.12 研 发 部 java 内 容 : 0 、 担 任 项 目 开 发 过 程 中 的 Java 工 程 师 , 参 与 公 司 多 个 项 目 的 开 发 帮 助 项 目 经 理 整 理 材 料 和 分 析 项 目 需 求 。 1 、 在 项 目 中 团 队 合 作 , 进 行 后 台 Java 代 码 编 写 , 同 时 进 行 jsp 页 面 调 试 , 前 后 端 信 息 统 一 。"
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                29.0,
+                64.0,
+                565.0,
+                448.0
+            ],
+            "pageIndex": 2,
+            "text": "项 目 经 历 北 京 方 寸 悦 动 科 技 java 2021.10 - 至 今 内 容 : 创 业 公 司 从 0-1 的 产 品 研 讨 , 项 目 整 体 采 用 springboot 搭 建 后 台 管 理 系 统 , 商 品 ( 测 评 量 表 , 视 频 / 语 音 / 直 播 咨 询 , 录 播 课 程 ) 的 上 架 审 核 , 咨 询 师 的 审 核 等 B 端 咨 询 师 的 入 驻 认 证 审 核 , 店 舗 装 修 审 核 , 发 布 咨 询 审 核 , 咨 询 师 接 单 , 反 馈 , 评 价 , 待 办 事 项 C 端 用 户 的 下 单 , 支 付 , 语 音 咨 询 , 视 频 咨 询 , 评 价 , 待 办 事 项 , 订 单 校 验 对 接 第 三 方 声 网 语 音 视 频 , 生 成 token 创 建 直 播 房 间 号 ●BC 端 充 值 消 费 商 品 记 录 , 历 史 足 迹 , 量 表 / 视 频 / 语 音 / 直 播 / 录 播 课 程 的 标 签 分 类 鑫 方 盛 控 股 集 团 开 放 平 台 java 2020.09 - 2021.09 内 容 : 负 责 鑫 方 盛 开 放 平 台 toB 端 openapi 的 开 发 工 作 和 对 外 服 务 的 对 接 。 保 证 第 三 方 平 台 的 预 订 单 和 异 常 订 单 的 正 常 下 推 oms 。 新 项 目 中 标 后 按 照 对 方 接 口 标 准 的 文 档 开 发 接 入 。 负 责 的 各 个 渠 道 商 品 的 增 量 推 送 和 全 量 推 送 , 保 证 数 据 状 态 的 正 常 对 接 。 跟 进 第 三 方 测 试 联 调 进 度 , 并 保 证 进 度 如 期 上 线 。 处 理 线 上 正 常 订 单 和 异 常 订 单 的 工 单 。 参 与 开 放 平 台 初 期 建 设"
+        },
+        {
+            "sectionType": "Projects",
+            "bbox": [
+                28.0,
+                465.0,
+                566.0,
+                729.0
+            ],
+            "pageIndex": 2,
+            "text": "业 绩 : 商 品 的 增 量 和 全 量 采 用 多 是 分 布 式 作 业 任 务 xxljob, 根 据 每 个 渠 道 的 接 受 能 力 选 择 不 同 的 同 步 商 品 推 送 数 据 量 微 服 务 框 架 使 用 dubbo +zookeeper 各 个 服 务 之 间 的 调 用 和 推 送 接 口 的 重 试 机 制 采 用 的 是 spring 的 retry 配 置 重 试 好 次 数 来 实 现 自 动 重 试 调 用 接 口 代 码 的 质 量 检 测 采 用 git+Sonar 分 库 分 表 使 用 的 中 间 键 工 具 sharding-JDBC 消 息 中 间 件 RabbitMQ, 同 步 商 品 中 心 sku 数 据 生 活 百 科 java 2019.03 - 2020.07 内 容 : 该 系 统 是 采 用 SOA 面 向 服 务 架 构 , 使 用 的 当 前 较 为 流 行 的 SSM 框 架 , 利 用 maven 对 项 目 以 及 项 目 依 赖 进 行 管 理 , 采 用 分 布 式 架 构 将 整 个 项 目 拆 分 为 不 同 的 系 统 与 服 务 , 大 致 将 项 目 拆 分 为 用 户 基 础 服 务 系 统 、 用 户 中 心 单 点 登 录 系 统 、 物 流 系 统 、 供 应 商 系 统 、 客 户 服 务 系 统 、 业 务 系 统 、 订 单 系 统 等 、 商 品 搜 索 系 统 , 秒 杀 模 块 和 活 动 系 统 等 。"
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                28.0,
+                746.0,
+                186.0,
+                797.0
+            ],
+            "pageIndex": 2,
+            "text": "业 绩 : 基 于 老 项 目 的 二 次 开 发 。 修 复 购 物 车 存 在 上 个 版 本 中 的 bug"
+        },
+        {
+            "sectionType": "Projects",
+            "bbox": [
+                28.0,
+                52.0,
+                566.0,
+                404.0
+            ],
+            "pageIndex": 3,
+            "text": "替 換 掉 之 前 的 物 流 和 商 品 逻 辑 ( 整 改 ) 后 台 管 理 系 统 商 品 的 增 删 改 、 货 物 上 下 架 功 能 实 现 利 用 ElasticSearch 搜 索 引 擎 系 统 搜 索 功 能 实 现 完 成 购 物 车 系 统 中 商 品 的 增 删 改 (redis) 分 担 部 分 商 品 展 示 逻 辑 功 能 ( 如 : 热 卖 商 品 等 ) 对 接 第 三 方 的 微 信 支 付 功 能 对 接 第 三 方 商 品 对 接 入 库 , 属 性 标 签 转 换 , 价 格 同 步 优 品 惠 购 物 商 城 java 2017.04 - 2019.01 内 容 : 项 目 采 用 了 B2C 电 子 商 务 直 接 面 向 消 费 者 的 零 售 模 式 。 前 端 Web 网 站 主 要 包 括 : 登 录 、 注 册 、 三 级 导 航 , 首 页 展 示 、 二 级 列 表 展 示 、 商 品 详 情 、 订 购 平 台 , 积 分 商 城 、 商 品 展 示 、 商 品 信 息 搜 索 框 、 购 物 车 、 商 品 秒 杀 , 订 单 查 询 , 浏 览 记 录 、 商 品 排 行 、 客 服 服 务 、 留 言 评 论 、 商 品 品 牌 展 示 等 ; 后 端 包 括 : 系 统 模 块 、 订 单 管 理 、 商 品 维 护 、 留 言 板 管 理 、 商 品 管 理 、 用 户 管 理 、 活 动 管 理 、 财 务 管 理 、 报 表 统 计 、 系 统 管 理 、 运 营 管 理 、 店 铺 管 理 、 支 付 管 理 、 推 广 管 理 等 。 其 中 网 站 平 台 维 护 下 包 括 : 产 品 信 息 的 维 护 和 网 站 信 息 维 护 业 绩 : 主 要 负 责 : 前 期 参 与 框 架 选 型 、 需 求 分 析 、 数 据 库 设 计 , 站 内 搜 索 (solr) 、 商 品 限 时 秒 杀 活 动 、 购 物 车 及 订 单 模 块 、 SSo 单 点 登 录 。 后 台 负 责 商 品 管 理 、 品 牌 管 理 等 展 示 页 面 的 设 计 (easyui+redis) 系 统 模 块 , 个 人 中 心 、 以 及 后 续 的 维 护 。"
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                28.0,
+                423.0,
+                566.0,
+                791.0
+            ],
+            "pageIndex": 3,
+            "text": "到 家 订 餐 系 统 ave2.0 研 发 java 2016.01 - 2017.04 内 容 : 该 项 目 主 要 有 用 户 注 册 , 登 录 , 菜 品 分 类 展 示 , 菜 品 信 息 检 索 , 店 铺 信 息 检 索 , 订 单 检 索 , 菜 品 排 行 , 反 馈 留 言 , 用 户 评 论 , 用 户 积 分 管 理 , 菜 品 展 示 , 统 计 分 析 模 块 , 店 铺 管 理 , 菜 品 管 理 , 系 统 管 理 , 新 闻 管 理 , 轮 播 图 , 订 单 展 示 , 资 源 管 理 , 会 员 管 理 , 订 单 管 理 , 购 物 车 , 生 成 订 单 , 广 告 管 理 等 。 包 括 严 格 的 权 限 管 理 部 分 , 客 户 登 录 系 统 后 可 以 对 客 户 所 下 订 单 进 行 查 询 和 取 消 备 注 等 操 作 , 在 取 消 的 同 时 会 对 客 户 所 下 订 单 进 行 积 分 , 款 项 返 还 等 操 作 。 业 绩 : 我 在 项 目 中 主 要 是 参 与 前 期 框 架 选 项 , 需 求 分 析 , 前 台 负 责 店 铺 菜 品 展 示 , 购 物 车 及 订 单 支 付 (redis), 后 台 负 责 店 铺 管 理 ( 菜 品 管 理 , 推 荐 菜 品 , 分 类 管 理 ), 后 期 负 责 项 目 的 维 护 。 中 海 油 办 公 平 台 java 开 发 2014.08 - 2015.05 内 容 : : 此 系 统 实 现 分 布 式 办 公 , 强 化 了 领 导 监 控 , 全 面 掌 握 各 部 门 动 态 。 根 据 其 公 司 的 需 求 主 要 提 供 了 针 对 于 设 备 、 备 品 管 理 , 预 警 监 控 提 醒 以 及 工 作 流 程 申 请 转 批 , 避 免 了 人 工 的 费 时 , 财 力 资 源 浪 费 , 通 过 此 项 目 还 可 以 及 时 的 对 维 护 设 备 的 查 询 , 工 作 审 批 , 并 根 据 预 警 信 息 来 及 时 的 排 除 。 业 绩 : 主 要 负 责 : 我 在 项 目 中 主 要 是 对 部 分 模 块 代 码 编 写 , 系 统 管 理 、 对 季 度 报 表 (POI 导 出 Excel) 、 备 品 配 件"
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                30.0,
+                46.0,
+                564.0,
+                141.0
+            ],
+            "pageIndex": 4,
+            "text": "管 理 、 统 计 报 表 , 项 目 优 化 ( 代 码 优 化 ,sql 优 化 ) 以 及 相 关 文 档 的 编 写 , 配 合 测 试 部 门 进 行 相 应 模 块 的 调 整 。 教 育 经 历 邯 郸 学 院 本 科 计 算 机 科 学 与 技 术 2010 - 2014"
+        }
+    ],
+    "skills": [
+        {
+            "id": 80404988,
+            "emsiId": "KS126QY605N7YVHFYCTW",
+            "name": "MySQL",
+            "lastUsed": "2020-07-01",
+            "numberOfMonths": 16,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15073400
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15073400
+                }
+            ]
+        },
+        {
+            "id": 80404989,
+            "emsiId": "KS123CZ6V1JC5FBNXX42",
+            "name": "Elasticsearch",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404990,
+            "emsiId": "KS125HD5YTJZ8J360S65",
+            "name": "Java Virtual Machine (JVM)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404995,
+            "emsiId": "KS122VT6S2JJ5C5D80NF",
+            "name": "Linux",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404996,
+            "emsiId": "KS440W865GC4VRBW6LJP",
+            "name": "SQL (Programming Language)",
+            "lastUsed": "2020-07-01",
+            "numberOfMonths": 25,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15073400
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 6,
+                    "workExperienceId": 15073404
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15073400
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 6,
+                    "workExperienceId": 15073404
+                }
+            ]
+        },
+        {
+            "id": 80404997,
+            "emsiId": "KS126TY6PLVV38N85X1H",
+            "name": "MyBatis",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404999,
+            "emsiId": "KS128BL6BPTLYCNXSGRS",
+            "name": "RabbitMQ",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80405000,
+            "emsiId": "KS120076FGP5WGWYMP0F",
+            "name": "Java (Programming Language)",
+            "lastUsed": "2021-10-01",
+            "numberOfMonths": 54,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15073398
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15073399
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15073400
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15073401
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 4,
+                    "workExperienceId": 15073402
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 6,
+                    "workExperienceId": 15073404
+                }
+            ]
+        },
+        {
+            "id": 80405001,
+            "emsiId": "KS1200H6XYN1CR0G5NZ0",
+            "name": "Microsoft Excel",
+            "lastUsed": "2015-05-01",
+            "numberOfMonths": 9,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 6,
+                    "workExperienceId": 15073404
+                }
+            ]
+        },
+        {
+            "id": 80404991,
+            "emsiId": "KS125HM6044N46LPQLH1",
+            "name": "JSON",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404992,
+            "emsiId": "KSNN1KZQTC3W3G9J42QL",
+            "name": "OpenAPI",
+            "lastUsed": "2021-09-01",
+            "numberOfMonths": 24,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15073399
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 5,
+                    "workExperienceId": 15073403
+                }
+            ]
+        },
+        {
+            "id": 80404993,
+            "emsiId": "KS440M06B7XSG702LNWM",
+            "name": "Single Sign-On (SSO)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404994,
+            "emsiId": "KS128G66RG96FZNHFCXY",
+            "name": "Redis",
+            "lastUsed": "2020-07-01",
+            "numberOfMonths": 16,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15073400
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15073400
+                }
+            ]
+        },
+        {
+            "id": 80404998,
+            "emsiId": "KS4427C77PRBT3948VNB",
+            "name": "Extensible Markup Language (XML)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Chinese"
+    ],
+    "summary": "7 年 工 作 经 验 | 求 职 意 向 :Java | 期 望 薪 资 :30-35K 个 人 优 势 0. 为 人 随 和 、 坦 诚 、 有 责 任 感 。 1. 扎 实 , 勤 奋 , 爱 钻 研 新 的 技 术 ; 2. 具 有 很 强 的 团 队 精 神 , 有 良 好 的 组 织 和 协 调 能 力 和 逻 辑 思 维 能 力 , 有 强 烈 的 集 体 荣 誉 感 。 3. 敢 于 面 对 和 克 服 困 难 。 4. 抗 压 能 力 强 。 5. 善 于 站 在 公 司 的 利 益 思 考 问 题 。",
+    "websites": [],
+    "linkedin": null,
+    "totalYearsExperience": 8,
+    "profession": null,
+    "workExperience": [
+        {
+            "id": 15073398,
+            "jobTitle": "",
+            "organization": "北 京 方 寸 悦 动 科 技 有 限 公 司",
+            "location": null,
+            "dates": {
+                "startDate": null,
+                "endDate": "2021-10-01",
+                "monthsInPosition": null,
+                "isCurrent": false
+            },
+            "jobDescription": "技 术 部 Java 内 容 : 创 业 公 司 从 0-1 的 产 品 研 讨 , 功 能 实 现 后 台 管 理 系 统 , 商 品 ( 测 评 量 表 , 视 频 / 语 音 / 直 播 咨 询 , 录 播 课 程 ) 的 上 架 审 核 , 咨 询 师 的 审 核 等 B 端 咨 询 师 的 入 驻 认 证 审 核 , 店 铺 装 修 审 核 , 发 布 咨 询 审 核 , 咨 询 师 接 单 , 反 馈 , 评 价 , 待 办 事 项 C 端 用 户 的 下 单 , 支 付 , 语 音 咨 询 , 视 频 咨 询 , 评 价 , 待 办 事 项 , 订 单 校 验 对 接 第 三 方 声 网 语 音 视 频 , 生 成 token 创 建 直 播 房 间 号 BC 端 充 值 消 费 商 品 记 录 , 历 史 足 迹 , 量 表 / 视 频 / 语 音 / 直 播 / 录 播 课 程 的 标 签 分 类 ",
+            "occupation": {
+                "jobTitle": "",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        },
+        {
+            "id": 15073399,
+            "jobTitle": "",
+            "organization": "鑫 方 盛 控 股 集 团 有 限 公 司",
+            "location": null,
+            "dates": {
+                "startDate": "2020-09-01",
+                "endDate": "2021-09-01",
+                "monthsInPosition": 12,
+                "isCurrent": false
+            },
+            "jobDescription": "开 放 平 台 Java 内 容 : 负 责 鑫 方 盛 开 放 平 台 toB 端 openapi 的 开 发 工 作 和 对 外 服 务 的 对 接 。 保 证 第 三 方 平 台 的 预 订 单 和 异 常 订 单 的 正 常 下 推 oms 。 新 项 目 中 标 后 按 照 对 方 接 口 标 准 的 文 档 开 发 接 入 。 负 责 的 各 个 渠 道 商 品 的 增 量 推 送 和 全 量 推 送 , 保 证 数 据 状 态 的 正 常 对 接 。 跟 进 第 三 方 测 试 联 调 进 度 , 并 保 证 进 度 如 期 上 线 。 处 理 线 上 正 常 订 单 和 异 常 订 单 的 工 单 。 ",
+            "occupation": {
+                "jobTitle": "",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        },
+        {
+            "id": 15073400,
+            "jobTitle": "",
+            "organization": "生 活 百 科 有 限 公 司 北 京 分 公 司",
+            "location": null,
+            "dates": {
+                "startDate": "2019-03-01",
+                "endDate": "2020-07-01",
+                "monthsInPosition": 16,
+                "isCurrent": false
+            },
+            "jobDescription": "技 术 部 java 内 容 : 根 据 现 阶 段 的 业 务 需 求 整 改 之 前 项 目 中 的 业 务 逻 辑 取 消 自 家 的 物 流 系 统 改 为 供 应 商 一 件 代 发 没 有 城 市 的 区 域 化 划 分 整 改 mysql 数 据 库 的 商 品 库 和 库 存 购 物 车 中 下 单 依 据 和 对 商 品 的 判 断 ,redis 实 现 折 扣 价 活 动 商 品 的 预 占 库 存 对 接 第 三 方 的 微 信 支 付 功 能 协 助 分 账 系 统 的 研 发 \n●对 接 第 三 方 商 品 入 库 , 属 性 标 签 转 换 , 价 格 同 步 北 京 云 飞 时 代 网 络 科 技 有 限 公 司 2016.01 - 2019.01 技 术 部 java 内 容 : 基 本 模 块 代 码 的 编 写 根 据 产 品 需 求 和 设 计 进 行 软 件 开 发 、 编 码 、 单 元 测 试 负 责 产 品 需 求 分 析 、 设 计 和 文 档 编 写 根 据 产 品 需 求 和 设 计 进 行 软 件 开 发 参 与 研 究 、 学 习 新 的 技 术 和 知 识 ; 修 复 程 序 BUG 完 成 上 级 交 办 的 其 他 任 务 等 ",
+            "occupation": {
+                "jobTitle": "",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        },
+        {
+            "id": 15073401,
+            "jobTitle": "",
+            "organization": "北 京 天 汇 创 业 软 件 有 限 公 司",
+            "location": null,
+            "dates": {
+                "startDate": "2014-07-01",
+                "endDate": "2015-12-01",
+                "monthsInPosition": 17,
+                "isCurrent": false
+            },
+            "jobDescription": "研 发 部 java 内 容 : 0 、 担 任 项 目 开 发 过 程 中 的 Java 工 程 师 , 参 与 公 司 多 个 项 目 的 开 发 帮 助 项 目 经 理 整 理 材 料 和 分 析 项 目 需 求 。 1 、 在 项 目 中 团 队 合 作 , 进 行 后 台 Java 代 码 编 写 , 同 时 进 行 jsp 页 面 调 试 , 前 后 端 信 息 统 一 。 项 目 经 历 ",
+            "occupation": {
+                "jobTitle": "",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        },
+        {
+            "id": 15073402,
+            "jobTitle": "",
+            "organization": "北 京 方 寸 悦 动 科 技 java",
+            "location": null,
+            "dates": {
+                "startDate": null,
+                "endDate": "2021-10-01",
+                "monthsInPosition": null,
+                "isCurrent": false
+            },
+            "jobDescription": "内 容 : 创 业 公 司 从 0-1 的 产 品 研 讨 , 项 目 整 体 采 用 springboot 搭 建 后 台 管 理 系 统 , 商 品 ( 测 评 量 表 , 视 频 / 语 音 / 直 播 咨 询 , 录 播 课 程 ) 的 上 架 审 核 , 咨 询 师 的 审 核 等 B 端 咨 询 师 的 入 驻 认 证 审 核 , 店 舗 装 修 审 核 , 发 布 咨 询 审 核 , 咨 询 师 接 单 , 反 馈 , 评 价 , 待 办 事 项 C 端 用 户 的 下 单 , 支 付 , 语 音 咨 询 , 视 频 咨 询 , 评 价 , 待 办 事 项 , 订 单 校 验 对 接 第 三 方 声 网 语 音 视 频 , 生 成 token 创 建 直 播 房 间 号 \n●BC端 充 值 消 费 商 品 记 录 , 历 史 足 迹 , 量 表 / 视 频 / 语 音 / 直 播 / 录 播 课 程 的 标 签 分 类 ",
+            "occupation": {
+                "jobTitle": "",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        },
+        {
+            "id": 15073403,
+            "jobTitle": "",
+            "organization": "鑫 方 盛 控 股",
+            "location": null,
+            "dates": {
+                "startDate": "2020-09-01",
+                "endDate": "2021-09-01",
+                "monthsInPosition": 12,
+                "isCurrent": false
+            },
+            "jobDescription": "内 容 : 负 责 鑫 方 盛 开 放 平 台 toB 端 openapi 的 开 发 工 作 和 对 外 服 务 的 对 接 。 保 证 第 三 方 平 台 的 预 订 单 和 异 常 订 单 的 正 常 下 推 oms 。 新 项 目 中 标 后 按 照 对 方 接 口 标 准 的 文 档 开 发 接 入 。 负 责 的 各 个 渠 道 商 品 的 增 量 推 送 和 全 量 推 送 , 保 证 数 据 状 态 的 正 常 对 接 。 跟 进 第 三 方 测 试 联 调 进 度 , 并 保 证 进 度 如 期 上 线 。 处 理 线 上 正 常 订 单 和 异 常 订 单 的 工 单 。 参 与 开 放 平 台 初 期 建 设 ",
+            "occupation": {
+                "jobTitle": "",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        },
+        {
+            "id": 15073404,
+            "jobTitle": "",
+            "organization": "中 海 油 办 公 平 台 java 开 发",
+            "location": null,
+            "dates": {
+                "startDate": "2014-08-01",
+                "endDate": "2015-05-01",
+                "monthsInPosition": 9,
+                "isCurrent": false
+            },
+            "jobDescription": "内 容 : : 此 系 统 实 现 分 布 式 办 公 , 强 化 了 领 导 监 控 , 全 面 掌 握 各 部 门 动 态 。 根 据 其 公 司 的 需 求 主 要 提 供 了 针 对 于 设 备 、 备 品 管 理 , 预 警 监 控 提 醒 以 及 工 作 流 程 申 请 转 批 , 避 免 了 人 工 的 费 时 , 财 力 资 源 浪 费 , 通 过 此 项 目 还 可 以 及 时 的 对 维 护 设 备 的 查 询 , 工 作 审 批 , 并 根 据 预 警 信 息 来 及 时 的 排 除 。 业 绩 : 主 要 负 责 : 我 在 项 目 中 主 要 是 对 部 分 模 块 代 码 编 写 , 系 统 管 理 、 对 季 度 报 表 (POI 导 出 Excel) 、 备 品 配 件 管 理 、 统 计 报 表 , 项 目 优 化 ( 代 码 优 化 ,sql 优 化 ) 以 及 相 关 文 档 的 编 写 , 配 合 测 试 部 门 进 行 相 应 模 块 的 调 整 。 教 育 经 历 ",
+            "occupation": {
+                "jobTitle": "",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        },
+        {
+            "id": 15073405,
+            "jobTitle": "科 计 算 机 科 学 与 技 术",
+            "organization": "邯 郸 学 院 本",
+            "location": null,
+            "dates": {
+                "startDate": "2010-01-01",
+                "endDate": "2014-01-01",
+                "monthsInPosition": 48,
+                "isCurrent": false
+            },
+            "jobDescription": "",
+            "occupation": {
+                "jobTitle": "科 计 算 机 科 学 与 技 术",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        }
+    ],
+    "headShot": "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",
+    "isResumeProbability": 60,
+    "rawText": "Oede1b172cd4c1f71nF-2dS9GVdRxpG6VfqZReOhmQ -- 刘 国 旗 男 生 日 :1992/02 | 北 京 C 15652335958 ☑ 673319831@qq.com\n7 年 工 作 经 验 | 求 职 意 向 :Java | 期 望 薪 资 :30-35K 个 人 优 势 0. 为 人 随 和 、 坦 诚 、 有 责 任 感 。 1. 扎 实 , 勤 奋 , 爱 钻 研 新 的 技 术 ; 2. 具 有 很 强 的 团 队 精 神 , 有 良 好 的 组 织 和 协 调 能 力 和 逻 辑 思 维 能 力 , 有 强 烈 的 集 体 荣 誉 感 。 3. 敢 于 面 对 和 克 服 困 难 。 4. 抗 压 能 力 强 。 5. 善 于 站 在 公 司 的 利 益 思 考 问 题 。\n工 作 经 历 北 京 方 寸 悦 动 科 技 有 限 公 司 2021.10 - 至 今 技 术 部 Java 内 容 : 创 业 公 司 从 0-1 的 产 品 研 讨 , 功 能 实 现 后 台 管 理 系 统 , 商 品 ( 测 评 量 表 , 视 频 / 语 音 / 直 播 咨 询 , 录 播 课 程 ) 的 上 架 审 核 , 咨 询 师 的 审 核 等 B 端 咨 询 师 的 入 驻 认 证 审 核 , 店 铺 装 修 审 核 , 发 布 咨 询 审 核 , 咨 询 师 接 单 , 反 馈 , 评 价 , 待 办 事 项 C 端 用 户 的 下 单 , 支 付 , 语 音 咨 询 , 视 频 咨 询 , 评 价 , 待 办 事 项 , 订 单 校 验 对 接 第 三 方 声 网 语 音 视 频 , 生 成 token 创 建 直 播 房 间 号 BC 端 充 值 消 费 商 品 记 录 , 历 史 足 迹 , 量 表 / 视 频 / 语 音 / 直 播 / 录 播 课 程 的 标 签 分 类 鑫 方 盛 控 股 集 团 有 限 公 司 2020.09 - 2021.09 开 放 平 台 Java 内 容 : 负 责 鑫 方 盛 开 放 平 台 toB 端 openapi 的 开 发 工 作 和 对 外 服 务 的 对 接 。 保 证 第 三 方 平 台 的 预 订 单 和 异 常 订 单 的 正 常 下 推 oms 。 新 项 目 中 标 后 按 照 对 方 接 口 标 准 的 文 档 开 发 接 入 。 负 责 的 各 个 渠 道 商 品 的 增 量 推 送 和 全 量 推 送 , 保 证 数 据 状 态 的 正 常 对 接 。 跟 进 第 三 方 测 试 联 调 进 度 , 并 保 证 进 度 如 期 上 线 。 处 理 线 上 正 常 订 单 和 异 常 订 单 的 工 单 。\n● 参 与 开 放 平 台 初 期 建 设 专 业 技 能 spring, springboot, springcloud 等 主 流 开 发 框 架 Mysql, SQL, NoSQL. Mybatis, Linux, K-VI77 MQ, Redis, Zookeeper, RPC. xxl-job$$ (@)# XML 、 JSON 、 Maven 、 GIT 、 IDEA 等 软 件 工 程 工 具 熟 悉 SOA, 微 服 务 , 了 解 JVM 原 理 良 好 的 编 码 规 范 、 良 好 的 沟 通 表 达 能 力 和 逻 辑 能 力\n生 活 百 科 有 限 公 司 北 京 分 公 司 2019.03 - 2020.07 技 术 部 java 内 容 : 根 据 现 阶 段 的 业 务 需 求 整 改 之 前 项 目 中 的 业 务 逻 辑 取 消 自 家 的 物 流 系 统 改 为 供 应 商 一 件 代 发 没 有 城 市 的 区 域 化 划 分 整 改 mysql 数 据 库 的 商 品 库 和 库 存 购 物 车 中 下 单 依 据 和 对 商 品 的 判 断 ,redis 实 现 折 扣 价 活 动 商 品 的 预 占 库 存 对 接 第 三 方 的 微 信 支 付 功 能 协 助 分 账 系 统 的 研 发 ● 对 接 第 三 方 商 品 入 库 , 属 性 标 签 转 换 , 价 格 同 步 北 京 云 飞 时 代 网 络 科 技 有 限 公 司 2016.01 - 2019.01 技 术 部 java 内 容 : 基 本 模 块 代 码 的 编 写 根 据 产 品 需 求 和 设 计 进 行 软 件 开 发 、 编 码 、 单 元 测 试 负 责 产 品 需 求 分 析 、 设 计 和 文 档 编 写 根 据 产 品 需 求 和 设 计 进 行 软 件 开 发 参 与 研 究 、 学 习 新 的 技 术 和 知 识 ; 修 复 程 序 BUG 完 成 上 级 交 办 的 其 他 任 务 等 北 京 天 汇 创 业 软 件 有 限 公 司 2014.07 - 2015.12 研 发 部 java 内 容 : 0 、 担 任 项 目 开 发 过 程 中 的 Java 工 程 师 , 参 与 公 司 多 个 项 目 的 开 发 帮 助 项 目 经 理 整 理 材 料 和 分 析 项 目 需 求 。 1 、 在 项 目 中 团 队 合 作 , 进 行 后 台 Java 代 码 编 写 , 同 时 进 行 jsp 页 面 调 试 , 前 后 端 信 息 统 一 。\n项 目 经 历 北 京 方 寸 悦 动 科 技 java 2021.10 - 至 今 内 容 : 创 业 公 司 从 0-1 的 产 品 研 讨 , 项 目 整 体 采 用 springboot 搭 建 后 台 管 理 系 统 , 商 品 ( 测 评 量 表 , 视 频 / 语 音 / 直 播 咨 询 , 录 播 课 程 ) 的 上 架 审 核 , 咨 询 师 的 审 核 等 B 端 咨 询 师 的 入 驻 认 证 审 核 , 店 舗 装 修 审 核 , 发 布 咨 询 审 核 , 咨 询 师 接 单 , 反 馈 , 评 价 , 待 办 事 项 C 端 用 户 的 下 单 , 支 付 , 语 音 咨 询 , 视 频 咨 询 , 评 价 , 待 办 事 项 , 订 单 校 验 对 接 第 三 方 声 网 语 音 视 频 , 生 成 token 创 建 直 播 房 间 号 ●BC 端 充 值 消 费 商 品 记 录 , 历 史 足 迹 , 量 表 / 视 频 / 语 音 / 直 播 / 录 播 课 程 的 标 签 分 类 鑫 方 盛 控 股 集 团 开 放 平 台 java 2020.09 - 2021.09 内 容 : 负 责 鑫 方 盛 开 放 平 台 toB 端 openapi 的 开 发 工 作 和 对 外 服 务 的 对 接 。 保 证 第 三 方 平 台 的 预 订 单 和 异 常 订 单 的 正 常 下 推 oms 。 新 项 目 中 标 后 按 照 对 方 接 口 标 准 的 文 档 开 发 接 入 。 负 责 的 各 个 渠 道 商 品 的 增 量 推 送 和 全 量 推 送 , 保 证 数 据 状 态 的 正 常 对 接 。 跟 进 第 三 方 测 试 联 调 进 度 , 并 保 证 进 度 如 期 上 线 。 处 理 线 上 正 常 订 单 和 异 常 订 单 的 工 单 。 参 与 开 放 平 台 初 期 建 设\n业 绩 : 商 品 的 增 量 和 全 量 采 用 多 是 分 布 式 作 业 任 务 xxljob, 根 据 每 个 渠 道 的 接 受 能 力 选 择 不 同 的 同 步 商 品 推 送 数 据 量 微 服 务 框 架 使 用 dubbo +zookeeper 各 个 服 务 之 间 的 调 用 和 推 送 接 口 的 重 试 机 制 采 用 的 是 spring 的 retry 配 置 重 试 好 次 数 来 实 现 自 动 重 试 调 用 接 口 代 码 的 质 量 检 测 采 用 git+Sonar 分 库 分 表 使 用 的 中 间 键 工 具 sharding-JDBC 消 息 中 间 件 RabbitMQ, 同 步 商 品 中 心 sku 数 据 生 活 百 科 java 2019.03 - 2020.07 内 容 : 该 系 统 是 采 用 SOA 面 向 服 务 架 构 , 使 用 的 当 前 较 为 流 行 的 SSM 框 架 , 利 用 maven 对 项 目 以 及 项 目 依 赖 进 行 管 理 , 采 用 分 布 式 架 构 将 整 个 项 目 拆 分 为 不 同 的 系 统 与 服 务 , 大 致 将 项 目 拆 分 为 用 户 基 础 服 务 系 统 、 用 户 中 心 单 点 登 录 系 统 、 物 流 系 统 、 供 应 商 系 统 、 客 户 服 务 系 统 、 业 务 系 统 、 订 单 系 统 等 、 商 品 搜 索 系 统 , 秒 杀 模 块 和 活 动 系 统 等 。\n业 绩 : 基 于 老 项 目 的 二 次 开 发 。 修 复 购 物 车 存 在 上 个 版 本 中 的 bug\n替 換 掉 之 前 的 物 流 和 商 品 逻 辑 ( 整 改 ) 后 台 管 理 系 统 商 品 的 增 删 改 、 货 物 上 下 架 功 能 实 现 利 用 ElasticSearch 搜 索 引 擎 系 统 搜 索 功 能 实 现 完 成 购 物 车 系 统 中 商 品 的 增 删 改 (redis) 分 担 部 分 商 品 展 示 逻 辑 功 能 ( 如 : 热 卖 商 品 等 ) 对 接 第 三 方 的 微 信 支 付 功 能 对 接 第 三 方 商 品 对 接 入 库 , 属 性 标 签 转 换 , 价 格 同 步 优 品 惠 购 物 商 城 java 2017.04 - 2019.01 内 容 : 项 目 采 用 了 B2C 电 子 商 务 直 接 面 向 消 费 者 的 零 售 模 式 。 前 端 Web 网 站 主 要 包 括 : 登 录 、 注 册 、 三 级 导 航 , 首 页 展 示 、 二 级 列 表 展 示 、 商 品 详 情 、 订 购 平 台 , 积 分 商 城 、 商 品 展 示 、 商 品 信 息 搜 索 框 、 购 物 车 、 商 品 秒 杀 , 订 单 查 询 , 浏 览 记 录 、 商 品 排 行 、 客 服 服 务 、 留 言 评 论 、 商 品 品 牌 展 示 等 ; 后 端 包 括 : 系 统 模 块 、 订 单 管 理 、 商 品 维 护 、 留 言 板 管 理 、 商 品 管 理 、 用 户 管 理 、 活 动 管 理 、 财 务 管 理 、 报 表 统 计 、 系 统 管 理 、 运 营 管 理 、 店 铺 管 理 、 支 付 管 理 、 推 广 管 理 等 。 其 中 网 站 平 台 维 护 下 包 括 : 产 品 信 息 的 维 护 和 网 站 信 息 维 护 业 绩 : 主 要 负 责 : 前 期 参 与 框 架 选 型 、 需 求 分 析 、 数 据 库 设 计 , 站 内 搜 索 (solr) 、 商 品 限 时 秒 杀 活 动 、 购 物 车 及 订 单 模 块 、 SSo 单 点 登 录 。 后 台 负 责 商 品 管 理 、 品 牌 管 理 等 展 示 页 面 的 设 计 (easyui+redis) 系 统 模 块 , 个 人 中 心 、 以 及 后 续 的 维 护 。\n到 家 订 餐 系 统 ave2.0 研 发 java 2016.01 - 2017.04 内 容 : 该 项 目 主 要 有 用 户 注 册 , 登 录 , 菜 品 分 类 展 示 , 菜 品 信 息 检 索 , 店 铺 信 息 检 索 , 订 单 检 索 , 菜 品 排 行 , 反 馈 留 言 , 用 户 评 论 , 用 户 积 分 管 理 , 菜 品 展 示 , 统 计 分 析 模 块 , 店 铺 管 理 , 菜 品 管 理 , 系 统 管 理 , 新 闻 管 理 , 轮 播 图 , 订 单 展 示 , 资 源 管 理 , 会 员 管 理 , 订 单 管 理 , 购 物 车 , 生 成 订 单 , 广 告 管 理 等 。 包 括 严 格 的 权 限 管 理 部 分 , 客 户 登 录 系 统 后 可 以 对 客 户 所 下 订 单 进 行 查 询 和 取 消 备 注 等 操 作 , 在 取 消 的 同 时 会 对 客 户 所 下 订 单 进 行 积 分 , 款 项 返 还 等 操 作 。 业 绩 : 我 在 项 目 中 主 要 是 参 与 前 期 框 架 选 项 , 需 求 分 析 , 前 台 负 责 店 铺 菜 品 展 示 , 购 物 车 及 订 单 支 付 (redis), 后 台 负 责 店 铺 管 理 ( 菜 品 管 理 , 推 荐 菜 品 , 分 类 管 理 ), 后 期 负 责 项 目 的 维 护 。 中 海 油 办 公 平 台 java 开 发 2014.08 - 2015.05 内 容 : : 此 系 统 实 现 分 布 式 办 公 , 强 化 了 领 导 监 控 , 全 面 掌 握 各 部 门 动 态 。 根 据 其 公 司 的 需 求 主 要 提 供 了 针 对 于 设 备 、 备 品 管 理 , 预 警 监 控 提 醒 以 及 工 作 流 程 申 请 转 批 , 避 免 了 人 工 的 费 时 , 财 力 资 源 浪 费 , 通 过 此 项 目 还 可 以 及 时 的 对 维 护 设 备 的 查 询 , 工 作 审 批 , 并 根 据 预 警 信 息 来 及 时 的 排 除 。 业 绩 : 主 要 负 责 : 我 在 项 目 中 主 要 是 对 部 分 模 块 代 码 编 写 , 系 统 管 理 、 对 季 度 报 表 (POI 导 出 Excel) 、 备 品 配 件\n管 理 、 统 计 报 表 , 项 目 优 化 ( 代 码 优 化 ,sql 优 化 ) 以 及 相 关 文 档 的 编 写 , 配 合 测 试 部 门 进 行 相 应 模 块 的 调 整 。 教 育 经 历 邯 郸 学 院 本 科 计 算 机 科 学 与 技 术 2010 - 2014"
+}

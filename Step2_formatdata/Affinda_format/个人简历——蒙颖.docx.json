@@ -1,0 +1,34 @@
+{
+    "fullName": "蒙颖  ",
+    "contacts": [
+        {
+            "contact": "1350437009@qq.com",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "+8618788635108",
+            "type": "PHONE"
+        }
+    ],
+    "currentLocation": [
+        {
+            "location": "Wuhan, Hubei, China"
+        }
+    ],
+    "languages": [
+        "Chinese"
+    ],
+    "educations": [
+        {
+            "endDate": "0003-03-21",
+            "collegeName": "武昌工学院",
+            "majorName": "会计学 本科 (统招)"
+        }
+    ],
+    "experiences": [
+        {
+            "companyName": "成都新大瀚人力资源有限责任公司",
+            "endDate": "0003-03-21"
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "certifications": [],
+    "dateOfBirth": null,
+    "education": [
+        {
+            "id": 8031584,
+            "organization": "武汉纺织大学",
+            "accreditation": {
+                "education": "(全日制一本) 软件工程/本科",
+                "educationLevel": null,
+                "inputStr": "(全日制一本) 软件工程/本科",
+                "matchStr": ""
+            },
+            "grade": null,
+            "location": null,
+            "dates": {
+                "startDate": "2015-09-01",
+                "completionDate": "2019-06-01",
+                "isCurrent": false
+            }
+        },
+        {
+            "id": 8031585,
+            "organization": "中南财经政法大学",
+            "accreditation": {
+                "education": "(全日制211) 计算机技术/硕士",
+                "educationLevel": null,
+                "inputStr": "(全日制211) 计算机技术/硕士",
+                "matchStr": ""
+            },
+            "grade": null,
+            "location": null,
+            "dates": {
+                "startDate": "2019-09-01",
+                "completionDate": "2021-06-01",
+                "isCurrent": false
+            }
+        }
+    ],
+    "emails": [],
+    "location": null,
+    "name": {
+        "raw": "熊成",
+        "last": "",
+        "first": "熊成",
+        "title": "",
+        "middle": ""
+    },
+    "objective": "",
+    "phoneNumbers": [],
+    "publications": [],
+    "referees": [],
+    "sections": [
+        {
+            "sectionType": "PersonalDetails",
+            "bbox": [
+                182.81999,
+                7.7199707,
+                381.6,
+                199.90002
+            ],
+            "pageIndex": 0,
+            "text": "4a0cf9945859604f1 4a0cf9945859604f1 熊成"
+        },
+        {
+            "sectionType": "PersonalDetails",
+            "bbox": [
+                14.477349,
+                35.880554,
+                162.65,
+                233.08655
+            ],
+            "pageIndex": 0,
+            "text": "基本信息 出生年月 : 1997.02 最高学历: 硕士 工作经验: 应届生或 1 年 联系方式 电 话:18571852172 邮 箱:xc19970212@1 63.com 地 址:湖北省武汉市"
+        },
+        {
+            "sectionType": "Education",
+            "bbox": [
+                185.01459,
+                129.68127,
+                552.4646,
+                158.99646
+            ],
+            "pageIndex": 0,
+            "text": "2015.09-2019.06 武汉纺织大学 (全日制一本) 软件工程/本科 2019.09-2021.06 中南财经政法大学 (全日制211) 计算机技术/硕士"
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                184.50339,
+                176.13245,
+                593.0168,
+                339.34006
+            ],
+            "pageIndex": 0,
+            "text": "工作经历 nFy3tu8EVNTy5G6VfqZReOhmQ~~ 2021.07-2022.06 九江银行 信息科技部 金融科技岗"
+        },
+        {
+            "sectionType": "Projects",
+            "bbox": [
+                190.33925,
+                253.31525,
+                549.3725,
+                713.64056
+            ],
+            "pageIndex": 0,
+            "text": " 项目描述:该项目基于银行内的信息, 服务于与银行合作的优质公司的工资代 项目提供 PC 端, 采用前后端分离的模式进行开发, 旨在留住银行中优  所用技术:Springboot+Redis+Mysql+Mybatis+SpringCloud  项目责任:  负责项目中定时任务模块和 PC  负责项目后期引进的 SpringCloud 框架对应功能的开发。  负责该项目的上线, 投产和维护工作, 同时处理业务人员发送的问题。  负责处理来自业务部门的指标查询和账户限制要求。 4a0cf9945859604f1  负责编写该项目的上线文档, 保持项目的正常运行。 《核心大数据平台》  项目描述:该项目基于所有公司内用户数据进行行为分析, 统计日活, 周活等 各个指标并且提供数据可视化和数据在线查询功能。  所用技术:Springboot+Alluxio+Presto+Flume+Kafka+Hadoop+Redis  项目责任:  根据原有项目上新增的需求编写系统模块服务对应的 Java 代码。  根据业务需求, 统计不同时间段的访问次数, 点击, 交易, 转化率等指标。  将需求的热点数据放入新引入的存储框架并结合即席查询引擎提高查询 效率。  根据后续需求修改 alluxio 源码来改变同步数据的方式, 提升同步效率。  负责基于 spark 对接 kafka 进行日志评估,通过正则匹配与正则抽取得到 数据, 调用评估责任链,产生风险评估报告。  根据项目后续业务需求, 使用 spark 完成任务配置的动态更新, 提高效率。"
+        },
+        {
+            "sectionType": "Achievements",
+            "bbox": [
+                19.4809,
+                276.7154,
+                133.58809,
+                353.6328
+            ],
+            "pageIndex": 0,
+            "text": "1.2018 年湖北省大创项 目入围 2. 校级一等奖学金 3. CET-4 556 分"
+        },
+        {
+            "sectionType": "Skills/Interests/Languages",
+            "bbox": [
+                21.4474,
+                399.7154,
+                163.5371,
+                564.6812
+            ],
+            "pageIndex": 0,
+            "text": "1.熟练掌握 2.熟悉 Spring, 3.掌握 4.熟悉大数据生态圈如:"
+        },
+        {
+            "sectionType": "Summary",
+            "bbox": [
+                183.93945,
+                751.70966,
+                551.4591,
+                830.95013
+            ],
+            "pageIndex": 0,
+            "text": "自我评价 本人能与同事协作, 服从安排, 能尽快适应新的环境, 为人诚恳、 有上进心、 对技术有热情、 喜欢折腾、 愿意不停学习新的知识性格优势, 富有团队合作 精神。 具有良好的交流能力、 能和团队成员进行良好的项目开发。"
+        },
+        {
+            "sectionType": "PersonalDetails",
+            "bbox": [
+                243.43239,
+                752.6449,
+                368.47153,
+                831.3301
+            ],
+            "pageIndex": 0,
+            "text": "4a0cf9945859604f1"
+        }
+    ],
+    "skills": [
+        {
+            "id": 80404887,
+            "emsiId": "KSN97GEUHPNGNAQFDCGY",
+            "name": "Apache Kafka",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404888,
+            "emsiId": "KS120076FGP5WGWYMP0F",
+            "name": "Java (Programming Language)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Chinese"
+    ],
+    "summary": "本人能与同事协作, 服从安排, 能尽快适应新的环境, 为人诚恳、 有上进心、 对技术有热情、 喜欢折腾、 愿意不停学习新的知识性格优势, 富有团队合作 精神。 具有良好的交流能力、 能和团队成员进行良好的项目开发。",
+    "websites": [],
+    "linkedin": null,
+    "totalYearsExperience": 1,
+    "profession": null,
+    "workExperience": [
+        {
+            "id": 15073382,
+            "jobTitle": "",
+            "organization": "nFy3tu8EVNTy5G6VfqZReOhmQ~~",
+            "location": null,
+            "dates": null,
+            "jobDescription": "",
+            "occupation": {
+                "jobTitle": "",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        },
+        {
+            "id": 15073383,
+            "jobTitle": "金融科技岗",
+            "organization": "九江银行 信息科技部",
+            "location": null,
+            "dates": {
+                "startDate": "2021-07-01",
+                "endDate": "2022-06-01",
+                "monthsInPosition": 11,
+                "isCurrent": false
+            },
+            "jobDescription": "",
+            "occupation": {
+                "jobTitle": "金融科技岗",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        }
+    ],
+    "headShot": null,
+    "isResumeProbability": 61,
+    "rawText": "基本信息 出生年月 : 1997.02 最高学历: 硕士 工作经验: 应届生或 1 年 联系方式 电 话:18571852172 邮 箱:xc19970212@1 63.com 地 址:湖北省武汉市\n1.2018 年湖北省大创项 目入围 2. 校级一等奖学金 3. CET-4 556 分\n1.熟练掌握 2.熟悉 Spring, 3.掌握 4.熟悉大数据生态圈如:\n4a0cf9945859604f1 4a0cf9945859604f1 熊成\n2015.09-2019.06 武汉纺织大学 (全日制一本) 软件工程/本科 2019.09-2021.06 中南财经政法大学 (全日制211) 计算机技术/硕士\n工作经历 nFy3tu8EVNTy5G6VfqZReOhmQ~~ 2021.07-2022.06 九江银行 信息科技部 金融科技岗\n 项目描述:该项目基于银行内的信息, 服务于与银行合作的优质公司的工资代 项目提供 PC 端, 采用前后端分离的模式进行开发, 旨在留住银行中优  所用技术:Springboot+Redis+Mysql+Mybatis+SpringCloud  项目责任:  负责项目中定时任务模块和 PC  负责项目后期引进的 SpringCloud 框架对应功能的开发。  负责该项目的上线, 投产和维护工作, 同时处理业务人员发送的问题。  负责处理来自业务部门的指标查询和账户限制要求。 4a0cf9945859604f1  负责编写该项目的上线文档, 保持项目的正常运行。 《核心大数据平台》  项目描述:该项目基于所有公司内用户数据进行行为分析, 统计日活, 周活等 各个指标并且提供数据可视化和数据在线查询功能。  所用技术:Springboot+Alluxio+Presto+Flume+Kafka+Hadoop+Redis  项目责任:  根据原有项目上新增的需求编写系统模块服务对应的 Java 代码。  根据业务需求, 统计不同时间段的访问次数, 点击, 交易, 转化率等指标。  将需求的热点数据放入新引入的存储框架并结合即席查询引擎提高查询 效率。  根据后续需求修改 alluxio 源码来改变同步数据的方式, 提升同步效率。  负责基于 spark 对接 kafka 进行日志评估,通过正则匹配与正则抽取得到 数据, 调用评估责任链,产生风险评估报告。  根据项目后续业务需求, 使用 spark 完成任务配置的动态更新, 提高效率。\n自我评价 本人能与同事协作, 服从安排, 能尽快适应新的环境, 为人诚恳、 有上进心、 对技术有热情、 喜欢折腾、 愿意不停学习新的知识性格优势, 富有团队合作 精神。 具有良好的交流能力、 能和团队成员进行良好的项目开发。\n4a0cf9945859604f1"
+}

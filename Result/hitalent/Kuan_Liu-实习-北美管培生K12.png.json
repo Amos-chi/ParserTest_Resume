@@ -1,0 +1,28 @@
+{
+    "all": 39,
+    "important": 35,
+    "desc": 4,
+    "correct_important": 31,
+    "correct_desc": 4,
+    "additional": 1,
+    "important_keys": {
+        "educations.0.endDate": false,
+        "educations.0.startDate": false,
+        "educations.1.endDate": false,
+        "experiences.0.title": false
+    },
+    "unimportant_keys": {
+        "experiences.0.description": true,
+        "experiences.1.description": true,
+        "experiences.2.description": true,
+        "experiences.3.description": true
+    },
+    "addition_info_count": 1,
+    "addition_info": {
+        "preferredLocations": [
+            {
+                "location": "Fullerton, CA 92835 1"
+            }
+        ]
+    }
+}

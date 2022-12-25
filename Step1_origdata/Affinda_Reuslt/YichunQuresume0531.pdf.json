@@ -1,0 +1,784 @@
+{
+    "certifications": [],
+    "dateOfBirth": null,
+    "education": [
+        {
+            "id": 8038868,
+            "organization": "The University of Texas at Dallas, Naveen Jindal School of Management",
+            "accreditation": {
+                "education": "MasterofScienceinInformationTechnologyandManagement",
+                "educationLevel": "masters",
+                "inputStr": "MasterofScienceinInformationTechnologyandManagement",
+                "matchStr": ""
+            },
+            "grade": {
+                "raw": "GPA: 3.6/4.0",
+                "value": "3.6/4.0",
+                "metric": "GPA"
+            },
+            "location": {
+                "formatted": "Dallas, TX, USA",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "Dallas",
+                "postalCode": null,
+                "state": "Texas",
+                "country": "United States",
+                "rawInput": "Dallas, TX",
+                "countryCode": "US"
+            },
+            "dates": {
+                "startDate": "2016-08-01",
+                "completionDate": "2017-05-01",
+                "isCurrent": false
+            }
+        },
+        {
+            "id": 8038869,
+            "organization": null,
+            "accreditation": {
+                "education": "MasterofScienceinFinance(FirstYearinShanghaiJiaoTongUniversity)",
+                "educationLevel": "masters",
+                "inputStr": "MasterofScienceinFinance(FirstYearinShanghaiJiaoTongUniversity)",
+                "matchStr": ""
+            },
+            "grade": {
+                "raw": "GPA: 3.5/4.0",
+                "value": "3.5/4.0",
+                "metric": "GPA"
+            },
+            "location": null,
+            "dates": {
+                "startDate": null,
+                "completionDate": "2014-09-01",
+                "isCurrent": false
+            }
+        },
+        {
+            "id": 8038870,
+            "organization": "Shanghai University of International Business and Economics",
+            "accreditation": {
+                "education": "BachelorofArtinEnglish",
+                "educationLevel": "bachelors",
+                "inputStr": "BachelorofArtinEnglish",
+                "matchStr": ""
+            },
+            "grade": {
+                "raw": "GPA: 3.7 / 4.0",
+                "value": "3.7/4.0",
+                "metric": "GPA"
+            },
+            "location": {
+                "formatted": "Shanghai, China",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "Shanghai",
+                "postalCode": null,
+                "state": "Shanghai",
+                "country": "China",
+                "rawInput": "Shanghai, China",
+                "countryCode": "CN"
+            },
+            "dates": {
+                "startDate": null,
+                "completionDate": "2010-09-01",
+                "isCurrent": false
+            }
+        }
+    ],
+    "emails": [
+        "qyc11@hotmail.com"
+    ],
+    "location": {
+        "formatted": "Shanghai, China",
+        "streetNumber": null,
+        "street": null,
+        "apartmentNumber": null,
+        "city": "Shanghai",
+        "postalCode": null,
+        "state": "Shanghai",
+        "country": "China",
+        "rawInput": "◦ Shanghai",
+        "countryCode": "CN"
+    },
+    "name": {
+        "raw": "Yichun(Kate) Qu",
+        "last": "Qu",
+        "first": "Yichun",
+        "title": "",
+        "middle": ""
+    },
+    "objective": "",
+    "phoneNumbers": [
+        "+8618964858957"
+    ],
+    "publications": [],
+    "referees": [],
+    "sections": [
+        {
+            "sectionType": "PersonalDetails",
+            "bbox": [
+                206.48737,
+                38.8396,
+                399.83542,
+                86.18921
+            ],
+            "pageIndex": 0,
+            "text": "Yichun(Kate) Qu qyc1 1@hotmail.com ◦ 18964858957 ◦ Shanghai"
+        },
+        {
+            "sectionType": "Skills/Interests/Languages",
+            "bbox": [
+                42.2778,
+                100.45862,
+                570.4934,
+                124.58923
+            ],
+            "pageIndex": 0,
+            "text": "TECHNICAL SKILLS Power BI ◦ Tableau ◦ Data Management ◦ Data Modeling ◦ SQL (MCSA 461,462 passed) ◦ ERP ◦ CRM ◦ Excel ◦ SAS ◦ R ◦ Python"
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                41.59145,
+                141.01764,
+                580.3141,
+                611.9383
+            ],
+            "pageIndex": 0,
+            "text": "EXPERIENCE I-77 Mobility Partners LLC/ Cintra US / Ferrovial Charlotte, North Carolina OperationDataAnalyst July 2018- April 2021 • Work with business stakeholders to translate business requirement into functional requirement. • Set up the Power BI database, design and develop all the custom metrics, reports and dashboards in Power BI to meet functional requirements for the whole operation department by cooperating with IT team in Spain. • Clarify end user's inquiry on reports' features and functionalities, continuously optimize reports along with the developing operating procedure. • Collect and consolidate data from different portals to prepare monthly and quarterly operational reports for upper management to track enterprise level KPI. • Conduct analytical projects on massive datasets with tableau to analyze system operational constraints, deficiencies and defects, collaborate with operation team and tech team to develop solutions. • Monitor and report on accurate transaction generation at the roadside, timely data transmission, data validation oftransaction, track and analyze system performance and operation performance. • Participate in the implementation and testing ofCentral Systems, track results and records and escalate system performance issues. Prodigy Diabetes Care LLC Charlotte, North Carolina DataandBillingAnalyst Oct 2017- June 2018 • Extracted data from CRM system, created monthly reports based on different key performance indicators including customer complaint code, complaint over 60 days and average complaint solving days. • Created and compared charts, tables and graphs, identified trends and occurrences. • Prepared advanced shipping notice by using electronic data interchange system, maintained data integrity ofinventory system by trouble shooting between Redtail and Microsoft GP. • Searched, extracted, managed and analyzed data in Microsoft Dynamics Great Plains system to support daily business process and annual auditing. LVMH Perfumes & Cosmetics (Shanghai) Company Limited Shanghai, China FRESHTrainingDepartmentBusinessAnalystIntern January 2014 – June 2015 • Performed ad-hoc reports ofbeauty advisors' basic information for training and sales department. • Created monthly, quarterly, and yearly coaching reports for more than 200 beauty advisors from the whole China department and presented it in PowerPoint in department meetings to improve beauty advisors' selling skills. • Troubleshooted and analyzed reports using Excel (V lookup, pivot tables) to follow up beauty advisors' performance every season, helped training department to achieve higher efficiency on training beauty advisors' selling skills by 15%. • Tracked and analyzed actual product using and ordering on a monthly basis, forecasted second year product ordering based on the purchase price variance and budget variance. • Supported the creation of key door action plan, provided insight into the establishment of SKU sales target of each beauty advisor."
+        },
+        {
+            "sectionType": "Education",
+            "bbox": [
+                41.5616,
+                635.0586,
+                577.2262,
+                750.90826
+            ],
+            "pageIndex": 0,
+            "text": "EDUCATION The University of Texas at Dallas, Naveen Jindal School of Management Dallas, TX MasterofScienceinInformationTechnologyandManagement August 2016 - May 2017 GPA: 3.6/4.0 MasterofScienceinFinance(FirstYearinShanghaiJiaoTongUniversity) September 2014 - August 2016 GPA: 3.5/4.0 Shanghai University of International Business and Economics Shanghai, China BachelorofArtinEnglish September 2010 - June 2014 GPA: 3.7 / 4.0"
+        }
+    ],
+    "skills": [
+        {
+            "id": 80473627,
+            "emsiId": "KS1217P66NK6BW72M9FH",
+            "name": "Customer Relationship Management",
+            "lastUsed": "2018-06-01",
+            "numberOfMonths": 8,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15083495
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15083495
+                }
+            ]
+        },
+        {
+            "id": 80473628,
+            "emsiId": "KS4409D76NW1S5LNCL18",
+            "name": "SAS (Software)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473629,
+            "emsiId": "KS127ZG6DBSF76WF7VYX",
+            "name": "Microsoft PowerPoint",
+            "lastUsed": "2015-06-01",
+            "numberOfMonths": 17,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15083496
+                }
+            ]
+        },
+        {
+            "id": 80473630,
+            "emsiId": "KS1264K6T7LNRXHBN8JQ",
+            "name": "MFG/Pro (ERP)",
+            "lastUsed": "2021-04-01",
+            "numberOfMonths": 50,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083494
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15083496
+                }
+            ]
+        },
+        {
+            "id": 80473632,
+            "emsiId": "KS126H17066T3N1JC5N8",
+            "name": "Microsoft Dynamics",
+            "lastUsed": "2018-06-01",
+            "numberOfMonths": 8,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15083495
+                }
+            ]
+        },
+        {
+            "id": 80473633,
+            "emsiId": "KS125MK6L8XN70ZS40ZY",
+            "name": "Key Performance Indicators (KPIs)",
+            "lastUsed": "2018-06-01",
+            "numberOfMonths": 8,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15083495
+                }
+            ]
+        },
+        {
+            "id": 80473634,
+            "emsiId": "KS1200H6XYN1CR0G5NZ0",
+            "name": "Microsoft Excel",
+            "lastUsed": "2015-06-01",
+            "numberOfMonths": 17,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15083496
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15083496
+                }
+            ]
+        },
+        {
+            "id": 80473636,
+            "emsiId": "KS124DQ6JX0NX9DBFDM8",
+            "name": "R (Programming Language)",
+            "lastUsed": "2021-04-01",
+            "numberOfMonths": 58,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083494
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15083495
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15083496
+                }
+            ]
+        },
+        {
+            "id": 80473637,
+            "emsiId": "KS122PM76DCYL9WC89Y7",
+            "name": "Data Modeling",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473638,
+            "emsiId": "KS125LS6N7WP4S6SFTCK",
+            "name": "Python (Programming Language)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473639,
+            "emsiId": "KS123X777H5WFNXQ6BPM",
+            "name": "Sales",
+            "lastUsed": "2015-06-01",
+            "numberOfMonths": 17,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15083496
+                }
+            ]
+        },
+        {
+            "id": 80473640,
+            "emsiId": "KS122FL69C9376N0WS3D",
+            "name": "Cosmetics",
+            "lastUsed": "2015-06-01",
+            "numberOfMonths": 17,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15083496
+                }
+            ]
+        },
+        {
+            "id": 80473643,
+            "emsiId": "KS13USA80NE38XJHA2TL",
+            "name": "Power BI",
+            "lastUsed": "2021-04-01",
+            "numberOfMonths": 33,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083494
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083494
+                }
+            ]
+        },
+        {
+            "id": 80473644,
+            "emsiId": "KS1218W78FGVPVP2KXPX",
+            "name": "Management",
+            "lastUsed": "2021-04-01",
+            "numberOfMonths": 33,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083494
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083494
+                }
+            ]
+        },
+        {
+            "id": 80473646,
+            "emsiId": "KS1219863VWXPRZL5LG2",
+            "name": "Business Requirements",
+            "lastUsed": "2021-04-01",
+            "numberOfMonths": 33,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083494
+                }
+            ]
+        },
+        {
+            "id": 80473649,
+            "emsiId": "KS7G4KW60KDJP49T84KC",
+            "name": "Indicators",
+            "lastUsed": "2018-06-01",
+            "numberOfMonths": 8,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15083495
+                }
+            ]
+        },
+        {
+            "id": 80473650,
+            "emsiId": "KS123BS719XGNG24G30X",
+            "name": "Electronic Data Interchange",
+            "lastUsed": "2018-06-01",
+            "numberOfMonths": 8,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15083495
+                }
+            ]
+        },
+        {
+            "id": 80473651,
+            "emsiId": "KS441626TDSV2J6GBB86",
+            "name": "Tableau (Business Intelligence Software)",
+            "lastUsed": "2021-04-01",
+            "numberOfMonths": 33,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083494
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083494
+                }
+            ]
+        },
+        {
+            "id": 80473652,
+            "emsiId": "KS440W865GC4VRBW6LJP",
+            "name": "SQL (Programming Language)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473653,
+            "emsiId": "KS122NQ78JV15M7TG886",
+            "name": "Data Validation",
+            "lastUsed": "2021-04-01",
+            "numberOfMonths": 33,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083494
+                }
+            ]
+        },
+        {
+            "id": 80473626,
+            "emsiId": "KS128G96M9GTV4HH0MBS",
+            "name": "Transmission",
+            "lastUsed": "2021-04-01",
+            "numberOfMonths": 33,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083494
+                }
+            ]
+        },
+        {
+            "id": 80473631,
+            "emsiId": "KS1266C6Q3MN12890Y8C",
+            "name": "MASSIVE (Software)",
+            "lastUsed": "2021-04-01",
+            "numberOfMonths": 33,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083494
+                }
+            ]
+        },
+        {
+            "id": 80473635,
+            "emsiId": "KS1218Y74WJ6YV4KH0DM",
+            "name": "Business Process",
+            "lastUsed": "2018-06-01",
+            "numberOfMonths": 8,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15083495
+                }
+            ]
+        },
+        {
+            "id": 80473641,
+            "emsiId": "KS122P86NZFH1GP38G15",
+            "name": "Data Integrity",
+            "lastUsed": "2018-06-01",
+            "numberOfMonths": 8,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15083495
+                }
+            ]
+        },
+        {
+            "id": 80473642,
+            "emsiId": "KS7G2906QTQMHQQSL1L4",
+            "name": "Mobility",
+            "lastUsed": "2021-04-01",
+            "numberOfMonths": 33,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083494
+                }
+            ]
+        },
+        {
+            "id": 80473645,
+            "emsiId": "KS122PG64BT2BT6X15HF",
+            "name": "Data Management",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473647,
+            "emsiId": "KS123KB741K818T8FXL6",
+            "name": "Inquiry",
+            "lastUsed": "2021-04-01",
+            "numberOfMonths": 33,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083494
+                }
+            ]
+        },
+        {
+            "id": 80473648,
+            "emsiId": "KS4415Q73VS3SSZ1Q4VN",
+            "name": "System Support",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": []
+        }
+    ],
+    "languages": [
+        "English"
+    ],
+    "summary": "",
+    "websites": [],
+    "linkedin": null,
+    "totalYearsExperience": 5,
+    "profession": null,
+    "workExperience": [
+        {
+            "id": 15083494,
+            "jobTitle": "OperationDataAnalyst",
+            "organization": "I-77 Mobility Partners LLC/ Cintra US / Ferrovial",
+            "location": {
+                "formatted": "Charlotte, NC, USA",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "Charlotte",
+                "postalCode": null,
+                "state": "North Carolina",
+                "country": "United States",
+                "rawInput": "Charlotte, North Carolina",
+                "countryCode": "US"
+            },
+            "dates": {
+                "startDate": "2018-07-01",
+                "endDate": "2021-04-01",
+                "monthsInPosition": 33,
+                "isCurrent": false
+            },
+            "jobDescription": " Work with business stakeholders to translate business requirement into functional requirement. \n•Set up the Power BI database, design and develop all the custom metrics, reports and dashboards in Power BI to meet functional requirements for the whole operation department by cooperating with IT team in Spain. \n•Clarify end user's inquiry on reports' features and functionalities, continuously optimize reports along with the developing operating procedure. \n•Collect and consolidate data from different portals to prepare monthly and quarterly operational reports for upper management to track enterprise level KPI. \n•Conduct analytical projects on massive datasets with tableau to analyze system operational constraints, deficiencies and defects, collaborate with operation team and tech team to develop solutions. \n•Monitor and report on accurate transaction generation at the roadside, timely data transmission, data validation oftransaction, track and analyze system performance and operation performance. \n•Participate in the implementation and testing ofCentral Systems, track results and records and escalate system performance issues. ",
+            "occupation": {
+                "jobTitle": "OperationDataAnalyst",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        },
+        {
+            "id": 15083495,
+            "jobTitle": "DataandBillingAnalyst",
+            "organization": "Prodigy Diabetes Care LLC",
+            "location": {
+                "formatted": "Charlotte, NC, USA",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "Charlotte",
+                "postalCode": null,
+                "state": "North Carolina",
+                "country": "United States",
+                "rawInput": "Charlotte, North Carolina",
+                "countryCode": "US"
+            },
+            "dates": {
+                "startDate": "2017-10-01",
+                "endDate": "2018-06-01",
+                "monthsInPosition": 8,
+                "isCurrent": false
+            },
+            "jobDescription": " Extracted data from CRM system, created monthly reports based on different key performance indicators including customer complaint code, complaint over 60 days and average complaint solving days. \n•Created and compared charts, tables and graphs, identified trends and occurrences. \n•Prepared advanced shipping notice by using electronic data interchange system, maintained data integrity ofinventory system by trouble shooting between Redtail and Microsoft GP. \n•Searched, extracted, managed and analyzed data in Microsoft Dynamics Great Plains system to support daily business process and annual auditing. ",
+            "occupation": {
+                "jobTitle": "DataandBillingAnalyst",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        },
+        {
+            "id": 15083496,
+            "jobTitle": "FRESHTrainingDepartmentBusinessAnalystIntern",
+            "organization": "LVMH Perfumes & Cosmetics (Shanghai) Company Limited",
+            "location": {
+                "formatted": "Shanghai, China",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "Shanghai",
+                "postalCode": null,
+                "state": "Shanghai",
+                "country": "China",
+                "rawInput": "Shanghai, China",
+                "countryCode": "CN"
+            },
+            "dates": {
+                "startDate": "2014-01-01",
+                "endDate": "2015-06-01",
+                "monthsInPosition": 17,
+                "isCurrent": false
+            },
+            "jobDescription": " Performed ad-hoc reports ofbeauty advisors' basic information for training and sales department. \n•Created monthly, quarterly, and yearly coaching reports for more than 200 beauty advisors from the whole China department and presented it in PowerPoint in department meetings to improve beauty advisors' selling skills. \n•Troubleshooted and analyzed reports using Excel (V lookup, pivot tables) to follow up beauty advisors' performance every season, helped training department to achieve higher efficiency on training beauty advisors' selling skills by 15%. \n•Tracked and analyzed actual product using and ordering on a monthly basis, forecasted second year product ordering based on the purchase price variance and budget variance. \n•Supported the creation of key door action plan, provided insight into the establishment of SKU sales target of each beauty advisor. ",
+            "occupation": {
+                "jobTitle": "FRESHTrainingDepartmentBusinessAnalystIntern",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        }
+    ],
+    "headShot": null,
+    "isResumeProbability": 96,
+    "rawText": "Yichun(Kate) Qu qyc1 1@hotmail.com ◦ 18964858957 ◦ Shanghai\nTECHNICAL SKILLS Power BI ◦ Tableau ◦ Data Management ◦ Data Modeling ◦ SQL (MCSA 461,462 passed) ◦ ERP ◦ CRM ◦ Excel ◦ SAS ◦ R ◦ Python\nEXPERIENCE I-77 Mobility Partners LLC/ Cintra US / Ferrovial Charlotte, North Carolina OperationDataAnalyst July 2018- April 2021 • Work with business stakeholders to translate business requirement into functional requirement. • Set up the Power BI database, design and develop all the custom metrics, reports and dashboards in Power BI to meet functional requirements for the whole operation department by cooperating with IT team in Spain. • Clarify end user's inquiry on reports' features and functionalities, continuously optimize reports along with the developing operating procedure. • Collect and consolidate data from different portals to prepare monthly and quarterly operational reports for upper management to track enterprise level KPI. • Conduct analytical projects on massive datasets with tableau to analyze system operational constraints, deficiencies and defects, collaborate with operation team and tech team to develop solutions. • Monitor and report on accurate transaction generation at the roadside, timely data transmission, data validation oftransaction, track and analyze system performance and operation performance. • Participate in the implementation and testing ofCentral Systems, track results and records and escalate system performance issues. Prodigy Diabetes Care LLC Charlotte, North Carolina DataandBillingAnalyst Oct 2017- June 2018 • Extracted data from CRM system, created monthly reports based on different key performance indicators including customer complaint code, complaint over 60 days and average complaint solving days. • Created and compared charts, tables and graphs, identified trends and occurrences. • Prepared advanced shipping notice by using electronic data interchange system, maintained data integrity ofinventory system by trouble shooting between Redtail and Microsoft GP. • Searched, extracted, managed and analyzed data in Microsoft Dynamics Great Plains system to support daily business process and annual auditing. LVMH Perfumes & Cosmetics (Shanghai) Company Limited Shanghai, China FRESHTrainingDepartmentBusinessAnalystIntern January 2014 – June 2015 • Performed ad-hoc reports ofbeauty advisors' basic information for training and sales department. • Created monthly, quarterly, and yearly coaching reports for more than 200 beauty advisors from the whole China department and presented it in PowerPoint in department meetings to improve beauty advisors' selling skills. • Troubleshooted and analyzed reports using Excel (V lookup, pivot tables) to follow up beauty advisors' performance every season, helped training department to achieve higher efficiency on training beauty advisors' selling skills by 15%. • Tracked and analyzed actual product using and ordering on a monthly basis, forecasted second year product ordering based on the purchase price variance and budget variance. • Supported the creation of key door action plan, provided insight into the establishment of SKU sales target of each beauty advisor.\nEDUCATION The University of Texas at Dallas, Naveen Jindal School of Management Dallas, TX MasterofScienceinInformationTechnologyandManagement August 2016 - May 2017 GPA: 3.6/4.0 MasterofScienceinFinance(FirstYearinShanghaiJiaoTongUniversity) September 2014 - August 2016 GPA: 3.5/4.0 Shanghai University of International Business and Economics Shanghai, China BachelorofArtinEnglish September 2010 - June 2014 GPA: 3.7 / 4.0"
+}

@@ -1,0 +1,407 @@
+{
+    "predicted_result": {
+        "desired_salary": null,
+        "tags": {
+            "skills": [
+                {
+                    "tag": "面试流程",
+                    "type": "professional_skill",
+                    "subclass": "人力资源"
+                },
+                {
+                    "tag": "人力资源",
+                    "type": "professional_skill",
+                    "subclass": "人力资源"
+                },
+                {
+                    "tag": "职业规划",
+                    "type": "professional_skill",
+                    "subclass": "教育培训"
+                },
+                {
+                    "tag": "AI",
+                    "type": "professional_skill",
+                    "subclass": "UI设计"
+                },
+                {
+                    "tag": "AI",
+                    "type": "professional_skill",
+                    "subclass": "算法"
+                },
+                {
+                    "tag": "人事",
+                    "type": "professional_skill",
+                    "subclass": "人力资源"
+                },
+                {
+                    "tag": "算法",
+                    "type": "professional_skill",
+                    "subclass": "算法"
+                },
+                {
+                    "tag": "沟通能力",
+                    "type": "soft_skill",
+                    "subclass": "软性技能"
+                },
+                {
+                    "tag": "抗压能力",
+                    "type": "soft_skill",
+                    "subclass": "软性技能"
+                },
+                {
+                    "tag": "协调能力",
+                    "type": "soft_skill",
+                    "subclass": "软性技能"
+                }
+            ],
+            "professional": [
+                {
+                    "tag": "互联网/软件",
+                    "type": "industry"
+                }
+            ],
+            "education": [
+                {
+                    "tag": "本科学历",
+                    "type": "degree"
+                },
+                {
+                    "tag": "会计学",
+                    "type": "major"
+                }
+            ],
+            "basic": [
+                {
+                    "tag": "女",
+                    "type": "gender"
+                },
+                {
+                    "tag": "湖北武汉",
+                    "type": "current_location"
+                },
+                {
+                    "tag": "湖北武汉",
+                    "type": "expect_location"
+                },
+                {
+                    "tag": "初级",
+                    "type": "level"
+                }
+            ],
+            "others": [
+                {
+                    "tag": "英语",
+                    "type": "language",
+                    "level": "基本掌握"
+                },
+                {
+                    "tag": "普通话二级甲等",
+                    "type": "certificate"
+                },
+                {
+                    "tag": "cet-4",
+                    "type": "certificate"
+                },
+                {
+                    "tag": "优秀主讲人活动三等奖",
+                    "type": "award"
+                },
+                {
+                    "tag": "演讲比赛二等奖",
+                    "type": "award"
+                }
+            ]
+        },
+        "highlights": {
+            "project": [],
+            "occupation": [],
+            "education": [],
+            "others": [
+                "熟练掌握英语，能进行基本的沟通"
+            ],
+            "tags": [
+                "英语能力良好"
+            ]
+        },
+        "predicted_industry": {
+            "建筑/房地产": 5,
+            "咨询/法律/公务员": 5,
+            "生物/制药/医疗/护理": 5,
+            "教育/翻译/服务业": 5.5,
+            "其他": 5,
+            "工程师": 5,
+            "运营/客服/销售/市场": 5,
+            "人事/行政/高级管理": 7.5,
+            "生产/采购/物流": 5,
+            "互联网": 5,
+            "产品": 5,
+            "金融": 5.5
+        },
+        "predicted_titles": [
+            {
+                "score": 0.4566198290118362,
+                "title": {
+                    "l2": "人事",
+                    "l3": "猎头",
+                    "l1": "财务/人力资源/行政"
+                }
+            },
+            {
+                "score": 0.2923878444504131,
+                "title": {
+                    "l2": "服务业",
+                    "l3": "餐饮工作人员",
+                    "l1": "服务业"
+                }
+            },
+            {
+                "score": 0.2509923265377507,
+                "title": {
+                    "l2": "金融/银行/保险",
+                    "l3": "保险经纪",
+                    "l1": "金融"
+                }
+            }
+        ],
+        "stability": {
+            "average_job_function_time": null,
+            "average_industry_time": null,
+            "average_work_time": null,
+            "work_stability": "稳定"
+        },
+        "predicted_capability": {
+            "language": 5,
+            "socialexp": 7,
+            "leadership": 7,
+            "workexp": 5.6,
+            "education": 6.5,
+            "honor": 8
+        },
+        "predicted_skills": [
+            {
+                "skill": "面试流程",
+                "score": 0.7
+            },
+            {
+                "skill": "人力资源",
+                "score": 0.7
+            },
+            {
+                "skill": "职业规划",
+                "score": 0.7
+            },
+            {
+                "skill": "沟通能力",
+                "score": 0.7
+            },
+            {
+                "skill": "普通话",
+                "score": 0.7
+            },
+            {
+                "skill": "招聘",
+                "score": 0.7
+            },
+            {
+                "skill": "ai",
+                "score": 0.7
+            },
+            {
+                "skill": "人事",
+                "score": 0.7
+            },
+            {
+                "skill": "演讲",
+                "score": 0.7
+            },
+            {
+                "skill": "算法",
+                "score": 0.5
+            },
+            {
+                "skill": "投资",
+                "score": 0.5
+            }
+        ],
+        "predicted_salary": "4000_to_6000",
+        "predicted_turnover": 0.586317777633667,
+        "risks": {
+            "occupation": [],
+            "education": [],
+            "tags": []
+        }
+    },
+    "cv_name": "19105073ff7cb22299852c1ebdc83aff.docx",
+    "ocr_count": 0,
+    "src_id": "",
+    "version": "4.7.0",
+    "cv_language": "zh",
+    "src_site": "other",
+    "file_name": "2022-12-21T10:02:38--c318e19bd871375c935de2764c786158.docx",
+    "errormessage": "succeed",
+    "cv_id": "",
+    "english_parsing_result": {},
+    "updated_time": "",
+    "applied_job": "",
+    "resume_integrity": 0.6649870319323925,
+    "parsing_result": {
+        "project_experience": [],
+        "contact_info": {
+            "phone_number": "18788635108",
+            "QQ": "1350437009",
+            "wechat": "MY1350437009",
+            "email": "1350437009@qq.com",
+            "home_phone_number": ""
+        },
+        "social_experience": [
+            {
+                "description": "",
+                "end_time_year": "2020",
+                "still_active": 0,
+                "end_time_month": "01",
+                "organization_name": "担任校文艺部干事一职",
+                "start_time_year": "2019",
+                "location": "",
+                "department": "",
+                "job_title": "",
+                "start_time_month": "09"
+            },
+            {
+                "description": "在以上部门期间，曾多次参与组织校内各大文艺，艺术类活动，并多次担任各大晚会的主持人。",
+                "end_time_year": "2022",
+                "still_active": 1,
+                "end_time_month": "12",
+                "organization_name": "担任校广播台台长一职",
+                "start_time_year": "2021",
+                "location": "",
+                "department": "",
+                "job_title": "",
+                "start_time_month": "09"
+            }
+        ],
+        "education_experience": [
+            {
+                "ranking": "",
+                "major": "会计学",
+                "degree": "本科",
+                "end_time_year": "2023",
+                "still_active": 1,
+                "school_rank": "",
+                "school_level": "",
+                "end_time_month": "06",
+                "school_name": "武昌工学院",
+                "abroad_country": "",
+                "GPA": "",
+                "courses": "会计学",
+                "start_time_year": "2019",
+                "location": "武汉",
+                "department": "",
+                "study_model": "统招",
+                "abroad": 0,
+                "start_time_month": "09"
+            }
+        ],
+        "basic_info": {
+            "major": "会计学",
+            "expect_location": "湖北武汉",
+            "current_salary": "",
+            "current_location_norm": "中国-湖北-武汉",
+            "current_location": "湖北武汉",
+            "expect_location_norm": "中国-湖北-武汉",
+            "desired_salary": "",
+            "birthplace": "贵州",
+            "degree": "本科",
+            "desired_industry": "",
+            "desired_position": "",
+            "zipcode": "",
+            "professional_level": "初级",
+            "national_identity_number": "",
+            "date_of_birth": "",
+            "birthplace_norm": "中国-贵州",
+            "num_work_experience": 1,
+            "current_position": "",
+            "work_start_year": "2023",
+            "political_status": "",
+            "current_company": "成都新大瀚人力资源有限责任公司",
+            "school_name": "武昌工学院",
+            "ethnic": "",
+            "recent_graduate_year": "2023",
+            "name": "蒙颖",
+            "lastupdate_time": "2022-12-21-10-02-39",
+            "gender": "女",
+            "age": null,
+            "marital_status": "未婚",
+            "current_status": "",
+            "school_type": "",
+            "detailed_location": "",
+            "industry": ""
+        },
+        "training_experience": [],
+        "work_experience": [
+            {
+                "salary": "",
+                "description": "工作内容:\n1、 通过各大招聘软件如: 猎聘、BOSS直聘、脉脉、领英等相关软件，定位相关关键词来搜寻各大公司所需人才，搜寻到以后主动与候选人沟通，可通过电话或微信等方式与之沟通。\n2、 与候选人取得沟通之后，向候选人索要个人简历（必要时需附带英文简历），询问候选人的求职意向，目前所在地，期望所在地，期望薪资，英文口语等相关信息，以上信息均确认无误之后及向经理或LP汇报，需经经理或LP审核通过之后，提交给客户公司，并上传公司系统以作留存。\n3、 如客户公司满意候选人的基本状况，便立刻安排面试，需通知候选人准备面试，并告知候选人面试的注意事项，与候选人明确面试所需的论述话题，面试方式（线下或线上）等面试相关信息\n4、 候选人通过面试后即可入职\n相关业绩:\n1、 每周推荐量均为组内前三\n2、 平均客户一面量均为组内前三\n3、 入职至今以来给国内大客户——捷豹路虎中国投资有限公司寻找到两位合适的入职人选，并已经拿到部分回款分别是:\nAI算法工程师——7.8w\n敏捷项目经理——10w",
+                "end_time_year": "2022",
+                "still_active": 1,
+                "skills": [
+                    "ai",
+                    "项目经理",
+                    "招聘",
+                    "boss"
+                ],
+                "company_type": "",
+                "industry": "互联网/软件",
+                "end_time_month": "12",
+                "location": "湖北武汉",
+                "company_size": "",
+                "job_function": "",
+                "start_time_year": "2022",
+                "company_name": "成都新大瀚人力资源有限责任公司",
+                "report_to": "经理或LP",
+                "department": "",
+                "underling_num": "0",
+                "job_title": "",
+                "start_time_month": "06"
+            }
+        ],
+        "others": {
+            "language": [
+                "普通话"
+            ],
+            "certificate": [
+                "cet-4",
+                "普通话二级甲等"
+            ],
+            "skills": [
+                "Ai",
+                "Boss",
+                "招聘",
+                "会计",
+                "人事",
+                "主持",
+                "演讲",
+                "普通话",
+                "项目经理",
+                "沟通能力",
+                "人力资源"
+            ],
+            "self_evaluation": "1、 本人有招聘相关经验，熟练使用各大招聘软件，熟知各类招聘电话术语，以及熟知面试流程和面试所需要的各项提问\n2、 本人沟通能力较强，组织协调能力较强，上传下达能在客户经理，部门经理以及候选人之间充分发挥协调作用，使各方互利共赢。\n3、 本人对人力资源等相关工作有浓厚的兴趣以及有明确的职业规划，想在人力资源行业得到长久稳定的发展\n4、 本人工作稳定性较强，抗压能力较强，坚持能力较强。",
+            "awards": [
+                "优秀主讲人活动三等奖",
+                "演讲比赛二等奖"
+            ],
+            "it_skills": [],
+            "business_skills": [
+                "会计",
+                "人力资源"
+            ]
+        },
+        "resume_rawtext": ""
+    },
+    "avatar_url": "",
+    "client_id": "",
+    "file_ext": "docx",
+    "errorcode": 0,
+    "avatar_data": "",
+    "hash_id": "19105073ff7cb22299852c1ebdc83aff"
+}

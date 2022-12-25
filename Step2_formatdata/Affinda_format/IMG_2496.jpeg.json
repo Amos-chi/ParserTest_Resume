@@ -1,0 +1,89 @@
+{
+    "fullName": "Chloe  Jennings",
+    "contacts": [
+        {
+            "contact": "cjennings7@my.apsu.edu",
+            "type": "EMAIL"
+        }
+    ],
+    "languages": [
+        "English"
+    ],
+    "educations": [
+        {
+            "collegeName": "Austin Peay State University Postmates Inc"
+        },
+        {
+            "startDate": "2021-02-01",
+            "endDate": "2021-03-01",
+            "degreeLevel": "bachelors",
+            "majorName": "Bachelor of Science"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "https://www.linkedin.com/in/chloe- Carried out the same duties as most recent role at Postmates Inc due to Uber's jennings-31a785175/ acquisition. While also utilizing Uber's tools to assist with orders on the Uber side as the integration progressed. Later transitioned to Uber's new Premium Support ",
+            "title": "COE Specialist II",
+            "startDate": "2021-03-01",
+            "endDate": "2022-12-21",
+            "current": true
+        },
+        {
+            "description": "operate under pressure. Offering inbound support to businesses on the platform via phone and email. For issues such as live order concerns, account updates, and supporting technical difficulties. ",
+            "title": "Merchant Support Specialist",
+            "startDate": "2020-03-01",
+            "endDate": "2020-11-01"
+        },
+        {
+            "companyName": "Publix Supermarkets",
+            "title": "Deli Associate",
+            "startDate": "2019-08-01",
+            "endDate": "2020-03-01"
+        },
+        {
+            "description": "Manage all University Recreation social media accounts on Facebook, Twitter, and Instagram. Creating engaging content for each platform and keeping followers informed of all upcoming events and class cancellations as required. ",
+            "companyName": "APSU University Recreation",
+            "title": "Marketing Intern",
+            "startDate": "2018-12-01",
+            "endDate": "2019-04-01"
+        },
+        {
+            "companyName": "Starbucks Coffee Company",
+            "title": "Barista",
+            "startDate": "2017-09-01",
+            "endDate": "2019-12-01"
+        },
+        {
+            "companyName": "Sonic Drive-In",
+            "title": "Crew Leader",
+            "startDate": "2016-01-01",
+            "endDate": "2017-08-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "Team Oriented"
+        },
+        {
+            "skillName": "Supermarkets"
+        },
+        {
+            "skillName": "Communications"
+        },
+        {
+            "skillName": "Communication Arts"
+        },
+        {
+            "skillName": "Customer Service"
+        },
+        {
+            "skillName": "Integration"
+        },
+        {
+            "skillName": "Technical Support"
+        },
+        {
+            "skillName": "Social Media"
+        }
+    ]
+}

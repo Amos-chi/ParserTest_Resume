@@ -1,0 +1,28 @@
+{
+    "all": 28,
+    "important": 25,
+    "desc": 3,
+    "correct_important": 25,
+    "correct_desc": 3,
+    "additional": 3,
+    "important_keys": {},
+    "unimportant_keys": {
+        "experiences.0.description": true,
+        "experiences.1.description": true,
+        "experiences.2.description": true
+    },
+    "addition_info_count": 3,
+    "addition_info": {
+        "currentLocation": {
+            "location": "Virginia"
+        },
+        "preferredLocations": [
+            {
+                "location": "Virginia"
+            }
+        ],
+        "languages": [
+            "ENGLISH"
+        ]
+    }
+}

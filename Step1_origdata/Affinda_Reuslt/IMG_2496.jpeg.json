@@ -1,0 +1,480 @@
+{
+    "certifications": [],
+    "dateOfBirth": null,
+    "education": [
+        {
+            "id": 8034471,
+            "organization": "Austin Peay State University Postmates Inc",
+            "accreditation": {
+                "educationLevel": null,
+                "inputStr": "",
+                "matchStr": ""
+            },
+            "grade": null,
+            "location": {
+                "formatted": "10425 S 82nd E Ave Ste 100, Tulsa, OK 74133, USA",
+                "streetNumber": "10425",
+                "street": "South 82nd East Avenue",
+                "apartmentNumber": "Ste 100",
+                "city": "Tulsa",
+                "postalCode": "74133",
+                "state": "Oklahoma",
+                "country": "United States",
+                "rawInput": "10th",
+                "countryCode": "US"
+            },
+            "dates": null
+        },
+        {
+            "id": 8034472,
+            "organization": null,
+            "accreditation": {
+                "education": "Bachelor of Science",
+                "educationLevel": "bachelors",
+                "inputStr": "Bachelor of Science in · VIP Support Specialist",
+                "matchStr": ""
+            },
+            "grade": null,
+            "location": null,
+            "dates": {
+                "startDate": "2021-02-01",
+                "completionDate": "2021-03-01",
+                "isCurrent": false
+            }
+        }
+    ],
+    "emails": [
+        "cjennings7@my.apsu.edu"
+    ],
+    "location": null,
+    "name": {
+        "raw": "Chloe Jennings",
+        "last": "Jennings",
+        "first": "Chloe",
+        "title": "",
+        "middle": ""
+    },
+    "objective": "Objective: Seasoned customer service professional seeking to expand skillset toward technical support",
+    "phoneNumbers": [],
+    "publications": [],
+    "referees": [],
+    "sections": [
+        {
+            "sectionType": "PersonalDetails",
+            "bbox": [
+                325.0,
+                29.0,
+                782.0,
+                100.0
+            ],
+            "pageIndex": 0,
+            "text": "Chloe Jennings"
+        },
+        {
+            "sectionType": "Summary",
+            "bbox": [
+                171.0,
+                107.0,
+                938.0,
+                162.0
+            ],
+            "pageIndex": 0,
+            "text": "Objective: Seasoned customer service professional seeking to expand skillset toward technical support"
+        },
+        {
+            "sectionType": "PersonalDetails",
+            "bbox": [
+                262.0,
+                198.0,
+                373.0,
+                224.0
+            ],
+            "pageIndex": 0,
+            "text": "Contact"
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                44.0,
+                208.0,
+                1067.0,
+                413.0
+            ],
+            "pageIndex": 0,
+            "text": "Experience 158 Lynnwood Circle . Clarksville, TN. . 37040 Uber Technology . Remote (931)-561-0716 · COE Specialist II . March 2021-Present cjennings7@my.apsu.edu https://www.linkedin.com/in/chloe- Carried out the same duties as most recent role at Postmates Inc due to Uber's jennings-31a785175/ acquisition. While also utilizing Uber's tools to assist with orders on the Uber side as the integration progressed. Later transitioned to Uber's new Premium Support"
+        },
+        {
+            "sectionType": "Education",
+            "bbox": [
+                120.0,
+                415.0,
+                823.0,
+                534.0
+            ],
+            "pageIndex": 0,
+            "text": "Education department. Austin Peay State University Postmates Inc . 209 10th Ave S & Remote Class of 2019 Bachelor of Science in · VIP Support Specialist . February 2021-March 2021"
+        },
+        {
+            "sectionType": "Skills/Interests/Languages",
+            "bbox": [
+                64.0,
+                538.0,
+                1061.0,
+                787.0
+            ],
+            "pageIndex": 0,
+            "text": "Communication Arts Magna Cum Laude Offering inbound support to our top and most prominent businesses on the platform via phone and email. For issues such as live order concerns, account updates, and Skills supporting technical difficulties. · Team Oriented · Account & Tech Support Specialist . November 2020-February 2021 · Highly organized, with excellent Offering inbound support to customers, drivers, and businesses on the platform via written and verbal communication phone or email. Assisted with concerns over account issues and updates as well as skills, and great attention to detail. technical support."
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                78.0,
+                806.0,
+                1050.0,
+                1412.0
+            ],
+            "pageIndex": 0,
+            "text": ". Quick learner with the ability to · Merchant Support Specialist . March 2020-November 2020 operate under pressure. Offering inbound support to businesses on the platform via phone and email. For issues such as live order concerns, account updates, and supporting technical difficulties. Publix Supermarkets . 920 Highway 76 · Deli Associate . August 2019-March 2020 APSU University Recreation . 451 Marion Street · Marketing Intern · December 2018-April 2019 Manage all University Recreation social media accounts on Facebook, Twitter, and Instagram. Creating engaging content for each platform and keeping followers informed of all upcoming events and class cancellations as required. Starbucks Coffee Company . 100 South Hampton Place · Barista · September 2017-December 2019. Sonic Drive In . 1761 Wilma Rudolph Blvd · Crew Leader . January 2016-August 2017 . Car Hop . May 2015-January 2016"
+        }
+    ],
+    "skills": [
+        {
+            "id": 80435402,
+            "emsiId": "KS61D1BF7H22K0UZ9C3V",
+            "name": "Team Oriented",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435403,
+            "emsiId": "KS4412F6W0D8QJLZNWWD",
+            "name": "Supermarkets",
+            "lastUsed": "2020-03-01",
+            "numberOfMonths": 7,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077845
+                }
+            ]
+        },
+        {
+            "id": 80435404,
+            "emsiId": "KS122556LMQ829GZCCRV",
+            "name": "Communications",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435405,
+            "emsiId": "KS7G11176X89813FYD7Q",
+            "name": "Communication Arts",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435406,
+            "emsiId": "KS121Z26S4VJLQ1WXN21",
+            "name": "Customer Service",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435407,
+            "emsiId": "KS125716TLTGH6SDHJD1",
+            "name": "Integration",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 22,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077843
+                }
+            ]
+        },
+        {
+            "id": 80435408,
+            "emsiId": "KS120LB6XV5409BCQ0NF",
+            "name": "Technical Support",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435409,
+            "emsiId": "KS440PV6FRJ90X0QFNLY",
+            "name": "Social Media",
+            "lastUsed": "2019-04-01",
+            "numberOfMonths": 4,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077846
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "English"
+    ],
+    "summary": "",
+    "websites": [
+        "https://www.linkedin.com/in/chloe-"
+    ],
+    "linkedin": "https://www.linkedin.com/in/chloe-",
+    "totalYearsExperience": 7,
+    "profession": "Marketing Associate",
+    "workExperience": [
+        {
+            "id": 15077843,
+            "jobTitle": "COE Specialist II",
+            "organization": null,
+            "location": null,
+            "dates": {
+                "startDate": "2021-03-01",
+                "endDate": "2022-12-21",
+                "monthsInPosition": 22,
+                "isCurrent": true
+            },
+            "jobDescription": "https://www.linkedin.com/in/chloe- Carried out the same duties as most recent role at Postmates Inc due to Uber's jennings-31a785175/ acquisition. While also utilizing Uber's tools to assist with orders on the Uber side as the integration progressed. Later transitioned to Uber's new Premium Support ",
+            "occupation": {
+                "jobTitle": "COE Specialist II",
+                "jobTitleNormalized": "Core Specialist",
+                "classification": {
+                    "socCode": 3131,
+                    "title": "IT operations technicians",
+                    "minorGroup": "Information Technology Technicians",
+                    "subMajorGroup": "SCIENCE, ENGINEERING AND TECHNOLOGY ASSOCIATE PROFESSIONALS",
+                    "majorGroup": "ASSOCIATE PROFESSIONAL OCCUPATIONS"
+                },
+                "managementLevel": "Low"
+            }
+        },
+        {
+            "id": 15077844,
+            "jobTitle": "Merchant Support Specialist",
+            "organization": null,
+            "location": null,
+            "dates": {
+                "startDate": "2020-03-01",
+                "endDate": "2020-11-01",
+                "monthsInPosition": 8,
+                "isCurrent": false
+            },
+            "jobDescription": "operate under pressure. Offering inbound support to businesses on the platform via phone and email. For issues such as live order concerns, account updates, and supporting technical difficulties. ",
+            "occupation": {
+                "jobTitle": "Merchant Support Specialist",
+                "jobTitleNormalized": "Merchant Support Specialist",
+                "classification": null,
+                "managementLevel": null
+            }
+        },
+        {
+            "id": 15077845,
+            "jobTitle": "Deli Associate",
+            "organization": "Publix Supermarkets",
+            "location": {
+                "formatted": "920 CA-76, Pauma Valley, CA 92061, USA",
+                "streetNumber": "920",
+                "street": "California 76",
+                "apartmentNumber": null,
+                "city": "Pauma Valley",
+                "postalCode": "92061",
+                "state": "California",
+                "country": "United States",
+                "rawInput": "920 Highway 76",
+                "countryCode": "US"
+            },
+            "dates": {
+                "startDate": "2019-08-01",
+                "endDate": "2020-03-01",
+                "monthsInPosition": 7,
+                "isCurrent": false
+            },
+            "jobDescription": "",
+            "occupation": {
+                "jobTitle": "Deli Associate",
+                "jobTitleNormalized": "Deli Associate",
+                "classification": {
+                    "socCode": 9263,
+                    "title": "Kitchen and catering assistants",
+                    "minorGroup": "Other Elementary Services Occupations",
+                    "subMajorGroup": "ELEMENTARY ADMINISTRATION AND SERVICE OCCUPATIONS",
+                    "majorGroup": "ELEMENTARY OCCUPATIONS"
+                },
+                "managementLevel": null
+            }
+        },
+        {
+            "id": 15077846,
+            "jobTitle": "Marketing Intern",
+            "organization": "APSU University Recreation",
+            "location": {
+                "formatted": null,
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": null,
+                "postalCode": null,
+                "state": null,
+                "country": null,
+                "rawInput": "451 Marion Street",
+                "countryCode": null
+            },
+            "dates": {
+                "startDate": "2018-12-01",
+                "endDate": "2019-04-01",
+                "monthsInPosition": 4,
+                "isCurrent": false
+            },
+            "jobDescription": "Manage all University Recreation social media accounts on Facebook, Twitter, and Instagram. Creating engaging content for each platform and keeping followers informed of all upcoming events and class cancellations as required. ",
+            "occupation": {
+                "jobTitle": "Marketing Intern",
+                "jobTitleNormalized": "Marketing Intern",
+                "classification": {
+                    "socCode": 3554,
+                    "title": "Marketing associate professionals",
+                    "minorGroup": "Sales, Marketing and Related Associate Professionals",
+                    "subMajorGroup": "BUSINESS AND PUBLIC SERVICE ASSOCIATE PROFESSIONALS",
+                    "majorGroup": "ASSOCIATE PROFESSIONAL OCCUPATIONS"
+                },
+                "managementLevel": "Low"
+            }
+        },
+        {
+            "id": 15077847,
+            "jobTitle": "Barista",
+            "organization": "Starbucks Coffee Company",
+            "location": {
+                "formatted": "4700 Brandon Woods St, Columbia, MO 65203, USA",
+                "streetNumber": "4700",
+                "street": "Brandon Woods Street",
+                "apartmentNumber": null,
+                "city": "Columbia",
+                "postalCode": "65203",
+                "state": "Missouri",
+                "country": "United States",
+                "rawInput": "100 South Hampton Place",
+                "countryCode": "US"
+            },
+            "dates": {
+                "startDate": "2017-09-01",
+                "endDate": "2019-12-01",
+                "monthsInPosition": 27,
+                "isCurrent": false
+            },
+            "jobDescription": "",
+            "occupation": {
+                "jobTitle": "Barista",
+                "jobTitleNormalized": "Barista",
+                "classification": {
+                    "socCode": 9266,
+                    "title": "Coffee shop workers",
+                    "minorGroup": "Other Elementary Services Occupations",
+                    "subMajorGroup": "ELEMENTARY ADMINISTRATION AND SERVICE OCCUPATIONS",
+                    "majorGroup": "ELEMENTARY OCCUPATIONS"
+                },
+                "managementLevel": null
+            }
+        },
+        {
+            "id": 15077848,
+            "jobTitle": "Crew Leader",
+            "organization": "Sonic Drive-In",
+            "location": {
+                "formatted": "1761 Wilma Rudolph Blvd, Clarksville, TN 37040, USA",
+                "streetNumber": "1761",
+                "street": "Wilma Rudolph Boulevard",
+                "apartmentNumber": null,
+                "city": "Clarksville",
+                "postalCode": "37040",
+                "state": "Tennessee",
+                "country": "United States",
+                "rawInput": "1761 Wilma Rudolph Blvd",
+                "countryCode": "US"
+            },
+            "dates": {
+                "startDate": "2016-01-01",
+                "endDate": "2017-08-01",
+                "monthsInPosition": 19,
+                "isCurrent": false
+            },
+            "jobDescription": "",
+            "occupation": {
+                "jobTitle": "Crew Leader",
+                "jobTitleNormalized": "Crew Leader",
+                "classification": {
+                    "socCode": 5330,
+                    "title": "Construction and building trades supervisors",
+                    "minorGroup": "Construction and Building Trades Supervisors",
+                    "subMajorGroup": "SKILLED CONSTRUCTION AND BUILDING TRADES",
+                    "majorGroup": "SKILLED TRADES OCCUPATIONS"
+                },
+                "managementLevel": null
+            }
+        }
+    ],
+    "headShot": null,
+    "isResumeProbability": 89,
+    "rawText": "Chloe Jennings\nObjective: Seasoned customer service professional seeking to expand skillset toward technical support\nContact\nExperience 158 Lynnwood Circle . Clarksville, TN. . 37040 Uber Technology . Remote (931)-561-0716 · COE Specialist II . March 2021-Present cjennings7@my.apsu.edu https://www.linkedin.com/in/chloe- Carried out the same duties as most recent role at Postmates Inc due to Uber's jennings-31a785175/ acquisition. While also utilizing Uber's tools to assist with orders on the Uber side as the integration progressed. Later transitioned to Uber's new Premium Support\nEducation department. Austin Peay State University Postmates Inc . 209 10th Ave S & Remote Class of 2019 Bachelor of Science in · VIP Support Specialist . February 2021-March 2021\nCommunication Arts Magna Cum Laude Offering inbound support to our top and most prominent businesses on the platform via phone and email. For issues such as live order concerns, account updates, and Skills supporting technical difficulties. · Team Oriented · Account & Tech Support Specialist . November 2020-February 2021 · Highly organized, with excellent Offering inbound support to customers, drivers, and businesses on the platform via written and verbal communication phone or email. Assisted with concerns over account issues and updates as well as skills, and great attention to detail. technical support.\n. Quick learner with the ability to · Merchant Support Specialist . March 2020-November 2020 operate under pressure. Offering inbound support to businesses on the platform via phone and email. For issues such as live order concerns, account updates, and supporting technical difficulties. Publix Supermarkets . 920 Highway 76 · Deli Associate . August 2019-March 2020 APSU University Recreation . 451 Marion Street · Marketing Intern · December 2018-April 2019 Manage all University Recreation social media accounts on Facebook, Twitter, and Instagram. Creating engaging content for each platform and keeping followers informed of all upcoming events and class cancellations as required. Starbucks Coffee Company . 100 South Hampton Place · Barista · September 2017-December 2019. Sonic Drive In . 1761 Wilma Rudolph Blvd · Crew Leader . January 2016-August 2017 . Car Hop . May 2015-January 2016"
+}

@@ -1,0 +1,277 @@
+{
+    "predicted_result": {
+        "desired_salary": null,
+        "tags": {
+            "skills": [
+                {
+                    "tag": "CONTROL",
+                    "type": "professional_skill",
+                    "subclass": "其它"
+                },
+                {
+                    "tag": "HTTPS",
+                    "type": "professional_skill",
+                    "subclass": "前端开发"
+                },
+                {
+                    "tag": "视觉设计",
+                    "type": "professional_skill",
+                    "subclass": "UI设计"
+                },
+                {
+                    "tag": "用户研究",
+                    "type": "professional_skill",
+                    "subclass": "产品"
+                },
+                {
+                    "tag": "设计管理",
+                    "type": "professional_skill",
+                    "subclass": "管理"
+                },
+                {
+                    "tag": "方案设计",
+                    "type": "professional_skill",
+                    "subclass": "其它"
+                },
+                {
+                    "tag": "交互",
+                    "type": "professional_skill",
+                    "subclass": "产品"
+                }
+            ],
+            "professional": [
+                {
+                    "tag": "互联网/软件",
+                    "type": "industry"
+                },
+                {
+                    "tag": "龙头互联网企业",
+                    "type": "company_class"
+                },
+                {
+                    "tag": "世界500强企业",
+                    "type": "company_class"
+                }
+            ],
+            "education": [],
+            "basic": [
+                {
+                    "tag": "初级",
+                    "type": "level"
+                }
+            ],
+            "others": []
+        },
+        "highlights": {
+            "project": [],
+            "occupation": [
+                "世界500强企业从业经历",
+                "龙头互联网企业从业经历"
+            ],
+            "education": [],
+            "others": [],
+            "tags": [
+                "名企经历"
+            ]
+        },
+        "predicted_industry": {
+            "建筑/房地产": 5,
+            "咨询/法律/公务员": 5,
+            "生物/制药/医疗/护理": 5,
+            "教育/翻译/服务业": 5,
+            "其他": 5,
+            "工程师": 5,
+            "运营/客服/销售/市场": 5,
+            "人事/行政/高级管理": 5,
+            "生产/采购/物流": 5,
+            "互联网": 9,
+            "产品": 5,
+            "金融": 5
+        },
+        "predicted_titles": [
+            {
+                "score": 0.4223924492577256,
+                "title": {
+                    "l2": "用户体验",
+                    "l3": "UE",
+                    "l1": "IT/互联网"
+                }
+            },
+            {
+                "score": 0.3327148871100538,
+                "title": {
+                    "l2": "前端开发",
+                    "l3": "UI/UX",
+                    "l1": "IT/互联网"
+                }
+            },
+            {
+                "score": 0.24489266363222062,
+                "title": {
+                    "l2": "用户体验",
+                    "l3": "用户分析",
+                    "l1": "IT/互联网"
+                }
+            }
+        ],
+        "stability": {
+            "average_job_function_time": null,
+            "average_industry_time": null,
+            "average_work_time": 2,
+            "work_stability": "跳槽频繁"
+        },
+        "predicted_capability": {
+            "language": 5,
+            "socialexp": 6,
+            "leadership": 6,
+            "workexp": 5.6,
+            "education": 6.5,
+            "honor": 5
+        },
+        "predicted_skills": [
+            {
+                "skill": "control",
+                "score": 0.7
+            },
+            {
+                "skill": "https",
+                "score": 0.7
+            },
+            {
+                "skill": "视觉设计",
+                "score": 0.7
+            },
+            {
+                "skill": "用户研究",
+                "score": 0.5
+            },
+            {
+                "skill": "设计管理",
+                "score": 0.5
+            },
+            {
+                "skill": "方案设计",
+                "score": 0.5
+            },
+            {
+                "skill": "交互",
+                "score": 0.5
+            }
+        ],
+        "predicted_salary": "10000_to_15000",
+        "predicted_turnover": 0.17690981924533844,
+        "risks": {
+            "occupation": [],
+            "education": [],
+            "tags": []
+        }
+    },
+    "cv_name": "2e154e4636430d279f79f4368ae0d155.txt",
+    "ocr_count": 0,
+    "src_id": "",
+    "version": "4.7.0",
+    "cv_language": "zh",
+    "src_site": "other",
+    "file_name": "2022-12-21T10:02:40--0b19cfbade64a4ab4b44599bcdeba949.txt",
+    "errormessage": "succeed",
+    "cv_id": "",
+    "english_parsing_result": {},
+    "updated_time": "",
+    "applied_job": "",
+    "resume_integrity": 0.19466880015968127,
+    "parsing_result": {
+        "project_experience": [],
+        "contact_info": {
+            "phone_number": "",
+            "QQ": "",
+            "wechat": "",
+            "email": "",
+            "home_phone_number": ""
+        },
+        "social_experience": [],
+        "education_experience": [],
+        "basic_info": {
+            "major": "",
+            "expect_location": "",
+            "current_salary": "",
+            "current_location_norm": "",
+            "current_location": "",
+            "expect_location_norm": "",
+            "desired_salary": "",
+            "birthplace": "",
+            "degree": "",
+            "desired_industry": "",
+            "desired_position": "",
+            "zipcode": "",
+            "professional_level": "初级",
+            "national_identity_number": "",
+            "date_of_birth": "",
+            "birthplace_norm": "",
+            "num_work_experience": 1,
+            "current_position": "",
+            "work_start_year": "2007",
+            "political_status": "",
+            "current_company": "华为",
+            "school_name": "",
+            "ethnic": "",
+            "recent_graduate_year": "",
+            "name": "刘勇",
+            "lastupdate_time": "2022-12-21-10-02-40",
+            "gender": "",
+            "age": null,
+            "marital_status": "",
+            "current_status": "",
+            "school_type": "",
+            "detailed_location": "",
+            "industry": ""
+        },
+        "training_experience": [],
+        "work_experience": [
+            {
+                "salary": "",
+                "description": "电信消费类产品的体验设计管理和交付。\n管理领域产品的体验质量和竞争力，负责产品体验规划与策略制定。\n开展用户研究洞察，概念方案设计，交互视觉设计及方案落地的质量把握与跟\n进。\n设计师团队的能力培养和梯队建设。\nPage 1 of 1",
+                "end_time_year": "2007",
+                "still_active": 0,
+                "skills": [
+                    "page",
+                    "视觉设计"
+                ],
+                "company_type": "",
+                "industry": "互联网/软件",
+                "end_time_month": "11",
+                "location": "",
+                "company_size": "",
+                "job_function": "",
+                "start_time_year": "2007",
+                "company_name": "华为",
+                "report_to": "",
+                "department": "",
+                "underling_num": "",
+                "job_title": "",
+                "start_time_month": "10"
+            }
+        ],
+        "others": {
+            "language": [],
+            "certificate": [],
+            "skills": [
+                "Page",
+                "Https",
+                "Center",
+                "Control",
+                "视觉设计"
+            ],
+            "self_evaluation": "",
+            "awards": [],
+            "it_skills": [],
+            "business_skills": []
+        },
+        "resume_rawtext": ""
+    },
+    "avatar_url": "",
+    "client_id": "",
+    "file_ext": "txt",
+    "errorcode": 0,
+    "avatar_data": "",
+    "hash_id": "2e154e4636430d279f79f4368ae0d155"
+}

@@ -1,0 +1,743 @@
+{
+    "certifications": [],
+    "dateOfBirth": null,
+    "education": [
+        {
+            "id": 8031589,
+            "organization": "三峡大学科技学院",
+            "accreditation": {
+                "education": "本科",
+                "educationLevel": null,
+                "inputStr": "本科",
+                "matchStr": ""
+            },
+            "grade": null,
+            "location": null,
+            "dates": {
+                "startDate": null,
+                "completionDate": "0003-05-21",
+                "isCurrent": false
+            }
+        }
+    ],
+    "emails": [],
+    "location": {
+        "formatted": "Huanggang, Hubei, China",
+        "streetNumber": null,
+        "street": null,
+        "apartmentNumber": null,
+        "city": "Huanggang",
+        "postalCode": null,
+        "state": "Hubei",
+        "country": "China",
+        "rawInput": "湖北黄冈",
+        "countryCode": "CN"
+    },
+    "name": {
+        "raw": "",
+        "last": "",
+        "first": "",
+        "title": "",
+        "middle": ""
+    },
+    "objective": "",
+    "phoneNumbers": [
+        "+8618071807610"
+    ],
+    "publications": [],
+    "referees": [],
+    "sections": [
+        {
+            "sectionType": "PersonalDetails",
+            "bbox": [
+                54.126,
+                7.630005,
+                544.70996,
+                143.297
+            ],
+            "pageIndex": 0,
+            "text": "cbbde2d543b59cc01 nJ5396-FltUxJG5VvqcQuykng~~ 个人信息 姓名:王俊港性别:男 年龄:25学历:本科 籍 贯 : 湖北黄冈 联系电话 : 18071807610 电子邮件 : 18071807610@1 63.com 工作年限 : 3 年 意向城市 : 武汉 : java 开发工程师"
+        },
+        {
+            "sectionType": "Skills/Interests/Languages",
+            "bbox": [
+                50.49408,
+                156.11407,
+                551.161,
+                375.28705
+            ],
+            "pageIndex": 0,
+            "text": "专业技能 1. 掌握 JavaSE 基础知识 , OOP 面向对象和 AOP 面向切面 , 熟悉设计模式、 反射、 泛型、 自定义注解。 2. 熟练运用 Spring、 Mybatis、 SpringMVC、 SpringBoot 等优秀的开源框架 , 熟悉 Spring 的 IOC、 AOP 设计思想。 3. 熟悉 RabbitMq、 SpringSecurity、 Oauth2.0 技术设计、 实现 RBAC 权限控制 , 资源安全性。 4. 掌握数据库 Mysql、 Redis 的使用 , 能编写常用的 sql 语句,使用 Redis 作缓存 5. 熟练掌握 SpringCould 分布式架构 , Nacos、 Hystrix、 Ribbon、 OpenFeign、 Gateway 等。 6. 掌握 Ngnix 反向代理服务器 , 结合 Docker、 Linux 实现服务的负载均衡、 动静分离。 7. 熟悉使用 Redis 数据库 , 集群 , 持久化方案(RDB、 AOF) , 缓存删除、 淘汰策略(LFU、 LRU)。 8. 熟练使用 Docker、 Git 常用命令 , 可快速完成项目结构的搭建工作 , 代码管理。 9. 掌握以 Nacos 为注册中心、 结合 Ribbon 负载均衡、 Feign 远程调用搭建微服务框架。 10. 熟练使用 Docker、 Git 常用命令 , 可快速完成项目结构的搭建工作 , 代码管理。 11. 掌握 Elasticsearch、 FastDFS 技术、 可实现文件协调管理 , 资源导入、 搜索引擎功能。 12. 掌握以 Gateway 为微服务网关、 结合 Redis、 OAuth 2.0 组件、 JWT 13. 掌握 XML、 HTML、 CSS、 Jquery、 JavaScript、 AJAX 技术 , 具备 Layui、 Vue"
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                50.57856094837189,
+                390.1018934249878,
+                434.831,
+                576.979
+            ],
+            "pageIndex": 0,
+            "text": "工作经历 公司名称 : 深圳市慧搭科技有限公司 工作时间 : 2021.04-2022.09 工作内容 : 参与产品及项目开发 , 完成需求分析 , 完成子系统和模块设计。 参与产品讨论 , 业务逻辑实现 , 根据项目任务计划按时完成软件编码和单元测试工作。 根据产品需求 , 完成后端项目设计与开发 , 确保项目进度。 公司名称 : 深圳慧订网络科技有限公司 工作时间 : 2019.08-2021.03 工作内容 : 主要从事软件编码工作 涉及用户需求分析、 参与产品讨论、 技术设计 , 与团队成员共同协作完成软件开发。"
+        },
+        {
+            "sectionType": "Projects",
+            "bbox": [
+                36.045,
+                593.99805,
+                559.357,
+                802.04706
+            ],
+            "pageIndex": 0,
+            "text": "项目经历 项目一 : 智惠商城 2022.01-2022.09 项目描述 : 智惠商城是以 B2C 模式运营的在线商城 , 总览企业及公司产品于一体 , 主打自主研发品牌以推广的互联网化新商城。 系统采用的微服务架构模式 , 以功能模块划分 , 前台系统主要功能包括用户登录 , 商品收藏 , 评论展示 , 我的订单 , 我的购物车 , 订 单支付 , 会员系统等系统。 后台主要功能包括 , 商品管理 , 商品分类管理 , 消息管理 , 订单管理 , 商品评价管理 , 日志系统管理 , 服 务监控系统等。 开发工具 : JDK1.8 , IDEA , Maven , GitLab , Tomcat , Linux , Postman , Navicat 技术选型 : SpringBoot+SpringCould+MybatisPlus+Mysql+Redis+Elasticsearch+RabbitMQ+ WeChat+Alipay 技术描述 : 1. 项目的微服务基于 SpringBoot、 SpringCloud 构建的 , 采用前后端分离开发。 前后端的数据交流采用 json 数据格式 ; 2. 接口采用 RestFul 风格设计并且使用 SwaggerUI 做接口文档 ; 3. 使用 Nacos 集群搭建注册中心 , 完成服务的注册和发现/并且作为项目的配置文件中心 , 使得服务和配置文件集中化管"
+        },
+        {
+            "sectionType": "Projects",
+            "bbox": [
+                36.126,
+                42.360046,
+                559.948,
+                727.00903
+            ],
+            "pageIndex": 1,
+            "text": "; 4. Gateway 结合注册中心完成请求动态路由 ,使用全局过滤器完成 ,ip ; 5. , common , 存入 redis , , ; 6. , 7. 在完成图片上传功能的实现时 ; 8. ; 9. 自定义日志注解 将用户操作日志 通过 ; 10. 服务间采用 OpenFeign+Hystrix 完成远程调用和熔断方案 ; 11. 采用 Elasticseach 做为项目所有引擎 , 完成模糊查询 , , ; 12. 采用窗口滑动模型完成生产环境中商品修改的增量导入功能 13. 采用延迟队列完成用户下单后超时未支付 , 商品库存回滚等功能 责任描述 : 参与项目的需求分析 , 制定项目周期计划 , 确定技术选型方案; 参与项目结构设计 , 划分功能模块归属; 负责编写并优化商品订单模块、 会员模块并测试 与同事进行技术难点探讨、 修改 Bug 及部分模块功能测试; 项 目 二 : 智惠积分软件 2021.05-2022.01 开发工具 : JDK1.8 , IDEA , Maven , GitLab , Tomcat , Postman , Navicat 技术选型 : Springboot+Mybatis+Mysql+Redis+SpringSecurity+RabbitMQ+Nginx+Linux+Docker+SwaggerUI 项 目 描述 : 该软件开发项目管理的积分制是一种软件开发项目的绩效管理模式 , 以项目利润、 客户满意度、 项目质量、 创新等为 KPI 指标 , 将积分与员工福利奖金、 晋升、 荣誉等捆绑以此来调动员工的积极性。 项目在技术方面采用最主流的前后端分离开发模式 , 使用 vue 框架来构建前端 , 使用 springboot 构建后台。 技术描述 : 1. 项目使用了 vue 框架构建前端。 2. 在浏览器端主要采用 axios 处理客户端逻辑以及发送异步请求并实现了系统界面。 3. 持久层使用了 MyBatis 框架进行对数据库持久层数据的操作。 4. 在统计表使用了 Echarts 的漏斗图。 5. 在表单中使用了数据字典 , 并将数据字典保存到服务器缓存中。 责任描述 : 参与项目的需求分析和周期计划安排 ; 参与功能设计与实现 , 主要负责模块有员工管理接口、 部门管理接口。"
+        },
+        {
+            "sectionType": "Projects",
+            "bbox": [
+                36.126,
+                39.741028,
+                559.075,
+                531.54706
+            ],
+            "pageIndex": 2,
+            "text": "项 目 三 : 慧订旅游 2020.07-2021.03 开发工具 : JDK1.8 , IDEA , Maven , Gitee , Tomcat , Postman , Navicat 技术选型 : Spring + MyBatis + SpringMVC + MySQL +Maven+Git+Redis+Jsp +FastDFS 项 目 描述 : 慧订旅游是一个致力于提供消费者进行网上选择旅游商品的平台。 本项目主要分为前台和后台两个大的服务工程 , 前 台主要包括用户的登录注册模块、 旅游分类展示的模块、 旅游线路的分页展示、 旅游线路详情和线路收藏的模块。 后台管理模块包括 旅游产品管理模块、 订单管理模块、 用户管理、 权限管理等模块。 技术描述 : 1. 本项目采用 maven 项目管理工具 , 使用主流 SSM 框架实现 2. 产品的分页查询使用 PageHelper 插件 , 在 Service 层实现 3. 用户登录模块使用了强大的 spring security 框架 , 进行权限的控制 , 采用 redis 快速登录 4. 旅游图片的管理采用开源的 FastDFS , 减轻服务器压力。 5. 通过 spring 中配置切面 , 将日志功能实现 责任描述 : 产品管理模块 , 主要包括旅游产品添加 , 分页查询等 订单模块 , 主要包括订单的分页查询 , 订单详情页面查询等 AOP 日志的实现 , 将用户访问的详情记录在日志 项 目 四 : 慧订销售库存管理软件 2019.10-2020.07 开发工具 : JDK1.8 , IDEA , Maven , Gitee , Tomcat , Postman , Navicat 技术选型 : Springmvc + Spring + Mybaits + Lay-ui + POI + Thymeleaf + JavaMail 项 目 描述 : Web 应用程序 , 采用 smm 框架,功能包含采购、 库存、 销售三个主要部分 , 支持条形码管理 , Excel 表导出 , 丰富的 导入、 导出功能 , 完善的权限管理 。 技术描述 : 1. 项目前端采用 layui 框架作为前端页面展示。 2. 在浏览器端主要采用 Ajax 处理客户端逻辑以及发送异步请求并实现了系统界面。 3. 此系统整体采用 MVC 模式的 ssm 框架 , 持久层使用的是 mybatis 实现。 4. 使用 poi 将数据导出为 excel 文件。 5. 使用 javaMail 实现邮件的发送功能。"
+        },
+        {
+            "sectionType": "Education",
+            "bbox": [
+                47.45856,
+                605.92413,
+                255.15201,
+                675.6791
+            ],
+            "pageIndex": 2,
+            "text": "教育经历 毕业学校 : 三峡大学科技学院 时 间 : 2015 年 9 月 至 2019 年 7 月 学 历 : 本科"
+        },
+        {
+            "sectionType": "Summary",
+            "bbox": [
+                57.223682,
+                704.75635,
+                455.561,
+                769.3561
+            ],
+            "pageIndex": 2,
+            "text": "自我评价 做事情追求完美 , 寻求效率化 , 具有良好的职业操守及团队合作精神 , 能快速融入团队 ; 热爱编程 , 对新技术充满兴趣 , 能够快速学习新技术并且很快应用于实际工作中。 具有很强的团队精神 , 乐于与同事、 领导和客户沟通 , 有强烈的集体荣誉感、 责任心 , 积极上进。"
+        }
+    ],
+    "skills": [
+        {
+            "id": 80404935,
+            "emsiId": "KS440W865GC4VRBW6LJP",
+            "name": "SQL (Programming Language)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404936,
+            "emsiId": "KS1200H6XYN1CR0G5NZ0",
+            "name": "Microsoft Excel",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404938,
+            "emsiId": "KS126TY6PLVV38N85X1H",
+            "name": "MyBatis",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404941,
+            "emsiId": "KS1200578T5QCYT0Z98G",
+            "name": "HyperText Markup Language (HTML)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404942,
+            "emsiId": "ES933D5DCC6C3A7C44D9",
+            "name": "JSON Web Token (JWT)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404944,
+            "emsiId": "KS1200771D9CR9LB4MWW",
+            "name": "JavaScript (Programming Language)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404945,
+            "emsiId": "KS128BL6BPTLYCNXSGRS",
+            "name": "RabbitMQ",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404946,
+            "emsiId": "KS128DB64C2HK9QV1ZDZ",
+            "name": "Role-Based Access Control (RBAC)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404947,
+            "emsiId": "KSFX6JBNDFS27G78LHSA",
+            "name": "Gitlab",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404950,
+            "emsiId": "KS126QY605N7YVHFYCTW",
+            "name": "MySQL",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404951,
+            "emsiId": "KS122VT6S2JJ5C5D80NF",
+            "name": "Linux",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404952,
+            "emsiId": "KS120076FGP5WGWYMP0F",
+            "name": "Java (Programming Language)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "PersonalDetails",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404954,
+            "emsiId": "KSZ5FRPSDDKNTYSSBX1G",
+            "name": "Echarts",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404956,
+            "emsiId": "KS7YXWLEAKN8QOFDFVS2",
+            "name": "Postman",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404959,
+            "emsiId": "KS121F45VPV8C9W3QFYH",
+            "name": "Cascading Style Sheets (CSS)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404960,
+            "emsiId": "KS441CZ71JXVHZJZM0XV",
+            "name": "Thymeleaf",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404963,
+            "emsiId": "KS123CZ6V1JC5FBNXX42",
+            "name": "Elasticsearch",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404964,
+            "emsiId": "KS120JM6ZKSY0Q8PJ7WT",
+            "name": "Apache Tomcat",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404937,
+            "emsiId": "KS125HK75NC7RHS22WPR",
+            "name": "JavaMail",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404939,
+            "emsiId": "KS1275Z6908VHW76FRXH",
+            "name": "Object-Oriented Programming (OOP)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404940,
+            "emsiId": "KS120CW76RGGWD48DQ0C",
+            "name": "Ajax (Programming Language)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404943,
+            "emsiId": "KS125HM6044N46LPQLH1",
+            "name": "JSON",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404948,
+            "emsiId": "KSD449X0SON69088VDQT",
+            "name": "Hystrix",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404949,
+            "emsiId": "KS128G66RG96FZNHFCXY",
+            "name": "Redis",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404953,
+            "emsiId": "KS125KQ5WKM97L66SSQY",
+            "name": "JQuery",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404955,
+            "emsiId": "KSY4WFI1S164RQUBSPCC",
+            "name": "Docker (Software)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404957,
+            "emsiId": "KS126W5784TJPMJD848M",
+            "name": "Navicat",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404958,
+            "emsiId": "KS1204L6HNLVRQVG3JHR",
+            "name": "Spring Security",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404961,
+            "emsiId": "KS4427C77PRBT3948VNB",
+            "name": "Extensible Markup Language (XML)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404962,
+            "emsiId": "KS1275J6Z37CB9HL67TC",
+            "name": "OAuth",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Vietnamese"
+    ],
+    "summary": "开发工程师",
+    "websites": [],
+    "linkedin": null,
+    "totalYearsExperience": 1,
+    "profession": null,
+    "workExperience": [
+        {
+            "id": 15073397,
+            "jobTitle": "",
+            "organization": "深圳市慧搭科技有限公司",
+            "location": null,
+            "dates": {
+                "startDate": "2021-04-01",
+                "endDate": "2022-09-01",
+                "monthsInPosition": 17,
+                "isCurrent": false
+            },
+            "jobDescription": "工作时间 : 2021.04-2022.09 工作内容 : 参与产品及项目开发 , 完成需求分析 , 完成子系统和模块设计。 参与产品讨论 , 业务逻辑实现 , 根据项目任务计划按时完成软件编码和单元测试工作。 根据产品需求 , 完成后端项目设计与开发 , 确保项目进度。 公司名称 : 深圳慧订网络科技有限公司 工作时间 : 2019.08-2021.03 工作内容 : 主要从事软件编码工作 涉及用户需求分析、 参与产品讨论、 技术设计 , 与团队成员共同协作完成软件开发。 ",
+            "occupation": {
+                "jobTitle": "",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        }
+    ],
+    "headShot": null,
+    "isResumeProbability": 43,
+    "rawText": "cbbde2d543b59cc01 nJ5396-FltUxJG5VvqcQuykng~~ 个人信息 姓名:王俊港性别:男 年龄:25学历:本科 籍 贯 : 湖北黄冈 联系电话 : 18071807610 电子邮件 : 18071807610@1 63.com 工作年限 : 3 年 意向城市 : 武汉 : java 开发工程师\n专业技能 1. 掌握 JavaSE 基础知识 , OOP 面向对象和 AOP 面向切面 , 熟悉设计模式、 反射、 泛型、 自定义注解。 2. 熟练运用 Spring、 Mybatis、 SpringMVC、 SpringBoot 等优秀的开源框架 , 熟悉 Spring 的 IOC、 AOP 设计思想。 3. 熟悉 RabbitMq、 SpringSecurity、 Oauth2.0 技术设计、 实现 RBAC 权限控制 , 资源安全性。 4. 掌握数据库 Mysql、 Redis 的使用 , 能编写常用的 sql 语句,使用 Redis 作缓存 5. 熟练掌握 SpringCould 分布式架构 , Nacos、 Hystrix、 Ribbon、 OpenFeign、 Gateway 等。 6. 掌握 Ngnix 反向代理服务器 , 结合 Docker、 Linux 实现服务的负载均衡、 动静分离。 7. 熟悉使用 Redis 数据库 , 集群 , 持久化方案(RDB、 AOF) , 缓存删除、 淘汰策略(LFU、 LRU)。 8. 熟练使用 Docker、 Git 常用命令 , 可快速完成项目结构的搭建工作 , 代码管理。 9. 掌握以 Nacos 为注册中心、 结合 Ribbon 负载均衡、 Feign 远程调用搭建微服务框架。 10. 熟练使用 Docker、 Git 常用命令 , 可快速完成项目结构的搭建工作 , 代码管理。 11. 掌握 Elasticsearch、 FastDFS 技术、 可实现文件协调管理 , 资源导入、 搜索引擎功能。 12. 掌握以 Gateway 为微服务网关、 结合 Redis、 OAuth 2.0 组件、 JWT 13. 掌握 XML、 HTML、 CSS、 Jquery、 JavaScript、 AJAX 技术 , 具备 Layui、 Vue\n工作经历 公司名称 : 深圳市慧搭科技有限公司 工作时间 : 2021.04-2022.09 工作内容 : 参与产品及项目开发 , 完成需求分析 , 完成子系统和模块设计。 参与产品讨论 , 业务逻辑实现 , 根据项目任务计划按时完成软件编码和单元测试工作。 根据产品需求 , 完成后端项目设计与开发 , 确保项目进度。 公司名称 : 深圳慧订网络科技有限公司 工作时间 : 2019.08-2021.03 工作内容 : 主要从事软件编码工作 涉及用户需求分析、 参与产品讨论、 技术设计 , 与团队成员共同协作完成软件开发。\n项目经历 项目一 : 智惠商城 2022.01-2022.09 项目描述 : 智惠商城是以 B2C 模式运营的在线商城 , 总览企业及公司产品于一体 , 主打自主研发品牌以推广的互联网化新商城。 系统采用的微服务架构模式 , 以功能模块划分 , 前台系统主要功能包括用户登录 , 商品收藏 , 评论展示 , 我的订单 , 我的购物车 , 订 单支付 , 会员系统等系统。 后台主要功能包括 , 商品管理 , 商品分类管理 , 消息管理 , 订单管理 , 商品评价管理 , 日志系统管理 , 服 务监控系统等。 开发工具 : JDK1.8 , IDEA , Maven , GitLab , Tomcat , Linux , Postman , Navicat 技术选型 : SpringBoot+SpringCould+MybatisPlus+Mysql+Redis+Elasticsearch+RabbitMQ+ WeChat+Alipay 技术描述 : 1. 项目的微服务基于 SpringBoot、 SpringCloud 构建的 , 采用前后端分离开发。 前后端的数据交流采用 json 数据格式 ; 2. 接口采用 RestFul 风格设计并且使用 SwaggerUI 做接口文档 ; 3. 使用 Nacos 集群搭建注册中心 , 完成服务的注册和发现/并且作为项目的配置文件中心 , 使得服务和配置文件集中化管\n; 4. Gateway 结合注册中心完成请求动态路由 ,使用全局过滤器完成 ,ip ; 5. , common , 存入 redis , , ; 6. , 7. 在完成图片上传功能的实现时 ; 8. ; 9. 自定义日志注解 将用户操作日志 通过 ; 10. 服务间采用 OpenFeign+Hystrix 完成远程调用和熔断方案 ; 11. 采用 Elasticseach 做为项目所有引擎 , 完成模糊查询 , , ; 12. 采用窗口滑动模型完成生产环境中商品修改的增量导入功能 13. 采用延迟队列完成用户下单后超时未支付 , 商品库存回滚等功能 责任描述 : 参与项目的需求分析 , 制定项目周期计划 , 确定技术选型方案; 参与项目结构设计 , 划分功能模块归属; 负责编写并优化商品订单模块、 会员模块并测试 与同事进行技术难点探讨、 修改 Bug 及部分模块功能测试; 项 目 二 : 智惠积分软件 2021.05-2022.01 开发工具 : JDK1.8 , IDEA , Maven , GitLab , Tomcat , Postman , Navicat 技术选型 : Springboot+Mybatis+Mysql+Redis+SpringSecurity+RabbitMQ+Nginx+Linux+Docker+SwaggerUI 项 目 描述 : 该软件开发项目管理的积分制是一种软件开发项目的绩效管理模式 , 以项目利润、 客户满意度、 项目质量、 创新等为 KPI 指标 , 将积分与员工福利奖金、 晋升、 荣誉等捆绑以此来调动员工的积极性。 项目在技术方面采用最主流的前后端分离开发模式 , 使用 vue 框架来构建前端 , 使用 springboot 构建后台。 技术描述 : 1. 项目使用了 vue 框架构建前端。 2. 在浏览器端主要采用 axios 处理客户端逻辑以及发送异步请求并实现了系统界面。 3. 持久层使用了 MyBatis 框架进行对数据库持久层数据的操作。 4. 在统计表使用了 Echarts 的漏斗图。 5. 在表单中使用了数据字典 , 并将数据字典保存到服务器缓存中。 责任描述 : 参与项目的需求分析和周期计划安排 ; 参与功能设计与实现 , 主要负责模块有员工管理接口、 部门管理接口。\n项 目 三 : 慧订旅游 2020.07-2021.03 开发工具 : JDK1.8 , IDEA , Maven , Gitee , Tomcat , Postman , Navicat 技术选型 : Spring + MyBatis + SpringMVC + MySQL +Maven+Git+Redis+Jsp +FastDFS 项 目 描述 : 慧订旅游是一个致力于提供消费者进行网上选择旅游商品的平台。 本项目主要分为前台和后台两个大的服务工程 , 前 台主要包括用户的登录注册模块、 旅游分类展示的模块、 旅游线路的分页展示、 旅游线路详情和线路收藏的模块。 后台管理模块包括 旅游产品管理模块、 订单管理模块、 用户管理、 权限管理等模块。 技术描述 : 1. 本项目采用 maven 项目管理工具 , 使用主流 SSM 框架实现 2. 产品的分页查询使用 PageHelper 插件 , 在 Service 层实现 3. 用户登录模块使用了强大的 spring security 框架 , 进行权限的控制 , 采用 redis 快速登录 4. 旅游图片的管理采用开源的 FastDFS , 减轻服务器压力。 5. 通过 spring 中配置切面 , 将日志功能实现 责任描述 : 产品管理模块 , 主要包括旅游产品添加 , 分页查询等 订单模块 , 主要包括订单的分页查询 , 订单详情页面查询等 AOP 日志的实现 , 将用户访问的详情记录在日志 项 目 四 : 慧订销售库存管理软件 2019.10-2020.07 开发工具 : JDK1.8 , IDEA , Maven , Gitee , Tomcat , Postman , Navicat 技术选型 : Springmvc + Spring + Mybaits + Lay-ui + POI + Thymeleaf + JavaMail 项 目 描述 : Web 应用程序 , 采用 smm 框架,功能包含采购、 库存、 销售三个主要部分 , 支持条形码管理 , Excel 表导出 , 丰富的 导入、 导出功能 , 完善的权限管理 。 技术描述 : 1. 项目前端采用 layui 框架作为前端页面展示。 2. 在浏览器端主要采用 Ajax 处理客户端逻辑以及发送异步请求并实现了系统界面。 3. 此系统整体采用 MVC 模式的 ssm 框架 , 持久层使用的是 mybatis 实现。 4. 使用 poi 将数据导出为 excel 文件。 5. 使用 javaMail 实现邮件的发送功能。\n教育经历 毕业学校 : 三峡大学科技学院 时 间 : 2015 年 9 月 至 2019 年 7 月 学 历 : 本科\n自我评价 做事情追求完美 , 寻求效率化 , 具有良好的职业操守及团队合作精神 , 能快速融入团队 ; 热爱编程 , 对新技术充满兴趣 , 能够快速学习新技术并且很快应用于实际工作中。 具有很强的团队精神 , 乐于与同事、 领导和客户沟通 , 有强烈的集体荣誉感、 责任心 , 积极上进。"
+}

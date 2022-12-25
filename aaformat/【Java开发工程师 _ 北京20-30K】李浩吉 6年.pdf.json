@@ -16,14 +16,14 @@
             "current": true,
             "collegeName": "北京邮电大学",
             "degreeLevel": "BACHELOR",
-            "majorName": "计算机信息管理"
+            "majorName": "计算机信息管理(\\W{0,2}本科\\W{0,2})?"
         },
         {
             "startDate": "2013-09-01",
             "endDate": "2016-06-01",
             "collegeName": "天津职业大学",
             "degreeLevel": "ASSOCIATE",
-            "majorName": "机械制造与自动化"
+            "majorName": "机械制造与自动化(\\W{0,2}大专\\W{0,2})?"
         }
     ],
     "experiences": [

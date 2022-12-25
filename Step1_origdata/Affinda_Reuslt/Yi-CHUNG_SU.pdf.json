@@ -1,0 +1,1139 @@
+{
+    "certifications": [],
+    "dateOfBirth": null,
+    "education": [
+        {
+            "id": 8038871,
+            "organization": "University of Michigan",
+            "accreditation": {
+                "education": "Master of Science",
+                "educationLevel": "masters",
+                "inputStr": "Master of Science in Mechanical Engineering",
+                "matchStr": ""
+            },
+            "grade": {
+                "raw": "GPA: 3.66/4.00",
+                "value": "3.66/4.00",
+                "metric": "GPA"
+            },
+            "location": {
+                "formatted": "Ann Arbor, MI, USA",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "Ann Arbor",
+                "postalCode": null,
+                "state": "Michigan",
+                "country": "United States",
+                "rawInput": "Ann Arbor, MI, USA",
+                "countryCode": "US"
+            },
+            "dates": {
+                "startDate": null,
+                "completionDate": "2018-04-01",
+                "isCurrent": false
+            }
+        },
+        {
+            "id": 8038872,
+            "organization": "National Taiwan University",
+            "accreditation": {
+                "education": "Bachelor of Science",
+                "educationLevel": "bachelors",
+                "inputStr": "Bachelor of Science in Mechanical Engineering",
+                "matchStr": ""
+            },
+            "grade": null,
+            "location": {
+                "formatted": "Taipei City, Taiwan",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "Taipei",
+                "postalCode": null,
+                "state": "Taipei City",
+                "country": "Taiwan",
+                "rawInput": "Taipei, Taiwan",
+                "countryCode": "TW"
+            },
+            "dates": {
+                "startDate": null,
+                "completionDate": "2014-06-01",
+                "isCurrent": false
+            }
+        }
+    ],
+    "emails": [
+        "yichusu@umich.edu"
+    ],
+    "location": {
+        "formatted": "321 S 5th St #240, Ames, IA 50010, USA",
+        "streetNumber": "321",
+        "street": "South 5th Street",
+        "apartmentNumber": "240",
+        "city": "Ames",
+        "postalCode": "50010",
+        "state": "Iowa",
+        "country": "United States",
+        "rawInput": "321 South 5th Street, Unit 240, Ames, Iowa 50010",
+        "countryCode": "US"
+    },
+    "name": {
+        "raw": "YI-CHUNG SU",
+        "last": "Su",
+        "first": "Yi-Chung",
+        "title": "",
+        "middle": ""
+    },
+    "objective": "Seeking a full-time job in Control or Robotic fields.",
+    "phoneNumbers": [
+        "+17347095275"
+    ],
+    "publications": [],
+    "referees": [],
+    "sections": [
+        {
+            "sectionType": "PersonalDetails",
+            "bbox": [
+                110.63264,
+                25.980469,
+                501.21133,
+                52.173584
+            ],
+            "pageIndex": 0,
+            "text": "YI-CHUNG SU 321 South 5th Street, Unit 240, Ames, Iowa 50010 | yichusu@umich.edu | (734)709-5275"
+        },
+        {
+            "sectionType": "Summary",
+            "bbox": [
+                36.43056,
+                60.215515,
+                263.62616,
+                86.7536
+            ],
+            "pageIndex": 0,
+            "text": "OBJECTIVE Seeking a full-time job in Control or Robotic fields."
+        },
+        {
+            "sectionType": "Education",
+            "bbox": [
+                36.15456,
+                90.11554,
+                573.86127,
+                156.11359
+            ],
+            "pageIndex": 0,
+            "text": "EDUCATION University of Michigan, Ann Arbor, MI, USA Apr.2018 Master of Science in Mechanical Engineering GPA: 3.66/4.00 National Taiwan University, Taipei, Taiwan Jun.2014 Bachelor of Science in Mechanical Engineering"
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                36.08832,
+                161.15552,
+                576.29254,
+                366.26358
+            ],
+            "pageIndex": 0,
+            "text": "WORK EXPERIENCES Smart Ag., Ames, Iowa(Autonomous Tractor Startup) Sep.2018-Present Autonomous Vehicle Engineer • Worked in the Agile Scrum team to improve the John Deere tractor's control system with python and Docker. • Redesigned the Tractor's safety system to deal with emergency conditions based on Test-driven Development. • Built the hardware simulator with fake CAN messages, fake perception messages and fake GPS data to test the system. • Programmed unit tests and integration tests for every function in the program using Travis, Catch2, and Fake-it. • Developed radar detection code using C++ and Bosch mid-range radar and Continental Radar. • Launched a heartbeat program between main CPU and redundant CPU by serial communication. • Implemented the Safety Stop program through I2C Bus between redundant CPU and brake module. • Developed the speed controller algorithm(Gear selection and throttle adjustment) for tractors with Power Shift Transmission by using state machine QNX environment. Automation Dept., Syntec Technology, Hsinchu, Taiwan(Leading CNC controller manufacturer) May-Jun.2017 Mechanical Engineering Intern • Built 3D CAD models including robotic arm, CNC, and conveyor system to demo industry 4.0 products. • Simulated milling processes using ABB Robotstudio Machining PowerPac to assess its auto-path generation function."
+        },
+        {
+            "sectionType": "Projects",
+            "bbox": [
+                36.08832,
+                371.3055,
+                576.2301,
+                715.0906
+            ],
+            "pageIndex": 0,
+            "text": "PROJECT EXPERIENCES Computer Vision Project April.2018 • Developed a feature-based lane detection algorithm using OpenCV. • Fine-tuned a CNN model to do car detection using YOLOv2 and achieved up to 87.6% IOU in the testing video. Vehicle Dynamics Project April.2018 • Simulated the linear vehicle model's movement by Simulink and Matlab. • Analyzed and identified the tire cornering stiffness by using the linear bicycle model and the experimental data. • Designed a steering controller to track a predefined path using Pure Pursuit control. Automated vehicles' Sensors and Data Mining Project Mar.2018 • Analyze Lidar/Radar/GPS/Ultrasonic data from rosbag. • Extracted lane change events from a naturalistic driving database using MySQL. Mechatronics Project Sep.-Dec.2017 • Sensor Fusion for Accurate Angular Measurement: integrated an accelerometer along with the low-pass filter and a gyro along with the high-pass filter for the pendulum tilt angle measurement. • Inverted Pendulum Mechatronic System Design: identified the model parameters and designed a full-state feedback control system to stabilize an inverted pendulum through Linear-Quadratic Regulator (LQR) method and a classical control system with two loops which the inner loop with negative feedback while the out loop with positive feedback. • DC Motor and Stepper Motor Position and Velocity Control: assessed motor's performance characteristics for different input and designed controllers to meet the position and velocity error requirement. Self-Driving Car Project Dec.2017 • Constructed a car obstacles-avoidance controller using PID control. • Achieved the controller with the planned-trajectory as the reference, traction force and steering angle as the control inputs to control the vehicle to follow the trajectory without crashing the track boundary. Robot Kinematics and Dynamics Project Apr.2017 • Developed a robotic arm that can grab a small-size object given its position using Arduino and servo motor. • Implemented DH table and two inverse kinematic methods (MIT rule and inverse Jacobian) to compute the joint angles and transmitted these data into Simulink and Arduino to activate the motor and simulation."
+        },
+        {
+            "sectionType": "Skills/Interests/Languages",
+            "bbox": [
+                36.39744,
+                721.51154,
+                575.6181,
+                761.6328
+            ],
+            "pageIndex": 0,
+            "text": "SKILLS C++, Python, Matlab, Simulink, Labview, Arduino, RobotStudio, SolidWorks, Linux, OpenCV, ROS, MySQL, YOLOV2, CUDA, cuDNN, CANBus, Docker, MQTT, Git, React, Redux, Travis CI, Catch, CMake, UDP"
+        }
+    ],
+    "skills": [
+        {
+            "id": 80473656,
+            "emsiId": "KS125MX79K7SC61YV8Q7",
+            "name": "Kinematics",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473657,
+            "emsiId": "KSBRBX3H9SVXZI61OX71",
+            "name": "State Machines",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 52,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083497
+                }
+            ]
+        },
+        {
+            "id": 80473658,
+            "emsiId": "KS12791657JTS84RWLVQ",
+            "name": "OpenCV",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473660,
+            "emsiId": "KS120SQ5W4Q57JMD2Y81",
+            "name": "Automation",
+            "lastUsed": "2017-06-01",
+            "numberOfMonths": 1,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15083498
+                }
+            ]
+        },
+        {
+            "id": 80473661,
+            "emsiId": "KS1261G6FLXL70JW7G42",
+            "name": "MATLAB",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473662,
+            "emsiId": "KS87FFW9YCOLV7GA5W5F",
+            "name": "Travis Ci",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473663,
+            "emsiId": "KS126X46RXTB65DL1FJD",
+            "name": "Negative Feedback",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473664,
+            "emsiId": "KS125716TLTGH6SDHJD1",
+            "name": "Integration",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 52,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083497
+                }
+            ]
+        },
+        {
+            "id": 80473666,
+            "emsiId": "KS122FM6NS52BCDZ7GWT",
+            "name": "SolidWorks (CAD)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473669,
+            "emsiId": "KS440GD6P1YQJXPMT0W2",
+            "name": "Sensor Fusion",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473670,
+            "emsiId": "KS126F6670BVVC7XQ9TT",
+            "name": "Brake (Sheet Metal Bending)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 52,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083497
+                }
+            ]
+        },
+        {
+            "id": 80473672,
+            "emsiId": "KS122CS6VVDJ1FYVYVLJ",
+            "name": "Control Systems",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 52,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083497
+                }
+            ]
+        },
+        {
+            "id": 80473673,
+            "emsiId": "KS1200364C9C1LK3V5Q1",
+            "name": "C (Programming Language)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 53,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "PersonalDetails",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083497
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15083498
+                }
+            ]
+        },
+        {
+            "id": 80473674,
+            "emsiId": "KS126QY605N7YVHFYCTW",
+            "name": "MySQL",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473675,
+            "emsiId": "KS125LS6N7WP4S6SFTCK",
+            "name": "Python (Programming Language)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 52,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083497
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083497
+                }
+            ]
+        },
+        {
+            "id": 80473677,
+            "emsiId": "KS440LQ6G9FXYT6C7SWN",
+            "name": "Simulations",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473679,
+            "emsiId": "KS120NP6J9YGDMN22JGF",
+            "name": "Computer Vision",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473680,
+            "emsiId": "KS122556LMQ829GZCCRV",
+            "name": "Communications",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 52,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083497
+                }
+            ]
+        },
+        {
+            "id": 80473682,
+            "emsiId": "KS7G27Y77M38D98KS32M",
+            "name": "Radar",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 52,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083497
+                }
+            ]
+        },
+        {
+            "id": 80473684,
+            "emsiId": "KS12621706P2NTMBQY45",
+            "name": "Machining",
+            "lastUsed": "2017-06-01",
+            "numberOfMonths": 1,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15083498
+                }
+            ]
+        },
+        {
+            "id": 80473686,
+            "emsiId": "KS126KZ5YJMX2FT86WYJ",
+            "name": "Mid-Range",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 52,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083497
+                }
+            ]
+        },
+        {
+            "id": 80473691,
+            "emsiId": "KS440LR6NSB33SPP5H4P",
+            "name": "Simulink",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473692,
+            "emsiId": "KS122VT6S2JJ5C5D80NF",
+            "name": "Linux",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473693,
+            "emsiId": "KS125PF6L3XP5W9TBT1V",
+            "name": "LabVIEW",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473696,
+            "emsiId": "ES9C0ADA3C9397DD6AED",
+            "name": "Agile Software Development",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 52,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083497
+                }
+            ]
+        },
+        {
+            "id": 80473698,
+            "emsiId": "KS1282N6NQMZ95M1HJ7L",
+            "name": "Scrum (Software Development)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 52,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083497
+                }
+            ]
+        },
+        {
+            "id": 80473699,
+            "emsiId": "KS127ZD746FLLFG4HLJ4",
+            "name": "Delcam PowerInspect (3D CAD)",
+            "lastUsed": "2017-06-01",
+            "numberOfMonths": 1,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15083498
+                }
+            ]
+        },
+        {
+            "id": 80473701,
+            "emsiId": "ES244FF774F76E7DBC1E",
+            "name": "Industry 4.0",
+            "lastUsed": "2017-06-01",
+            "numberOfMonths": 1,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15083498
+                }
+            ]
+        },
+        {
+            "id": 80473702,
+            "emsiId": "KSABZMV03QITJMWF5F99",
+            "name": "Accelerometer",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473703,
+            "emsiId": "KS122126HLZ405Z4XPZ1",
+            "name": "CMake",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473705,
+            "emsiId": "KS440YZ6498ZF26957TQ",
+            "name": "Stepper",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473654,
+            "emsiId": "KS120MW6GYVGPT85K8L6",
+            "name": "Arduino",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473655,
+            "emsiId": "KS125B671DWS78T2HFPD",
+            "name": "Inverse Kinematics",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473659,
+            "emsiId": "KS441RS6QMKVSXX635XH",
+            "name": "Vehicle Dynamics",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473665,
+            "emsiId": "KSY4WFI1S164RQUBSPCC",
+            "name": "Docker (Software)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 52,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083497
+                }
+            ]
+        },
+        {
+            "id": 80473667,
+            "emsiId": "KSO0IQFUWBR1J6C0YJHQ",
+            "name": "Cudnn",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473668,
+            "emsiId": "KS128G96M9GTV4HH0MBS",
+            "name": "Transmission",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 52,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083497
+                }
+            ]
+        },
+        {
+            "id": 80473671,
+            "emsiId": "KS122PL70D99VRWMFM2T",
+            "name": "Data Mining",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473676,
+            "emsiId": "KS125ZJ5ZW21FWF9VJNK",
+            "name": "Low-Pass Filter",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473678,
+            "emsiId": "KS440YY6LS1DDN2ZYDPH",
+            "name": "Stepper Motor",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473681,
+            "emsiId": "KS126QZ69ZTV30YN72GH",
+            "name": "Message Queuing Telemetry Transport (MQTT)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473683,
+            "emsiId": "KS441GZ6SQGHCVGXBW60",
+            "name": "Trajectory",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473685,
+            "emsiId": "KS122D45XWH5JMMQG632",
+            "name": "Conveyor Systems",
+            "lastUsed": "2017-06-01",
+            "numberOfMonths": 1,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15083498
+                }
+            ]
+        },
+        {
+            "id": 80473687,
+            "emsiId": "KS127SN70MCSJ5C63X5T",
+            "name": "QNX (Software)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 52,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083497
+                }
+            ]
+        },
+        {
+            "id": 80473688,
+            "emsiId": "KS1221N6Y93NC5QGP0TG",
+            "name": "Computer Numerical Control (CNC)",
+            "lastUsed": "2017-06-01",
+            "numberOfMonths": 1,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15083498
+                }
+            ]
+        },
+        {
+            "id": 80473689,
+            "emsiId": "KS126966B855ZD18V48R",
+            "name": "Mechatronics",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473690,
+            "emsiId": "KS1261W6S12LL9NC21GQ",
+            "name": "Mechanical Engineering",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473694,
+            "emsiId": "KS120H6772VQ0MQ5RLVD",
+            "name": "Angular (Web Framework)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473695,
+            "emsiId": "KS123W36DC70XG4BP2HX",
+            "name": "Feedback Control",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473697,
+            "emsiId": "KS127N36VCK1BVWXVV0P",
+            "name": "Dilution Of Precision (GPS)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 52,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15083497
+                }
+            ]
+        },
+        {
+            "id": 80473700,
+            "emsiId": "KS125ZV6W5L1JLJDRPGY",
+            "name": "Linear-Quadratic Regulator",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80473704,
+            "emsiId": "ES52F8CD0C3EDF831234",
+            "name": "Autonomous Vehicles",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "English"
+    ],
+    "summary": "",
+    "websites": [],
+    "linkedin": null,
+    "totalYearsExperience": 4,
+    "profession": "Mechanical Engineering Intern",
+    "workExperience": [
+        {
+            "id": 15083497,
+            "jobTitle": "Autonomous Vehicle Engineer",
+            "organization": "Smart Ag.",
+            "location": {
+                "formatted": "Ames, IA, USA",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "Ames",
+                "postalCode": null,
+                "state": "Iowa",
+                "country": "United States",
+                "rawInput": "Ames, Iowa(Autonomous",
+                "countryCode": "US"
+            },
+            "dates": {
+                "startDate": "2018-09-01",
+                "endDate": "2022-12-21",
+                "monthsInPosition": 52,
+                "isCurrent": true
+            },
+            "jobDescription": " Worked in the Agile Scrum team to improve the John Deere tractor's control system with python and Docker. \n•Redesigned the Tractor's safety system to deal with emergency conditions based on Test-driven Development. \n•Built the hardware simulator with fake CAN messages, fake perception messages and fake GPS data to test the system. \n•Programmed unit tests and integration tests for every function in the program using Travis, Catch2, and Fake-it. \n•Developed radar detection code using C++ and Bosch mid-range radar and Continental Radar. \n•Launched a heartbeat program between main CPU and redundant CPU by serial communication. \n•Implemented the Safety Stop program through I2C Bus between redundant CPU and brake module. \n•Developed the speed controller algorithm(Gear selection and throttle adjustment) for tractors with Power Shift Transmission by using state machine QNX environment. ",
+            "occupation": {
+                "jobTitle": "Autonomous Vehicle Engineer",
+                "jobTitleNormalized": "Vehicle Engineer",
+                "classification": {
+                    "socCode": 5231,
+                    "title": "Vehicle technicians, mechanics and electricians",
+                    "minorGroup": "Vehicle Trades",
+                    "subMajorGroup": "SKILLED METAL, ELECTRICAL AND ELECTRONIC TRADES",
+                    "majorGroup": "SKILLED TRADES OCCUPATIONS"
+                },
+                "managementLevel": "Low"
+            }
+        },
+        {
+            "id": 15083498,
+            "jobTitle": "Mechanical Engineering Intern",
+            "organization": "Automation Dept., Syntec Technology",
+            "location": {
+                "formatted": "Hsinchu, Hsinchu City, Taiwan",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "Hsinchu",
+                "postalCode": null,
+                "state": null,
+                "country": "Taiwan",
+                "rawInput": "Hsinchu, Taiwan(Leading",
+                "countryCode": "TW"
+            },
+            "dates": {
+                "startDate": "2017-05-01",
+                "endDate": "2017-06-01",
+                "monthsInPosition": 1,
+                "isCurrent": false
+            },
+            "jobDescription": " Built 3D CAD models including robotic arm, CNC, and conveyor system to demo industry 4.0 products. \n•Simulated milling processes using ABB Robotstudio Machining PowerPac to assess its auto-path generation function. ",
+            "occupation": {
+                "jobTitle": "Mechanical Engineering Intern",
+                "jobTitleNormalized": "Mechanical Engineering Intern",
+                "classification": {
+                    "socCode": 2122,
+                    "title": "Mechanical engineers",
+                    "minorGroup": "Engineering Professionals",
+                    "subMajorGroup": "SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",
+                    "majorGroup": "PROFESSIONAL OCCUPATIONS"
+                },
+                "managementLevel": "Low"
+            }
+        }
+    ],
+    "headShot": null,
+    "isResumeProbability": 94,
+    "rawText": "YI-CHUNG SU 321 South 5th Street, Unit 240, Ames, Iowa 50010 | yichusu@umich.edu | (734)709-5275\nOBJECTIVE Seeking a full-time job in Control or Robotic fields.\nEDUCATION University of Michigan, Ann Arbor, MI, USA Apr.2018 Master of Science in Mechanical Engineering GPA: 3.66/4.00 National Taiwan University, Taipei, Taiwan Jun.2014 Bachelor of Science in Mechanical Engineering\nWORK EXPERIENCES Smart Ag., Ames, Iowa(Autonomous Tractor Startup) Sep.2018-Present Autonomous Vehicle Engineer • Worked in the Agile Scrum team to improve the John Deere tractor's control system with python and Docker. • Redesigned the Tractor's safety system to deal with emergency conditions based on Test-driven Development. • Built the hardware simulator with fake CAN messages, fake perception messages and fake GPS data to test the system. • Programmed unit tests and integration tests for every function in the program using Travis, Catch2, and Fake-it. • Developed radar detection code using C++ and Bosch mid-range radar and Continental Radar. • Launched a heartbeat program between main CPU and redundant CPU by serial communication. • Implemented the Safety Stop program through I2C Bus between redundant CPU and brake module. • Developed the speed controller algorithm(Gear selection and throttle adjustment) for tractors with Power Shift Transmission by using state machine QNX environment. Automation Dept., Syntec Technology, Hsinchu, Taiwan(Leading CNC controller manufacturer) May-Jun.2017 Mechanical Engineering Intern • Built 3D CAD models including robotic arm, CNC, and conveyor system to demo industry 4.0 products. • Simulated milling processes using ABB Robotstudio Machining PowerPac to assess its auto-path generation function.\nPROJECT EXPERIENCES Computer Vision Project April.2018 • Developed a feature-based lane detection algorithm using OpenCV. • Fine-tuned a CNN model to do car detection using YOLOv2 and achieved up to 87.6% IOU in the testing video. Vehicle Dynamics Project April.2018 • Simulated the linear vehicle model's movement by Simulink and Matlab. • Analyzed and identified the tire cornering stiffness by using the linear bicycle model and the experimental data. • Designed a steering controller to track a predefined path using Pure Pursuit control. Automated vehicles' Sensors and Data Mining Project Mar.2018 • Analyze Lidar/Radar/GPS/Ultrasonic data from rosbag. • Extracted lane change events from a naturalistic driving database using MySQL. Mechatronics Project Sep.-Dec.2017 • Sensor Fusion for Accurate Angular Measurement: integrated an accelerometer along with the low-pass filter and a gyro along with the high-pass filter for the pendulum tilt angle measurement. • Inverted Pendulum Mechatronic System Design: identified the model parameters and designed a full-state feedback control system to stabilize an inverted pendulum through Linear-Quadratic Regulator (LQR) method and a classical control system with two loops which the inner loop with negative feedback while the out loop with positive feedback. • DC Motor and Stepper Motor Position and Velocity Control: assessed motor's performance characteristics for different input and designed controllers to meet the position and velocity error requirement. Self-Driving Car Project Dec.2017 • Constructed a car obstacles-avoidance controller using PID control. • Achieved the controller with the planned-trajectory as the reference, traction force and steering angle as the control inputs to control the vehicle to follow the trajectory without crashing the track boundary. Robot Kinematics and Dynamics Project Apr.2017 • Developed a robotic arm that can grab a small-size object given its position using Arduino and servo motor. • Implemented DH table and two inverse kinematic methods (MIT rule and inverse Jacobian) to compute the joint angles and transmitted these data into Simulink and Arduino to activate the motor and simulation.\nSKILLS C++, Python, Matlab, Simulink, Labview, Arduino, RobotStudio, SolidWorks, Linux, OpenCV, ROS, MySQL, YOLOV2, CUDA, cuDNN, CANBus, Docker, MQTT, Git, React, Redux, Travis CI, Catch, CMake, UDP"
+}

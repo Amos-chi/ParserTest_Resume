@@ -1,0 +1,73 @@
+{
+    "fullName": "刘清扬",
+    "contacts": [
+        {
+            "contact": "18934661537",
+            "type": "PHONE"
+        },
+        {
+            "contact": "2386682293@qq.com",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "2386682293",
+            "type": "QQ"
+        }
+    ],
+    "currentLocation": [
+        {
+            "location": "湖北武汉江夏区"
+        }
+    ],
+    "languages": [
+        "英语",
+        "普通话"
+    ],
+    "educations": [
+        {
+            "startDate": "2019-09-01",
+            "current": true,
+            "collegeName": "武汉学院",
+            "degreeLevel": "本科",
+            "majorName": "英语"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "负责教导小升初的小朋友英语。\n负责课程编排、批改作业与试卷、学习重难点分析等一系列教学过程。",
+            "companyName": "树人教育",
+            "title": "英语教师",
+            "startDate": "2021-08-01",
+            "endDate": "2021-09-01"
+        },
+        {
+            "description": "体温测量: 根据体温检测要求，单日完成体温测量100人；\n秩序维护: 通过现场人群的引流和疏导，降低疫情蔓延风险，连续30天新增确诊病例为0。",
+            "companyName": "疫情志愿者",
+            "startDate": "2020-07-01",
+            "endDate": "2020-08-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "PPT"
+        },
+        {
+            "skillName": "Word"
+        },
+        {
+            "skillName": "Office"
+        },
+        {
+            "skillName": "翻译"
+        },
+        {
+            "skillName": "普通话"
+        },
+        {
+            "skillName": "英语翻译"
+        },
+        {
+            "skillName": "高级口译"
+        }
+    ]
+}

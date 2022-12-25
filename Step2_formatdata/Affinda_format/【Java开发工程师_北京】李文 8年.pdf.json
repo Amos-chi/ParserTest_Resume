@@ -1,0 +1,102 @@
+{
+    "fullName": "李文  ",
+    "contacts": [
+        {
+            "contact": "keyliwen@icloud.com",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "+8618911151483",
+            "type": "PHONE"
+        },
+        {
+            "contact": "5a06a47e486f58001",
+            "type": "PHONE"
+        }
+    ],
+    "currentLocation": [
+        {
+            "location": "Beijing, China"
+        }
+    ],
+    "languages": [
+        "Chinese"
+    ],
+    "educations": [
+        {
+            "collegeName": "北京工业大学",
+            "majorName": "通信工程 本科"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "由于之前工作比较劳累, 所以想休息一段时间, 在此期间, 和家人共同做了一些创业的尝 试, 主要业务是国学课程培训和芳香疗法培训, 我主要负责线下课程开展和业务相关的一些 工具小程序的开发, 基本的业务已稳定, 而且我也更喜欢对技术的持续探索, 所以由家人继 续相关业务的开展, 我回归到自己最擅长的技术专业领域发挥自己的价值 ",
+            "companyName": "天津仙草仙草文化传播有限公司",
+            "title": "联合创始人",
+            "startDate": "2022-01-01",
+            "endDate": "2022-08-01"
+        },
+        {
+            "description": "五彩鹿是一家自闭症早期干预机构, 核心业务形式是线下自闭症幼儿园, 由于规模的不断扩 大, 非常需要通过线上平台提供对教务、 教学、 客户服务的有效支撑, 提升教学质量和服务 精准性, 我负责带领团队进行线上平台核心模块及支撑子系统的开发和运维工作, 主要包 括: 缴费及订单相关功能、 排课及课时计算相关功能、 专业评估及教学计划制定工具、 功能 权限及数据权限控制、 工作流、 客户管理子系统、 批任务子系统、 C端应用等。 具体工作内容: \n●参与重难点功能开发,解决团队遇到的各种复杂技术及业务问题 \n●构建CI/CD工具链,在团队实际项目中全方位落地CI/CD以及Scrum, 提升研发效率 \n●负责架构设计及重构,根据业务需求制定相应解决方案 \n●制定团队目标,根据公司战略目标, 定位部门角色, 细化部门年度、 季度、 月度目标 \n●帮助团队建立工作信心,制定岗位职责和目标, 与团队成员定期1v1沟通, 了解成员工作状 态及发展规划, 向其传达公司及团队目标, 帮助成员更好的融入团队并建立团队荣誉感 ",
+            "companyName": "五彩鹿 (北京) 教育咨询有限责任公司",
+            "title": "技术经理/架构师",
+            "startDate": "2018-03-01",
+            "endDate": "2021-12-01"
+        },
+        {
+            "description": "公司在心理学行业耕耘多年, 希望可以通过线上扩大影响力, 所以成立了技术部, 主导线上 产品的研发 业务目标: \n●研发线上心里咨询平台——生活没烦恼APP",
+            "companyName": "简快教育科技 (北京) 有限公司",
+            "title": "Java开发工程师",
+            "startDate": "2015-08-01",
+            "endDate": "2018-03-01"
+        },
+        {
+            "description": "负责在线学习平台的功能优化和新功能开发功能; 负责在线学习平台用户的技术支持工作 ; 负责公司内部网络管理工作。 ",
+            "companyName": "北京华夏赛科技术发展有限公司",
+            "title": "Java开发工程师",
+            "startDate": "2014-03-01",
+            "endDate": "2015-07-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "Elasticsearch"
+        },
+        {
+            "skillName": "Spring Boot"
+        },
+        {
+            "skillName": "DevOps"
+        },
+        {
+            "skillName": "Jenkins"
+        },
+        {
+            "skillName": "MyBatis"
+        },
+        {
+            "skillName": "Activiti (Software)"
+        },
+        {
+            "skillName": "JavaScript (Programming Language)"
+        },
+        {
+            "skillName": "MySQL"
+        },
+        {
+            "skillName": "Java (Programming Language)"
+        },
+        {
+            "skillName": "JQuery"
+        },
+        {
+            "skillName": "React.js"
+        },
+        {
+            "skillName": "Ehcache"
+        },
+        {
+            "skillName": "Docker (Software)"
+        }
+    ]
+}

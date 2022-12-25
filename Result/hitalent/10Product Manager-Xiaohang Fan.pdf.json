@@ -1,0 +1,24 @@
+{
+    "all": 32,
+    "important": 30,
+    "desc": 2,
+    "correct_important": 28,
+    "correct_desc": 2,
+    "additional": 1,
+    "important_keys": {
+        "contacts.2": false,
+        "educations.0.startDate": false
+    },
+    "unimportant_keys": {
+        "experiences.0.description": true,
+        "experiences.1.description": true
+    },
+    "addition_info_count": 1,
+    "addition_info": {
+        "preferredLocations": [
+            {
+                "location": "Madison, WI"
+            }
+        ]
+    }
+}

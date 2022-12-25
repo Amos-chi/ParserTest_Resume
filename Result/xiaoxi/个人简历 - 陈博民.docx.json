@@ -1,0 +1,29 @@
+{
+    "all": 34,
+    "important": 30,
+    "desc": 4,
+    "correct_important": 28,
+    "correct_desc": 0,
+    "additional": 2,
+    "important_keys": {
+        "educations.0.endDate": false,
+        "experiences.0.title": false
+    },
+    "unimportant_keys": {
+        "experiences.0.description": false,
+        "experiences.1.description": false,
+        "experiences.2.description": false,
+        "experiences.3.description": false
+    },
+    "addition_info_count": 2,
+    "addition_info": {
+        "preferredLocations": [
+            {
+                "location": "湖北武汉"
+            }
+        ],
+        "languages": [
+            "MANDARIN"
+        ]
+    }
+}

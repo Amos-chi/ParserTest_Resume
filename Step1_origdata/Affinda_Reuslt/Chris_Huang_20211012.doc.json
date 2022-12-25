@@ -1,0 +1,961 @@
+{
+    "certifications": [
+        "Defense Acquisition University Engineering II Certification 2021 3",
+        "Architect Data Tools MS SQL Tableau Power BI Cloud Automation Ansible Training"
+    ],
+    "dateOfBirth": null,
+    "education": [
+        {
+            "id": 8034453,
+            "organization": null,
+            "accreditation": {
+                "education": "Defense Acquisition University Engineering II Certification",
+                "educationLevel": null,
+                "inputStr": "Defense Acquisition University Engineering II Certification",
+                "matchStr": ""
+            },
+            "grade": null,
+            "location": null,
+            "dates": {
+                "startDate": null,
+                "completionDate": "2021-03-01",
+                "isCurrent": false
+            }
+        },
+        {
+            "id": 8034454,
+            "organization": "University of California",
+            "accreditation": {
+                "education": "M.S. in Engineering & Applied Science – Communications",
+                "educationLevel": null,
+                "inputStr": "M.S. in Engineering & Applied Science – Communications",
+                "matchStr": ""
+            },
+            "grade": null,
+            "location": {
+                "formatted": "Davis, CA, USA",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "Davis",
+                "postalCode": null,
+                "state": "California",
+                "country": "United States",
+                "rawInput": "Davis",
+                "countryCode": "US"
+            },
+            "dates": {
+                "startDate": null,
+                "completionDate": "2002-06-01",
+                "isCurrent": false
+            }
+        },
+        {
+            "id": 8034455,
+            "organization": "University of California",
+            "accreditation": {
+                "education": "Bachelor of Science",
+                "educationLevel": "bachelors",
+                "inputStr": "B.S. in Cybernetics",
+                "matchStr": ""
+            },
+            "grade": null,
+            "location": {
+                "formatted": "Los Angeles, CA, USA",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "Los Angeles",
+                "postalCode": null,
+                "state": "California",
+                "country": "United States",
+                "rawInput": "Los Angeles",
+                "countryCode": "US"
+            },
+            "dates": {
+                "startDate": null,
+                "completionDate": "1999-06-01",
+                "isCurrent": false
+            }
+        }
+    ],
+    "emails": [
+        "kuoweism@gmail.com"
+    ],
+    "location": {
+        "formatted": "41450 Culpepper Way, Leonardtown, MD 20650, USA",
+        "streetNumber": "41450",
+        "street": "Culpepper Way",
+        "apartmentNumber": null,
+        "city": "Leonardtown",
+        "postalCode": "20650",
+        "state": "Maryland",
+        "country": "United States",
+        "rawInput": "41450 Culpepper Way. Leonardtown, MD 20650",
+        "countryCode": "US"
+    },
+    "name": {
+        "raw": "CHRIS HUANG",
+        "last": "Huang",
+        "first": "Chris",
+        "title": "",
+        "middle": ""
+    },
+    "objective": "",
+    "phoneNumbers": [
+        "+18583973943"
+    ],
+    "publications": [],
+    "referees": [],
+    "sections": [
+        {
+            "sectionType": "PersonalDetails",
+            "bbox": [
+                177.174,
+                49.03601,
+                434.24997,
+                121.88397
+            ],
+            "pageIndex": 0,
+            "text": "CHRIS HUANG 41450 Culpepper Way. Leonardtown, MD 20650 858-397-3943; kuoweism@gmail.com https://www.linkedin.com/in/kuowei-huang/"
+        },
+        {
+            "sectionType": "Summary",
+            "bbox": [
+                57.805,
+                159.70795,
+                552.9,
+                221.38397
+            ],
+            "pageIndex": 0,
+            "text": "QUALIFICATIONS SUMMARY Accomplished senior Model Based System Engineer with extensive experience in design and architect large-scale mission critical systems. Top Secret clearance access, skilled in supporting software, networks and aeronautics systems."
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                57.849,
+                250.86401,
+                553.032,
+                721.092
+            ],
+            "pageIndex": 0,
+            "text": "PROFESSIONAL EXPERIENCE NAVAIR 2020/10-Current Platform Integration & Modeling Lead Engineer • Support PMA-209 for Modular Open System Architecture (MOSA) realization at NAVAIR on MQ-25, FVL, E-XX, NGAD platforms. • Serve as the NAVAIR RE/SME in guiding program offices in building Model Based Open Architecture models; chair NAVAIR Digital Transformation Data Modeling COP TIM. • Research SysML v2 and API framework for model consistency, interoperability and re usability; draft Model Maturity Whitepaper with Georgia Tech over an awarded S&T fund. Northrop Grumman 2019/3-2020/10 Staff Engineer • Served as the NG Aeronautics Systems scrum master NGIDE team on MBSE digital engineering initiative in developing Methodology, Process, Templates, Reference Models, Profiles, Checklist, Style Guide, Model Maturity Metrics for internal programs usage. • Supported Global Hawks Modernization contract execution with AI image processing customization; GBSD on software modeling; NGAD MDAO design integration. • Experience with UAF DoDAF frameworks, SysML, UML, LML, OMS, DDS, Model Maturity and Metrics, system to software model transition; Cameo and Rhapsody tools. Naval Information Warfare Center – Pacific 2018/4-2019/2 Lead Engineer • MBSE support of: weapon systems (SSDS ICS & AEGIS), ships (DDG & CVN) and networks (NGEN & JWICS); research AOA, defined & synthesized requirements; planned and coordinated model development efforts. • Served as a member of the NMCI Cyber Security Tiger Team in assessing and reviewing security features and solutions on endpoints, networks, servers and services/processes, as well as identifying data for analysis. • Performed data analytics, model design and creation of SysML/DoDAF models; led internal development team on Cameo tool capabilities development; outlined Model as a"
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                57.937,
+                45.92401,
+                552.636,
+                522.16003
+            ],
+            "pageIndex": 1,
+            "text": "Service solution for network consolidation; supported NGEN Transformation modeling effort. Comcast Cable 2006/4-2018/2 Senior Staff Systems Engineer • Piloted MBSE system methodology in support of DRM cryptographic security system life cycle from definition to validation; o Created MBSE models in support of design analysis, with simulations to show how messages are coordinated, and keys are staying in sync. o Developed expert knowledge on PKI, federated identity and access management; patent submitted on Self Provisioning. • Performed MBSE modeling in SysML on MediaCipher Conditional Access system and DTA Encryption Infrastructure for video content protection over cable; o Demonstrated the security of the systems using model, resulted in certification to deliver high value content (new release theater graded movies) to settops. o Participated in Comcast Big Data Analytics as the access network lead in data manicuring, data analysis, supervised learning algorithm tuning. • Served as the subject matter expert in System Engineering over Agile development process by trial the processes to Key Server and embedded security client projects; o Developed SysML-based models that include use cases, activity, architectures, components, sequences, states, classes and requirements diagrams. o Led SW (Java) development of Linux based Key Server in cloud microservice (Kubernetes) with intelligent network health monitoring system. Cable AML 2002/6 – 2006/4 Software Engineer • Led software development of industry first microwave transceiver remote monitor unit with embedded SNMP and TCP/IP protocols in C for Boeing Video Surveillance System. • Performed network simulation (Opnet), link budget propagation and coverage analysis, create system design prototypes for network layer requirement and performance analysis. • Awarded patent: \"Device and Method for Sharpening Image Signal\" # 20070070428."
+        },
+        {
+            "sectionType": "Education",
+            "bbox": [
+                57.805,
+                556.034,
+                549.44995,
+                732.092
+            ],
+            "pageIndex": 1,
+            "text": "EDUCATION • Defense Acquisition University Engineering II Certification 2021/3 • University of California, Davis 2002/6 M.S. in Engineering & Applied Science – Communications Thesis: \"Network Security in Fixed-Point Broadband Wireless Network\" • University of California, Los Angeles 1999/6 B.S. in Cybernetics Requirements and Release Management: Contour, DOORS, Wiki, Bitbucket, Subversion, Gitlab, Jira, SharePoint; Modeling Tools: Cameo MagicDraw, IBM Rhapsody, Enterprise Architect; Data Tools: MS SQL, Tableau, Power BI; Cloud Automation: Ansible. Training Highlights: SDN, Link16, Air Worthiness, OMS, NLDP Leadership Development"
+        }
+    ],
+    "skills": [
+        {
+            "id": 80435147,
+            "emsiId": "KS125255X8P1NNF7T5Z5",
+            "name": "Image Processing",
+            "lastUsed": "2020-10-01",
+            "numberOfMonths": 19,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077815
+                }
+            ]
+        },
+        {
+            "id": 80435149,
+            "emsiId": "KS1254Z64ZTZC37M625Y",
+            "name": "Information Warfare",
+            "lastUsed": "2019-02-01",
+            "numberOfMonths": 10,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077816
+                }
+            ]
+        },
+        {
+            "id": 80435153,
+            "emsiId": "KS1208P6ZMZ4N872Y7X5",
+            "name": "Application Programming Interface (API)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 27,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077814
+                }
+            ]
+        },
+        {
+            "id": 80435154,
+            "emsiId": "ES9C0ADA3C9397DD6AED",
+            "name": "Agile Software Development",
+            "lastUsed": "2018-02-01",
+            "numberOfMonths": 142,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077817
+                }
+            ]
+        },
+        {
+            "id": 80435155,
+            "emsiId": "KS441PC61LH6SWW9P97Q",
+            "name": "Usability",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 27,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077814
+                }
+            ]
+        },
+        {
+            "id": 80435160,
+            "emsiId": "KS125716TLTGH6SDHJD1",
+            "name": "Integration",
+            "lastUsed": "2020-10-01",
+            "numberOfMonths": 19,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077815
+                }
+            ]
+        },
+        {
+            "id": 80435161,
+            "emsiId": "ESC80C5E846C65F847EB",
+            "name": "Digital Transformation",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 27,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077814
+                }
+            ]
+        },
+        {
+            "id": 80435162,
+            "emsiId": "KS1203C6N9B52QGB4H67",
+            "name": "Research",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 37,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077814
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077816
+                }
+            ]
+        },
+        {
+            "id": 80435163,
+            "emsiId": "KS1210269P78D7GH8LWY",
+            "name": "Big Data",
+            "lastUsed": "2018-02-01",
+            "numberOfMonths": 142,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077817
+                }
+            ]
+        },
+        {
+            "id": 80435164,
+            "emsiId": "ES71C56587D6C42B73B8",
+            "name": "DoDAF",
+            "lastUsed": "2020-10-01",
+            "numberOfMonths": 29,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077815
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077816
+                }
+            ]
+        },
+        {
+            "id": 80435166,
+            "emsiId": "KS123P15VJSF7LGWHQYK",
+            "name": "Transceiver",
+            "lastUsed": "2006-04-01",
+            "numberOfMonths": 46,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 4,
+                    "workExperienceId": 15077818
+                }
+            ]
+        },
+        {
+            "id": 80435167,
+            "emsiId": "KS687J575SCWVW3LR42K",
+            "name": "Security Systems",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": []
+        },
+        {
+            "id": 80435169,
+            "emsiId": "KS440LQ6G9FXYT6C7SWN",
+            "name": "Simulations",
+            "lastUsed": "2018-02-01",
+            "numberOfMonths": 142,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077817
+                }
+            ]
+        },
+        {
+            "id": 80435170,
+            "emsiId": "KS121XY6VSGJ3Z6J82FQ",
+            "name": "Infrastructure",
+            "lastUsed": "2018-02-01",
+            "numberOfMonths": 142,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077817
+                }
+            ]
+        },
+        {
+            "id": 80435172,
+            "emsiId": "KS120GV6C72JMSZKMTD7",
+            "name": "Data Analysis",
+            "lastUsed": "2018-02-01",
+            "numberOfMonths": 142,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077817
+                }
+            ]
+        },
+        {
+            "id": 80435173,
+            "emsiId": "KS122PM76DCYL9WC89Y7",
+            "name": "Data Modeling",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 27,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077814
+                }
+            ]
+        },
+        {
+            "id": 80435174,
+            "emsiId": "KS120GV5ZXR64CJLL1J4",
+            "name": "Analytics",
+            "lastUsed": "2019-02-01",
+            "numberOfMonths": 152,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077816
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077817
+                }
+            ]
+        },
+        {
+            "id": 80435175,
+            "emsiId": "KS126ZT6VYJT9M3XMJX2",
+            "name": "Network Simulation",
+            "lastUsed": "2006-04-01",
+            "numberOfMonths": 46,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 4,
+                    "workExperienceId": 15077818
+                }
+            ]
+        },
+        {
+            "id": 80435176,
+            "emsiId": "KS1218W78FGVPVP2KXPX",
+            "name": "Management",
+            "lastUsed": "2018-02-01",
+            "numberOfMonths": 142,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077817
+                }
+            ]
+        },
+        {
+            "id": 80435177,
+            "emsiId": "KS120L96KMYTDJ48NRSH",
+            "name": "Software Development",
+            "lastUsed": "2006-04-01",
+            "numberOfMonths": 46,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 4,
+                    "workExperienceId": 15077818
+                }
+            ]
+        },
+        {
+            "id": 80435178,
+            "emsiId": "KS1279W6JSZNTXT00V7N",
+            "name": "Open Systems Architecture",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 27,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077814
+                }
+            ]
+        },
+        {
+            "id": 80435179,
+            "emsiId": "KS122VT6S2JJ5C5D80NF",
+            "name": "Linux",
+            "lastUsed": "2018-02-01",
+            "numberOfMonths": 142,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077817
+                }
+            ]
+        },
+        {
+            "id": 80435181,
+            "emsiId": "KS120076FGP5WGWYMP0F",
+            "name": "Java (Programming Language)",
+            "lastUsed": "2018-02-01",
+            "numberOfMonths": 142,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077817
+                }
+            ]
+        },
+        {
+            "id": 80435182,
+            "emsiId": "KS4412R60NGTMD1785Z8",
+            "name": "Supervised Learning",
+            "lastUsed": "2018-02-01",
+            "numberOfMonths": 142,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077817
+                }
+            ]
+        },
+        {
+            "id": 80435183,
+            "emsiId": "KS1282N6NQMZ95M1HJ7L",
+            "name": "Scrum (Software Development)",
+            "lastUsed": "2020-10-01",
+            "numberOfMonths": 19,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077815
+                }
+            ]
+        },
+        {
+            "id": 80435186,
+            "emsiId": "KS122MK65TBR6RDBZL1P",
+            "name": "Cyber Security",
+            "lastUsed": "2019-02-01",
+            "numberOfMonths": 10,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077816
+                }
+            ]
+        },
+        {
+            "id": 80435187,
+            "emsiId": "KS4415Q6ZQNW127ZTWRN",
+            "name": "System Software",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": []
+        },
+        {
+            "id": 80435188,
+            "emsiId": "KSJF3PBD3995K6E0OF1Z",
+            "name": "Kubernetes",
+            "lastUsed": "2018-02-01",
+            "numberOfMonths": 142,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077817
+                }
+            ]
+        },
+        {
+            "id": 80435189,
+            "emsiId": "KS1241Q68DTT0G7GMBBR",
+            "name": "Draft (Boiler)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 27,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077814
+                }
+            ]
+        },
+        {
+            "id": 80435148,
+            "emsiId": "KS120LK70665WL8LBX8G",
+            "name": "Systems Engineering",
+            "lastUsed": "2018-02-01",
+            "numberOfMonths": 142,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077817
+                }
+            ]
+        },
+        {
+            "id": 80435150,
+            "emsiId": "KS7G1P76W2FRM88BQFJN",
+            "name": "Templates",
+            "lastUsed": "2020-10-01",
+            "numberOfMonths": 19,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077815
+                }
+            ]
+        },
+        {
+            "id": 80435151,
+            "emsiId": "KS125R66RY29Z0Q1DWDJ",
+            "name": "Network Layer",
+            "lastUsed": "2006-04-01",
+            "numberOfMonths": 46,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 4,
+                    "workExperienceId": 15077818
+                }
+            ]
+        },
+        {
+            "id": 80435152,
+            "emsiId": "KS122ST5X31W4TVGPN0B",
+            "name": "Encryption",
+            "lastUsed": "2018-02-01",
+            "numberOfMonths": 142,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077817
+                }
+            ]
+        },
+        {
+            "id": 80435156,
+            "emsiId": "KS1203M5X6LQVSRTW88J",
+            "name": "Access Network",
+            "lastUsed": "2018-02-01",
+            "numberOfMonths": 142,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077817
+                }
+            ]
+        },
+        {
+            "id": 80435157,
+            "emsiId": "ESCC352B8A34EB1422A9",
+            "name": "Top Secret Clearance",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435158,
+            "emsiId": "KS440JK6HMM843BQ3F7J",
+            "name": "Sharpening",
+            "lastUsed": "2006-04-01",
+            "numberOfMonths": 46,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 4,
+                    "workExperienceId": 15077818
+                }
+            ]
+        },
+        {
+            "id": 80435159,
+            "emsiId": "KS123R86H3SBH3T7B3LQ",
+            "name": "Experience Design",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": []
+        },
+        {
+            "id": 80435165,
+            "emsiId": "KS1259C5ZCWP0W21KJ6Y",
+            "name": "Interoperability",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 27,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077814
+                }
+            ]
+        },
+        {
+            "id": 80435168,
+            "emsiId": "ES806437526718AC34AB",
+            "name": "Secret Clearance",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435171,
+            "emsiId": "KS125VS5X5LZ8LCCBQJW",
+            "name": "Link Budget",
+            "lastUsed": "2006-04-01",
+            "numberOfMonths": 46,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 4,
+                    "workExperienceId": 15077818
+                }
+            ]
+        },
+        {
+            "id": 80435180,
+            "emsiId": "KS7G7X55ZKBF0R0WCSZQ",
+            "name": "Consolidation",
+            "lastUsed": "2019-02-01",
+            "numberOfMonths": 10,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077816
+                }
+            ]
+        },
+        {
+            "id": 80435184,
+            "emsiId": "KS120W2749QQKD4JMM68",
+            "name": "Transformation (Genetics)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 37,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077814
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077816
+                }
+            ]
+        },
+        {
+            "id": 80435185,
+            "emsiId": "KS4417N61DB04000S10C",
+            "name": "TCP/IP",
+            "lastUsed": "2006-04-01",
+            "numberOfMonths": 46,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 4,
+                    "workExperienceId": 15077818
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "English"
+    ],
+    "summary": "Accomplished senior Model Based System Engineer with extensive experience in design and architect large-scale mission critical systems. Top Secret clearance access, skilled in supporting software, networks and aeronautics systems.",
+    "websites": [
+        "https://www.linkedin.com/in/kuowei-huang/"
+    ],
+    "linkedin": "https://www.linkedin.com/in/kuowei-huang/",
+    "totalYearsExperience": 20,
+    "profession": "Systems engineer",
+    "workExperience": [
+        {
+            "id": 15077814,
+            "jobTitle": "Platform Integration & Modeling Lead Engineer",
+            "organization": "NAVAIR",
+            "location": null,
+            "dates": {
+                "startDate": "2020-10-01",
+                "endDate": "2022-12-21",
+                "monthsInPosition": 27,
+                "isCurrent": true
+            },
+            "jobDescription": " Support PMA-209 for Modular Open System Architecture (MOSA) realization at NAVAIR on MQ-25, FVL, E-XX, NGAD platforms. \n•Serve as the NAVAIR RE/SME in guiding program offices in building Model Based Open Architecture models; chair NAVAIR Digital Transformation Data Modeling COP TIM. \n•Research SysML v2 and API framework for model consistency, interoperability and re usability; draft Model Maturity Whitepaper with Georgia Tech over an awarded S&T fund. ",
+            "occupation": {
+                "jobTitle": "Platform Integration & Modeling Lead Engineer",
+                "jobTitleNormalized": "Platform Integration Engineer",
+                "classification": null,
+                "managementLevel": "Low"
+            }
+        },
+        {
+            "id": 15077815,
+            "jobTitle": "Staff Engineer",
+            "organization": "Northrop Grumman",
+            "location": null,
+            "dates": {
+                "startDate": "2019-03-01",
+                "endDate": "2020-10-01",
+                "monthsInPosition": 19,
+                "isCurrent": false
+            },
+            "jobDescription": " Served as the NG Aeronautics Systems scrum master NGIDE team on MBSE digital engineering initiative in developing Methodology, Process, Templates, Reference Models, Profiles, Checklist, Style Guide, Model Maturity Metrics for internal programs usage. \n•Supported Global Hawks Modernization contract execution with AI image processing customization; GBSD on software modeling; NGAD MDAO design integration. \n•Experience with UAF DoDAF frameworks, SysML, UML, LML, OMS, DDS, Model Maturity and Metrics, system to software model transition; Cameo and Rhapsody tools. ",
+            "occupation": {
+                "jobTitle": "Staff Engineer",
+                "jobTitleNormalized": "Staff Engineer",
+                "classification": {
+                    "socCode": 2134,
+                    "title": "Programmers and software development professionals ",
+                    "minorGroup": "Information Technology Professionals",
+                    "subMajorGroup": "SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",
+                    "majorGroup": "PROFESSIONAL OCCUPATIONS"
+                },
+                "managementLevel": "Low"
+            }
+        },
+        {
+            "id": 15077816,
+            "jobTitle": "Lead Engineer",
+            "organization": "Naval Information Warfare Center",
+            "location": {
+                "formatted": "Seattle, WA 98107, USA",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "Seattle",
+                "postalCode": "98107",
+                "state": "Washington",
+                "country": "United States",
+                "rawInput": "Pacific",
+                "countryCode": "US"
+            },
+            "dates": {
+                "startDate": "2018-04-01",
+                "endDate": "2019-02-01",
+                "monthsInPosition": 10,
+                "isCurrent": false
+            },
+            "jobDescription": " MBSE support of: weapon systems (SSDS ICS & AEGIS), ships (DDG & CVN) and networks (NGEN & JWICS); research AOA, defined & synthesized requirements; planned and coordinated model development efforts. \n•Served as a member of the NMCI Cyber Security Tiger Team in assessing and reviewing security features and solutions on endpoints, networks, servers and services/processes, as well as identifying data for analysis. \n•Performed data analytics, model design and creation of SysML/DoDAF models; led internal development team on Cameo tool capabilities development; outlined Model as a Service solution for network consolidation; supported NGEN Transformation modeling effort. ",
+            "occupation": {
+                "jobTitle": "Lead Engineer",
+                "jobTitleNormalized": "Lead Engineer",
+                "classification": {
+                    "socCode": 2129,
+                    "title": "Engineering professionals n.e.c.",
+                    "minorGroup": "Engineering Professionals",
+                    "subMajorGroup": "SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",
+                    "majorGroup": "PROFESSIONAL OCCUPATIONS"
+                },
+                "managementLevel": "Low"
+            }
+        },
+        {
+            "id": 15077817,
+            "jobTitle": "Senior Staff Systems Engineer",
+            "organization": "COMCAST CABLE",
+            "location": null,
+            "dates": {
+                "startDate": "2006-04-01",
+                "endDate": "2018-02-01",
+                "monthsInPosition": 142,
+                "isCurrent": false
+            },
+            "jobDescription": " Piloted MBSE system methodology in support of DRM cryptographic security system life cycle from definition to validation; o Created MBSE models in support of design analysis, with simulations to show how messages are coordinated, and keys are staying in sync. o Developed expert knowledge on PKI, federated identity and access management; patent submitted on Self Provisioning. \n•Performed MBSE modeling in SysML on MediaCipher Conditional Access system and DTA Encryption Infrastructure for video content protection over cable; o Demonstrated the security of the systems using model, resulted in certification to deliver high value content (new release theater graded movies) to settops. o Participated in Comcast Big Data Analytics as the access network lead in data manicuring, data analysis, supervised learning algorithm tuning. \n•Served as the subject matter expert in System Engineering over Agile development process by trial the processes to Key Server and embedded security client projects; o Developed SysML-based models that include use cases, activity, architectures, components, sequences, states, classes and requirements diagrams. o Led SW (Java) development of Linux based Key Server in cloud microservice (Kubernetes) with intelligent network health monitoring system. ",
+            "occupation": {
+                "jobTitle": "Senior Staff Systems Engineer",
+                "jobTitleNormalized": "Staff Systems Engineer",
+                "classification": {
+                    "socCode": 2134,
+                    "title": "Programmers and software development professionals ",
+                    "minorGroup": "Information Technology Professionals",
+                    "subMajorGroup": "SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",
+                    "majorGroup": "PROFESSIONAL OCCUPATIONS"
+                },
+                "managementLevel": "Low"
+            }
+        },
+        {
+            "id": 15077818,
+            "jobTitle": "Software Engineer",
+            "organization": "Cable AML",
+            "location": null,
+            "dates": {
+                "startDate": "2002-06-01",
+                "endDate": "2006-04-01",
+                "monthsInPosition": 46,
+                "isCurrent": false
+            },
+            "jobDescription": " Led software development of industry first microwave transceiver remote monitor unit with embedded SNMP and TCP/IP protocols in C for Boeing Video Surveillance System. \n•Performed network simulation (Opnet), link budget propagation and coverage analysis, create system design prototypes for network layer requirement and performance analysis. \n•Awarded patent: \"Device and Method for Sharpening Image Signal\" # 20070070428. ",
+            "occupation": {
+                "jobTitle": "Software Engineer",
+                "jobTitleNormalized": "Software Engineer",
+                "classification": {
+                    "socCode": 2134,
+                    "title": "Programmers and software development professionals ",
+                    "minorGroup": "Information Technology Professionals",
+                    "subMajorGroup": "SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",
+                    "majorGroup": "PROFESSIONAL OCCUPATIONS"
+                },
+                "managementLevel": "Low"
+            }
+        }
+    ],
+    "headShot": null,
+    "isResumeProbability": 94,
+    "rawText": "CHRIS HUANG 41450 Culpepper Way. Leonardtown, MD 20650 858-397-3943; kuoweism@gmail.com https://www.linkedin.com/in/kuowei-huang/\nQUALIFICATIONS SUMMARY Accomplished senior Model Based System Engineer with extensive experience in design and architect large-scale mission critical systems. Top Secret clearance access, skilled in supporting software, networks and aeronautics systems.\nPROFESSIONAL EXPERIENCE NAVAIR 2020/10-Current Platform Integration & Modeling Lead Engineer • Support PMA-209 for Modular Open System Architecture (MOSA) realization at NAVAIR on MQ-25, FVL, E-XX, NGAD platforms. • Serve as the NAVAIR RE/SME in guiding program offices in building Model Based Open Architecture models; chair NAVAIR Digital Transformation Data Modeling COP TIM. • Research SysML v2 and API framework for model consistency, interoperability and re usability; draft Model Maturity Whitepaper with Georgia Tech over an awarded S&T fund. Northrop Grumman 2019/3-2020/10 Staff Engineer • Served as the NG Aeronautics Systems scrum master NGIDE team on MBSE digital engineering initiative in developing Methodology, Process, Templates, Reference Models, Profiles, Checklist, Style Guide, Model Maturity Metrics for internal programs usage. • Supported Global Hawks Modernization contract execution with AI image processing customization; GBSD on software modeling; NGAD MDAO design integration. • Experience with UAF DoDAF frameworks, SysML, UML, LML, OMS, DDS, Model Maturity and Metrics, system to software model transition; Cameo and Rhapsody tools. Naval Information Warfare Center – Pacific 2018/4-2019/2 Lead Engineer • MBSE support of: weapon systems (SSDS ICS & AEGIS), ships (DDG & CVN) and networks (NGEN & JWICS); research AOA, defined & synthesized requirements; planned and coordinated model development efforts. • Served as a member of the NMCI Cyber Security Tiger Team in assessing and reviewing security features and solutions on endpoints, networks, servers and services/processes, as well as identifying data for analysis. • Performed data analytics, model design and creation of SysML/DoDAF models; led internal development team on Cameo tool capabilities development; outlined Model as a\nService solution for network consolidation; supported NGEN Transformation modeling effort. Comcast Cable 2006/4-2018/2 Senior Staff Systems Engineer • Piloted MBSE system methodology in support of DRM cryptographic security system life cycle from definition to validation; o Created MBSE models in support of design analysis, with simulations to show how messages are coordinated, and keys are staying in sync. o Developed expert knowledge on PKI, federated identity and access management; patent submitted on Self Provisioning. • Performed MBSE modeling in SysML on MediaCipher Conditional Access system and DTA Encryption Infrastructure for video content protection over cable; o Demonstrated the security of the systems using model, resulted in certification to deliver high value content (new release theater graded movies) to settops. o Participated in Comcast Big Data Analytics as the access network lead in data manicuring, data analysis, supervised learning algorithm tuning. • Served as the subject matter expert in System Engineering over Agile development process by trial the processes to Key Server and embedded security client projects; o Developed SysML-based models that include use cases, activity, architectures, components, sequences, states, classes and requirements diagrams. o Led SW (Java) development of Linux based Key Server in cloud microservice (Kubernetes) with intelligent network health monitoring system. Cable AML 2002/6 – 2006/4 Software Engineer • Led software development of industry first microwave transceiver remote monitor unit with embedded SNMP and TCP/IP protocols in C for Boeing Video Surveillance System. • Performed network simulation (Opnet), link budget propagation and coverage analysis, create system design prototypes for network layer requirement and performance analysis. • Awarded patent: \"Device and Method for Sharpening Image Signal\" # 20070070428.\nEDUCATION • Defense Acquisition University Engineering II Certification 2021/3 • University of California, Davis 2002/6 M.S. in Engineering & Applied Science – Communications Thesis: \"Network Security in Fixed-Point Broadband Wireless Network\" • University of California, Los Angeles 1999/6 B.S. in Cybernetics Requirements and Release Management: Contour, DOORS, Wiki, Bitbucket, Subversion, Gitlab, Jira, SharePoint; Modeling Tools: Cameo MagicDraw, IBM Rhapsody, Enterprise Architect; Data Tools: MS SQL, Tableau, Power BI; Cloud Automation: Ansible. Training Highlights: SDN, Link16, Air Worthiness, OMS, NLDP Leadership Development"
+}

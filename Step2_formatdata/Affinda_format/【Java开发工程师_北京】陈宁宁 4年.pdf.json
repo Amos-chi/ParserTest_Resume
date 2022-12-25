@@ -1,0 +1,33 @@
+{
+    "fullName": "陈宁宁  ",
+    "contacts": [
+        {
+            "contact": "3b37021 0fcac01711",
+            "type": "PHONE"
+        }
+    ],
+    "languages": [
+        "Vietnamese"
+    ],
+    "experiences": [
+        {
+            "companyName": "聪联科技-久久幸福"
+        },
+        {
+            "description": "½æø¿£¬ + 'gÄDåööÑô`!ÎEƒ*–F— \"{ÄGÜôâñóH0ˇ³(]Fß®(]fi)— ((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((( ",
+            "companyName": "聪联科技-康养"
+        },
+        {
+            "description": "½æø¿£¬ + ì\nÆÄÅÇ÷'`!ÃIJK{÷'˝L¿²MNf\"ì\n`!wOPl÷'`!:?QRST \"{UÃ`!'&\níVW:?¤‹X{<— Y{ôÑÖÜÄß®FZ%`!p\"[Áv=í\\]^¶— 7»56^_£¬`:`û\nab`cdef¿gh<— ",
+            "companyName": "亚信校企合作中⼼-云商盟电商"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "Windows Installer XML (WIX)"
+        },
+        {
+            "skillName": "Wix"
+        }
+    ]
+}

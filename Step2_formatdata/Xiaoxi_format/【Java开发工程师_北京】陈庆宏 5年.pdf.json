@@ -1,0 +1,187 @@
+{
+    "fullName": "陈庆宏",
+    "contacts": [
+        {
+            "contact": "17686412707",
+            "type": "PHONE"
+        },
+        {
+            "contact": "631953504@qq.com",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "631953504",
+            "type": "QQ"
+        }
+    ],
+    "educations": [
+        {
+            "collegeName": "山东科技大学",
+            "degreeLevel": "本科",
+            "majorName": "计算机科学与技术"
+        }
+    ],
+    "experiences": [
+        {
+            "companyName": "北京智德天成信息技术有限公司",
+            "title": "Java 开发工程师",
+            "startDate": "2021-06-01",
+            "endDate": "2022-09-01"
+        },
+        {
+            "companyName": "天地伟业技术有限公司",
+            "title": "java 开发工程师",
+            "startDate": "2018-06-01",
+            "endDate": "2021-06-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "App"
+        },
+        {
+            "skillName": "API"
+        },
+        {
+            "skillName": "Git"
+        },
+        {
+            "skillName": "Web"
+        },
+        {
+            "skillName": "SQL"
+        },
+        {
+            "skillName": "Vue"
+        },
+        {
+            "skillName": "Jdk"
+        },
+        {
+            "skillName": "Etl"
+        },
+        {
+            "skillName": "Crm"
+        },
+        {
+            "skillName": "Dojo"
+        },
+        {
+            "skillName": "Idea"
+        },
+        {
+            "skillName": "Java"
+        },
+        {
+            "skillName": "MySQL"
+        },
+        {
+            "skillName": "Dubbo"
+        },
+        {
+            "skillName": "Redis"
+        },
+        {
+            "skillName": "Linux"
+        },
+        {
+            "skillName": "Maven"
+        },
+        {
+            "skillName": "优化"
+        },
+        {
+            "skillName": "Spring"
+        },
+        {
+            "skillName": "配置"
+        },
+        {
+            "skillName": "篮球"
+        },
+        {
+            "skillName": "前端"
+        },
+        {
+            "skillName": "运营"
+        },
+        {
+            "skillName": "缓存"
+        },
+        {
+            "skillName": "编码"
+        },
+        {
+            "skillName": "架构"
+        },
+        {
+            "skillName": "接口"
+        },
+        {
+            "skillName": "Oracle"
+        },
+        {
+            "skillName": "功能"
+        },
+        {
+            "skillName": "Mybatis"
+        },
+        {
+            "skillName": "Tomcat 8"
+        },
+        {
+            "skillName": "Activemq"
+        },
+        {
+            "skillName": "Rabbitmq"
+        },
+        {
+            "skillName": "springmvc"
+        },
+        {
+            "skillName": "Zookeeper"
+        },
+        {
+            "skillName": "Hibernate"
+        },
+        {
+            "skillName": "中间件"
+        },
+        {
+            "skillName": "数据库"
+        },
+        {
+            "skillName": "Springboot"
+        },
+        {
+            "skillName": "JavaScript"
+        },
+        {
+            "skillName": "springcloud"
+        },
+        {
+            "skillName": "项目管理"
+        },
+        {
+            "skillName": "信息技术"
+        },
+        {
+            "skillName": "数据分析"
+        },
+        {
+            "skillName": "结构设计"
+        },
+        {
+            "skillName": "财务管理"
+        },
+        {
+            "skillName": "逻辑处理"
+        },
+        {
+            "skillName": "Elasticsearch"
+        },
+        {
+            "skillName": "计算机科学与技术"
+        }
+    ]
+}

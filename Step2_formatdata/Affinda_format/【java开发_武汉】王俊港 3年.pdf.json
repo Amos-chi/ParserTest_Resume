@@ -1,0 +1,124 @@
+{
+    "fullName": "  ",
+    "contacts": [
+        {
+            "contact": "+8618071807610",
+            "type": "PHONE"
+        }
+    ],
+    "currentLocation": [
+        {
+            "location": "Huanggang, Hubei, China"
+        }
+    ],
+    "languages": [
+        "Vietnamese"
+    ],
+    "educations": [
+        {
+            "endDate": "0003-05-21",
+            "collegeName": "三峡大学科技学院",
+            "majorName": "本科"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "工作时间 : 2021.04-2022.09 工作内容 : 参与产品及项目开发 , 完成需求分析 , 完成子系统和模块设计。 参与产品讨论 , 业务逻辑实现 , 根据项目任务计划按时完成软件编码和单元测试工作。 根据产品需求 , 完成后端项目设计与开发 , 确保项目进度。 公司名称 : 深圳慧订网络科技有限公司 工作时间 : 2019.08-2021.03 工作内容 : 主要从事软件编码工作 涉及用户需求分析、 参与产品讨论、 技术设计 , 与团队成员共同协作完成软件开发。 ",
+            "companyName": "深圳市慧搭科技有限公司",
+            "startDate": "2021-04-01",
+            "endDate": "2022-09-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "SQL (Programming Language)"
+        },
+        {
+            "skillName": "Microsoft Excel"
+        },
+        {
+            "skillName": "MyBatis"
+        },
+        {
+            "skillName": "HyperText Markup Language (HTML)"
+        },
+        {
+            "skillName": "JSON Web Token (JWT)"
+        },
+        {
+            "skillName": "JavaScript (Programming Language)"
+        },
+        {
+            "skillName": "RabbitMQ"
+        },
+        {
+            "skillName": "Role-Based Access Control (RBAC)"
+        },
+        {
+            "skillName": "Gitlab"
+        },
+        {
+            "skillName": "MySQL"
+        },
+        {
+            "skillName": "Linux"
+        },
+        {
+            "skillName": "Java (Programming Language)"
+        },
+        {
+            "skillName": "Echarts"
+        },
+        {
+            "skillName": "Postman"
+        },
+        {
+            "skillName": "Cascading Style Sheets (CSS)"
+        },
+        {
+            "skillName": "Thymeleaf"
+        },
+        {
+            "skillName": "Elasticsearch"
+        },
+        {
+            "skillName": "Apache Tomcat"
+        },
+        {
+            "skillName": "JavaMail"
+        },
+        {
+            "skillName": "Object-Oriented Programming (OOP)"
+        },
+        {
+            "skillName": "Ajax (Programming Language)"
+        },
+        {
+            "skillName": "JSON"
+        },
+        {
+            "skillName": "Hystrix"
+        },
+        {
+            "skillName": "Redis"
+        },
+        {
+            "skillName": "JQuery"
+        },
+        {
+            "skillName": "Docker (Software)"
+        },
+        {
+            "skillName": "Navicat"
+        },
+        {
+            "skillName": "Spring Security"
+        },
+        {
+            "skillName": "Extensible Markup Language (XML)"
+        },
+        {
+            "skillName": "OAuth"
+        }
+    ]
+}

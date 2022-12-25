@@ -1,0 +1,175 @@
+{
+    "certifications": [],
+    "dateOfBirth": null,
+    "education": [],
+    "emails": [],
+    "location": null,
+    "name": {
+        "raw": "陈宁宁",
+        "last": "",
+        "first": "陈宁宁",
+        "title": "",
+        "middle": ""
+    },
+    "objective": "",
+    "phoneNumbers": [
+        "3b37021 0fcac01711"
+    ],
+    "publications": [],
+    "referees": [],
+    "sections": [
+        {
+            "sectionType": "PersonalDetails",
+            "bbox": [
+                26.814499,
+                7.630005,
+                544.39,
+                205.59198
+            ],
+            "pageIndex": 0,
+            "text": "3b37021 0fcac01711 nF-2dW0ElpVypG6VfqZReOhmQ~~ 陈宁宁 基本信息 <i + j k l + $SmZnUVWkonp}9: ˘qrs + 4565n12 ut + $uTv$$T&&#v wix + çã$&&v\"#$yeTu + !,-./0123(4565789:;"
+        },
+        {
+            "sectionType": "Skills/Interests/Languages",
+            "bbox": [
+                32.4825,
+                250.81244,
+                411.083,
+                355.80103
+            ],
+            "pageIndex": 0,
+            "text": "掌握技能 · xyz{n|} + ~ÄÅÇG ÉÑÖÜÄG ááÇ(àâäG ãåçâÄG éèG ÉâçêÑë~ÅíR · xyìî7ïñó + ~äåëÜÄG èòôÜãöG èòôÜãö~6õG èòôÜãöúââëG èòôÜãöõÇâùÖG ÖùääâíR · ûü†°¢£ < 4565û§G •:F¶G ß®©™F´¨G ­åÆäÖåR · ¢£Ø°±²³¥ + ÖâçêÑôG àÑãêÜãĵ¶·G ÇÜãùáz{¸¹íR · z{9º!ª!ÖâçêÑôG öÜëG ĺãG ÆåºÑãG ÜÖÑåG òâÄëÆåãí9ºR"
+        },
+        {
+            "sectionType": "Projects",
+            "bbox": [
+                32.32,
+                396.0,
+                134.80008,
+                405.56
+            ],
+            "pageIndex": 0,
+            "text": "上海朝讯-通信合规系统"
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                32.12,
+                413.99902,
+                527.2571,
+                596.7
+            ],
+            "pageIndex": 0,
+            "text": "+ `ÀÃ@AÕ:nŒœ¿–}— \"{ÑÄp\"'BC… '÷`'–'÷×ÿŸ⁄— \"{ááÇ(àâäp\"¤‹›fifl‡`·Ã'zß®f\"‰}ÂÊ`p\"µÁËÂÊÈÍ— p\"'BC… lÎ`‹EÏÌÓG ÔðÒ¸n… — DE·p\"ÚÛß®ÙM`ıˆ˜›@NOÚÛ¯˘`Ãß®f\"˙˚¸HILM— DE˝˛ˇ³`p\"ÑáçÑÇNO!Üò\"#$%— \"{ÆÅp\"'BC… lο'&LM— 'gÄå(ëâêÑã`!p\"(]fi)— DE·p\"ƒ*+Ø ,-¿… — .êëå/0`p\"‹12 ºùÑ3ÑÇÑÆÑãë(ùÜ!p\"PQ4\" 聪联科技-久久幸福 \"#$S%#&' ( \"#\"$%#T'"
+        },
+        {
+            "sectionType": "Achievements",
+            "bbox": [
+                32.199,
+                602.233,
+                334.36478,
+                637.571
+            ],
+            "pageIndex": 0,
+            "text": "½æø¿£¬ + =>56DEì· < 'g78ÈÍÈ9 < :ס³¿;Ÿ<R =>56Œ=ˇ³78 < 'g~âçêÜëâí>‡9º < :?‡@A˜BCR"
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                31.938,
+                655.3,
+                530.755,
+                800.471
+            ],
+            "pageIndex": 0,
+            "text": "聪联科技-康养 ½æø¿£¬ + 'gÄDåööÑô`!ÎEƒ*–F— \"{ÄGÜôâñóH0ˇ³(]Fß®(]fi)— ((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((( 亚信校企合作中⼼-云商盟电商 2018年06⽉ - 2019年06⽉ ½æø¿£¬ + ì·ÆÄÅÇ÷'`!ÃIJK{÷'˝L¿²MNf\"ì·`!wOPl÷'`!:?QRST \"{UÃ`!'&·íVW:?¤‹X{<— Y{ôÑÖÜÄß®FZ%`!p\"[Áv=í\\]^¶— 7»56^_£¬`:`û§ab`cdef¿gh<—"
+        }
+    ],
+    "skills": [
+        {
+            "id": 81148752,
+            "emsiId": "KS442376F31C14CW08PS",
+            "name": "Windows Installer XML (WIX)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "PersonalDetails",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 81148753,
+            "emsiId": "KSIMO99OWC4N3O75OM68",
+            "name": "Wix",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "PersonalDetails",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Vietnamese"
+    ],
+    "summary": "",
+    "websites": [],
+    "linkedin": null,
+    "totalYearsExperience": 0,
+    "profession": null,
+    "workExperience": [
+        {
+            "id": 15186852,
+            "jobTitle": "",
+            "organization": "聪联科技-久久幸福",
+            "location": null,
+            "dates": null,
+            "jobDescription": "",
+            "occupation": {
+                "jobTitle": "",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        },
+        {
+            "id": 15186853,
+            "jobTitle": "",
+            "organization": "聪联科技-康养",
+            "location": null,
+            "dates": null,
+            "jobDescription": "½æø¿£¬ + 'gÄDåööÑô`!ÎEƒ*–F— \"{ÄGÜôâñóH0ˇ³(]Fß®(]fi)— ((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((( ",
+            "occupation": {
+                "jobTitle": "",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        },
+        {
+            "id": 15186854,
+            "jobTitle": "",
+            "organization": "亚信校企合作中⼼-云商盟电商",
+            "location": null,
+            "dates": null,
+            "jobDescription": "½æø¿£¬ + ì\nÆÄÅÇ÷'`!ÃIJK{÷'˝L¿²MNf\"ì\n`!wOPl÷'`!:?QRST \"{UÃ`!'&\níVW:?¤‹X{<— Y{ôÑÖÜÄß®FZ%`!p\"[Áv=í\\]^¶— 7»56^_£¬`:`û\nab`cdef¿gh<— ",
+            "occupation": {
+                "jobTitle": "",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        }
+    ],
+    "headShot": null,
+    "isResumeProbability": 50,
+    "rawText": "3b37021 0fcac01711 nF-2dW0ElpVypG6VfqZReOhmQ~~ 陈宁宁 基本信息 <i + j k l + $SmZnUVWkonp}9: ˘qrs + 4565n12 ut + $uTv$$T&&#v wix + çã$&&v\"#$yeTu + !,-./0123(4565789:;\n掌握技能 · xyz{n|} + ~ÄÅÇG ÉÑÖÜÄG ááÇ(àâäG ãåçâÄG éèG ÉâçêÑë~ÅíR · xyìî7ïñó + ~äåëÜÄG èòôÜãöG èòôÜãö~6õG èòôÜãöúââëG èòôÜãöõÇâùÖG ÖùääâíR · ûü†°¢£ < 4565û§G •:F¶G ß®©™F´¨G ­åÆäÖåR · ¢£Ø°±²³¥ + ÖâçêÑôG àÑãêÜãĵ¶·G ÇÜãùáz{¸¹íR · z{9º!ª!ÖâçêÑôG öÜëG ĺãG ÆåºÑãG ÜÖÑåG òâÄëÆåãí9ºR\n上海朝讯-通信合规系统\n+ `ÀÃ@AÕ:nŒœ¿–}— \"{ÑÄp\"'BC… '÷`'–'÷×ÿŸ⁄— \"{ááÇ(àâäp\"¤‹›fifl‡`·Ã'zß®f\"‰}ÂÊ`p\"µÁËÂÊÈÍ— p\"'BC… lÎ`‹EÏÌÓG ÔðÒ¸n… — DE·p\"ÚÛß®ÙM`ıˆ˜›@NOÚÛ¯˘`Ãß®f\"˙˚¸HILM— DE˝˛ˇ³`p\"ÑáçÑÇNO!Üò\"#$%— \"{ÆÅp\"'BC… lο'&LM— 'gÄå(ëâêÑã`!p\"(]fi)— DE·p\"ƒ*+Ø ,-¿… — .êëå/0`p\"‹12 ºùÑ3ÑÇÑÆÑãë(ùÜ!p\"PQ4\" 聪联科技-久久幸福 \"#$S%#&' ( \"#\"$%#T'\n½æø¿£¬ + =>56DEì· < 'g78ÈÍÈ9 < :ס³¿;Ÿ<R =>56Œ=ˇ³78 < 'g~âçêÜëâí>‡9º < :?‡@A˜BCR\n聪联科技-康养 ½æø¿£¬ + 'gÄDåööÑô`!ÎEƒ*–F— \"{ÄGÜôâñóH0ˇ³(]Fß®(]fi)— ((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((( 亚信校企合作中⼼-云商盟电商 2018年06⽉ - 2019年06⽉ ½æø¿£¬ + ì·ÆÄÅÇ÷'`!ÃIJK{÷'˝L¿²MNf\"ì·`!wOPl÷'`!:?QRST \"{UÃ`!'&·íVW:?¤‹X{<— Y{ôÑÖÜÄß®FZ%`!p\"[Áv=í\\]^¶— 7»56^_£¬`:`û§ab`cdef¿gh<—"
+}

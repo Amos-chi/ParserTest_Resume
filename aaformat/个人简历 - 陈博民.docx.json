@@ -10,9 +10,9 @@
             "contact": "+8618140523051"
         }
     ],
-    "currentLocation": {
-        "location": "(湖北省)?武汉(市)?"
-    },
+    "currentLocation": [{
+        "location": "(湖北省?)?武汉市?"
+    }],
     "educations": [
         {
             "startDate": "2021-09-01",
@@ -60,7 +60,7 @@
     ],
     "skills": [
         {
-            "skillName": "设计"
+            "skillName": "office"
         }
     ]
 }

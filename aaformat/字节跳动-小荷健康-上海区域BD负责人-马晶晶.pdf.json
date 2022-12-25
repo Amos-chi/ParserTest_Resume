@@ -16,7 +16,7 @@
             "endDate": "2014-07-01",
             "collegeName": "安徽大学",
             "degreeLevel": "BACHELOR",
-            "majorName": "旅游管理"
+            "majorName": "旅游管理(\\W{0,2}本科)?"
         }
     ],
     "experiences": [

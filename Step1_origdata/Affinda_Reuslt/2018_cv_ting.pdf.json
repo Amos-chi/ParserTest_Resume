@@ -1,0 +1,1180 @@
+{
+    "certifications": [
+        "Exchange student program Integrated Design"
+    ],
+    "dateOfBirth": null,
+    "education": [
+        {
+            "id": 8034449,
+            "organization": "Royal College of Art",
+            "accreditation": {
+                "education": "MA, Innovation Design Engineering,",
+                "educationLevel": null,
+                "inputStr": "MA, Innovation Design Engineering,",
+                "matchStr": ""
+            },
+            "grade": null,
+            "location": {
+                "formatted": "London, UK",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "London",
+                "postalCode": null,
+                "state": "England",
+                "country": "United Kingdom",
+                "rawInput": "London, UK",
+                "countryCode": "GB"
+            },
+            "dates": {
+                "startDate": "2015-01-01",
+                "completionDate": "2017-01-01",
+                "isCurrent": false
+            }
+        },
+        {
+            "id": 8034450,
+            "organization": "Imperial College London",
+            "accreditation": {
+                "education": "Master of Science",
+                "educationLevel": "masters",
+                "inputStr": "MSc, Innovation Design Engineering,",
+                "matchStr": ""
+            },
+            "grade": null,
+            "location": {
+                "formatted": "London, UK",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "London",
+                "postalCode": null,
+                "state": "England",
+                "country": "United Kingdom",
+                "rawInput": "London, UK",
+                "countryCode": "GB"
+            },
+            "dates": {
+                "startDate": "2015-01-01",
+                "completionDate": "2017-01-01",
+                "isCurrent": false
+            }
+        },
+        {
+            "id": 8034451,
+            "organization": "Shih Chien University",
+            "accreditation": {
+                "education": "BA, Industrial Design,",
+                "educationLevel": null,
+                "inputStr": "BA, Industrial Design,",
+                "matchStr": ""
+            },
+            "grade": null,
+            "location": {
+                "formatted": "Taipei City, Taiwan",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "Taipei",
+                "postalCode": null,
+                "state": "Taipei City",
+                "country": "Taiwan",
+                "rawInput": "Taipei, Taiwan",
+                "countryCode": "TW"
+            },
+            "dates": {
+                "startDate": "2009-01-01",
+                "completionDate": "2014-01-01",
+                "isCurrent": false
+            }
+        },
+        {
+            "id": 8034452,
+            "organization": "Köln International School of Design, Cologne University of Applied Sciences",
+            "accreditation": {
+                "education": "Exchange student program, Integrated Design,",
+                "educationLevel": null,
+                "inputStr": "Exchange student program, Integrated Design,",
+                "matchStr": ""
+            },
+            "grade": null,
+            "location": {
+                "formatted": "Cologne, Germany",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "Cologne",
+                "postalCode": null,
+                "state": "North Rhine-Westphalia",
+                "country": "Germany",
+                "rawInput": "Cologne, Germany",
+                "countryCode": "DE"
+            },
+            "dates": {
+                "startDate": "2012-01-01",
+                "completionDate": "2013-01-01",
+                "isCurrent": false
+            }
+        }
+    ],
+    "emails": [],
+    "location": null,
+    "name": {
+        "raw": "SHU TING HUANG",
+        "last": "Huang",
+        "first": "Shu",
+        "title": "",
+        "middle": "Ting"
+    },
+    "objective": "",
+    "phoneNumbers": [
+        "+447493060066"
+    ],
+    "publications": [],
+    "referees": [],
+    "sections": [
+        {
+            "sectionType": "PersonalDetails",
+            "bbox": [
+                31.040302,
+                22.727295,
+                196.44867,
+                65.755066
+            ],
+            "pageIndex": 0,
+            "text": "SHU TING HUANG +44 7 493 060066 http://www.shutinghuang.com/"
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                239.27377,
+                67.48828,
+                795.05383,
+                576.4383
+            ],
+            "pageIndex": 0,
+            "text": "WORK EXPERIENCES OTHER EXPERIENCES April 2017 - present Interaction Designer, Emotech Ltd.; London, UK Human-centred design is the key to give Emotech's products spirit. As an interaction designer, I am responsible for envisioning and executing the interaction between people and robot in the future home scenario, assessing product requirements (costs, manufacturing feasibility and market requirements, etc.); doing complex tasks related to artificial intelligence and collaborating with our machine learning scientists, researchers and developers; gaining experience working with a multi-disciplinary team. July - August 2016 Design Thinker, Satellite Applications Catapult; Oxfordshire, UK An 8-week internship working in the design team to understand users and social impact of space technology. This is part of the Space Placements in INdustry (SPIN) scheme, which is managed by the Institute for Environmental Analytics at the University of Reading and supported by the Satellite Applications Catapult and the UK Space Agency. April 2015 - July 2015 Designer, Lumosa Therapeutics co. Ltd.; Taipei, Taiwan Commissioned by the company as a contract designer to design its IPO presentation materials, including understanding and visualising the company's value proposition, as well as its products (long-acting analgesic injection and small molecule for the acute ischemic stroke treatment). September 2014 - March 2015 Imagineer, Migo TV; Taipei, Taiwan Hired as a UX designer by Migo. I organised compatible structures of a project by field research (shadowing and interviewing potential users in Manila, the Philippines), defining user journey map, narrating user stories and conducting usability tests (e.g. A/B testing). Migo is a consumer-focused innovation company focusing on emerging markets, where transformative innovation in entertainment is lacking. May - July 2014 UI Designer, Taipei Digital Art Centre; Taipei, Taiwan Worked in the project \"Experimental Program of Visual Guiding System\" as a UI designer with Taipei Digital Art Centre, Smart Network System Institute of the Institute for Information Industry, ChipSiP Technology Co. and Kupo Co., Ltd. Attending Fab10 Barcelona and Fab11 Boston (MIT) as a member of FabLab Dynamic, Taipei, Taiwan. Participated in btk International Summer School Design, Art and Cultural workshop- Filmmaking in Berlin. I learned documentary filmmaking and made three experimental videos during the summer school. It was instructed by Anna Marziano and Armin Dierolf. Participated in an international workshop - Social Design, hosted by \"Fablab annual meeting in Taiwan - Open Fab City\" and instructed by Anna Waldman-Brown."
+        },
+        {
+            "sectionType": "Summary",
+            "bbox": [
+                30.733763,
+                88.29724,
+                209.19312,
+                300.53314
+            ],
+            "pageIndex": 0,
+            "text": "I am a creative technologist specialised in interaction design - passionate about emerging technology, digital art, and human computer interaction. I have traveled across Asia, America, and Europe gaining insights into diverse cultures, and the way industrial design is practiced in daily activities and among humans. As a designer, I found the gaps between human and artificial intelligence laid wonderful opportunities for exploration and new ideas."
+        },
+        {
+            "sectionType": "Skills/Interests/Languages",
+            "bbox": [
+                550.47516,
+                227.5997,
+                768.7788,
+                557.0483
+            ],
+            "pageIndex": 0,
+            "text": "SKILLS Sofware Adobe Illustrator Adobe Photoshop Adobe After Effects Adobe XD Sketch Final Cut Pro Autodesk Alias Keyshot Cinema 4D Unity Coding Command-line Python HTML/CSS Javascript Tensorflow Personal Communication Self-initiative Project Management UX Wireframe Interactive Prototype UX Research User Journey Map Persona Usability Test User Story Analog Fabrication Wood Workshop Metal Lathe Moulding Soldering Digital Fabrication 3D Printing Laser Cutting CNC Milling Language Traditional Chinese English Japanese"
+        },
+        {
+            "sectionType": "Skills/Interests/Languages",
+            "bbox": [
+                31.47246,
+                319.75647,
+                72.614334,
+                325.9048
+            ],
+            "pageIndex": 0,
+            "text": "RESEARCH"
+        },
+        {
+            "sectionType": "Education",
+            "bbox": [
+                76.48361,
+                319.75647,
+                101.64665,
+                325.9048
+            ],
+            "pageIndex": 0,
+            "text": "FOCUS"
+        },
+        {
+            "sectionType": "Skills/Interests/Languages",
+            "bbox": [
+                71.6449,
+                338.46515,
+                153.84274,
+                344.61346
+            ],
+            "pageIndex": 0,
+            "text": "MACHINE CREATIVITY"
+        },
+        {
+            "sectionType": "Education",
+            "bbox": [
+                71.21119,
+                350.73627,
+                120.780426,
+                365.02283
+            ],
+            "pageIndex": 0,
+            "text": "+ AUGMENTED"
+        },
+        {
+            "sectionType": "Skills/Interests/Languages",
+            "bbox": [
+                124.38608,
+                358.92554,
+                155.62091,
+                364.98032
+            ],
+            "pageIndex": 0,
+            "text": "REALITY"
+        },
+        {
+            "sectionType": "Education",
+            "bbox": [
+                30.520023,
+                396.4021,
+                217.16362,
+                572.31396
+            ],
+            "pageIndex": 0,
+            "text": "EDUCATION Royal College of Art, London, UK Distinction MA, Innovation Design Engineering, 2015-2017 Imperial College London, London, UK Distinction MSc, Innovation Design Engineering, 2015-2017 Shih Chien University, Taipei, Taiwan Dean's List 2009, 2010, 2011 BA, Industrial Design, 2009-2014 Köln International School of Design, Cologne University of Applied Sciences, Cologne, Germany Exchange student program, Integrated Design, 2012-2013"
+        }
+    ],
+    "skills": [
+        {
+            "id": 80435100,
+            "emsiId": "KS123X774FHZ0G0HGX65",
+            "name": "Field Research",
+            "lastUsed": "2015-03-01",
+            "numberOfMonths": 6,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077812
+                }
+            ]
+        },
+        {
+            "id": 80435101,
+            "emsiId": "KS1261Z68KSKR1X31KS3",
+            "name": "Machine Learning",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 69,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077809
+                }
+            ]
+        },
+        {
+            "id": 80435102,
+            "emsiId": "KS7G2P95Z7JT2JK0ZP65",
+            "name": "Moulding",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435103,
+            "emsiId": "KS122HK6LN2MZHFY69GJ",
+            "name": "Creativity",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435105,
+            "emsiId": "KS125QR69CZ37TD3HBC7",
+            "name": "Laser Cutting",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435107,
+            "emsiId": "KS1267F6MSPN366LX7ST",
+            "name": "Project Management",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435110,
+            "emsiId": "KS441PC61LH6SWW9P97Q",
+            "name": "Usability",
+            "lastUsed": "2015-03-01",
+            "numberOfMonths": 6,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077812
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077812
+                }
+            ]
+        },
+        {
+            "id": 80435111,
+            "emsiId": "KS1206Y6W7F5JS3VBTFL",
+            "name": "Adobe Photoshop",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435112,
+            "emsiId": "KS120BV6SR75RBKQH0G3",
+            "name": "Artificial Intelligence",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 69,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077809
+                }
+            ]
+        },
+        {
+            "id": 80435113,
+            "emsiId": "KS121416HBR475Q80WCF",
+            "name": "Cinema 4D",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435115,
+            "emsiId": "ES7A5D0AD38AB0F9D6C6",
+            "name": "Product Requirements",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 69,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077809
+                }
+            ]
+        },
+        {
+            "id": 80435117,
+            "emsiId": "KS1203C6N9B52QGB4H67",
+            "name": "Research",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 75,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077809
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077812
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077809
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077812
+                }
+            ]
+        },
+        {
+            "id": 80435118,
+            "emsiId": "KSD368YR6ITN3YP057NN",
+            "name": "Information Industry",
+            "lastUsed": "2014-07-01",
+            "numberOfMonths": 2,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 4,
+                    "workExperienceId": 15077813
+                }
+            ]
+        },
+        {
+            "id": 80435120,
+            "emsiId": "KS1200578T5QCYT0Z98G",
+            "name": "HyperText Markup Language (HTML)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435122,
+            "emsiId": "KS121FS6XDYK3P8PHYS1",
+            "name": "Catapult",
+            "lastUsed": "2016-08-01",
+            "numberOfMonths": 1,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077810
+                }
+            ]
+        },
+        {
+            "id": 80435124,
+            "emsiId": "ES6860EBF2AF1A87EAF0",
+            "name": "Industrial Design",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435125,
+            "emsiId": "KS1253H61TTR1FZWSRH4",
+            "name": "Innovation",
+            "lastUsed": "2015-03-01",
+            "numberOfMonths": 6,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077812
+                }
+            ]
+        },
+        {
+            "id": 80435126,
+            "emsiId": "ESC27AAFB5C81308A6AA",
+            "name": "Adobe XD",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435129,
+            "emsiId": "KS120GV5ZXR64CJLL1J4",
+            "name": "Analytics",
+            "lastUsed": "2016-08-01",
+            "numberOfMonths": 1,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077810
+                }
+            ]
+        },
+        {
+            "id": 80435131,
+            "emsiId": "KS686QN651H3LHDFCWQM",
+            "name": "Prototype (Manufacturing)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435132,
+            "emsiId": "KS127PX6M7FLDLKD14NC",
+            "name": "Persona (User Experience)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435133,
+            "emsiId": "KS1218W78FGVPVP2KXPX",
+            "name": "Management",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435134,
+            "emsiId": "KS121F45VPV8C9W3QFYH",
+            "name": "Cascading Style Sheets (CSS)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435135,
+            "emsiId": "KS1200771D9CR9LB4MWW",
+            "name": "JavaScript (Programming Language)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435137,
+            "emsiId": "KS1280B68GD79P4WMVYW",
+            "name": "Presentations",
+            "lastUsed": "2015-07-01",
+            "numberOfMonths": 3,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077811
+                }
+            ]
+        },
+        {
+            "id": 80435139,
+            "emsiId": "KS1202B652YN84D9KXMX",
+            "name": "User Experience Design (UX)",
+            "lastUsed": "2015-03-01",
+            "numberOfMonths": 6,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077812
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077812
+                }
+            ]
+        },
+        {
+            "id": 80435144,
+            "emsiId": "KS125LS6N7WP4S6SFTCK",
+            "name": "Python (Programming Language)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435146,
+            "emsiId": "KS122556LMQ829GZCCRV",
+            "name": "Communications",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435099,
+            "emsiId": "KS441QM6LTNMGDSQKHLC",
+            "name": "Value Proposition",
+            "lastUsed": "2015-07-01",
+            "numberOfMonths": 3,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077811
+                }
+            ]
+        },
+        {
+            "id": 80435104,
+            "emsiId": "KS121WT6WNDXJ6XCMP9H",
+            "name": "Filmmaking",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435106,
+            "emsiId": "KS1257T673ND18SQ65DJ",
+            "name": "Interaction Design",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 69,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077809
+                }
+            ]
+        },
+        {
+            "id": 80435108,
+            "emsiId": "KS125PP64ZX53LKDPR0C",
+            "name": "Scheme (Programming Language)",
+            "lastUsed": "2016-08-01",
+            "numberOfMonths": 1,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077810
+                }
+            ]
+        },
+        {
+            "id": 80435109,
+            "emsiId": "KS2GHRCYA6TRT29F1HOO",
+            "name": "TensorFlow",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435114,
+            "emsiId": "KS120KC6MWP1T51KVTJK",
+            "name": "Final Cut Pro",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435116,
+            "emsiId": "KS120S76VJK16ZFQKV96",
+            "name": "Autodesk Alias",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435121,
+            "emsiId": "ESD2529B96F91C73A42D",
+            "name": "Sketch (Design Software)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435123,
+            "emsiId": "KS125QQ61B0JLDS3C1GM",
+            "name": "Laser",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435127,
+            "emsiId": "ES65C3A1A13527AD7580",
+            "name": "Autodesk",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435130,
+            "emsiId": "KS1221N6Y93NC5QGP0TG",
+            "name": "Computer Numerical Control (CNC)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435136,
+            "emsiId": "KS123SS6LVFYNXQPGJZW",
+            "name": "Fabrication",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435138,
+            "emsiId": "KS441PQ64HT13P34T8T5",
+            "name": "User Story",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435140,
+            "emsiId": "KS1201566L1SYP3D4LS3",
+            "name": "3D Printing",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435141,
+            "emsiId": "KS1206V6K46N1SDVJGBD",
+            "name": "Adobe Illustrator",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435143,
+            "emsiId": "KS120XM6K01BDQNVTK1Q",
+            "name": "Soldering",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435145,
+            "emsiId": "ES39F93FA272C3E95C10",
+            "name": "UX Research",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Japanese",
+        "Mandarin",
+        "English"
+    ],
+    "summary": "I am a creative technologist specialised in interaction design - passionate about emerging technology, digital art, and human computer interaction. I have traveled across Asia, America, and Europe gaining insights into diverse cultures, and the way industrial design is practiced in daily activities and among humans. As a designer, I found the gaps between human and artificial intelligence laid wonderful opportunities for exploration and new ideas.",
+    "websites": [
+        "http://www.shutinghuang.com/"
+    ],
+    "linkedin": null,
+    "totalYearsExperience": 7,
+    "profession": "Interaction Designer",
+    "workExperience": [
+        {
+            "id": 15077809,
+            "jobTitle": "Interaction Designer",
+            "organization": "Emotech Ltd.;",
+            "location": {
+                "formatted": "London, UK",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "London",
+                "postalCode": null,
+                "state": "England",
+                "country": "United Kingdom",
+                "rawInput": "London, UK",
+                "countryCode": "GB"
+            },
+            "dates": {
+                "startDate": "2017-04-01",
+                "endDate": "2022-12-21",
+                "monthsInPosition": 69,
+                "isCurrent": true
+            },
+            "jobDescription": "Human-centred design is the key to give Emotech's products spirit. As an interaction designer, I am responsible for envisioning and executing the interaction between people and robot in the future home scenario, assessing product requirements (costs, manufacturing feasibility and market requirements, etc.); doing complex tasks related to artificial intelligence and collaborating with our machine learning scientists, researchers and developers; gaining experience working with a multi-disciplinary team. ",
+            "occupation": {
+                "jobTitle": "Interaction Designer",
+                "jobTitleNormalized": "Interaction Designer",
+                "classification": {
+                    "socCode": 2134,
+                    "title": "Programmers and software development professionals ",
+                    "minorGroup": "Information Technology Professionals",
+                    "subMajorGroup": "SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",
+                    "majorGroup": "PROFESSIONAL OCCUPATIONS"
+                },
+                "managementLevel": "Low"
+            }
+        },
+        {
+            "id": 15077810,
+            "jobTitle": "Design Thinker",
+            "organization": "Satellite Applications Catapult;",
+            "location": {
+                "formatted": "Oxfordshire, UK",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": null,
+                "postalCode": null,
+                "state": "England",
+                "country": "United Kingdom",
+                "rawInput": "Oxfordshire, UK",
+                "countryCode": "GB"
+            },
+            "dates": {
+                "startDate": "2016-07-01",
+                "endDate": "2016-08-01",
+                "monthsInPosition": 1,
+                "isCurrent": false
+            },
+            "jobDescription": "An 8-week internship working in the design team to understand users and social impact of space technology. This is part of the Space Placements in INdustry (SPIN) scheme, which is managed by the Institute for Environmental Analytics at the University of Reading and supported by the Satellite Applications Catapult and the UK Space Agency. ",
+            "occupation": {
+                "jobTitle": "Design Thinker",
+                "jobTitleNormalized": "Designer/Design Director",
+                "classification": {
+                    "socCode": 2142,
+                    "title": "Graphic and multimedia designers",
+                    "minorGroup": "Web and Multimedia Design Professionals",
+                    "subMajorGroup": "SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",
+                    "majorGroup": "PROFESSIONAL OCCUPATIONS"
+                },
+                "managementLevel": "Upper"
+            }
+        },
+        {
+            "id": 15077811,
+            "jobTitle": "Designer",
+            "organization": "Lumosa Therapeutics co. Ltd.;",
+            "location": {
+                "formatted": "Taipei City, Taiwan",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "Taipei",
+                "postalCode": null,
+                "state": "Taipei City",
+                "country": "Taiwan",
+                "rawInput": "Taipei, Taiwan",
+                "countryCode": "TW"
+            },
+            "dates": {
+                "startDate": "2015-04-01",
+                "endDate": "2015-07-01",
+                "monthsInPosition": 3,
+                "isCurrent": false
+            },
+            "jobDescription": "Commissioned by the company as a contract designer to design its IPO presentation materials, including understanding and visualising the company's value proposition, as well as its products (long-acting analgesic injection and small molecule for the acute ischemic stroke treatment). ",
+            "occupation": {
+                "jobTitle": "Designer",
+                "jobTitleNormalized": "Designer",
+                "classification": {
+                    "socCode": 2142,
+                    "title": "Graphic and multimedia designers",
+                    "minorGroup": "Web and Multimedia Design Professionals",
+                    "subMajorGroup": "SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",
+                    "majorGroup": "PROFESSIONAL OCCUPATIONS"
+                },
+                "managementLevel": "Low"
+            }
+        },
+        {
+            "id": 15077812,
+            "jobTitle": "Imagineer",
+            "organization": "Migo TV;",
+            "location": {
+                "formatted": "Taipei City, Taiwan",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "Taipei",
+                "postalCode": null,
+                "state": "Taipei City",
+                "country": "Taiwan",
+                "rawInput": "Taipei, Taiwan",
+                "countryCode": "TW"
+            },
+            "dates": {
+                "startDate": "2014-09-01",
+                "endDate": "2015-03-01",
+                "monthsInPosition": 6,
+                "isCurrent": false
+            },
+            "jobDescription": "Hired as a UX designer by Migo. I organised compatible structures of a project by field research (shadowing and interviewing potential users in Manila, the Philippines), defining user journey map, narrating user stories and conducting usability tests (e.g. A/B testing). Migo is a consumer-focused innovation company focusing on emerging markets, where transformative innovation in entertainment is lacking. ",
+            "occupation": {
+                "jobTitle": "Imagineer",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        },
+        {
+            "id": 15077813,
+            "jobTitle": "UI Designer",
+            "organization": "Taipei Digital Art Centre;",
+            "location": {
+                "formatted": "Taipei City, Taiwan",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "Taipei",
+                "postalCode": null,
+                "state": "Taipei City",
+                "country": "Taiwan",
+                "rawInput": "Taipei, Taiwan",
+                "countryCode": "TW"
+            },
+            "dates": {
+                "startDate": "2014-05-01",
+                "endDate": "2014-07-01",
+                "monthsInPosition": 2,
+                "isCurrent": false
+            },
+            "jobDescription": "Worked in the project \"Experimental Program of Visual Guiding System\" as a UI designer with Taipei Digital Art Centre, Smart Network System Institute of the Institute for Information Industry, ChipSiP Technology Co. and Kupo Co., Ltd. ",
+            "occupation": {
+                "jobTitle": "UI Designer",
+                "jobTitleNormalized": "UI Designer",
+                "classification": {
+                    "socCode": 2141,
+                    "title": "Web design professionals",
+                    "minorGroup": "Web and Multimedia Design Professionals",
+                    "subMajorGroup": "SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",
+                    "majorGroup": "PROFESSIONAL OCCUPATIONS"
+                },
+                "managementLevel": "Low"
+            }
+        }
+    ],
+    "headShot": null,
+    "isResumeProbability": 91,
+    "rawText": "SHU TING HUANG +44 7 493 060066 http://www.shutinghuang.com/\nI am a creative technologist specialised in interaction design - passionate about emerging technology, digital art, and human computer interaction. I have traveled across Asia, America, and Europe gaining insights into diverse cultures, and the way industrial design is practiced in daily activities and among humans. As a designer, I found the gaps between human and artificial intelligence laid wonderful opportunities for exploration and new ideas.\nRESEARCH\nFOCUS\nMACHINE CREATIVITY\n+ AUGMENTED\nREALITY\nEDUCATION Royal College of Art, London, UK Distinction MA, Innovation Design Engineering, 2015-2017 Imperial College London, London, UK Distinction MSc, Innovation Design Engineering, 2015-2017 Shih Chien University, Taipei, Taiwan Dean's List 2009, 2010, 2011 BA, Industrial Design, 2009-2014 Köln International School of Design, Cologne University of Applied Sciences, Cologne, Germany Exchange student program, Integrated Design, 2012-2013\nWORK EXPERIENCES OTHER EXPERIENCES April 2017 - present Interaction Designer, Emotech Ltd.; London, UK Human-centred design is the key to give Emotech's products spirit. As an interaction designer, I am responsible for envisioning and executing the interaction between people and robot in the future home scenario, assessing product requirements (costs, manufacturing feasibility and market requirements, etc.); doing complex tasks related to artificial intelligence and collaborating with our machine learning scientists, researchers and developers; gaining experience working with a multi-disciplinary team. July - August 2016 Design Thinker, Satellite Applications Catapult; Oxfordshire, UK An 8-week internship working in the design team to understand users and social impact of space technology. This is part of the Space Placements in INdustry (SPIN) scheme, which is managed by the Institute for Environmental Analytics at the University of Reading and supported by the Satellite Applications Catapult and the UK Space Agency. April 2015 - July 2015 Designer, Lumosa Therapeutics co. Ltd.; Taipei, Taiwan Commissioned by the company as a contract designer to design its IPO presentation materials, including understanding and visualising the company's value proposition, as well as its products (long-acting analgesic injection and small molecule for the acute ischemic stroke treatment). September 2014 - March 2015 Imagineer, Migo TV; Taipei, Taiwan Hired as a UX designer by Migo. I organised compatible structures of a project by field research (shadowing and interviewing potential users in Manila, the Philippines), defining user journey map, narrating user stories and conducting usability tests (e.g. A/B testing). Migo is a consumer-focused innovation company focusing on emerging markets, where transformative innovation in entertainment is lacking. May - July 2014 UI Designer, Taipei Digital Art Centre; Taipei, Taiwan Worked in the project \"Experimental Program of Visual Guiding System\" as a UI designer with Taipei Digital Art Centre, Smart Network System Institute of the Institute for Information Industry, ChipSiP Technology Co. and Kupo Co., Ltd. Attending Fab10 Barcelona and Fab11 Boston (MIT) as a member of FabLab Dynamic, Taipei, Taiwan. Participated in btk International Summer School Design, Art and Cultural workshop- Filmmaking in Berlin. I learned documentary filmmaking and made three experimental videos during the summer school. It was instructed by Anna Marziano and Armin Dierolf. Participated in an international workshop - Social Design, hosted by \"Fablab annual meeting in Taiwan - Open Fab City\" and instructed by Anna Waldman-Brown.\nSKILLS Sofware Adobe Illustrator Adobe Photoshop Adobe After Effects Adobe XD Sketch Final Cut Pro Autodesk Alias Keyshot Cinema 4D Unity Coding Command-line Python HTML/CSS Javascript Tensorflow Personal Communication Self-initiative Project Management UX Wireframe Interactive Prototype UX Research User Journey Map Persona Usability Test User Story Analog Fabrication Wood Workshop Metal Lathe Moulding Soldering Digital Fabrication 3D Printing Laser Cutting CNC Milling Language Traditional Chinese English Japanese"
+}

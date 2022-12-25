@@ -1,0 +1,180 @@
+{
+    "fullName": "刘国旗",
+    "contacts": [
+        {
+            "contact": "15652335958",
+            "type": "PHONE"
+        },
+        {
+            "contact": "673319831@qq.com",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "673319831",
+            "type": "QQ"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "创业公司从0-1的产品研讨，功能实现\n●  后台管理系统，商品(测评量表，视频/语音/直播咨询，录播课程)的上架审核，咨询师的审核等\n●  B端咨询师的入驻认证审核，店铺装修审核，发布咨询审核，咨询师接单，反馈，评价，待办事项\n●  C端用户的下单，支付，语音咨询，视频咨询，评价，待办事项，订单校验\n●  对接第三方声网语音视频，生成token创建直播房间号\nBC端充值消费商品记录，历史足迹，量表/视频/语音/直播/录播课程的标签分类",
+            "companyName": "北京方寸悦动科技有限公司",
+            "startDate": "2021-10-01",
+            "current": true
+        },
+        {
+            "description": "负责鑫方盛开放平台toB端openapi的开发工作和对外服务的对接。\n●  保证第三方平台的预订单和异常订单的正常下推oms。\n新项目中标后按照对方接口标准的文档开发接入。\n●  负责的各个渠道商品的增量推送和全量推送，保证数据状态的正常对接。\n跟进第三方测试联调进度，并保证进度如期上线。\n●  处理线上正常订单和异常订单的工单。\n●  参与开放平台初期建设",
+            "companyName": "鑫方盛控股集团有限公司",
+            "startDate": "2020-09-01",
+            "endDate": "2021-09-01"
+        },
+        {
+            "description": "●  根据现阶段的业务需求整改之前项目中的业务逻辑\n●  取消自家的物流系统改为供应商一件代发\n●  没有城市的区域化划分\n●  整改mysql数据库的商品库和库存\n●  购物车中下单依据和对商品的判断，redis实现折扣价活动商品的预占库存\n●  对接第三方的微信支付功能\n●  协助分账系统的研发\n●  对接第三方商品入库，属性标签转换，价格同步",
+            "companyName": "生活百科有限公司北京分公司",
+            "startDate": "2019-03-01",
+            "endDate": "2020-07-01"
+        },
+        {
+            "description": "●  基本模块代码的编写\n●  参与研究、学习新的技术和知识;修复程序BUG\n完成上级交办的其他任务等",
+            "companyName": "北京云飞时代网络科技有限公司",
+            "startDate": "2016-01-01",
+            "endDate": "2019-01-01"
+        },
+        {
+            "description": "0、担任项目开发过程中的Java工程师，参与公司多个项目的开发帮助项目经理整理材料和分析项目\n需求。\n1、在项目中团队合作，进行后台Java代码编写，同时进行 jsp页面调试，前后端信息统一。",
+            "companyName": "北京天汇创业软件有限公司",
+            "startDate": "2014-07-01",
+            "endDate": "2015-12-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "Mq"
+        },
+        {
+            "skillName": "Soa"
+        },
+        {
+            "skillName": "Rpc"
+        },
+        {
+            "skillName": "XML"
+        },
+        {
+            "skillName": "Git"
+        },
+        {
+            "skillName": "Jvm"
+        },
+        {
+            "skillName": "Jsp"
+        },
+        {
+            "skillName": "SQL"
+        },
+        {
+            "skillName": "Idea"
+        },
+        {
+            "skillName": "Java"
+        },
+        {
+            "skillName": "Json"
+        },
+        {
+            "skillName": "NoSQL"
+        },
+        {
+            "skillName": "Linux"
+        },
+        {
+            "skillName": "Dubbo"
+        },
+        {
+            "skillName": "Redis"
+        },
+        {
+            "skillName": "Maven"
+        },
+        {
+            "skillName": "MySQL"
+        },
+        {
+            "skillName": "Token"
+        },
+        {
+            "skillName": "接口"
+        },
+        {
+            "skillName": "Spring"
+        },
+        {
+            "skillName": "搭建"
+        },
+        {
+            "skillName": "配置"
+        },
+        {
+            "skillName": "装修"
+        },
+        {
+            "skillName": "缓存"
+        },
+        {
+            "skillName": "编码"
+        },
+        {
+            "skillName": "架构"
+        },
+        {
+            "skillName": "功能"
+        },
+        {
+            "skillName": "Mybatis"
+        },
+        {
+            "skillName": "Openapi"
+        },
+        {
+            "skillName": "Rabbitmq"
+        },
+        {
+            "skillName": "Zookeeper"
+        },
+        {
+            "skillName": "ssm框架"
+        },
+        {
+            "skillName": "中间件"
+        },
+        {
+            "skillName": "Springboot"
+        },
+        {
+            "skillName": "springcloud"
+        },
+        {
+            "skillName": "代码编写"
+        },
+        {
+            "skillName": "需求分析"
+        },
+        {
+            "skillName": "单元测试"
+        },
+        {
+            "skillName": "项目经理"
+        },
+        {
+            "skillName": "软件工程"
+        },
+        {
+            "skillName": "客户服务"
+        },
+        {
+            "skillName": "Sharding-Jdbc"
+        },
+        {
+            "skillName": "Mysql数据库"
+        }
+    ]
+}

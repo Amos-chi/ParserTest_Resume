@@ -1,0 +1,998 @@
+{
+    "predicted_result": {
+        "desired_salary": "30000_to_40000",
+        "tags": {
+            "skills": [
+                {
+                    "tag": "微信小程序",
+                    "type": "professional_skill",
+                    "subclass": "前端开发"
+                },
+                {
+                    "tag": "架构设计",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "模块开发",
+                    "type": "professional_skill",
+                    "subclass": "其它"
+                },
+                {
+                    "tag": "档案管理",
+                    "type": "professional_skill",
+                    "subclass": "人力资源"
+                },
+                {
+                    "tag": "功能模块",
+                    "type": "professional_skill",
+                    "subclass": "其它"
+                },
+                {
+                    "tag": "数据统计",
+                    "type": "professional_skill",
+                    "subclass": "数据分析"
+                },
+                {
+                    "tag": "JAVA开发",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "DEVOPS",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "SCRUM",
+                    "type": "professional_skill",
+                    "subclass": "项目管理"
+                },
+                {
+                    "tag": "页面设计",
+                    "type": "professional_skill",
+                    "subclass": "UI设计"
+                },
+                {
+                    "tag": "技术支持",
+                    "type": "professional_skill",
+                    "subclass": "其它"
+                },
+                {
+                    "tag": "网络管理",
+                    "type": "professional_skill",
+                    "subclass": "其它"
+                },
+                {
+                    "tag": "管理工作",
+                    "type": "professional_skill",
+                    "subclass": "其它"
+                },
+                {
+                    "tag": "CI",
+                    "type": "professional_skill",
+                    "subclass": "常用软件"
+                },
+                {
+                    "tag": "CI",
+                    "type": "professional_skill",
+                    "subclass": "前端开发"
+                },
+                {
+                    "tag": "CI",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "ELASTICSEARCH",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "SPRING MVC",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "JAVASCRIPT",
+                    "type": "professional_skill",
+                    "subclass": "前端开发"
+                },
+                {
+                    "tag": "MYBATIS",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "JENKINS",
+                    "type": "professional_skill",
+                    "subclass": "系统运维"
+                },
+                {
+                    "tag": "REACTJS",
+                    "type": "professional_skill",
+                    "subclass": "前端开发"
+                },
+                {
+                    "tag": "GOLANG",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "NODEJS",
+                    "type": "professional_skill",
+                    "subclass": "前端开发"
+                },
+                {
+                    "tag": "PYTHON",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "DOCKER",
+                    "type": "professional_skill",
+                    "subclass": "开发工具"
+                },
+                {
+                    "tag": "JQUERY",
+                    "type": "professional_skill",
+                    "subclass": "前端开发"
+                },
+                {
+                    "tag": "消息中间件",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "VUEJS",
+                    "type": "professional_skill",
+                    "subclass": "前端开发"
+                },
+                {
+                    "tag": "数据库设计",
+                    "type": "professional_skill",
+                    "subclass": "DATABASE"
+                },
+                {
+                    "tag": "服务器维护",
+                    "type": "professional_skill",
+                    "subclass": "系统运维"
+                },
+                {
+                    "tag": "MYSQL",
+                    "type": "professional_skill",
+                    "subclass": "DATABASE"
+                },
+                {
+                    "tag": "团队管理",
+                    "type": "professional_skill",
+                    "subclass": "管理"
+                },
+                {
+                    "tag": "项目研发",
+                    "type": "professional_skill",
+                    "subclass": "项目管理"
+                },
+                {
+                    "tag": "客户服务",
+                    "type": "professional_skill",
+                    "subclass": "客户服务"
+                },
+                {
+                    "tag": "项目管理",
+                    "type": "professional_skill",
+                    "subclass": "项目管理"
+                },
+                {
+                    "tag": "软件开发",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "体系结构",
+                    "type": "professional_skill",
+                    "subclass": "其它"
+                },
+                {
+                    "tag": "原型制作",
+                    "type": "professional_skill",
+                    "subclass": "产品"
+                },
+                {
+                    "tag": "视频课程",
+                    "type": "professional_skill",
+                    "subclass": "影视"
+                },
+                {
+                    "tag": "微服务",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "JVM",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "多线程",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "GIT",
+                    "type": "professional_skill",
+                    "subclass": "开发工具"
+                },
+                {
+                    "tag": "JPA",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "运维",
+                    "type": "professional_skill",
+                    "subclass": "系统运维"
+                },
+                {
+                    "tag": "重构",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "全栈",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "小程序开发",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "教育咨询",
+                    "type": "professional_skill",
+                    "subclass": "教育培训"
+                },
+                {
+                    "tag": "客户管理",
+                    "type": "professional_skill",
+                    "subclass": "销售"
+                },
+                {
+                    "tag": "结构图",
+                    "type": "professional_skill",
+                    "subclass": "其它"
+                },
+                {
+                    "tag": "算法",
+                    "type": "professional_skill",
+                    "subclass": "算法"
+                },
+                {
+                    "tag": "交互",
+                    "type": "professional_skill",
+                    "subclass": "产品"
+                }
+            ],
+            "professional": [
+                {
+                    "tag": "互联网/软件",
+                    "type": "industry"
+                },
+                {
+                    "tag": "文化/体育/娱乐/社交",
+                    "type": "industry"
+                },
+                {
+                    "tag": "IT/互联网-后端开发-JAVA",
+                    "type": "standard_title"
+                },
+                {
+                    "tag": "JAVA开发工程师",
+                    "type": "job_title"
+                }
+            ],
+            "education": [
+                {
+                    "tag": "本科学历",
+                    "type": "degree"
+                },
+                {
+                    "tag": "通信工程",
+                    "type": "major"
+                },
+                {
+                    "tag": "211工程院校",
+                    "type": "school_level"
+                }
+            ],
+            "basic": [
+                {
+                    "tag": "男",
+                    "type": "gender"
+                },
+                {
+                    "tag": "26到30岁",
+                    "type": "age"
+                },
+                {
+                    "tag": "初级",
+                    "type": "level"
+                },
+                {
+                    "tag": "5-10年经验",
+                    "type": "experience"
+                },
+                {
+                    "tag": "30K-40K",
+                    "type": "salary"
+                }
+            ],
+            "others": []
+        },
+        "highlights": {
+            "project": [
+                "拥有丰富的项目经验"
+            ],
+            "occupation": [],
+            "education": [
+                "院校背景不错，本科学历，毕业于211院校"
+            ],
+            "others": [
+                "有丰富的前端开发经验，对vue、react、vuejs、javascript、jquery、reactjs、nodejs等技能或工具有深入的理解",
+                "有丰富的项目管理经验，对scrum、项目研发、项目管理等技能或工具有深入的理解",
+                "有丰富的后端开发经验，对多线程、mysql、javascript、mybatis、开发经验、mvc、jquery、数据库、spring、java、系统、架构等技能或工具有深入的理解"
+            ],
+            "tags": [
+                "国内211",
+                "技术达标"
+            ]
+        },
+        "predicted_industry": {
+            "建筑/房地产": 5,
+            "咨询/法律/公务员": 5,
+            "生物/制药/医疗/护理": 5.5,
+            "教育/翻译/服务业": 5,
+            "其他": 5.5,
+            "工程师": 5,
+            "运营/客服/销售/市场": 6,
+            "人事/行政/高级管理": 7,
+            "生产/采购/物流": 5,
+            "互联网": 6,
+            "产品": 5,
+            "金融": 5
+        },
+        "predicted_titles": [
+            {
+                "score": 0.6400000000000001,
+                "title": {
+                    "l2": "后端开发",
+                    "l3": "JAVA",
+                    "l1": "IT/互联网"
+                }
+            },
+            {
+                "score": 0.3757976979333403,
+                "title": {
+                    "l2": "行政/高级管理",
+                    "l3": "高级管理人员",
+                    "l1": "财务/人力资源/行政"
+                }
+            },
+            {
+                "score": 0.3354570261521741,
+                "title": {
+                    "l2": "高级技术",
+                    "l3": "CTO/首席技术官",
+                    "l1": "IT/互联网"
+                }
+            },
+            {
+                "score": 0.28874527591448557,
+                "title": {
+                    "l2": "后端开发",
+                    "l3": "Docker",
+                    "l1": "IT/互联网"
+                }
+            },
+            {
+                "score": 0.28512414420398985,
+                "title": {
+                    "l2": "市场",
+                    "l3": "广告传媒影视",
+                    "l1": "销售/客服/市场"
+                }
+            },
+            {
+                "score": 0.2558892681348528,
+                "title": {
+                    "l2": "生物/制药/医疗/护理",
+                    "l3": "麻醉医生",
+                    "l1": "生物/制药/医疗"
+                }
+            }
+        ],
+        "stability": {
+            "average_job_function_time": 12.333333333333334,
+            "average_industry_time": 18.5,
+            "average_work_time": 12.333333333333334,
+            "work_stability": "稳定"
+        },
+        "predicted_capability": {
+            "language": 6,
+            "socialexp": 6,
+            "leadership": 8,
+            "workexp": 7,
+            "education": 7,
+            "honor": 5
+        },
+        "predicted_skills": [
+            {
+                "skill": "微信小程序",
+                "score": 1
+            },
+            {
+                "skill": "架构设计",
+                "score": 1
+            },
+            {
+                "skill": "模块开发",
+                "score": 1
+            },
+            {
+                "skill": "档案管理",
+                "score": 1
+            },
+            {
+                "skill": "功能模块",
+                "score": 0.9
+            },
+            {
+                "skill": "数据统计",
+                "score": 0.9
+            },
+            {
+                "skill": "java开发",
+                "score": 0.8
+            },
+            {
+                "skill": "devops",
+                "score": 0.8
+            },
+            {
+                "skill": "scrum",
+                "score": 0.8
+            },
+            {
+                "skill": "页面设计",
+                "score": 0.8
+            },
+            {
+                "skill": "技术支持",
+                "score": 0.8
+            },
+            {
+                "skill": "网络管理",
+                "score": 0.8
+            },
+            {
+                "skill": "管理工作",
+                "score": 0.8
+            },
+            {
+                "skill": "ci",
+                "score": 0.8
+            },
+            {
+                "skill": "elasticsearch",
+                "score": 0.7
+            },
+            {
+                "skill": "spring mvc",
+                "score": 0.7
+            },
+            {
+                "skill": "javascript",
+                "score": 0.7
+            },
+            {
+                "skill": "mybatis",
+                "score": 0.7
+            },
+            {
+                "skill": "jenkins",
+                "score": 0.7
+            },
+            {
+                "skill": "reactjs",
+                "score": 0.7
+            },
+            {
+                "skill": "golang",
+                "score": 0.7
+            },
+            {
+                "skill": "nodejs",
+                "score": 0.7
+            },
+            {
+                "skill": "python",
+                "score": 0.7
+            },
+            {
+                "skill": "docker",
+                "score": 0.7
+            },
+            {
+                "skill": "jquery",
+                "score": 0.7
+            },
+            {
+                "skill": "消息中间件",
+                "score": 0.7
+            },
+            {
+                "skill": "vuejs",
+                "score": 0.7
+            },
+            {
+                "skill": "数据库设计",
+                "score": 0.7
+            },
+            {
+                "skill": "服务器维护",
+                "score": 0.7
+            },
+            {
+                "skill": "mysql",
+                "score": 0.7
+            },
+            {
+                "skill": "团队管理",
+                "score": 0.7
+            },
+            {
+                "skill": "项目研发",
+                "score": 0.7
+            },
+            {
+                "skill": "客户服务",
+                "score": 0.7
+            },
+            {
+                "skill": "项目管理",
+                "score": 0.7
+            },
+            {
+                "skill": "软件开发",
+                "score": 0.7
+            },
+            {
+                "skill": "体系结构",
+                "score": 0.7
+            },
+            {
+                "skill": "原型制作",
+                "score": 0.7
+            },
+            {
+                "skill": "视频课程",
+                "score": 0.7
+            },
+            {
+                "skill": "微服务",
+                "score": 0.7
+            },
+            {
+                "skill": "jvm",
+                "score": 0.7
+            },
+            {
+                "skill": "多线程",
+                "score": 0.7
+            },
+            {
+                "skill": "git",
+                "score": 0.7
+            },
+            {
+                "skill": "jpa",
+                "score": 0.7
+            },
+            {
+                "skill": "化工",
+                "score": 0.7
+            },
+            {
+                "skill": "运维",
+                "score": 0.7
+            },
+            {
+                "skill": "重构",
+                "score": 0.7
+            },
+            {
+                "skill": "全栈",
+                "score": 0.7
+            },
+            {
+                "skill": "小程序开发",
+                "score": 0.5
+            },
+            {
+                "skill": "教育咨询",
+                "score": 0.5
+            },
+            {
+                "skill": "客户管理",
+                "score": 0.5
+            },
+            {
+                "skill": "结构图",
+                "score": 0.5
+            },
+            {
+                "skill": "算法",
+                "score": 0.5
+            },
+            {
+                "skill": "交互",
+                "score": 0.5
+            }
+        ],
+        "predicted_salary": "20000_to_30000",
+        "predicted_turnover": 0.23167942464351654,
+        "risks": {
+            "occupation": [
+                "候选人在2016年9月至2022年1月存在工作空档期",
+                "候选人存在2段工作经历时长不足1年，某段时间内工作不够稳定"
+            ],
+            "education": [],
+            "tags": [
+                "存在职业空档期",
+                "曾工作不稳定"
+            ]
+        }
+    },
+    "cv_name": "8e287322677cdb7776009f63f741f4cb.pdf",
+    "ocr_count": 0,
+    "src_id": "",
+    "version": "4.7.0",
+    "cv_language": "zh",
+    "src_site": "other",
+    "file_name": "2022-12-21T10:02:23--25e68623d451dc786eecc92a612b2817.pdf",
+    "errormessage": "succeed",
+    "cv_id": "",
+    "english_parsing_result": {},
+    "updated_time": "",
+    "applied_job": "",
+    "resume_integrity": 0.7661322730646823,
+    "parsing_result": {
+        "project_experience": [
+            {
+                "project_name": "排大运小程序",
+                "description": "该小程序主要功能是根据出生年月日以及出生地点，根据道家的连山易，计算出八字、纳音\n数以及一生的大运数，帮助连山易课程学员验证自己的算命结果以及作为平时的连山易工具\n使用。\n主要负责:\n●   算法实现\n●   小程序开发",
+                "end_time_year": "2022",
+                "still_active": 0,
+                "skills": [
+                    "功能",
+                    "程序开发"
+                ],
+                "end_time_month": "06",
+                "location": "",
+                "start_time_year": "2022",
+                "company_name": "",
+                "job_function": "高级管理人员",
+                "job_title": "",
+                "start_time_month": "03"
+            },
+            {
+                "project_name": "五彩鹿家长端",
+                "description": "该线上产品面向在园家长及潜在入园家长，包含课程信息展示、评估筛查、教辅工具购买、\n自闭症问答知识查询等功能，需要跟五彩鹿线上平台核心系统进行交互。\n主要负责:\n●   架构设计\n●   核心模块开发\n●   项目目标制定及进度跟进\n技术栈:\n●   MyBatis\n●   Elasticsearch\n●   Docker\n●   Git\n●   微信小程序\n●   VueJS",
+                "end_time_year": "2021",
+                "still_active": 0,
+                "skills": [
+                    "git",
+                    "vuejs",
+                    "功能",
+                    "架构设计",
+                    "elasticsearch",
+                    "mybatis",
+                    "docker",
+                    "模块开发"
+                ],
+                "end_time_month": "04",
+                "location": "",
+                "start_time_year": "2020",
+                "company_name": "",
+                "job_function": "JAVA",
+                "job_title": "",
+                "start_time_month": "10"
+            },
+            {
+                "project_name": "五彩鹿教学平台核心系统",
+                "description": "系统分为多个子系统和服务，承载教务所需的缴费及学生档案管理相关功能、教学所需的评\n估及教学计划制定以及排课相关功能、管理所需的数据统计及工作流相关功能、系统层级的\n权限管理相关功能、批任务处理等\n主要负责:\n●   项目发展目标的制定和推进\n●   基础设施的建设和维护\n●   架构设计及落地实施\n●   针对开发人员遇到的卡点进行支持和解决\n●   重难点功能模块开发\n技术栈:\n5a06a47e486f58001nJ60tS7F1ZQy5G6VfqZReOhmQ~~\n●   Docker\n●   Jenkins\n●   Git\n●   微信小程序",
+                "end_time_year": "2021",
+                "still_active": 0,
+                "skills": [
+                    "git",
+                    "档案管理",
+                    "功能",
+                    "架构设计",
+                    "jenkins",
+                    "docker",
+                    "模块开发"
+                ],
+                "end_time_month": "12",
+                "location": "",
+                "start_time_year": "2018",
+                "company_name": "",
+                "job_function": "JAVA",
+                "job_title": "",
+                "start_time_month": "03"
+            },
+            {
+                "project_name": "开心屋社区（论坛）",
+                "description": "开心屋社区是一个专为公司开心屋公益项目提供的，用于相关全国各地的老师交流、分享的\n论坛，并且提供简单CMS功能，可以让更多人了解开心屋公益项目。系统主要提供新闻、论\n坛相关基本功能、开心屋游戏打卡签到、开心屋人才管理等功能。\n主要负责:\n●   整理需求，制作功能结构图，制作页面原型，数据库设计",
+                "end_time_year": "2017",
+                "still_active": 0,
+                "skills": [
+                    "数据库设计",
+                    "功能",
+                    "cms"
+                ],
+                "end_time_month": "06",
+                "location": "",
+                "start_time_year": "2017",
+                "company_name": "",
+                "job_function": "Web前端/网页前端",
+                "job_title": "",
+                "start_time_month": "04"
+            }
+        ],
+        "contact_info": {
+            "phone_number": "18911151483",
+            "QQ": "",
+            "wechat": "",
+            "email": "keyliwen@icloud.com",
+            "home_phone_number": ""
+        },
+        "social_experience": [],
+        "education_experience": [
+            {
+                "ranking": "",
+                "major": "通信工程",
+                "degree": "本科",
+                "end_time_year": "2014",
+                "still_active": 0,
+                "school_rank": "80",
+                "school_level": "211",
+                "end_time_month": "06",
+                "school_name": "北京工业大学",
+                "abroad_country": "",
+                "GPA": "",
+                "courses": "",
+                "start_time_year": "2010",
+                "location": "北京",
+                "department": "",
+                "study_model": "",
+                "abroad": 0,
+                "start_time_month": "09"
+            }
+        ],
+        "basic_info": {
+            "major": "通信工程",
+            "expect_location": "",
+            "current_salary": "",
+            "current_location_norm": "",
+            "current_location": "",
+            "expect_location_norm": "",
+            "desired_salary": "30000-40000/月",
+            "birthplace": "",
+            "degree": "本科",
+            "desired_industry": "不限",
+            "desired_position": "Java,架构师,Golang   大，非常需要通过线上平台提供对教务、教学、客户服务的有效支撑，提升教学质量和服务",
+            "zipcode": "",
+            "professional_level": "初级",
+            "national_identity_number": "",
+            "date_of_birth": "1992",
+            "birthplace_norm": "",
+            "num_work_experience": 8,
+            "current_position": "联合创始人",
+            "work_start_year": "2014",
+            "political_status": "",
+            "current_company": "天津仙草仙草文化传播有限公司",
+            "school_name": "北京工业大学",
+            "ethnic": "",
+            "recent_graduate_year": "2014",
+            "name": "李文",
+            "lastupdate_time": "2022-12-21-10-02-24",
+            "gender": "男",
+            "age": 30,
+            "marital_status": "",
+            "current_status": "",
+            "school_type": "211",
+            "detailed_location": "",
+            "industry": "不限"
+        },
+        "training_experience": [],
+        "work_experience": [
+            {
+                "salary": "",
+                "description": "由于之前工作比较劳累，所以想休息一段时间，在此期间，和家人共同做了一些创业的尝\n试，主要业务是国学课程培训和芳香疗法培训，我主要负责线下课程开展和业务相关的一些\n工具小程序的开发，基本的业务已稳定，而且我也更喜欢对技术的持续探索，所以由家人继\n续相关业务的开展，我回归到自己最擅长的技术专业领域发挥自己的价值\n求职状态: 离职-正在找工作\n工作性质: 全职 2018.03---2021.12\n工作地区: 北京 五彩鹿（北京）教育咨询有限责任公司\n技术经理/架构师\n期望月薪: 30000-40000/月\n五彩鹿是一家自闭症早期干预机构，核心业务形式是线下自闭症幼儿园，由于规模的不断扩\n期望职业: Java,架构师,Golang 大，非常需要通过线上平台提供对教务、教学、客户服务的有效支撑，提升教学质量和服务\n精准性，我负责带领团队进行线上平台核心模块及支撑子系统的开发和运维工作，主要包\n期望行业: 不限行业\n括: 缴费及订单相关功能、排课及课时计算相关功能、专业评估及教学计划制定工具、功能\n权限及数据权限控制、工作流、客户管理子系统、批任务子系统、C端应用等。\n具体工作内容:\n●   参与重难点功能开发，解决团队遇到的各种复杂技术及业务问题\n自我评价 ● 构建CI/CD工具链，在团队实际项目中全方位落地CI/CD以及Scrum，提升研发效率\n●   负责架构设计及重构，根据业务需求制定相应解决方案\n2年团队管理及架构设计经验，8年\n●   制定团队目标，根据公司战略目标，定位部门角色，细化部门年度、季度、月度目标\nJava开发经验，拥有多个项目的全栈 ● 帮助团队建立工作信心，制定岗位职责和目标，与团队成员定期1v1沟通，了解成员工作状\n开发经验，主导并参与了多个项目从 态及发展规划，向其传达公司及团队目标，帮助成员更好的融入团队并建立团队荣誉感\n0到1的全过程，计算机基础知识牢\n固，熟悉JVM体系结构及多线程，\n2015.08---2018.03\n对微服务有深入理解并实践，熟悉缓\n简快教育科技（北京）有限公司\n存和消息中间件，精通Docker及\nDevOps，熟悉Vue/React以及 Java开发工程师\nNodejs，掌握Python及Go，擅长 公司在心理学行业耕耘多年，希望可以通过线上扩大影响力，所以成立了技术部，主导线上\n产品的研发\n解决问题和沟通，喜欢探索和不断成\n业务目标:\n长，对软件开发充满激情，立志于通\n●   研发线上心里咨询平台——生活没烦恼APP\n过软件简化工作和生活。 ● 为公司公益项目开心屋项目研发官网及论坛\n●   为新业务线国学业务线研发线上学习平台\n具体工作内容:\n●   负责各技术产品的设计及项目管理\n●   负责自研项目的全部开发任务\n●   维护线上产品正常运行\n●   负责协助公司改善内部工作流，提供技术解决方案\n●   为公司一切有关技术的问题提供相关建议和方案",
+                "end_time_year": "2022",
+                "still_active": 0,
+                "skills": [
+                    "ci",
+                    "nodejs",
+                    "app",
+                    "项目管理",
+                    "java开发",
+                    "体系结构",
+                    "java",
+                    "devops",
+                    "心理学",
+                    "jvm",
+                    "python",
+                    "scrum",
+                    "架构设计",
+                    "react",
+                    "团队管理",
+                    "功能",
+                    "golang",
+                    "vue",
+                    "多线程",
+                    "客户服务",
+                    "中间件",
+                    "架构",
+                    "docker",
+                    "运维"
+                ],
+                "company_type": "",
+                "industry": "文化/体育/娱乐/社交",
+                "end_time_month": "08",
+                "location": "",
+                "company_size": "",
+                "job_function": "高级管理",
+                "start_time_year": "2022",
+                "company_name": "天津仙草仙草文化传播有限公司",
+                "report_to": "",
+                "department": "",
+                "underling_num": "",
+                "job_title": "联合创始人",
+                "start_time_month": "01"
+            },
+            {
+                "salary": "",
+                "description": "全民国学网是一款在线学习国学知识的产品，主要面向公司国学培训项目中产生的学员，提\n供在线答题测验、视频课程（免费/付费）等核心功能；\n●   需求整理及页面原型制作，页面设计",
+                "end_time_year": "2016",
+                "still_active": 0,
+                "skills": [
+                    "功能",
+                    "页面设计"
+                ],
+                "company_type": "",
+                "industry": "互联网/软件",
+                "end_time_month": "09",
+                "location": "",
+                "company_size": "",
+                "job_function": "",
+                "start_time_year": "2015",
+                "company_name": "全民国学网",
+                "report_to": "",
+                "department": "",
+                "underling_num": "",
+                "job_title": "",
+                "start_time_month": "10"
+            },
+            {
+                "salary": "",
+                "description": "负责在线学习平台的功能优化和新功能开发功能；负责在线学习平台用户的技术支持工作 ；\n负责公司内部网络管理工作。",
+                "end_time_year": "2015",
+                "still_active": 0,
+                "skills": [
+                    "网络管理",
+                    "管理工作",
+                    "功能",
+                    "java开发",
+                    "优化"
+                ],
+                "company_type": "",
+                "industry": "互联网/软件",
+                "end_time_month": "07",
+                "location": "",
+                "company_size": "",
+                "job_function": "软件/互联网开发/系统集成",
+                "start_time_year": "2014",
+                "company_name": "北京华夏赛科技术发展有限公司",
+                "report_to": "",
+                "department": "",
+                "underling_num": "",
+                "job_title": "Java开发工程师",
+                "start_time_month": "03"
+            }
+        ],
+        "others": {
+            "language": [
+                "英语"
+            ],
+            "certificate": [],
+            "skills": [
+                "Ci",
+                "Jpa",
+                "App",
+                "Git",
+                "Jvm",
+                "Vue",
+                "Cms",
+                "Java",
+                "MySQL",
+                "Cloud",
+                "vuejs",
+                "Scrum",
+                "React",
+                "优化",
+                "Nodejs",
+                "Spring",
+                "Devops",
+                "Python",
+                "Docker",
+                "Jquery",
+                "Golang",
+                "架构",
+                "功能",
+                "运维",
+                "Mybatis",
+                "Jenkins",
+                "Reactjs",
+                "activiti",
+                "心理学",
+                "多线程",
+                "中间件",
+                "Spring Mvc",
+                "Java开发",
+                "JavaScript",
+                "程序开发",
+                "项目管理",
+                "体系结构",
+                "页面设计",
+                "管理工作",
+                "模块开发",
+                "网络管理",
+                "架构设计",
+                "团队管理",
+                "档案管理",
+                "通信工程",
+                "客户服务",
+                "Elasticsearch",
+                "服务器维护",
+                "数据库设计"
+            ],
+            "self_evaluation": "自我评价 ● 构建CI/CD工具链，在团队实际项目中全方位落地CI/CD以及Scrum，提升研发效率\n●   负责架构设计及重构，根据业务需求制定相应解决方案\n2年团队管理及架构设计经验，8年\n●   制定团队目标，根据公司战略目标，定位部门角色，细化部门年度、季度、月度目标\nJava开发经验，拥有多个项目的全栈 ● 帮助团队建立工作信心，制定岗位职责和目标，与团队成员定期1v1沟通，了解成员工作状\n开发经验，主导并参与了多个项目从        态及发展规划，向其传达公司及团队目标，帮助成员更好的融入团队并建立团队荣誉感\n0到1的全过程，计算机基础知识牢\n固，熟悉JVM体系结构及多线程，\n 2015.08---2018.03 \n对微服务有深入理解并实践，熟悉缓\n简快教育科技（北京）有限公司\n存和消息中间件，精通Docker及\nDevOps，熟悉Vue/React以及    Java开发工程师\nNodejs，掌握Python及Go，擅长   公司在心理学行业耕耘多年，希望可以通过线上扩大影响力，所以成立了技术部，主导线上\n产品的研发\n解决问题和沟通，喜欢探索和不断成\n业务目标: \n长，对软件开发充满激情，立志于通\n●   研发线上心里咨询平台——生活没烦恼APP\n过软件简化工作和生活。 ● 为公司公益项目开心屋项目研发官网及论坛\n●   为新业务线国学业务线研发线上学习平台\n具体工作内容: \n●   负责各技术产品的设计及项目管理\n●   负责自研项目的全部开发任务\n●   维护线上产品正常运行\n●   负责协助公司改善内部工作流，提供技术解决方案\n●   为公司一切有关技术的问题提供相关建议和方案\n 2014.03---2015.07 \n北京华夏赛科技术发展有限公司\n5a06a47e486f58001nJ60tS7F1ZQy5G6VfqZReOhmQ~~\nJava开发工程师\n负责在线学习平台的功能优化和新功能开发功能；负责在线学习平台用户的技术支持工作 ；\n负责公司内部网络管理工作。",
+            "awards": [],
+            "it_skills": [
+                "Java",
+                "MySQL",
+                "vuejs",
+                "Nodejs",
+                "Python",
+                "activiti",
+                "Spring Mvc",
+                "Java开发",
+                "JavaScript",
+                "程序开发",
+                "网络管理"
+            ],
+            "business_skills": [
+                "团队管理"
+            ]
+        },
+        "resume_rawtext": ""
+    },
+    "avatar_url": "",
+    "client_id": "",
+    "file_ext": "pdf",
+    "errorcode": 0,
+    "avatar_data": "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\nn/90MQogY/8fishwEK8U44cAAAAASUVORK5CYII=\n",
+    "hash_id": "8e287322677cdb7776009f63f741f4cb"
+}

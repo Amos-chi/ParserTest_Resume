@@ -1,0 +1,16 @@
+{
+    "all": 24,
+    "important": 21,
+    "desc": 3,
+    "correct_important": 21,
+    "correct_desc": 0,
+    "additional": 0,
+    "important_keys": {},
+    "unimportant_keys": {
+        "experiences.0.description": false,
+        "experiences.1.description": false,
+        "experiences.2.description": false
+    },
+    "addition_info_count": 0,
+    "addition_info": {}
+}

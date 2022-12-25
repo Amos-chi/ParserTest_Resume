@@ -1,0 +1,130 @@
+{
+    "fullName": "  ",
+    "contacts": [
+        {
+            "contact": "leo.liu@originplus.com",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "%E5%88%98%E6%96%B9-4556406",
+            "type": "PHONE"
+        }
+    ],
+    "languages": [
+        "English"
+    ],
+    "educations": [
+        {
+            "startDate": "0018-12-21",
+            "endDate": "2007-01-01",
+            "collegeName": "JIANGNAN UNIVERSITY",
+            "degreeLevel": "masters",
+            "majorName": "Master of Engineering"
+        },
+        {
+            "startDate": "0029-12-21",
+            "endDate": "1993-01-01",
+            "collegeName": "JIANGNAN UNIVERSITY",
+            "degreeLevel": "bachelors",
+            "majorName": "Bachelor of Arts"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "本然创新æˆç«‹äºŽ2009年,是ä¸å›½äº\nå\"创新咨询æœåŠ¡çš\"先行者。我们致力于帮助 ä¼ä¸šå'现和定义新产å\"的机会,概念与ç–略。 我们的客户是æ¥è‡ªä¸åŒè€Œé¢†åŸŸçš\" 领导ä¼ä¸šï¼Œè€³ç†Ÿèƒ½è¯¦çš\"åå—包括科勒,索尼,三星,OPPO,é…æ—,è\"想,广汽 丰田,广汽ä¼ 祺,长安汽车,åšå£«è¥¿é—¨å,æƒ 而浦,è‹æ³Šå°\",方太,è€æ¿ï¼Œç¾Ž 的,长虹,奥克斯,阿克è‹è¯ºè´å°\",罗莱家纺,迪å¡ä¾¬ï¼Œå¥¥çš\"斯,3M,通力ç‰ã€' Established in 2009, ORIGIN+ is the pioneer of product innovation consulting firm in China. We are dedicated in helping business discover and define the opportunity, concept and strategy for new product. Our clients consist of leaders from various industries, including those well-known names : Kohler,Sony,Samsung, OPPO, Meizu,Lenovo,TOYOTA, GuangZhou Auto, ChangAn Auto, BSH, Whirlpool, Supor,Fotile,Robam,Midea,Changhong,Aux, AkzonNobel,LuoLai,Decathlon, Otis,3M,KONE etc. ",
+            "title": "Founder & CEO",
+            "endDate": "2022-12-21",
+            "current": true
+        },
+        {
+            "title": "BP Director Of Product Development",
+            "startDate": "2008-05-01",
+            "endDate": "2009-05-01"
+        },
+        {
+            "description": "Establishing China studio of global design from scratch, covering the region of greater China, Indian, East Europe and Latin American, serving all modalities in a full spectrum : product definition, product design, UX/UI design and service design. Paying great efforts to place design in a more strategic role in the \"ICFC( in China for China) strategy for GE Healthcare, making design the partner of product strategy and planning in the very early stage of NPD process. Introducing User-centric approach and design thinking to whole R&D and product organization. ",
+            "companyName": "GE Healthcare",
+            "title": "Design Director",
+            "endDate": "2006-05-01"
+        },
+        {
+            "description": "Leading the design team for global marketing,GE Plastics, reporting to GM of global design. Using design as a tool to explore the future opportunity of the innovative application of plastic resin, which gave critical possibilities for marketing strategy and material R&D as well. Closely collaborating with industry leaders on the most forward looking areas such as renewable energy house, high-speed train, electric vehicle, mobile computing etc. ",
+            "title": "Design Manager",
+            "endDate": "2006-05-01"
+        },
+        {
+            "description": "Working as a senior design consultant for GE/FITCH, which was a joint venture of GE Plastic and Fitch worldwide at the time. Providing pretty hard-core design services such as DFMA to GE Plastics, and strategic design services such as PI ( product identity) to other clients in Greater China and SEA . ",
+            "title": "Senior Design Consultant"
+        },
+        {
+            "companyName": "Midea",
+            "title": "lead designer / design manager",
+            "endDate": "1997-08-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "3D Modeling"
+        },
+        {
+            "skillName": "Research"
+        },
+        {
+            "skillName": "User Experience Design (UX)"
+        },
+        {
+            "skillName": "Design For Manufacture And Assembly (DFMA)"
+        },
+        {
+            "skillName": "Planning"
+        },
+        {
+            "skillName": "Product Design"
+        },
+        {
+            "skillName": "New Product Development"
+        },
+        {
+            "skillName": "Design Thinking"
+        },
+        {
+            "skillName": "Innovation"
+        },
+        {
+            "skillName": "Renewable Energy"
+        },
+        {
+            "skillName": "Sketching"
+        },
+        {
+            "skillName": "Consulting"
+        },
+        {
+            "skillName": "Global Marketing"
+        },
+        {
+            "skillName": "Electric Vehicle"
+        },
+        {
+            "skillName": "Joint Ventures"
+        },
+        {
+            "skillName": "Product Innovation"
+        },
+        {
+            "skillName": "Rendering"
+        },
+        {
+            "skillName": "Latin"
+        },
+        {
+            "skillName": "3D Printing"
+        },
+        {
+            "skillName": "Biomass"
+        },
+        {
+            "skillName": "Design Tool"
+        }
+    ]
+}

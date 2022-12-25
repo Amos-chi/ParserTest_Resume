@@ -1,0 +1,210 @@
+{
+    "status": {
+        "message": "success",
+        "code": 200
+    },
+    "result": {
+        "cont_job_skill": "Accomplished senior Model Based System Engineer with extensive experience in design and architect large-scale mission critical systems. Top Secret clearance access, skilled in supporting software, networks and aeronautics systems.",
+        "social_exp_objs": [],
+        "work_start_time_inf": "2002.06",
+        "all_cert_objs": [],
+        "resume_type": "1",
+        "has_oversea_edu": "1",
+        "skills_objs": [
+            {
+                "skills_name": "MQ"
+            },
+            {
+                "skills_name": "scrum"
+            },
+            {
+                "skills_name": "UML"
+            },
+            {
+                "skills_name": "access"
+            },
+            {
+                "skills_name": "Java"
+            },
+            {
+                "skills_name": "Linux"
+            },
+            {
+                "skills_name": "TCP/IP"
+            }
+        ],
+        "education_objs": [
+            {
+                "edu_college": "Defense Acquisition University",
+                "edu_major": "Engineering",
+                "edu_college_type": "4"
+            },
+            {
+                "edu_college": "University of California, Davis",
+                "edu_college_type": "4",
+                "edu_major": "Engineering",
+                "edu_degree": "Master of Science",
+                "edu_degree_norm": "Master"
+            },
+            {
+                "edu_college": "University of California, Los Angeles",
+                "edu_college_type": "4",
+                "edu_major": "Automation",
+                "edu_degree": "Bachelor of Science",
+                "edu_degree_norm": "Bachelor"
+            }
+        ],
+        "blog": "www.linkedin.com/in/kuowei-huang/",
+        "resume_integrity": "46",
+        "training_objs": [],
+        "email": "kuoweism@gmail.com",
+        "cont_job_exp": "NAVAIR                                                                                  2020/10-Current\nPlatform Integration & Modeling Lead Engineer\n· Support PMA-209 for Modular Open System Architecture (MOSA) realization at NAVAIR on MQ-25, FVL, E-XX, NGAD platforms.\n· Serve as the NAVAIR RE/SME in guiding program offices in building Model Based Open Architecture models; chair NAVAIR Digital Transformation Data Modeling COP TIM.\n· Research SysML v2 and API framework for model consistency, interoperability and re-usability; draft Model Maturity Whitepaper with Georgia Tech over an awarded S&T fund.\nNorthrop Grumman                                                                   2019/3-2020/10\nStaff Engineer\n· Served as the NG Aeronautics Systems scrum master NGIDE team on MBSE digital engineering initiative in developing Methodology, Process, Templates, Reference Models, Profiles, Checklist, Style Guide, Model Maturity Metrics for internal programs usage.\n· Supported Global Hawks Modernization contract execution with AI image processing customization; GBSD on software modeling; NGAD MDAO design integration.\n· Experience with UAF DoDAF frameworks, SysML, UML, LML, OMS, DDS, Model Maturity and Metrics, system to software model transition; Cameo and Rhapsody tools.\nNaval Information Warfare Center – Pacific                            2018/4-2019/2\nLead Engineer\n· MBSE support of: weapon systems (SSDS ICS & AEGIS), ships (DDG & CVN) and networks (NGEN & JWICS); research AOA, defined & synthesized requirements; planned and coordinated model development efforts.\n· Served as a member of the NMCI Cyber Security Tiger Team in assessing and reviewing security features and solutions on endpoints, networks, servers and services/processes, as well as identifying data for analysis.\n· Performed data analytics, model design and creation of SysML/DoDAF models; led internal development team on Cameo tool capabilities development; outlined Model as a Service solution for network consolidation; supported NGEN Transformation modeling effort.\nComcast Cable                                                                           2006/4-2018/2\nSenior Staff Systems Engineer\n· Piloted MBSE system methodology in support of DRM cryptographic security system life cycle from definition to validation;\n· Created MBSE models in support of design analysis, with simulations to show how messages are coordinated, and keys are staying in sync.\n· Developed expert knowledge on PKI, federated identity and access management; patent submitted on Self Provisioning.\n· Performed MBSE modeling in SysML on MediaCipher Conditional Access system and DTA Encryption Infrastructure for video content protection over cable;\n· Demonstrated the security of the systems using model, resulted in certification to deliver high value content (new release theater graded movies) to settops.\n· Participated in Comcast Big Data Analytics as the access network lead in data manicuring, data analysis, supervised learning algorithm tuning.\n· Served as the subject matter expert in System Engineering over Agile development process by trial the processes to Key Server and embedded security client projects;\n· Developed SysML-based models that include use cases, activity, architectures, components, sequences, states, classes and requirements diagrams.\n· Led SW (Java) development of Linux based Key Server in cloud microservice (Kubernetes) with intelligent network health monitoring system.\nCable AML                                                                             2002/6 – 2006/4\nSoftware Engineer\n· Led software development of industry first microwave transceiver remote monitor unit with embedded SNMP and TCP/IP protocols in C for Boeing Video Surveillance System.\n· Performed network simulation (Opnet), link budget propagation and coverage analysis, create system design prototypes for network layer requirement and performance analysis.\n· Awarded patent: “Device and Method for Sharpening Image Signal” # 20070070428.",
+        "lang_objs": [],
+        "cert_objs": [],
+        "proj_exp_objs": [],
+        "work_year_norm": "20.6",
+        "work_year": "20.6",
+        "phone": "8583973943",
+        "resume_parse_time": "2022-12-21 17:51:47",
+        "work_year_inf": "20.6",
+        "raw_text": "Chris Huang\n41450 Culpepper Way. Leonardtown, MD 20650\n858-397-3943; kuoweism@gmail.com\nhttps://www.linkedin.com/in/kuowei-huang/\nQualifications Summary\nAccomplished senior Model Based System Engineer with extensive experience in design and architect large-scale mission critical systems. Top Secret clearance access, skilled in supporting software, networks and aeronautics systems.\nProfessional Experience\nNAVAIR                                                                                  2020/10-Current\nPlatform Integration & Modeling Lead Engineer\n· Support PMA-209 for Modular Open System Architecture (MOSA) realization at NAVAIR on MQ-25, FVL, E-XX, NGAD platforms.\n· Serve as the NAVAIR RE/SME in guiding program offices in building Model Based Open Architecture models; chair NAVAIR Digital Transformation Data Modeling COP TIM.\n· Research SysML v2 and API framework for model consistency, interoperability and re-usability; draft Model Maturity Whitepaper with Georgia Tech over an awarded S&T fund.\nNorthrop Grumman                                                                   2019/3-2020/10\nStaff Engineer\n· Served as the NG Aeronautics Systems scrum master NGIDE team on MBSE digital engineering initiative in developing Methodology, Process, Templates, Reference Models, Profiles, Checklist, Style Guide, Model Maturity Metrics for internal programs usage.\n· Supported Global Hawks Modernization contract execution with AI image processing customization; GBSD on software modeling; NGAD MDAO design integration.\n· Experience with UAF DoDAF frameworks, SysML, UML, LML, OMS, DDS, Model Maturity and Metrics, system to software model transition; Cameo and Rhapsody tools.\nNaval Information Warfare Center – Pacific                            2018/4-2019/2\nLead Engineer\n· MBSE support of: weapon systems (SSDS ICS & AEGIS), ships (DDG & CVN) and networks (NGEN & JWICS); research AOA, defined & synthesized requirements; planned and coordinated model development efforts.\n· Served as a member of the NMCI Cyber Security Tiger Team in assessing and reviewing security features and solutions on endpoints, networks, servers and services/processes, as well as identifying data for analysis.\n· Performed data analytics, model design and creation of SysML/DoDAF models; led internal development team on Cameo tool capabilities development; outlined Model as a Service solution for network consolidation; supported NGEN Transformation modeling effort.\nComcast Cable                                                                           2006/4-2018/2\nSenior Staff Systems Engineer\n· Piloted MBSE system methodology in support of DRM cryptographic security system life cycle from definition to validation;\n· Created MBSE models in support of design analysis, with simulations to show how messages are coordinated, and keys are staying in sync.\n· Developed expert knowledge on PKI, federated identity and access management; patent submitted on Self Provisioning.\n· Performed MBSE modeling in SysML on MediaCipher Conditional Access system and DTA Encryption Infrastructure for video content protection over cable;\n· Demonstrated the security of the systems using model, resulted in certification to deliver high value content (new release theater graded movies) to settops.\n· Participated in Comcast Big Data Analytics as the access network lead in data manicuring, data analysis, supervised learning algorithm tuning.\n· Served as the subject matter expert in System Engineering over Agile development process by trial the processes to Key Server and embedded security client projects;\n· Developed SysML-based models that include use cases, activity, architectures, components, sequences, states, classes and requirements diagrams.\n· Led SW (Java) development of Linux based Key Server in cloud microservice (Kubernetes) with intelligent network health monitoring system.\nCable AML                                                                             2002/6 – 2006/4\nSoftware Engineer\n· Led software development of industry first microwave transceiver remote monitor unit with embedded SNMP and TCP/IP protocols in C for Boeing Video Surveillance System.\n· Performed network simulation (Opnet), link budget propagation and coverage analysis, create system design prototypes for network layer requirement and performance analysis.\n· Awarded patent: “Device and Method for Sharpening Image Signal” # 20070070428.\nEducation\n· Defense Acquisition University Engineering II Certification                         2021/3\n· University of California, Davis                                                                       2002/6\nM.S. in Engineering & Applied Science – Communications\nThesis: \"Network Security in Fixed-Point Broadband Wireless Network”\n· University of California, Los Angeles                                                            1999/6\nB.S. in Cybernetics\nRequirements and Release Management: Contour, DOORS, Wiki, Bitbucket, Subversion, Gitlab, Jira, SharePoint; Modeling Tools: Cameo MagicDraw, IBM Rhapsody, Enterprise Architect; Data Tools: MS SQL, Tableau, Power BI; Cloud Automation: Ansible. Training Highlights: SDN, Link16, Air Worthiness, OMS, NLDP Leadership Development",
+        "cont_basic_info": "Chris Huang\n41450 Culpepper Way. Leonardtown, MD 20650\n858-397-3943; kuoweism@gmail.com\nhttps://www.linkedin.com/in/kuowei-huang/",
+        "name": "Chris Huang",
+        "job_exp_objs": [
+            {
+                "job_content": "Support PMA-209 for Modular Open System Architecture (MOSA) realization at NAVAIR on MQ-25, FVL, E-XX, NGAD platforms.\n· Serve as the NAVAIR RE/SME in guiding program offices in building Model Based Open Architecture models; chair NAVAIR Digital Transformation Data Modeling COP TIM.\n· Research SysML v2 and API framework for model consistency, interoperability and re-usability; draft Model Maturity Whitepaper with Georgia Tech over an awarded S&T fund.",
+                "job_duration": "2年2个月",
+                "start_date": "2020.10",
+                "end_date": "至今",
+                "job_position": "Platform Integration & Modeling Lead Engineer"
+            },
+            {
+                "job_position": "Staff Engineer",
+                "end_date": "2020.10",
+                "job_content": "Served as the NG Aeronautics Systems scrum master NGIDE team on MBSE digital engineering initiative in developing Methodology, Process, Templates, Reference Models, Profiles, Checklist, Style Guide, Model Maturity Metrics for internal programs usage.\n· Supported Global Hawks Modernization contract execution with AI image processing customization; GBSD on software modeling; NGAD MDAO design integration.\n· Experience with UAF DoDAF frameworks, SysML, UML, LML, OMS, DDS, Model Maturity and Metrics, system to software model transition; Cameo and Rhapsody tools.",
+                "job_cpy": "Northrop Grumman",
+                "job_duration": "1年7个月",
+                "start_date": "2019.03"
+            },
+            {
+                "job_position": "Lead Engineer",
+                "end_date": "2019.02",
+                "job_content": "MBSE support of: weapon systems (SSDS ICS & AEGIS), ships (DDG & CVN) and networks (NGEN & JWICS); research AOA, defined & synthesized requirements; planned and coordinated model development efforts.\n· Served as a member of the NMCI Cyber Security Tiger Team in assessing and reviewing security features and solutions on endpoints, networks, servers and services/processes, as well as identifying data for analysis.\n· Performed data analytics, model design and creation of SysML/DoDAF models; led internal development team on Cameo tool capabilities development; outlined Model as a Service solution for network consolidation; supported NGEN Transformation modeling effort.",
+                "job_cpy": "Naval Information Warfare Center",
+                "job_duration": "10个月",
+                "start_date": "2018.04"
+            },
+            {
+                "job_position": "Senior Staff Systems Engineer",
+                "end_date": "2018.02",
+                "job_content": "Piloted MBSE system methodology in support of DRM cryptographic security system life cycle from definition to validation;\n· Created MBSE models in support of design analysis, with simulations to show how messages are coordinated, and keys are staying in sync.\n· Developed expert knowledge on PKI, federated identity and access management; patent submitted on Self Provisioning.\n· Performed MBSE modeling in SysML on MediaCipher Conditional Access system and DTA Encryption Infrastructure for video content protection over cable;\n· Demonstrated the security of the systems using model, resulted in certification to deliver high value content (new release theater graded movies) to settops.\n· Participated in Comcast Big Data Analytics as the access network lead in data manicuring, data analysis, supervised learning algorithm tuning.\n· Served as the subject matter expert in System Engineering over Agile development process by trial the processes to Key Server and embedded security client projects;\n· Developed SysML-based models that include use cases, activity, architectures, components, sequences, states, classes and requirements diagrams.\n· Led SW (Java) development of Linux based Key Server in cloud microservice (Kubernetes) with intelligent network health monitoring system.",
+                "job_cpy": "Comcast Cable",
+                "job_duration": "11年10个月",
+                "start_date": "2006.04"
+            },
+            {
+                "job_position": "Software Engineer",
+                "end_date": "2006.04",
+                "job_content": "Led software development of industry first microwave transceiver remote monitor unit with embedded SNMP and TCP/IP protocols in C for Boeing Video Surveillance System.\n· Performed network simulation (Opnet), link budget propagation and coverage analysis, create system design prototypes for network layer requirement and performance analysis.\n· Awarded patent: “Device and Method for Sharpening Image Signal” # 20070070428.",
+                "job_cpy": "Cable AML",
+                "job_duration": "3年10个月",
+                "start_date": "2002.06"
+            }
+        ],
+        "work_start_time": "2002.06",
+        "resume_name": "cv20221221_175147020_134.doc",
+        "cont_education": "Defense Acquisition University Engineering II Certification                         2021/3\n· University of California, Davis                                                                       2002/6\nM.S. in Engineering & Applied Science – Communications\nThesis: \"Network Security in Fixed-Point Broadband Wireless Network”\n· University of California, Los Angeles                                                            1999/6\nB.S. in Cybernetics\nRequirements and Release Management: Contour, DOORS, Wiki, Bitbucket, Subversion, Gitlab, Jira, SharePoint; Modeling Tools: Cameo MagicDraw, IBM Rhapsody, Enterprise Architect; Data Tools: MS SQL, Tableau, Power BI; Cloud Automation: Ansible. Training Highlights: SDN, Link16, Air Worthiness, OMS, NLDP Leadership Development",
+        "work_position": "Platform Integration & Modeling Lead Engineer"
+    },
+    "eval": {
+        "salary": 16300
+    },
+    "tags": {
+        "industries": [],
+        "pos_types": [],
+        "pos_tags": [
+            {
+                "tag_weight": 1.0,
+                "tag_name": "&"
+            },
+            {
+                "tag_weight": 1.0,
+                "tag_name": "platform integration"
+            },
+            {
+                "tag_weight": 1.0,
+                "tag_name": "modeling lead engineer"
+            },
+            {
+                "tag_weight": 0.2,
+                "tag_name": "staff engineer"
+            },
+            {
+                "tag_weight": 0.0106482191324234,
+                "tag_name": "model"
+            },
+            {
+                "tag_weight": 0.010140831232070924,
+                "tag_name": "an"
+            },
+            {
+                "tag_weight": 0.01,
+                "tag_name": "lead engineer"
+            },
+            {
+                "tag_weight": 0.009811983466148377,
+                "tag_name": "architecture"
+            },
+            {
+                "tag_weight": 0.009133286237716675,
+                "tag_name": "re"
+            },
+            {
+                "tag_weight": 0.008989140152931214,
+                "tag_name": "offices"
+            }
+        ],
+        "skills_tags": [
+            {
+                "tag_weight": 0.6686227416992188,
+                "tag_name": "model"
+            },
+            {
+                "tag_weight": 0.40563324928283695,
+                "tag_name": "an"
+            },
+            {
+                "tag_weight": 0.3924793386459351,
+                "tag_name": "architecture"
+            },
+            {
+                "tag_weight": 0.365331449508667,
+                "tag_name": "re"
+            },
+            {
+                "tag_weight": 0.3595656061172485,
+                "tag_name": "offices"
+            },
+            {
+                "tag_weight": 0.3564067983627319,
+                "tag_name": "data modeling"
+            },
+            {
+                "tag_weight": 0.3469416213035583,
+                "tag_name": "modeling"
+            },
+            {
+                "tag_weight": 0.194359393119812,
+                "tag_name": "integration"
+            },
+            {
+                "tag_weight": 0.14495489120483399,
+                "tag_name": "scrum master"
+            },
+            {
+                "tag_weight": 0.08000000000000002,
+                "tag_name": "in design"
+            }
+        ]
+    }
+}

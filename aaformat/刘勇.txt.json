@@ -20,10 +20,10 @@
     ],
     "skills": [
         {
-            "skillName": "设计"
+            "skillName": ".{0,2}设计"
         },
         {
-            "skillName": "研究"
+            "skillName": ".{0,2}研究"
         }
     ]
 }

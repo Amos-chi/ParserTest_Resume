@@ -1,0 +1,83 @@
+{
+    "status": {
+        "message": "success",
+        "code": 200
+    },
+    "result": {
+        "cont_education": "东北大学 波士顿,美国\nMIT Reality Hack-黑客马拉松团队获得The Best Use of Eye Tracking\nMFA,Experience Design 2019-2021\n波±顿,美国11.16.2020-1.20.2020\n湖南大学ㄧ长沙,中国\nBA,Product Design 2013-2017\n中国人体头部数据库-团队获得2018全国大学生工业设计大赛金奖\n湖南大学与华为合作项目,中国112.2016-6.2017\nCORE SKILLS\n利用Artec Spider在初期阶段扫描和处理人头模型的数据,\n设计思维\n并从6个代表性城市中共选出300个有效被测\nUI/UX设计\n交互设计\n使用Geomagic,C4D和SPSS处理数据,并参考人机数据库\n服务设计\n逻辑进行数据库交互设计\n平面设计\n工业设计\n响应式设计:适合Apple产品屏幕的基础编程的网页设计,并\n设计方法\n将简洁的科技样式融入界面设计中\n基础编程\n摄影&手绘\n优化可视化的人头数据以提高数据的清晰度,为可穿戴设备\n的设计提供帮助\nDESIGN TOOLS\nVisual Design Motion Graphics\nAR超能学院手绘本项目-小组获奖\nlllustrator,Photoshop,InDesign,\n深圳实习,中国|6.2016-7.2016\nPremiere,After Effects\n带领4人小组完成公司分配的项目并展示最终结果\nInteraction Design\nHtml5/CSS/JavaScript,Brackets,\n设计的AR图画书,通过儿童涂鸦与拼图游戏结合\nP5,js,Processing,Arduino\n再由AR技术展示出来,帮助儿童扩大想象力\nIndustrial Design\nRhinoceros,UG,Keyshot\n新媒体部UI/UX Designer-实习\nGame Design\n长沙风和丽日广告有限公司,中国\n7.2016-8.2016\nUnity\n团队制作办公的墙绘项目\nData Processing\nArtec,Geomagic Studio,SPSS\n独立负责“云壹“餐厅七夕节整套Ⅵ设计,包括og0,\n海报,宣传册,餐垫等\nRECOGNITION\n负责运营微信公众号,特别是动态图形设计和网页排版\nST创新设计学术报告,团队获省级奖\n湖南大学2015-2016\nVOLUNTEER\nIF设计奖,团队获前300强\n湖南大学|2015\nMIT Museum-Friday After Thanksgiving (F.A.T)\n波士顿,美国|11.29.2019\n“外研社”英语写作一等奖\n帮助孩子们完成智力游戏\n湖南大学|2014\nThe 6th Boston International Student Day\n一等奖学金及三号学生\n波士顿,美国19.22.2019\n湖南大学2013-2017\n组织游戏互动,帮助赞助商完成促销\nACTIVITIES\n湖南爱弥尔(NGO》\n长沙,中国11.2014\n与自闭症儿童一起玩游戏,分享不同的故事,并教\n学生会思政部副部\n他们基本的绘画技巧\n主要负责学院思想政治活动的组织与宣传\n9.2013-6.2015",
+        "lang_objs": [],
+        "name": "MEIXIN YU",
+        "job_exp_objs": [],
+        "resume_integrity": "28",
+        "proj_exp_objs": [],
+        "skills_objs": [],
+        "education_objs": [
+            {
+                "edu_content": "MIT Reality Hack-黑客马拉松团队获得The Best Use of Eye Tracking\n波±顿,美国11.16.2020-1.20.2020",
+                "end_date": "2021",
+                "edu_college": "东北大学",
+                "edu_college_rank": "39",
+                "edu_college_type": "1",
+                "start_date": "2019"
+            },
+            {
+                "edu_college": "湖南大学",
+                "edu_major": "工业设计",
+                "end_date": "2017",
+                "edu_college_rank": "37",
+                "edu_college_type": "1",
+                "start_date": "2013"
+            },
+            {
+                "edu_content": "与华为合作项目,中国112.2016-6.2017\nCORE SKILLS\n利用Artec Spider在初期阶段扫描和处理人头模型的数据,\n并从6个代表性城市中共选出300个有效被测\nUI/UX设计\n交互设计\n使用Geomagic,C4D和SPSS处理数据,并参考人机数据库\n服务设计\n逻辑进行数据库交互设计\n平面设计\n工业设计\n响应式设计:适合Apple产品屏幕的基础编程的网页设计,并\n设计方法\n将简洁的科技样式融入界面设计中\n基础编程\n摄影&手绘\n优化可视化的人头数据以提高数据的清晰度,为可穿戴设备\n的设计提供帮助\nDESIGN TOOLS\nVisual Design Motion Graphics",
+                "edu_college_type": "1",
+                "edu_college_rank": "37",
+                "edu_major": "设计思维",
+                "edu_college": "湖南大学"
+            },
+            {
+                "edu_content": "lllustrator,Photoshop,InDesign,\nPremiere,After Effects\n带领4人小组完成公司分配的项目并展示最终结果\nInteraction Design\nHtml5/CSS/JavaScript,Brackets,\n设计的AR图画书,通过儿童涂鸦与拼图游戏结合\nP5,js,Processing,Arduino\n再由AR技术展示出来,帮助儿童扩大想象力\nIndustrial Design\nRhinoceros,UG,Keyshot\n新媒体部UI/UX Designer-实习\nGame Design\n长沙风和丽日广告有限公司,中国\n7.2016-8.2016\nUnity\n团队制作办公的墙绘项目\nData Processing\nArtec,Geomagic Studio,SPSS\n独立负责“云壹“餐厅七夕节整套Ⅵ设计,包括og0,\n海报,宣传册,餐垫等\nRECOGNITION\n负责运营微信公众号,特别是动态图形设计和网页排版\nST创新设计学术报告,团队获省级奖",
+                "edu_major": "手绘",
+                "end_date": "2016.07",
+                "edu_college": "超能学院",
+                "edu_college_type": "0",
+                "start_date": "2016.06"
+            },
+            {
+                "edu_content": "The 6th Boston International Student Day\n一等奖学金及三号学生\n波士顿,美国19.22.2019",
+                "edu_college_type": "1",
+                "edu_college_rank": "37",
+                "edu_college": "湖南大学"
+            },
+            {
+                "edu_content": "组织游戏互动,帮助赞助商完成促销\nACTIVITIES\n湖南爱弥尔(NGO》\n长沙,中国11.2014\n与自闭症儿童一起玩游戏,分享不同的故事,并教\n学生会思政部副部\n他们基本的绘画技巧\n9.2013-6.2015",
+                "edu_major": "思想政治",
+                "end_date": "2017",
+                "edu_college": "湖南大学",
+                "edu_college_rank": "37",
+                "edu_college_type": "1",
+                "start_date": "2013"
+            }
+        ],
+        "resume_name": "cv20221221_174658485_272.pdf",
+        "social_exp_objs": [],
+        "phone": "(+1) 9173791880",
+        "cert_objs": [],
+        "resume_parse_time": "2022-12-21 17:46:59",
+        "training_objs": [],
+        "cont_basic_info": "MEIXIN YU\nYMX.\nwww.meixin-yu.com/\nwww.linkedin.com/in/meixin-yu/\nEXPERIENCE\nyu.mei@northeastern.edu\n(+1)9173791880\nActiveScaler,UX Designer-远程实习\n米尔皮塔斯,加利福尼亚州,美国|6.24.2020一8.29.2020",
+        "raw_text": "MEIXIN YU\nYMX.\nwww.meixin-yu.com/\nwww.linkedin.com/in/meixin-yu/\nEXPERIENCE\nyu.mei@northeastern.edu\n(+1)9173791880\nActiveScaler,UX Designer-远程实习\n米尔皮塔斯,加利福尼亚州,美国|6.24.2020一8.29.2020\nEDUCATION\n东北大学 波士顿,美国\nMIT Reality Hack-黑客马拉松团队获得The Best Use of Eye Tracking\nMFA,Experience Design 2019-2021\n波±顿,美国11.16.2020-1.20.2020\n湖南大学ㄧ长沙,中国\nBA,Product Design 2013-2017\n中国人体头部数据库-团队获得2018全国大学生工业设计大赛金奖\n湖南大学与华为合作项目,中国112.2016-6.2017\nCORE SKILLS\n利用Artec Spider在初期阶段扫描和处理人头模型的数据,\n设计思维\n并从6个代表性城市中共选出300个有效被测\nUI/UX设计\n交互设计\n使用Geomagic,C4D和SPSS处理数据,并参考人机数据库\n服务设计\n逻辑进行数据库交互设计\n平面设计\n工业设计\n响应式设计:适合Apple产品屏幕的基础编程的网页设计,并\n设计方法\n将简洁的科技样式融入界面设计中\n基础编程\n摄影&手绘\n优化可视化的人头数据以提高数据的清晰度,为可穿戴设备\n的设计提供帮助\nDESIGN TOOLS\nVisual Design Motion Graphics\nAR超能学院手绘本项目-小组获奖\nlllustrator,Photoshop,InDesign,\n深圳实习,中国|6.2016-7.2016\nPremiere,After Effects\n带领4人小组完成公司分配的项目并展示最终结果\nInteraction Design\nHtml5/CSS/JavaScript,Brackets,\n设计的AR图画书,通过儿童涂鸦与拼图游戏结合\nP5,js,Processing,Arduino\n再由AR技术展示出来,帮助儿童扩大想象力\nIndustrial Design\nRhinoceros,UG,Keyshot\n新媒体部UI/UX Designer-实习\nGame Design\n长沙风和丽日广告有限公司,中国\n7.2016-8.2016\nUnity\n团队制作办公的墙绘项目\nData Processing\nArtec,Geomagic Studio,SPSS\n独立负责“云壹“餐厅七夕节整套Ⅵ设计,包括og0,\n海报,宣传册,餐垫等\nRECOGNITION\n负责运营微信公众号,特别是动态图形设计和网页排版\nST创新设计学术报告,团队获省级奖\n湖南大学2015-2016\nVOLUNTEER\nIF设计奖,团队获前300强\n湖南大学|2015\nMIT Museum-Friday After Thanksgiving (F.A.T)\n波士顿,美国|11.29.2019\n“外研社”英语写作一等奖\n帮助孩子们完成智力游戏\n湖南大学|2014\nThe 6th Boston International Student Day\n一等奖学金及三号学生\n波士顿,美国19.22.2019\n湖南大学2013-2017\n组织游戏互动,帮助赞助商完成促销\nACTIVITIES\n湖南爱弥尔(NGO》\n长沙,中国11.2014\n与自闭症儿童一起玩游戏,分享不同的故事,并教\n学生会思政部副部\n他们基本的绘画技巧\n主要负责学院思想政治活动的组织与宣传\n9.2013-6.2015",
+        "email": "yu.mei@northeastern.edu",
+        "all_cert_objs": [],
+        "resume_type": "0"
+    },
+    "eval": {
+        "salary": 8600
+    },
+    "tags": {
+        "industries": [],
+        "pos_types": [],
+        "pos_tags": [],
+        "skills_tags": []
+    }
+}

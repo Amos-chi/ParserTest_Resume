@@ -1,0 +1,392 @@
+{
+    "certifications": [],
+    "dateOfBirth": null,
+    "education": [
+        {
+            "id": 8031587,
+            "organization": "山东科技大学",
+            "accreditation": {
+                "education": "计算机科学与技术",
+                "educationLevel": null,
+                "inputStr": "计算机科学与技术",
+                "matchStr": ""
+            },
+            "grade": null,
+            "location": null,
+            "dates": null
+        }
+    ],
+    "emails": [
+        "631953504@qq.com"
+    ],
+    "location": {
+        "formatted": "Beijing, China",
+        "streetNumber": null,
+        "street": null,
+        "apartmentNumber": null,
+        "city": "Beijing",
+        "postalCode": null,
+        "state": "Beijing",
+        "country": "China",
+        "rawInput": "26 北京",
+        "countryCode": "CN"
+    },
+    "name": {
+        "raw": "陈庆宏 CHEN QING HONG",
+        "last": "Hong",
+        "first": "陈庆宏",
+        "title": "",
+        "middle": "Chen Qing"
+    },
+    "objective": "",
+    "phoneNumbers": [
+        "+8617686412707",
+        "9e699384b46327161",
+        "e69938 4b 463 271"
+    ],
+    "publications": [],
+    "referees": [],
+    "sections": [
+        {
+            "sectionType": "PersonalDetails",
+            "bbox": [
+                70.233406,
+                7.630005,
+                671.38995,
+                268.11432
+            ],
+            "pageIndex": 0,
+            "text": "工作经验 26 北京 陈庆宏 CHEN QING HONG 17686412707 9e699384b46327161 nJz3ty_EldTy5G6VfqZReOhmQ~~ 631953504@qq.com"
+        },
+        {
+            "sectionType": "PersonalDetails",
+            "bbox": [
+                700.2079992294312,
+                252.76205444335938,
+                715.4080002307892,
+                595.6579865217209
+            ],
+            "pageIndex": 0,
+            "text": "9 e69938 4b 463 271 6 1 z3 ty _ Eld Ty 5G6 Vfq ZReO"
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                70.158005,
+                288.47247,
+                352.94983,
+                350.95227
+            ],
+            "pageIndex": 0,
+            "text": "公司名称 天地伟业技术有限公司 2018.6-2021.6 公司名称 北京智德天成信息技术有限公司 2021.6-2022.9 Java 开发工程师"
+        },
+        {
+            "sectionType": "Education",
+            "bbox": [
+                557.32214,
+                372.2265,
+                686.54584,
+                438.7303
+            ],
+            "pageIndex": 0,
+            "text": "教育背景 学校名称 山东科技大学 所学专业 计算机科学与技术 学历学位 本科"
+        },
+        {
+            "sectionType": "Skills/Interests/Languages",
+            "bbox": [
+                70.63521,
+                445.21613,
+                444.46606,
+                635.9779
+            ],
+            "pageIndex": 0,
+            "text": " 熟练掌握 Java 语言,以及 Java 面向对象编程思想,有良好的编码习惯。  熟练掌握 Idea、 Git、 Maven等项目管理及项目构建工具。  熟练掌握 MySQL, 了解 Oracle 等关系型数据库, 熟悉 sql 语句的编写及优化。  熟练使用主流框架 Spring、 Mybatis等进行项目开发。  熟悉使用 Redis 非关系型数据库, 了解其缓存机制 。  熟悉使用 RabbitMq,ActiveMQ 消息队列, 熟悉消息队列的构建, 运行流程。  熟悉使用 Linux 的一些基本操作和命令。  熟悉 Springcloud,使用 SpringBoot 对项目进行开发。  了解使用 Dubbo、 Zookeeper 等中间件和工具与 Spring  了解使用 了解其使用原理与运行流程。 了解"
+        },
+        {
+            "sectionType": "Skills/Interests/Languages",
+            "bbox": [
+                558.3091,
+                508.13672,
+                668.4253,
+                544.88324
+            ],
+            "pageIndex": 0,
+            "text": "兴趣爱好 运动, 健身, 篮球, 听歌"
+        },
+        {
+            "sectionType": "Projects",
+            "bbox": [
+                32.24435,
+                647.36304,
+                484.87296,
+                857.1544
+            ],
+            "pageIndex": 0,
+            "text": "+ 项目经验 项目名称 半流程采量项目 项目时间 六个月 项目描述 本项目是公司核心采量项目 , 为了公司更快, 更优质, 更多的用户。 和众安, 度, 通过api进行获取精准用户画像, 获取公司能 够变现的用户 , 进行下游渠道变现, 在合作方用户点击我们产品实现数据传 输, 数据分析以及数据分配, 主要接口有撞库, 推送, 协议, 审核结果, 订单 状态, 回调信息等接口。 技术架构 SpringBoot+ Mybatis+ VUE+ ActiveMQ 开发环境 MySql+JDK 8+Tomcat 8.5+Linux+Idea+Git"
+        },
+        {
+            "sectionType": "Projects",
+            "bbox": [
+                69.938354,
+                8.055542,
+                484.99313,
+                888.30255
+            ],
+            "pageIndex": 1,
+            "text": "项目经验 项目名称 助你花APP 项目时间 六个月 项目描述 本项目是金融科技中介服务平台, 非贷款放款产品, 不参与审核放款, 只提供个 人以及企业的贷款信息咨询服务, 贷款产品分为 : 全流程产品, 半流程产品, 线下API产品 , CRM产品。 项目采用非法拦截请求, 分表操作, 异步处理, 消 息发送等支持高并发数据收集及处理, 根据后台管理系统分配让用户登录不同 页面, 累计注册用户2000W+。 技术架构 SpringBoot + Mybatis+ VUE+ ActiveMQ 开发环境 MySql+JDK 8+Tomcat 8.5+Linux+Idea+Git 项目职责 1.开发助你花首页配置以及后台配置。 2开发匹配产品逻辑。 3开发市场包线前逻辑。 4开发渠道包登录逻辑处理。 5. 开发车抵贷房抵贷企业主贷数据收集以及数据分发。 6. 对接同城金服全流程接口。 7. 开发黑名单功能。 项目经验 项目名称 线下API项目 项目时间 三个月 项目描述 本项目是公司一个核心业务用户分发的系统, 针对人品借款, 好会借, 助你花三 个平台的用户数据分析, 数据处理, 加密处理, 根据用户的数据以及管理后台 功能对采量渠道, 城市, 贷款条, 控量来进行分发线下商家。 技术架构 SpringBoot+ Mybatis+ VUE+ ActiveMQ 开发环境 MySql+JDK 8+Tomcat 8.5+Linux+Idea+Git 项目职责 1.对接21家线下平台并全部上线。 2开发数据分析以及分数据发业务。 3管理后台添加时间段控量规则。 4开发新版撞库逻辑。 5开发定时分析数据供运营组分析 项目经验 项目名称 智慧法制一体化管理系统 项目时间 九个月 项目描述 本项目是针对执法办案区系统, 对嫌疑人入区后一系列业务流程进行统一管理, 例如 (入出 区 登记 , 安全检查, 财务管理, 医疗体检, 审讯管理, 通过这些流程将嫌疑人在园区 技术架构 SpringBoot+ Mybatis+ VUE+ RabbitMQ 开发环境 MySql+JDK 8+Tomcat 8.5+Linux+Idea+Git 1.参与项目模块分析及需求分解。 2.开发办案区监督管理模块。 3.开发大屏所有功能的详情页。"
+        },
+        {
+            "sectionType": "PersonalDetails",
+            "bbox": [
+                700.2079992294312,
+                252.76205444335938,
+                715.4080002307892,
+                595.6579865217209
+            ],
+            "pageIndex": 1,
+            "text": "9 4b 463 271 6 1 ty _ Ty Vfq ZReO"
+        },
+        {
+            "sectionType": "Projects",
+            "bbox": [
+                66.874695,
+                73.57556,
+                712.2880000174046,
+                973.4816
+            ],
+            "pageIndex": 2,
+            "text": "项目经验 项 目 名 称 海淀执法办案管理系统3.0 项 目 时间 七个月 项 目 描述 海淀分局始建于2015年, 随着时间的增长, 海淀分局执法办案中心也在扩张, 先后增加了无线定位, 视频点位监控, 人证 核验一体机, 审讯主机等, 现有的办案平台只能进行单一的入区、 出区、 随身物品存储, 无法进行审讯办案, 连接视频。 本 次项目就是替换老平台, 让民警更加快速, 规范的办案。 技术架构 SpringMVC+Spring+Hibernate+Mysql+Maven+Redis+RabbitMQ 开发环境 MySql+JDK 7+Tomcat 8. 5+Linux+Idea+Git 项 目 职责 1.现场沟通需求, 制定任务计划及任务节点。 2.开发办案区监督管理模块。 3.开发笔录核查模块。 4.现场修改民警提出的问题以及开发需求。 5.部署系统, 保证平台按节点正式上线。 6.使用Redis优化大屏列表展示。 项目经验 项 目 名 称 房山执法办案管理系统 项 目 时间 六个月 项 目 描述 目前用于房山分局办案的办案中心、 执法规范等业务子系统彼此孤立, 对于人员信息、 轨迹信息、 视频信息、 定位信息等, 无法 实现流程化、 集中化的管理。 独立系统间无法实现数据共享及综合应用, 多个平台使用不便, 且无法实现数据融合, 缺乏数据整合应 4b 463 271 用, 无法实现跨子系统的业务功能。 本次项目将统一整合各业务模块实现数据强警工程, 建成办案中心、 执法规范相结合的公安执法办 案区智能管理系统, 以数据流、 信息流全面推动警务机制转型。 以便快速高效安全的规范执法办案 技术架构 SpringMVC+Spring+Hibernate+Mysql+Maven 开发环境 MySql+JDK 7+Tomcat 8. 5+Linux+ Idea+Git 项 目 职责 1: 开发报备审核管理模块。 2: 开发笔录核查的模块。 3: 调试, 兼容现场涉及到所有硬件。 4: 培训民警使用, 保障平台线上稳定运行。 5: 开发视频轨迹模式, 添加号牌录入功能。 项目经验 项 目 名 称 南京执法办案管理系统 项 目 时间 六个月 项 目 描述 玄武办案区系统同步审是为了应对公安机关遇见大要案, 涉密案件, 或者涉案人员多的案件时, 民警可以实时通过平台上传案件 的证据, 了解案件的人员架构, 知道审讯嫌疑人必须要问的问题。 法制民警这边可以实时监督民警在审讯嫌疑人, 当法制民 警看到审讯有什么错误遗漏的地方可以通过平台及时通知。 事后可以通过多次审讯笔录进行比对, 汇总证据一览表, 归档 技术架构 SpringMVC+Spring+Hibernate+Mysql+Maven 开发环境 MySql+JDK 7+Tomcat 8. 5+Linux+ Idea+Git 项 目 职责 1: 开发预约管理的模块。 2: 开发现场提的候问需求。 3: 开发人员信息采集模块。 4: 基于标准版修改安全检查整体逻辑。"
+        },
+        {
+            "sectionType": "Summary",
+            "bbox": [
+                71.52504,
+                98.92273,
+                715.4080002307892,
+                595.6579865217209
+            ],
+            "pageIndex": 3,
+            "text": "自我评价 工作积极认真, 细心负责, 善于在工作中提出问题, 发现问题、 解决问题, 有较强的分析能力; 勤奋好学, 踏实肯干, 动手能力强, 认真负责, 有很强的社会责任感; 坚毅不拔, 吃苦耐劳, 喜欢和善于迎接新挑战, 有强烈的工 作进取心与合作意识, 乐于与同事及领导沟通, 快速解决项目中出现的问题, 学习能力较强,对新技术有很强的学习 兴趣, 缺点是对项目的部署缺少机会接触, 但相信自己能够很快学习上手。 9 e69938 4b 463 271 6 1 nJ z3 ty _ Eld Ty 5G6 Vfq ZReO hmQ ~~"
+        }
+    ],
+    "skills": [
+        {
+            "id": 80404898,
+            "emsiId": "KS126TY6PLVV38N85X1H",
+            "name": "MyBatis",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404899,
+            "emsiId": "KS128BL6BPTLYCNXSGRS",
+            "name": "RabbitMQ",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404900,
+            "emsiId": "KS126QY605N7YVHFYCTW",
+            "name": "MySQL",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404901,
+            "emsiId": "KS122VT6S2JJ5C5D80NF",
+            "name": "Linux",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404903,
+            "emsiId": "KS120076FGP5WGWYMP0F",
+            "name": "Java (Programming Language)",
+            "lastUsed": "2021-06-01",
+            "numberOfMonths": 36,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15073389
+                }
+            ]
+        },
+        {
+            "id": 80404904,
+            "emsiId": "KS440W865GC4VRBW6LJP",
+            "name": "SQL (Programming Language)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404897,
+            "emsiId": "KS1205K64B3RV9CWNPZJ",
+            "name": "Apache ActiveMQ",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404902,
+            "emsiId": "KS128G66RG96FZNHFCXY",
+            "name": "Redis",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Chinese"
+    ],
+    "summary": "",
+    "websites": [],
+    "linkedin": null,
+    "totalYearsExperience": 3,
+    "profession": "Senior Java Developer | Java Mentor",
+    "workExperience": [
+        {
+            "id": 15073389,
+            "jobTitle": "Java 开发工程师",
+            "organization": "天地伟业技术有限公司",
+            "location": null,
+            "dates": {
+                "startDate": "2018-06-01",
+                "endDate": "2021-06-01",
+                "monthsInPosition": 36,
+                "isCurrent": false
+            },
+            "jobDescription": "公司名称 北京智德天成信息技术有限公司 2021.6-2022.9 Java 开发工程师 ",
+            "occupation": {
+                "jobTitle": "Java 开发工程师",
+                "jobTitleNormalized": "Java Contractor",
+                "classification": {
+                    "socCode": 2134,
+                    "title": "Programmers and software development professionals ",
+                    "minorGroup": "Information Technology Professionals",
+                    "subMajorGroup": "SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",
+                    "majorGroup": "PROFESSIONAL OCCUPATIONS"
+                },
+                "managementLevel": "Low"
+            }
+        }
+    ],
+    "headShot": null,
+    "isResumeProbability": 55,
+    "rawText": "工作经验 26 北京 陈庆宏 CHEN QING HONG 17686412707 9e699384b46327161 nJz3ty_EldTy5G6VfqZReOhmQ~~ 631953504@qq.com\n公司名称 天地伟业技术有限公司 2018.6-2021.6 公司名称 北京智德天成信息技术有限公司 2021.6-2022.9 Java 开发工程师\n 熟练掌握 Java 语言,以及 Java 面向对象编程思想,有良好的编码习惯。  熟练掌握 Idea、 Git、 Maven等项目管理及项目构建工具。  熟练掌握 MySQL, 了解 Oracle 等关系型数据库, 熟悉 sql 语句的编写及优化。  熟练使用主流框架 Spring、 Mybatis等进行项目开发。  熟悉使用 Redis 非关系型数据库, 了解其缓存机制 。  熟悉使用 RabbitMq,ActiveMQ 消息队列, 熟悉消息队列的构建, 运行流程。  熟悉使用 Linux 的一些基本操作和命令。  熟悉 Springcloud,使用 SpringBoot 对项目进行开发。  了解使用 Dubbo、 Zookeeper 等中间件和工具与 Spring  了解使用 了解其使用原理与运行流程。 了解\n+ 项目经验 项目名称 半流程采量项目 项目时间 六个月 项目描述 本项目是公司核心采量项目 , 为了公司更快, 更优质, 更多的用户。 和众安, 度, 通过api进行获取精准用户画像, 获取公司能 够变现的用户 , 进行下游渠道变现, 在合作方用户点击我们产品实现数据传 输, 数据分析以及数据分配, 主要接口有撞库, 推送, 协议, 审核结果, 订单 状态, 回调信息等接口。 技术架构 SpringBoot+ Mybatis+ VUE+ ActiveMQ 开发环境 MySql+JDK 8+Tomcat 8.5+Linux+Idea+Git\n教育背景 学校名称 山东科技大学 所学专业 计算机科学与技术 学历学位 本科\n兴趣爱好 运动, 健身, 篮球, 听歌\n9 e69938 4b 463 271 6 1 z3 ty _ Eld Ty 5G6 Vfq ZReO\n项目经验 项目名称 助你花APP 项目时间 六个月 项目描述 本项目是金融科技中介服务平台, 非贷款放款产品, 不参与审核放款, 只提供个 人以及企业的贷款信息咨询服务, 贷款产品分为 : 全流程产品, 半流程产品, 线下API产品 , CRM产品。 项目采用非法拦截请求, 分表操作, 异步处理, 消 息发送等支持高并发数据收集及处理, 根据后台管理系统分配让用户登录不同 页面, 累计注册用户2000W+。 技术架构 SpringBoot + Mybatis+ VUE+ ActiveMQ 开发环境 MySql+JDK 8+Tomcat 8.5+Linux+Idea+Git 项目职责 1.开发助你花首页配置以及后台配置。 2开发匹配产品逻辑。 3开发市场包线前逻辑。 4开发渠道包登录逻辑处理。 5. 开发车抵贷房抵贷企业主贷数据收集以及数据分发。 6. 对接同城金服全流程接口。 7. 开发黑名单功能。 项目经验 项目名称 线下API项目 项目时间 三个月 项目描述 本项目是公司一个核心业务用户分发的系统, 针对人品借款, 好会借, 助你花三 个平台的用户数据分析, 数据处理, 加密处理, 根据用户的数据以及管理后台 功能对采量渠道, 城市, 贷款条, 控量来进行分发线下商家。 技术架构 SpringBoot+ Mybatis+ VUE+ ActiveMQ 开发环境 MySql+JDK 8+Tomcat 8.5+Linux+Idea+Git 项目职责 1.对接21家线下平台并全部上线。 2开发数据分析以及分数据发业务。 3管理后台添加时间段控量规则。 4开发新版撞库逻辑。 5开发定时分析数据供运营组分析 项目经验 项目名称 智慧法制一体化管理系统 项目时间 九个月 项目描述 本项目是针对执法办案区系统, 对嫌疑人入区后一系列业务流程进行统一管理, 例如 (入出 区 登记 , 安全检查, 财务管理, 医疗体检, 审讯管理, 通过这些流程将嫌疑人在园区 技术架构 SpringBoot+ Mybatis+ VUE+ RabbitMQ 开发环境 MySql+JDK 8+Tomcat 8.5+Linux+Idea+Git 1.参与项目模块分析及需求分解。 2.开发办案区监督管理模块。 3.开发大屏所有功能的详情页。\n9 4b 463 271 6 1 ty _ Ty Vfq ZReO\n项目经验 项 目 名 称 海淀执法办案管理系统3.0 项 目 时间 七个月 项 目 描述 海淀分局始建于2015年, 随着时间的增长, 海淀分局执法办案中心也在扩张, 先后增加了无线定位, 视频点位监控, 人证 核验一体机, 审讯主机等, 现有的办案平台只能进行单一的入区、 出区、 随身物品存储, 无法进行审讯办案, 连接视频。 本 次项目就是替换老平台, 让民警更加快速, 规范的办案。 技术架构 SpringMVC+Spring+Hibernate+Mysql+Maven+Redis+RabbitMQ 开发环境 MySql+JDK 7+Tomcat 8. 5+Linux+Idea+Git 项 目 职责 1.现场沟通需求, 制定任务计划及任务节点。 2.开发办案区监督管理模块。 3.开发笔录核查模块。 4.现场修改民警提出的问题以及开发需求。 5.部署系统, 保证平台按节点正式上线。 6.使用Redis优化大屏列表展示。 项目经验 项 目 名 称 房山执法办案管理系统 项 目 时间 六个月 项 目 描述 目前用于房山分局办案的办案中心、 执法规范等业务子系统彼此孤立, 对于人员信息、 轨迹信息、 视频信息、 定位信息等, 无法 实现流程化、 集中化的管理。 独立系统间无法实现数据共享及综合应用, 多个平台使用不便, 且无法实现数据融合, 缺乏数据整合应 4b 463 271 用, 无法实现跨子系统的业务功能。 本次项目将统一整合各业务模块实现数据强警工程, 建成办案中心、 执法规范相结合的公安执法办 案区智能管理系统, 以数据流、 信息流全面推动警务机制转型。 以便快速高效安全的规范执法办案 技术架构 SpringMVC+Spring+Hibernate+Mysql+Maven 开发环境 MySql+JDK 7+Tomcat 8. 5+Linux+ Idea+Git 项 目 职责 1: 开发报备审核管理模块。 2: 开发笔录核查的模块。 3: 调试, 兼容现场涉及到所有硬件。 4: 培训民警使用, 保障平台线上稳定运行。 5: 开发视频轨迹模式, 添加号牌录入功能。 项目经验 项 目 名 称 南京执法办案管理系统 项 目 时间 六个月 项 目 描述 玄武办案区系统同步审是为了应对公安机关遇见大要案, 涉密案件, 或者涉案人员多的案件时, 民警可以实时通过平台上传案件 的证据, 了解案件的人员架构, 知道审讯嫌疑人必须要问的问题。 法制民警这边可以实时监督民警在审讯嫌疑人, 当法制民 警看到审讯有什么错误遗漏的地方可以通过平台及时通知。 事后可以通过多次审讯笔录进行比对, 汇总证据一览表, 归档 技术架构 SpringMVC+Spring+Hibernate+Mysql+Maven 开发环境 MySql+JDK 7+Tomcat 8. 5+Linux+ Idea+Git 项 目 职责 1: 开发预约管理的模块。 2: 开发现场提的候问需求。 3: 开发人员信息采集模块。 4: 基于标准版修改安全检查整体逻辑。\n自我评价 工作积极认真, 细心负责, 善于在工作中提出问题, 发现问题、 解决问题, 有较强的分析能力; 勤奋好学, 踏实肯干, 动手能力强, 认真负责, 有很强的社会责任感; 坚毅不拔, 吃苦耐劳, 喜欢和善于迎接新挑战, 有强烈的工 作进取心与合作意识, 乐于与同事及领导沟通, 快速解决项目中出现的问题, 学习能力较强,对新技术有很强的学习 兴趣, 缺点是对项目的部署缺少机会接触, 但相信自己能够很快学习上手。 9 e69938 4b 463 271 6 1 nJ z3 ty _ Eld Ty 5G6 Vfq ZReO hmQ ~~"
+}

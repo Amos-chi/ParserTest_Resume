@@ -1,0 +1,31 @@
+{
+    "all": 29,
+    "important": 29,
+    "desc": 0,
+    "correct_important": 20,
+    "correct_desc": 0,
+    "additional": 2,
+    "important_keys": {
+        "educations.0.current": false,
+        "educations.0.degreeLevel": false,
+        "educations.0.startDate": false,
+        "educations.1.degreeLevel": false,
+        "experiences.0.current": false,
+        "experiences.0.startDate": false,
+        "fullName": false,
+        "skills.0.skillName": false,
+        "skills.2.skillName": false
+    },
+    "unimportant_keys": {},
+    "addition_info_count": 2,
+    "addition_info": {
+        "currentLocation": [
+            {
+                "location": "Yangquan, Shanxi, China"
+            }
+        ],
+        "languages": [
+            "MANDARIN"
+        ]
+    }
+}

@@ -1,0 +1,196 @@
+{
+    "fullName": "李文",
+    "contacts": [
+        {
+            "contact": "18911151483",
+            "type": "PHONE"
+        },
+        {
+            "contact": "keyliwen@icloud.com",
+            "type": "EMAIL"
+        }
+    ],
+    "languages": [
+        "英语"
+    ],
+    "educations": [
+        {
+            "startDate": "2010-09-01",
+            "endDate": "2014-06-01",
+            "collegeName": "北京工业大学",
+            "degreeLevel": "本科",
+            "majorName": "通信工程"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "由于之前工作比较劳累，所以想休息一段时间，在此期间，和家人共同做了一些创业的尝\n试，主要业务是国学课程培训和芳香疗法培训，我主要负责线下课程开展和业务相关的一些\n工具小程序的开发，基本的业务已稳定，而且我也更喜欢对技术的持续探索，所以由家人继\n续相关业务的开展，我回归到自己最擅长的技术专业领域发挥自己的价值\n求职状态: 离职-正在找工作\n工作性质: 全职 2018.03---2021.12\n工作地区: 北京 五彩鹿（北京）教育咨询有限责任公司\n技术经理/架构师\n期望月薪: 30000-40000/月\n五彩鹿是一家自闭症早期干预机构，核心业务形式是线下自闭症幼儿园，由于规模的不断扩\n期望职业: Java,架构师,Golang 大，非常需要通过线上平台提供对教务、教学、客户服务的有效支撑，提升教学质量和服务\n精准性，我负责带领团队进行线上平台核心模块及支撑子系统的开发和运维工作，主要包\n期望行业: 不限行业\n括: 缴费及订单相关功能、排课及课时计算相关功能、专业评估及教学计划制定工具、功能\n权限及数据权限控制、工作流、客户管理子系统、批任务子系统、C端应用等。\n具体工作内容:\n●   参与重难点功能开发，解决团队遇到的各种复杂技术及业务问题\n自我评价 ● 构建CI/CD工具链，在团队实际项目中全方位落地CI/CD以及Scrum，提升研发效率\n●   负责架构设计及重构，根据业务需求制定相应解决方案\n2年团队管理及架构设计经验，8年\n●   制定团队目标，根据公司战略目标，定位部门角色，细化部门年度、季度、月度目标\nJava开发经验，拥有多个项目的全栈 ● 帮助团队建立工作信心，制定岗位职责和目标，与团队成员定期1v1沟通，了解成员工作状\n开发经验，主导并参与了多个项目从 态及发展规划，向其传达公司及团队目标，帮助成员更好的融入团队并建立团队荣誉感\n0到1的全过程，计算机基础知识牢\n固，熟悉JVM体系结构及多线程，\n2015.08---2018.03\n对微服务有深入理解并实践，熟悉缓\n简快教育科技（北京）有限公司\n存和消息中间件，精通Docker及\nDevOps，熟悉Vue/React以及 Java开发工程师\nNodejs，掌握Python及Go，擅长 公司在心理学行业耕耘多年，希望可以通过线上扩大影响力，所以成立了技术部，主导线上\n产品的研发\n解决问题和沟通，喜欢探索和不断成\n业务目标:\n长，对软件开发充满激情，立志于通\n●   研发线上心里咨询平台——生活没烦恼APP\n过软件简化工作和生活。 ● 为公司公益项目开心屋项目研发官网及论坛\n●   为新业务线国学业务线研发线上学习平台\n具体工作内容:\n●   负责各技术产品的设计及项目管理\n●   负责自研项目的全部开发任务\n●   维护线上产品正常运行\n●   负责协助公司改善内部工作流，提供技术解决方案\n●   为公司一切有关技术的问题提供相关建议和方案",
+            "companyName": "天津仙草仙草文化传播有限公司",
+            "title": "联合创始人",
+            "startDate": "2022-01-01",
+            "endDate": "2022-08-01"
+        },
+        {
+            "description": "全民国学网是一款在线学习国学知识的产品，主要面向公司国学培训项目中产生的学员，提\n供在线答题测验、视频课程（免费/付费）等核心功能；\n●   需求整理及页面原型制作，页面设计",
+            "companyName": "全民国学网",
+            "startDate": "2015-10-01",
+            "endDate": "2016-09-01"
+        },
+        {
+            "description": "负责在线学习平台的功能优化和新功能开发功能；负责在线学习平台用户的技术支持工作 ；\n负责公司内部网络管理工作。",
+            "companyName": "北京华夏赛科技术发展有限公司",
+            "title": "Java开发工程师",
+            "startDate": "2014-03-01",
+            "endDate": "2015-07-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "Ci"
+        },
+        {
+            "skillName": "Jpa"
+        },
+        {
+            "skillName": "App"
+        },
+        {
+            "skillName": "Git"
+        },
+        {
+            "skillName": "Jvm"
+        },
+        {
+            "skillName": "Vue"
+        },
+        {
+            "skillName": "Cms"
+        },
+        {
+            "skillName": "Java"
+        },
+        {
+            "skillName": "MySQL"
+        },
+        {
+            "skillName": "Cloud"
+        },
+        {
+            "skillName": "vuejs"
+        },
+        {
+            "skillName": "Scrum"
+        },
+        {
+            "skillName": "React"
+        },
+        {
+            "skillName": "优化"
+        },
+        {
+            "skillName": "Nodejs"
+        },
+        {
+            "skillName": "Spring"
+        },
+        {
+            "skillName": "Devops"
+        },
+        {
+            "skillName": "Python"
+        },
+        {
+            "skillName": "Docker"
+        },
+        {
+            "skillName": "Jquery"
+        },
+        {
+            "skillName": "Golang"
+        },
+        {
+            "skillName": "架构"
+        },
+        {
+            "skillName": "功能"
+        },
+        {
+            "skillName": "运维"
+        },
+        {
+            "skillName": "Mybatis"
+        },
+        {
+            "skillName": "Jenkins"
+        },
+        {
+            "skillName": "Reactjs"
+        },
+        {
+            "skillName": "activiti"
+        },
+        {
+            "skillName": "心理学"
+        },
+        {
+            "skillName": "多线程"
+        },
+        {
+            "skillName": "中间件"
+        },
+        {
+            "skillName": "Spring Mvc"
+        },
+        {
+            "skillName": "Java开发"
+        },
+        {
+            "skillName": "JavaScript"
+        },
+        {
+            "skillName": "程序开发"
+        },
+        {
+            "skillName": "项目管理"
+        },
+        {
+            "skillName": "体系结构"
+        },
+        {
+            "skillName": "页面设计"
+        },
+        {
+            "skillName": "管理工作"
+        },
+        {
+            "skillName": "模块开发"
+        },
+        {
+            "skillName": "网络管理"
+        },
+        {
+            "skillName": "架构设计"
+        },
+        {
+            "skillName": "团队管理"
+        },
+        {
+            "skillName": "档案管理"
+        },
+        {
+            "skillName": "通信工程"
+        },
+        {
+            "skillName": "客户服务"
+        },
+        {
+            "skillName": "Elasticsearch"
+        },
+        {
+            "skillName": "服务器维护"
+        },
+        {
+            "skillName": "数据库设计"
+        }
+    ]
+}

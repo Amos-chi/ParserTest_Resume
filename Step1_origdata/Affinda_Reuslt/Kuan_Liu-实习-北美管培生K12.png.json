@@ -1,0 +1,907 @@
+{
+    "certifications": [
+        "Relevant Courses Statistics and Probability Linear Dynamical Systems Control System Design",
+        "CS Courses Data Structures UNIX Bash Machine Learning Comp Org Assembly Language"
+    ],
+    "dateOfBirth": null,
+    "education": [
+        {
+            "id": 8034473,
+            "organization": "Stanford University",
+            "accreditation": {
+                "education": "M.S ., Materials Science and Engineering",
+                "educationLevel": null,
+                "inputStr": "M.S ., Materials Science and Engineering",
+                "matchStr": ""
+            },
+            "grade": {
+                "raw": "GPA: N/A",
+                "value": null,
+                "metric": null
+            },
+            "location": null,
+            "dates": {
+                "startDate": "2020-09-01",
+                "completionDate": "2022-06-01",
+                "isCurrent": false
+            }
+        },
+        {
+            "id": 8034474,
+            "organization": "University of California, Berkeley",
+            "accreditation": {
+                "education": "B.S ., Chemical Engineering Minor: Materials Science & Engineering",
+                "educationLevel": null,
+                "inputStr": "B.S ., Chemical Engineering Minor: Materials Science & Engineering",
+                "matchStr": ""
+            },
+            "grade": {
+                "raw": "GPA: 3.734",
+                "value": "3.734",
+                "metric": "GPA"
+            },
+            "location": null,
+            "dates": {
+                "startDate": null,
+                "completionDate": "2019-12-01",
+                "isCurrent": false
+            }
+        }
+    ],
+    "emails": [
+        "alan1997liu@berkeley.edu"
+    ],
+    "location": {
+        "formatted": "Fullerton, CA 92835, USA",
+        "streetNumber": null,
+        "street": null,
+        "apartmentNumber": null,
+        "city": "Fullerton",
+        "postalCode": "92835",
+        "state": "California",
+        "country": "United States",
+        "rawInput": "Fullerton, CA 92835",
+        "countryCode": "US"
+    },
+    "name": {
+        "raw": "Kuan (Alan) Liu",
+        "last": "Liu",
+        "first": "Kuan",
+        "title": "",
+        "middle": ""
+    },
+    "objective": "",
+    "phoneNumbers": [
+        "+17143193123"
+    ],
+    "publications": [],
+    "referees": [],
+    "sections": [
+        {
+            "sectionType": "PersonalDetails",
+            "bbox": [
+                135.0,
+                38.0,
+                484.0,
+                79.0
+            ],
+            "pageIndex": 0,
+            "text": "Kuan (Alan) Liu (714)319-3123 | alan1997liu@berkeley.edu | Fullerton, CA 92835 | https://www.linkedin.com/in/kuan-liu"
+        },
+        {
+            "sectionType": "Summary",
+            "bbox": [
+                52.0,
+                89.0,
+                558.0,
+                176.0
+            ],
+            "pageIndex": 0,
+            "text": "Summary of Qualifications: . Seeking entry-level engineering positions in the materials, manufacturing, and energy industries starting on or after June 2021 (while working on a Master's part-time). . One year of internship work experience in the energy and manufacturing sector. · Adept at applying data science and software tools to solve engineering problems. · Experienced in chemistry research methods."
+        },
+        {
+            "sectionType": "Education",
+            "bbox": [
+                51.0,
+                190.0,
+                542.0,
+                300.0
+            ],
+            "pageIndex": 0,
+            "text": "Education: Stanford University (September 2020 to June 2022, part-time): M.S ., Materials Science and Engineering GPA: N/A Relevant Courses: Statistics and Probability, Linear Dynamical Systems, Control System Design University of California, Berkeley (December 2019): B.S ., Chemical Engineering Minor: Materials Science & Engineering GPA: 3.734 CS Courses: Data Structures, UNIX/Bash, Machine Learning, Comp. Org. & Assembly Language"
+        },
+        {
+            "sectionType": "Skills/Interests/Languages",
+            "bbox": [
+                52.0,
+                315.0,
+                528.0,
+                371.0
+            ],
+            "pageIndex": 0,
+            "text": "Skills: . Software: Python, Java, Matlab, JavaScript, HTML/CSS, Fusion 360, Bash, Aspen, COMSOL · Laboratory: Gas Chromatography, Mass Spectrometry · Languages: English (Native), Mandarin (Native)"
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                51.0,
+                385.0,
+                561.0,
+                730.0
+            ],
+            "pageIndex": 0,
+            "text": "Work & Research Experience Solar Turbines San Diego, CA Software Engineering Assistant Jun. 2020 to Aug. 2020 · Leveraged Python computer vision and deep learning modules to extract information from piping and instrumentation diagrams (P&IDs) as part of a team of three interns. · Provided a P&ID UI feature for the gas turbine human-machine interface using JavaScript, HTML, and CSS. National Renewable Energy Laboratory Golden, CO Engineering Materials Intern Jan. 2020 to May 2020 · Implemented thermodynamic equilibrium calculations in MATLAB for predicting ternary phase diagrams of salt hydrate systems. · Investigated methods for synthesizing novel salt hydrate materials. Solar Turbines San Diego, CA Engineering Assistant May 2019 to Aug. 2019 . Saved 78 engineering hours and $8,500 per turbine project by developing a Python & Java program that automatically determines optimal gas detector placements in turbine packages · Implemented the automation program using CFD data, CAD and optimization algorithms. · Conducted training on how to use the program to CFD engineers within the department. Mark Asta Computational Materials Science Research Group Berkeley, CA Undergraduate Research Assistant July 2018 to May 2019 · Developed Python and Bash programs to automatically calculate energies of perovskite materials with DFT."
+        }
+    ],
+    "skills": [
+        {
+            "id": 80435547,
+            "emsiId": "KS440QS66YCBN23Y8K25",
+            "name": "Software Engineering",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435549,
+            "emsiId": "KS1227Z6042FLY7B5YLC",
+            "name": "Comsol Multiphysics",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435551,
+            "emsiId": "KS120X767ZQ3210N2306",
+            "name": "Bash (Scripting Language)",
+            "lastUsed": "2019-05-01",
+            "numberOfMonths": 10,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077873
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077873
+                }
+            ]
+        },
+        {
+            "id": 80435552,
+            "emsiId": "KS120LK75R3GCYN79DVC",
+            "name": "Thermodynamics",
+            "lastUsed": "2020-05-01",
+            "numberOfMonths": 4,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077871
+                }
+            ]
+        },
+        {
+            "id": 80435553,
+            "emsiId": "KS122FM6NS52BCDZ7GWT",
+            "name": "SolidWorks (CAD)",
+            "lastUsed": "2019-08-01",
+            "numberOfMonths": 3,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077872
+                }
+            ]
+        },
+        {
+            "id": 80435554,
+            "emsiId": "KS441MW6M14QMH34W3DW",
+            "name": "Undergraduate Research",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435555,
+            "emsiId": "KS120076FGP5WGWYMP0F",
+            "name": "Java (Programming Language)",
+            "lastUsed": "2020-08-01",
+            "numberOfMonths": 5,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077870
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077872
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077870
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077872
+                }
+            ]
+        },
+        {
+            "id": 80435561,
+            "emsiId": "KS120LH5W508G8HMY9GG",
+            "name": "Chemistry",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435564,
+            "emsiId": "KS12085645CK2231S5R9",
+            "name": "Chromatography",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435571,
+            "emsiId": "KS7LO8P3MXB93R3C9RWL",
+            "name": "Data Science",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435575,
+            "emsiId": "KS12668634JVTGH0N0D3",
+            "name": "Mass Spectrometry",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435559,
+            "emsiId": "KS120NP6J9YGDMN22JGF",
+            "name": "Computer Vision",
+            "lastUsed": "2020-08-01",
+            "numberOfMonths": 2,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077870
+                }
+            ]
+        },
+        {
+            "id": 80435560,
+            "emsiId": "KS1261G6FLXL70JW7G42",
+            "name": "MATLAB",
+            "lastUsed": "2020-05-01",
+            "numberOfMonths": 4,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077871
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077871
+                }
+            ]
+        },
+        {
+            "id": 80435562,
+            "emsiId": "KS1200771D9CR9LB4MWW",
+            "name": "JavaScript (Programming Language)",
+            "lastUsed": "2020-08-01",
+            "numberOfMonths": 2,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077870
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077870
+                }
+            ]
+        },
+        {
+            "id": 80435565,
+            "emsiId": "KS123FD6BP1YLD3WG9FG",
+            "name": "Instrumentation",
+            "lastUsed": "2020-08-01",
+            "numberOfMonths": 2,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077870
+                }
+            ]
+        },
+        {
+            "id": 80435566,
+            "emsiId": "KS124HN6MTVKLL6QHNRS",
+            "name": "Renewable Energy",
+            "lastUsed": "2020-05-01",
+            "numberOfMonths": 4,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077871
+                }
+            ]
+        },
+        {
+            "id": 80435567,
+            "emsiId": "KS125BW74QLLYL9MMFR3",
+            "name": "Storage Area Network (SAN)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435568,
+            "emsiId": "ES32C0E94AFC9C08A0E0",
+            "name": "Materials Science",
+            "lastUsed": "2019-05-01",
+            "numberOfMonths": 10,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077873
+                }
+            ]
+        },
+        {
+            "id": 80435569,
+            "emsiId": "KS121F45VPV8C9W3QFYH",
+            "name": "Cascading Style Sheets (CSS)",
+            "lastUsed": "2020-08-01",
+            "numberOfMonths": 2,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077870
+                }
+            ]
+        },
+        {
+            "id": 80435572,
+            "emsiId": "KS120SQ5W4Q57JMD2Y81",
+            "name": "Automation",
+            "lastUsed": "2019-08-01",
+            "numberOfMonths": 3,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077872
+                }
+            ]
+        },
+        {
+            "id": 80435573,
+            "emsiId": "KS1200578T5QCYT0Z98G",
+            "name": "HyperText Markup Language (HTML)",
+            "lastUsed": "2020-08-01",
+            "numberOfMonths": 2,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077870
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077870
+                }
+            ]
+        },
+        {
+            "id": 80435574,
+            "emsiId": "KS1203C6N9B52QGB4H67",
+            "name": "Research",
+            "lastUsed": "2019-05-01",
+            "numberOfMonths": 10,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077873
+                }
+            ]
+        },
+        {
+            "id": 80435577,
+            "emsiId": "KS125LS6N7WP4S6SFTCK",
+            "name": "Python (Programming Language)",
+            "lastUsed": "2020-08-01",
+            "numberOfMonths": 15,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077870
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077872
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077873
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077870
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077872
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 3,
+                    "workExperienceId": 15077873
+                }
+            ]
+        },
+        {
+            "id": 80435579,
+            "emsiId": "KSBZ9LW988KC56I219SP",
+            "name": "Deep Learning",
+            "lastUsed": "2020-08-01",
+            "numberOfMonths": 2,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077870
+                }
+            ]
+        },
+        {
+            "id": 80435550,
+            "emsiId": "KS4400Z66ZPBYGSKVLTV",
+            "name": "Research Experiences",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435556,
+            "emsiId": "KS125316CFXYDMDPLDML",
+            "name": "Turbines",
+            "lastUsed": "2020-08-01",
+            "numberOfMonths": 5,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077870
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077872
+                }
+            ]
+        },
+        {
+            "id": 80435557,
+            "emsiId": "KS7G2QL72QWZ778MBNKK",
+            "name": "Spectrometry",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435578,
+            "emsiId": "ES92384CEFFE19A7B510",
+            "name": "Fusion 360 (CAD Software)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435580,
+            "emsiId": "KS1246W5XXLV48FCT6XN",
+            "name": "Gas Chromatography",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435558,
+            "emsiId": "KS121BM6VGMJPK7X7938",
+            "name": "Calculations",
+            "lastUsed": "2020-05-01",
+            "numberOfMonths": 4,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077871
+                }
+            ]
+        },
+        {
+            "id": 80435570,
+            "emsiId": "KS1246W5ZX8WY0V8Y7D8",
+            "name": "Gas Detector",
+            "lastUsed": "2019-08-01",
+            "numberOfMonths": 3,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077872
+                }
+            ]
+        },
+        {
+            "id": 80435576,
+            "emsiId": "KS441KQ6J5DDYL92K8YW",
+            "name": "Gas Turbine",
+            "lastUsed": "2020-08-01",
+            "numberOfMonths": 2,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077870
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "English",
+        "Mandarin"
+    ],
+    "summary": ". Seeking entry-level engineering positions in the materials, manufacturing, and energy industries starting on or after June 2021 (while working on a Master's part-time). . One year of internship work experience in the energy and manufacturing sector. · Adept at applying data science and software tools to solve engineering problems. · Experienced in chemistry research methods.",
+    "websites": [
+        "https://www.linkedin.com/in/kuan-liu"
+    ],
+    "linkedin": "https://www.linkedin.com/in/kuan-liu",
+    "totalYearsExperience": 2,
+    "profession": "Undergraduate Research Assistant",
+    "workExperience": [
+        {
+            "id": 15077870,
+            "jobTitle": "Software Engineering Assistant",
+            "organization": "SOLAR TURBINES",
+            "location": {
+                "formatted": "San Diego, CA, USA",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "San Diego",
+                "postalCode": null,
+                "state": "California",
+                "country": "United States",
+                "rawInput": "San Diego, CA",
+                "countryCode": "US"
+            },
+            "dates": {
+                "startDate": "2020-06-01",
+                "endDate": "2020-08-01",
+                "monthsInPosition": 2,
+                "isCurrent": false
+            },
+            "jobDescription": " Leveraged Python computer vision and deep learning modules to extract information from piping and instrumentation diagrams (P&IDs) as part of a team of three interns. \n·Provided a P&ID UI feature for the gas turbine human-machine interface using JavaScript, HTML, and CSS. ",
+            "occupation": {
+                "jobTitle": "Software Engineering Assistant",
+                "jobTitleNormalized": "Software Engineering Manager",
+                "classification": {
+                    "socCode": 2134,
+                    "title": "Programmers and software development professionals ",
+                    "minorGroup": "Information Technology Professionals",
+                    "subMajorGroup": "SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",
+                    "majorGroup": "PROFESSIONAL OCCUPATIONS"
+                },
+                "managementLevel": "Mid"
+            }
+        },
+        {
+            "id": 15077871,
+            "jobTitle": "Engineering Materials Intern",
+            "organization": "National Renewable Energy Laboratory",
+            "location": {
+                "formatted": "Golden, CO, USA",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "Golden",
+                "postalCode": null,
+                "state": "Colorado",
+                "country": "United States",
+                "rawInput": "Golden, CO",
+                "countryCode": "US"
+            },
+            "dates": {
+                "startDate": "2020-01-01",
+                "endDate": "2020-05-01",
+                "monthsInPosition": 4,
+                "isCurrent": false
+            },
+            "jobDescription": " Implemented thermodynamic equilibrium calculations in MATLAB for predicting ternary phase diagrams of salt hydrate systems. \n·Investigated methods for synthesizing novel salt hydrate materials. ",
+            "occupation": {
+                "jobTitle": "Engineering Materials Intern",
+                "jobTitleNormalized": "Materials Engineering Intern",
+                "classification": null,
+                "managementLevel": "Low"
+            }
+        },
+        {
+            "id": 15077872,
+            "jobTitle": "Engineering Assistant",
+            "organization": "SOLAR TURBINES",
+            "location": {
+                "formatted": "San Diego, CA, USA",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "San Diego",
+                "postalCode": null,
+                "state": "California",
+                "country": "United States",
+                "rawInput": "San Diego, CA",
+                "countryCode": "US"
+            },
+            "dates": {
+                "startDate": "2019-05-01",
+                "endDate": "2019-08-01",
+                "monthsInPosition": 3,
+                "isCurrent": false
+            },
+            "jobDescription": ". Saved 78 engineering hours and $8,500 per turbine project by developing a Python & Java program that automatically determines optimal gas detector placements in turbine packages \n·Implemented the automation program using CFD data, CAD and optimization algorithms. \n·Conducted training on how to use the program to CFD engineers within the department. ",
+            "occupation": {
+                "jobTitle": "Engineering Assistant",
+                "jobTitleNormalized": "Engineering Assistant",
+                "classification": {
+                    "socCode": 3113,
+                    "title": "Engineering technicians ",
+                    "minorGroup": "Science, Engineering and Production Technicians",
+                    "subMajorGroup": "SCIENCE, ENGINEERING AND TECHNOLOGY ASSOCIATE PROFESSIONALS",
+                    "majorGroup": "ASSOCIATE PROFESSIONAL OCCUPATIONS"
+                },
+                "managementLevel": "Low"
+            }
+        },
+        {
+            "id": 15077873,
+            "jobTitle": "Undergraduate Research Assistant",
+            "organization": "Mark Asta Computational Materials Science Research Group",
+            "location": {
+                "formatted": "Berkeley, CA, USA",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "Berkeley",
+                "postalCode": null,
+                "state": "California",
+                "country": "United States",
+                "rawInput": "Berkeley, CA",
+                "countryCode": "US"
+            },
+            "dates": {
+                "startDate": "2018-07-01",
+                "endDate": "2019-05-01",
+                "monthsInPosition": 10,
+                "isCurrent": false
+            },
+            "jobDescription": " Developed Python and Bash programs to automatically calculate energies of perovskite materials with DFT. ",
+            "occupation": {
+                "jobTitle": "Undergraduate Research Assistant",
+                "jobTitleNormalized": "Undergraduate Research Assistant",
+                "classification": {
+                    "socCode": 2434,
+                    "title": "Business and related research professionals",
+                    "minorGroup": "Business, Research and Administrative Professionals",
+                    "subMajorGroup": "BUSINESS, MEDIA AND PUBLIC SERVICE PROFESSIONALS",
+                    "majorGroup": "PROFESSIONAL OCCUPATIONS"
+                },
+                "managementLevel": "Low"
+            }
+        }
+    ],
+    "headShot": null,
+    "isResumeProbability": 95,
+    "rawText": "Kuan (Alan) Liu (714)319-3123 | alan1997liu@berkeley.edu | Fullerton, CA 92835 | https://www.linkedin.com/in/kuan-liu\nSummary of Qualifications: . Seeking entry-level engineering positions in the materials, manufacturing, and energy industries starting on or after June 2021 (while working on a Master's part-time). . One year of internship work experience in the energy and manufacturing sector. · Adept at applying data science and software tools to solve engineering problems. · Experienced in chemistry research methods.\nEducation: Stanford University (September 2020 to June 2022, part-time): M.S ., Materials Science and Engineering GPA: N/A Relevant Courses: Statistics and Probability, Linear Dynamical Systems, Control System Design University of California, Berkeley (December 2019): B.S ., Chemical Engineering Minor: Materials Science & Engineering GPA: 3.734 CS Courses: Data Structures, UNIX/Bash, Machine Learning, Comp. Org. & Assembly Language\nSkills: . Software: Python, Java, Matlab, JavaScript, HTML/CSS, Fusion 360, Bash, Aspen, COMSOL · Laboratory: Gas Chromatography, Mass Spectrometry · Languages: English (Native), Mandarin (Native)\nWork & Research Experience Solar Turbines San Diego, CA Software Engineering Assistant Jun. 2020 to Aug. 2020 · Leveraged Python computer vision and deep learning modules to extract information from piping and instrumentation diagrams (P&IDs) as part of a team of three interns. · Provided a P&ID UI feature for the gas turbine human-machine interface using JavaScript, HTML, and CSS. National Renewable Energy Laboratory Golden, CO Engineering Materials Intern Jan. 2020 to May 2020 · Implemented thermodynamic equilibrium calculations in MATLAB for predicting ternary phase diagrams of salt hydrate systems. · Investigated methods for synthesizing novel salt hydrate materials. Solar Turbines San Diego, CA Engineering Assistant May 2019 to Aug. 2019 . Saved 78 engineering hours and $8,500 per turbine project by developing a Python & Java program that automatically determines optimal gas detector placements in turbine packages · Implemented the automation program using CFD data, CAD and optimization algorithms. · Conducted training on how to use the program to CFD engineers within the department. Mark Asta Computational Materials Science Research Group Berkeley, CA Undergraduate Research Assistant July 2018 to May 2019 · Developed Python and Bash programs to automatically calculate energies of perovskite materials with DFT."
+}

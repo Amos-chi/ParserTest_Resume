@@ -1,0 +1,1380 @@
+{
+    "certifications": [
+        "AWS Certified Solution Architect Associates",
+        "Certified Information Security Manager CISM",
+        "Certificate of Cloud Security Knowledge CCSK",
+        "CompTia Security Plus SecPlus",
+        "Certified Ethical Hacker CEH",
+        "Certification and Accreditation A A Project Management Change Management NIST 800 53 rev1 and rev4 and"
+    ],
+    "dateOfBirth": null,
+    "education": [
+        {
+            "id": 8034459,
+            "organization": "Northeastern University",
+            "accreditation": {
+                "education": "Master of Science",
+                "educationLevel": "masters",
+                "inputStr": "Master of Sciences in Project Manager and Information Security",
+                "matchStr": ""
+            },
+            "grade": null,
+            "location": {
+                "formatted": "Boston, MA, USA",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "Boston",
+                "postalCode": null,
+                "state": "Massachusetts",
+                "country": "United States",
+                "rawInput": "Boston MA:",
+                "countryCode": "US"
+            },
+            "dates": {
+                "startDate": "2013-04-01",
+                "completionDate": "2022-12-21",
+                "isCurrent": true
+            }
+        },
+        {
+            "id": 8034460,
+            "organization": "Northeastern University",
+            "accreditation": {
+                "educationLevel": null,
+                "inputStr": "",
+                "matchStr": ""
+            },
+            "grade": null,
+            "location": {
+                "formatted": "Boston, MA, USA",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "Boston",
+                "postalCode": null,
+                "state": "Massachusetts",
+                "country": "United States",
+                "rawInput": "Boston MA:",
+                "countryCode": "US"
+            },
+            "dates": {
+                "startDate": "2011-04-01",
+                "completionDate": "2013-04-01",
+                "isCurrent": false
+            }
+        },
+        {
+            "id": 8034461,
+            "organization": "University of Buea",
+            "accreditation": {
+                "education": "Bachelor of Science",
+                "educationLevel": "bachelors",
+                "inputStr": "Bachelor of Sciences in Sociology and Anthropology",
+                "matchStr": ""
+            },
+            "grade": null,
+            "location": {
+                "formatted": "Cameroon",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": null,
+                "postalCode": null,
+                "state": null,
+                "country": "Cameroon",
+                "rawInput": "Cameroon:",
+                "countryCode": "CM"
+            },
+            "dates": {
+                "startDate": "2005-10-01",
+                "completionDate": "2008-10-01",
+                "isCurrent": false
+            }
+        }
+    ],
+    "emails": [
+        "nsaiemperior@yahoo.com"
+    ],
+    "location": {
+        "formatted": "9108 Elaine Ct x3, Laurel, MD 20708, USA",
+        "streetNumber": "9108",
+        "street": "Elaine Court",
+        "apartmentNumber": "x3",
+        "city": "Laurel",
+        "postalCode": "20708",
+        "state": "Maryland",
+        "country": "United States",
+        "rawInput": "9108 Elaine Court Apt X3, Laurel MD 20708,",
+        "countryCode": "US"
+    },
+    "name": {
+        "raw": "Teddy Nsai:",
+        "last": "Nsai",
+        "first": "Teddy",
+        "title": "",
+        "middle": ""
+    },
+    "objective": "",
+    "phoneNumbers": [
+        "+18573120689"
+    ],
+    "publications": [],
+    "referees": [],
+    "sections": [
+        {
+            "sectionType": "PersonalDetails",
+            "bbox": [
+                72.201,
+                74.428955,
+                335.125,
+                97.03705
+            ],
+            "pageIndex": 0,
+            "text": "Teddy Nsai: 9108 Elaine Court Apt X3, Laurel MD 20708, Email nsaiemperior@yahoo.com Tel: 8573120689"
+        },
+        {
+            "sectionType": "Education",
+            "bbox": [
+                72.145,
+                112.369995,
+                461.84998,
+                191.69995
+            ],
+            "pageIndex": 0,
+            "text": "EDUCATION: Northeastern University, Boston MA: April 2013 to Present Master of Sciences in Project Manager and Information Security Northeastern University, Boston MA: April 2011 to April 2013 Master of Sciences in Global Studies and International Affairs University of Buea Cameroon: October 2005 to October 2008 Bachelor of Sciences in Sociology and Anthropology"
+        },
+        {
+            "sectionType": "Training/Certifications",
+            "bbox": [
+                72.189995,
+                205.85999,
+                292.957,
+                282.88702
+            ],
+            "pageIndex": 0,
+            "text": "CERTIFICATIONS: AWS Certified Solution Architect Associates Certified Information Security Manager (CISM) Certificate of Cloud Security Knowledge (CCSK) CompTia Security Plus (SecPlus) Certified Ethical Hacker (CEH)"
+        },
+        {
+            "sectionType": "Summary",
+            "bbox": [
+                72.075,
+                287.25,
+                540.06,
+                491.87003
+            ],
+            "pageIndex": 0,
+            "text": "SUMMARY: Seven years of Cyber Security, RFM, FedRAMP, five to six-year experience as an Information Security Officer and four years as an AWS Solutions Architect. Cyber Security: Certification and Accreditation (A&A), Project Management, Change Management, NIST 800-53 rev1 and rev4 and NIST SP 800-37 rev 1, 800-18, 800-53 rev 3 and 800-34, FIPS, FISMA, NIST family of security controls, POA&M, A&A Package, Knowledge of the System Development Life Cycle (SDLC) PMBOK Project Management Knowledge Areas, Research Analysis, Risk management, Costs planning and, Project scheduling and Planning, General Management, Communication, Negotiation, Mediation Facilitation, Leaderships and Organization. AWS Solutions Architect: Cloud Orchestration / Automation: AWS CloudFormation, AWS Lambda, AWS Systems Manager, AWS SSM Parameter Store, Ansible, Docker, Jenkins, ECS, EKS, Terraform AWS Security: AWS Security Hub, AWS Guard Duty, AWS Shield, AWS Firewall Manager, AWS Inspector Monitoring and Event Management: AWS CloudWatch (Events and Logs), AWS SNS, AWS S3 Identity and Access Management: AWS Organization, AWS IAM, AWS AD Connector, Active Directory, AWS Workspaces, AWS Secrets Manager, etc Governance and Compliance: AWS Config Rules, AWS Organization, AWS Control Tower, AWS Trusted Advisor, AWS Well Architected Tool, AWS Budgets, AWS License Manager"
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                72.11499,
+                507.28,
+                539.80896,
+                710.803
+            ],
+            "pageIndex": 0,
+            "text": "TOOLS: AWS Platform: AWS CloudFormation, AWS Lambda, AWS Systems Manager, EC2, ELB, RDS, SNS, SQS, SES, Route53, CloudFront, Service Catalog, AWS Auto Scaling, Trusted Advisor, CloudWatch, VPC, AWS WAF, AWS SHIELD, AWS Guard Duty, VPC Flow logs, IAM, Security Groups, NACLs, Security Hub, EC2, S3, CloudWatch, CloudTrail. PROFESSIONAL EXPERIENCE: XLA FedRAMP Compliance /Clouds Security Architect VIENNA VA November 2016 to Present • Implement security best practices around Clouds Infrastructure using tools like; VPC, AWS WAF, AWS SHIELD, AWS Guard Duty, VPC Flow logs, IAM, Security Groups, NACLs, Security Hub. • Also used CloudWatch and CloudTrail for Monitoring and Logging respectively, thereby utilizing these tools to monitor event driven patterns and to integrated with Lambda Functions for Auto-remediations. • Using encryption and Certificates, for data security and Privacy using standard encryption mechanisms like KMS, for encryption at rest and encryption in transit. • Work with customers to define key capabilities and performance requirements. Develops technical roadmaps for future implementations. • Designed secure, cost-optimized, highly available, and fault-tolerant infrastructure in AWS."
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                72.16899,
+                74.632996,
+                540.26196,
+                697.544
+            ],
+            "pageIndex": 1,
+            "text": "• Architected and configured Dev / Stage / QA environments in AWS (VPC, subnets, security groups, EC2 instances, load balancer, RDS, Redis, route53, etc.). • Implemented security best practices in AWS including multi-factor authentication, access key rotation, role-based permissions, enforced strong password policy, configured security groups and NACLs, S3 bucket policies and ACLs, etc. • Optimized cost through reserved instances, selection and changing of EC2 instance types based on resource need, S3 storage classes and S3 lifecycle policies, leveraging Autoscaling, etc. • Leveraged EC2 CreateSnapshot API call to create snapshots of EBS Volumes on scheduled intervals. • Configured CloudWatch alarm rules for operational and performance metrics for AWS resources and applications. • Configured S3 events to set up automated communication between S3 and other AWS services. • Review Infrastructure as code and develop patterns, review patterns to support DevSecOps • Develops business case analysis on potential projects.Ensures security is integrated into all architecture solutions • Evaluates new application, infrastructure and cloud decisions in existing context of applications, infrastructure, standards, current business strategy and future business strategy. • Perform continues monitoring on the AWS, HUBZone, DataPipe, Salesforce and MS Azure cloud systems using Splunk, remediating all vulnerability and closing of all open POA&Ms. • Develop deliverables associated with a FedRAMP security authorization package (System Security Plan, Information System Contingency Plan, Security Assessment Plan, Security Assessment Report, Authorization to Operate (ATO), Risk Assessment Report (RAR), Business Impact Analysis, Privacy Impact Analysis, Contingency Plan, Contingency Plan Testing and Plan of Action & Milestones (POA&Ms). • Work closely with Engineer to deliver FedRAMP requirements and perform FedRAMP advisory engagements and 3PAO assessments and to ensure mitigation of System findings, updating POAMS. • Work with the client, SaaS providers and internal development team to identify security gaps and resolve them to protect client data. • Establishing, monitoring, and re-assessing systems Plan of Action and Milestones to effectively address systems weakness or vulnerabilities. • Advise developers and assist with the Lifecycle Assessment and Authorization (A&A) process and developing SSP. • Provide support for security related FedRAMP compliance controls; and audit systems, services, and processes to verify adherence to company security policies and procedures. • Develop information security policies, standards, procedures, and best practices to support a FedRAMP moderate operating environment. • Actively participate in the risk management program. • Perform security risk assessments, analyze results, and provide recommendations for mitigations/enhancements. • Consult with business groups and provide guidance on security-related topics and participate in team on-call rotation. • Preform detail Security Assessment on HUBZone, DataPipe, Salesforce and MS Azure AWS cloud systems by ensuring that costumer responsibility statement and FedRAMP packages are well implemented. • Evaluate, recommend, and implement security solutions and practices that protect online services and information assets and help the company manage risks and meet compliance obligations. WASHINGTONTECH SOLUTION Inc. Information Security Analyst Upper Marlboro MD December 2014 to November 2016 • Implemented C&A duties and updated POA&M and Critical Control Review (CCR) analysis and remediation of POA&M and CCR findings. Involved in System Security Plan (SSP) Contingency Plans (CP) Contingency Plan Test (CPT), authorship, analysis and modification. • Provide ongoing gap analysis of current policies, practices, and procedures as they relate to established guidelines outlined by NIST, OMB, FISMA. • Updated and reviewed A&A Packages to include Core Docs, Policy & Procedures, Operations and Maintenance Artifacts, SSP, SAR, FIPS 200, FIPS 199, POA&M, BIA, PTA, PIA, and more Collected Operation and Maintenance artifacts on an ongoing basis so that Security Control Assessment (SCA) is seamless. • Provided security expertise and guidance in support of security assessments and supported A&A activities according to the A&A project plan. • Reviewed authorization documentation for completeness and accuracy for compliance and facilitated Security Control Assessment and Continuous Monitoring Activities. • Executed examine, interview, test procedures in accordance with NIST SP 800-53A Revision 4."
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                90.493,
+                74.632996,
+                539.856,
+                197.60303
+            ],
+            "pageIndex": 2,
+            "text": "• Oversaw the preparation of a Comprehensive and Executive Certification & Accreditation (C&A) packages for submission to the Information Assurance Program Office for approval of an Authorization to Operate. • Reviewed and updating System Security Plan based on findings from Assessing controls using NIST SP 800-18 rev1, NIST SP 800-53a rev4 and NIST SP 800-53. • Applies appropriate information control for Federal Information Security based on NIST 800-37 rev1, SP 800-53 rev4, FIPS 199 and FIPS 200. • Conduct Security Assessment via document examination, interviews and manual assessments; Populate the Requirements Traceability Matrix (RTM) with results of Security Assessment. • Reviewed and update some of the system categorization using FIPS 199. Created and update Contingency plans and Disaster recovery plans for information systems using NIST SP 800 – 34. • Updated IT security policies, procedures, standards, and guidelines according to department and federal requirements."
+        }
+    ],
+    "skills": [
+        {
+            "id": 80435257,
+            "emsiId": "ES3B9371D9D17C664383",
+            "name": "Project Management Body Of Knowledge (PMBOK) Methodology",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435261,
+            "emsiId": "KS1208P6ZMZ4N872Y7X5",
+            "name": "Application Programming Interface (API)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 74,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                }
+            ]
+        },
+        {
+            "id": 80435262,
+            "emsiId": "KS440PM60PZ55Z1ZZW6P",
+            "name": "Amazon Simple Notification Service (SNS)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435263,
+            "emsiId": "KS123YT6SQ7P610WPKMB",
+            "name": "Federal Information Processing Standards (FIPS)",
+            "lastUsed": "2016-11-01",
+            "numberOfMonths": 23,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077825
+                }
+            ]
+        },
+        {
+            "id": 80435264,
+            "emsiId": "KSYO45M6II0E15Y5RP67",
+            "name": "Jenkins",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435265,
+            "emsiId": "KS120FQ6DY31LFDWPJR3",
+            "name": "Amazon S3",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 74,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                }
+            ]
+        },
+        {
+            "id": 80435266,
+            "emsiId": "KS1267F6MSPN366LX7ST",
+            "name": "Project Management",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435269,
+            "emsiId": "KS120SQ5W4Q57JMD2Y81",
+            "name": "Automation",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435271,
+            "emsiId": "KS441GC7385XLYWT2TZP",
+            "name": "Traceability Matrix",
+            "lastUsed": "2016-11-01",
+            "numberOfMonths": 23,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077825
+                }
+            ]
+        },
+        {
+            "id": 80435273,
+            "emsiId": "KS680KR72KH02C5GM5TY",
+            "name": "Scheduling",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435275,
+            "emsiId": "KSE4ME2Z9GRO05SLM3CR",
+            "name": "AWS Lambda",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435278,
+            "emsiId": "KS124G66QWSYM012SWS5",
+            "name": "Governance",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435279,
+            "emsiId": "KS1203C6N9B52QGB4H67",
+            "name": "Research",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435286,
+            "emsiId": "ESD6B3E26476FDF09DE3",
+            "name": "Systems Development",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435288,
+            "emsiId": "KS4400X72HG155B9M9RF",
+            "name": "Requirements Traceability",
+            "lastUsed": "2016-11-01",
+            "numberOfMonths": 23,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077825
+                }
+            ]
+        },
+        {
+            "id": 80435289,
+            "emsiId": "ES6C874CDD5DFDE5A858",
+            "name": "NIST 800-37",
+            "lastUsed": "2016-11-01",
+            "numberOfMonths": 23,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077825
+                }
+            ]
+        },
+        {
+            "id": 80435290,
+            "emsiId": "KS121XY6VSGJ3Z6J82FQ",
+            "name": "Infrastructure",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 74,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                }
+            ]
+        },
+        {
+            "id": 80435292,
+            "emsiId": "KS122PZ6PCZ9JYT0Y5WH",
+            "name": "Data Security",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 74,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                }
+            ]
+        },
+        {
+            "id": 80435294,
+            "emsiId": "KS26BVAZEM0MFCVFST66",
+            "name": "Ansible",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435295,
+            "emsiId": "KS441XY6MSD48HBJTM78",
+            "name": "Vulnerability",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 74,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                }
+            ]
+        },
+        {
+            "id": 80435296,
+            "emsiId": "KS1241L7737YL9MVMX76",
+            "name": "Traceability",
+            "lastUsed": "2016-11-01",
+            "numberOfMonths": 23,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077825
+                }
+            ]
+        },
+        {
+            "id": 80435299,
+            "emsiId": "KS1218W78FGVPVP2KXPX",
+            "name": "Management",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 74,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                }
+            ]
+        },
+        {
+            "id": 80435300,
+            "emsiId": "KS126X663B21NB77ZHSP",
+            "name": "Negotiation",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435305,
+            "emsiId": "KS120FG6YP8PQYYNQY9B",
+            "name": "Amazon Web Services",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 74,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Training/Certifications",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                }
+            ]
+        },
+        {
+            "id": 80435307,
+            "emsiId": "KS127D361PF0FTXDZ7C4",
+            "name": "Operations",
+            "lastUsed": "2016-11-01",
+            "numberOfMonths": 23,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077825
+                }
+            ]
+        },
+        {
+            "id": 80435308,
+            "emsiId": "KS1230J6Z8029TC15P7L",
+            "name": "Disaster Recovery",
+            "lastUsed": "2016-11-01",
+            "numberOfMonths": 23,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077825
+                }
+            ]
+        },
+        {
+            "id": 80435310,
+            "emsiId": "KS1242W68Y5QN3S32W3C",
+            "name": "FourGen Computer-Aided Software Engineering (CASE) Tools",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 74,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                }
+            ]
+        },
+        {
+            "id": 80435312,
+            "emsiId": "ESEB1D4619E6E83A061D",
+            "name": "Planning",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435314,
+            "emsiId": "KS1269W6ZF8J5YJDDVN9",
+            "name": "Mediation",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 97,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077825
+                }
+            ]
+        },
+        {
+            "id": 80435316,
+            "emsiId": "KS122MK65TBR6RDBZL1P",
+            "name": "Cyber Security",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435317,
+            "emsiId": "ESAE821277F158BC149C",
+            "name": "Business Case Analysis",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 74,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                }
+            ]
+        },
+        {
+            "id": 80435319,
+            "emsiId": "KS122GV66N1RCXQPPYS5",
+            "name": "Current Procedural Terminology (CPT)",
+            "lastUsed": "2016-11-01",
+            "numberOfMonths": 23,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077825
+                }
+            ]
+        },
+        {
+            "id": 80435320,
+            "emsiId": "KS122556LMQ829GZCCRV",
+            "name": "Communications",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 74,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                }
+            ]
+        },
+        {
+            "id": 80435321,
+            "emsiId": "KS123Z75WFFSZPXNH04Q",
+            "name": "Firewall",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435276,
+            "emsiId": "KS4407N6CMTCYT0NYSVM",
+            "name": "Salesforce.Com",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 74,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                }
+            ]
+        },
+        {
+            "id": 80435282,
+            "emsiId": "KS1204Y6GTHQ6T5BDJ64",
+            "name": "Advanced Cardiovascular Life Support (ACLS)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 74,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                }
+            ]
+        },
+        {
+            "id": 80435285,
+            "emsiId": "KS1220C663NX0Z4Q78P1",
+            "name": "Closing (Sales)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 74,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                }
+            ]
+        },
+        {
+            "id": 80435254,
+            "emsiId": "KS121T569X502KJPS0F3",
+            "name": "Change Management",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435255,
+            "emsiId": "KS126L563YF9YNQQQ832",
+            "name": "Milestones (Project Management)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 74,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                }
+            ]
+        },
+        {
+            "id": 80435256,
+            "emsiId": "KS440F476G8SKQRTH4CY",
+            "name": "Security Policies",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 97,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077825
+                }
+            ]
+        },
+        {
+            "id": 80435258,
+            "emsiId": "KSUDU9T83UZ7CK5THOYD",
+            "name": "Terraform",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435259,
+            "emsiId": "KS128G66RG96FZNHFCXY",
+            "name": "Redis",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 74,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                }
+            ]
+        },
+        {
+            "id": 80435260,
+            "emsiId": "KS122ST5X31W4TVGPN0B",
+            "name": "Encryption",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 74,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                }
+            ]
+        },
+        {
+            "id": 80435267,
+            "emsiId": "KS1218D6Q96XWYJL7BSX",
+            "name": "Business Case",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 74,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                }
+            ]
+        },
+        {
+            "id": 80435268,
+            "emsiId": "KS440H96284Y979LB29H",
+            "name": "Service Catalog",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435270,
+            "emsiId": "KS1237C5XB19SJ3HFHZB",
+            "name": "Multi-Factor Authentication",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 74,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                }
+            ]
+        },
+        {
+            "id": 80435272,
+            "emsiId": "KS1227D60Q7225FTK55V",
+            "name": "Information Systems",
+            "lastUsed": "2016-11-01",
+            "numberOfMonths": 23,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077825
+                }
+            ]
+        },
+        {
+            "id": 80435274,
+            "emsiId": "KS1246R60SS35YQ0S30N",
+            "name": "Gap Analysis",
+            "lastUsed": "2016-11-01",
+            "numberOfMonths": 23,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077825
+                }
+            ]
+        },
+        {
+            "id": 80435281,
+            "emsiId": "KS121JG72W9R0YMKPKVQ",
+            "name": "Certified Ethical Hacker",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "certification",
+            "sources": [
+                {
+                    "section": "Training/Certifications",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435287,
+            "emsiId": "ESAA246F0954C0219F65",
+            "name": "NIST 800-53",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435291,
+            "emsiId": "KSY4WFI1S164RQUBSPCC",
+            "name": "Docker (Software)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435293,
+            "emsiId": "ES377B09FC94503C5689",
+            "name": "DevSecOps",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 74,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                }
+            ]
+        },
+        {
+            "id": 80435297,
+            "emsiId": "KS122BY6Y3QBZKT419LL",
+            "name": "Contingency Plan",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 97,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077825
+                }
+            ]
+        },
+        {
+            "id": 80435298,
+            "emsiId": "KS123PM708XTL2N3FJNX",
+            "name": "Event Management",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435301,
+            "emsiId": "KSDDCBWQ8T3CQ336V52E",
+            "name": "Password Policy",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 74,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                }
+            ]
+        },
+        {
+            "id": 80435302,
+            "emsiId": "KS1254B63QQJGQ9C7BC2",
+            "name": "Information Assurance",
+            "lastUsed": "2016-11-01",
+            "numberOfMonths": 23,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077825
+                }
+            ]
+        },
+        {
+            "id": 80435303,
+            "emsiId": "ES19FD1951EE3CE14D14",
+            "name": "AWS Auto Scaling",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435304,
+            "emsiId": "KS122CX79LYK5C881P71",
+            "name": "Security Controls",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435306,
+            "emsiId": "KS1242J78NX335PBWXJY",
+            "name": "Parameter",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435309,
+            "emsiId": "KS125ZB6BWF5RY40BH1B",
+            "name": "Risk Management",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 74,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                }
+            ]
+        },
+        {
+            "id": 80435311,
+            "emsiId": "KS8X0M4RYTVQIMGAJ9KY",
+            "name": "Autoscaling",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 74,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                }
+            ]
+        },
+        {
+            "id": 80435313,
+            "emsiId": "KS1205G5ZKS8ZZWVPM9Y",
+            "name": "Active Directory",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435315,
+            "emsiId": "KS686Y976L1WJ98QFSD4",
+            "name": "Authorization (Computing)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 97,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077825
+                }
+            ]
+        },
+        {
+            "id": 80435318,
+            "emsiId": "KS121F4694GS21ZNM1VZ",
+            "name": "Case Analysis",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 74,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                }
+            ]
+        },
+        {
+            "id": 80435277,
+            "emsiId": "KSVG28H9TC6YTC1AFDP8",
+            "name": "Splunk",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 74,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                }
+            ]
+        },
+        {
+            "id": 80435280,
+            "emsiId": "KS7G2ZM64RD6FRWS5NHD",
+            "name": "Mitigation",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 74,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                }
+            ]
+        },
+        {
+            "id": 80435283,
+            "emsiId": "KS122C878BM12SQ3QHZ4",
+            "name": "Continuous Monitoring",
+            "lastUsed": "2016-11-01",
+            "numberOfMonths": 23,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077825
+                }
+            ]
+        },
+        {
+            "id": 80435284,
+            "emsiId": "KS68281768ZW4FDJZJSY",
+            "name": "Logging (Construction)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 74,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077824
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "English"
+    ],
+    "summary": "SUMMARY: Seven years of Cyber Security, RFM, FedRAMP, five to six-year experience as an Information Security Officer and four years as an AWS Solutions Architect. Cyber Security: Certification and Accreditation (A&A), Project Management, Change Management, NIST 800-53 rev1 and rev4 and NIST SP 800-37 rev 1, 800-18, 800-53 rev 3 and 800-34, FIPS, FISMA, NIST family of security controls, POA&M, A&A Package, Knowledge of the System Development Life Cycle (SDLC) PMBOK Project Management Knowledge Areas, Research Analysis, Risk management, Costs planning and, Project scheduling and Planning, General Management, Communication, Negotiation, Mediation Facilitation, Leaderships and Organization. AWS Solutions Architect: Cloud Orchestration / Automation: AWS CloudFormation, AWS Lambda,",
+    "websites": [],
+    "linkedin": null,
+    "totalYearsExperience": 8,
+    "profession": "Information Security",
+    "workExperience": [
+        {
+            "id": 15077824,
+            "jobTitle": "/Clouds Security Architect",
+            "organization": "XLA",
+            "location": {
+                "formatted": "Vienna, VA 22180, USA",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "Vienna",
+                "postalCode": "22180",
+                "state": "Virginia",
+                "country": "United States",
+                "rawInput": "VIENNA VA",
+                "countryCode": "US"
+            },
+            "dates": {
+                "startDate": "2016-11-01",
+                "endDate": "2022-12-21",
+                "monthsInPosition": 74,
+                "isCurrent": true
+            },
+            "jobDescription": " Implement security best practices around Clouds Infrastructure using tools like; VPC, AWS WAF, AWS SHIELD, AWS Guard Duty, VPC Flow logs, IAM, Security Groups, NACLs, Security Hub. \n•Also used CloudWatch and CloudTrail for Monitoring and Logging respectively, thereby utilizing these tools to monitor event driven patterns and to integrated with Lambda Functions for Auto-remediations. \n•Using encryption and Certificates, for data security and Privacy using standard encryption mechanisms like KMS, for encryption at rest and encryption in transit. \n•Work with customers to define key capabilities and performance requirements. Develops technical roadmaps for future implementations. \n•Designed secure, cost-optimized, highly available, and fault-tolerant infrastructure in AWS. \n•Architected and configured Dev / Stage / QA environments in AWS (VPC, subnets, security groups, EC2 instances, load balancer, RDS, Redis, route53, etc.). \n•Implemented security best practices in AWS including multi-factor authentication, access key rotation, role-based permissions, enforced strong password policy, configured security groups and NACLs, S3 bucket policies and ACLs, etc. \n•Optimized cost through reserved instances, selection and changing of EC2 instance types based on resource need, S3 storage classes and S3 lifecycle policies, leveraging Autoscaling, etc. \n•Leveraged EC2 CreateSnapshot API call to create snapshots of EBS Volumes on scheduled intervals. \n•Configured CloudWatch alarm rules for operational and performance metrics for AWS resources and applications. \n•Configured S3 events to set up automated communication between S3 and other AWS services. \n•Review Infrastructure as code and develop patterns, review patterns to support DevSecOps \n•Develops business case analysis on potential projects.Ensures security is integrated into all architecture solutions \n•Evaluates new application, infrastructure and cloud decisions in existing context of applications, infrastructure, standards, current business strategy and future business strategy. \n•Perform continues monitoring on the AWS, HUBZone, DataPipe, Salesforce and MS Azure cloud systems using Splunk, remediating all vulnerability and closing of all open POA&Ms. \n•Develop deliverables associated with a FedRAMP security authorization package (System Security Plan, Information System Contingency Plan, Security Assessment Plan, Security Assessment Report, Authorization to Operate (ATO), Risk Assessment Report (RAR), Business Impact Analysis, Privacy Impact Analysis, Contingency Plan, Contingency Plan Testing and Plan of Action & Milestones (POA&Ms). \n•Work closely with Engineer to deliver FedRAMP requirements and perform FedRAMP advisory engagements and 3PAO assessments and to ensure mitigation of System findings, updating POAMS. \n•Work with the client, SaaS providers and internal development team to identify security gaps and resolve them to protect client data. \n•Establishing, monitoring, and re-assessing systems Plan of Action and Milestones to effectively address systems weakness or vulnerabilities. \n•Advise developers and assist with the Lifecycle Assessment and Authorization (A&A) process and developing SSP. \n•Provide support for security related FedRAMP compliance controls; and audit systems, services, and processes to verify adherence to company security policies and procedures. \n•Develop information security policies, standards, procedures, and best practices to support a FedRAMP moderate operating environment. \n•Actively participate in the risk management program. \n•Perform security risk assessments, analyze results, and provide recommendations for mitigations/enhancements. \n•Consult with business groups and provide guidance on security-related topics and participate in team on-call rotation. \n•Preform detail Security Assessment on HUBZone, DataPipe, Salesforce and MS Azure AWS cloud systems by ensuring that costumer responsibility statement and FedRAMP packages are well implemented. \n•Evaluate, recommend, and implement security solutions and practices that protect online services and information assets and help the company manage risks and meet compliance obligations. ",
+            "occupation": {
+                "jobTitle": "/Clouds Security Architect",
+                "jobTitleNormalized": "Cloud Security Architect",
+                "classification": {
+                    "socCode": 2133,
+                    "title": "IT business analysts, architects and systems designers",
+                    "minorGroup": "Information Technology Professionals",
+                    "subMajorGroup": "SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",
+                    "majorGroup": "PROFESSIONAL OCCUPATIONS"
+                },
+                "managementLevel": "Low"
+            }
+        },
+        {
+            "id": 15077825,
+            "jobTitle": "Information Security Analyst",
+            "organization": "WASHINGTONTECH SOLUTION Inc.",
+            "location": {
+                "formatted": "Upper Marlboro, MD 20772, USA",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "Upper Marlboro",
+                "postalCode": "20772",
+                "state": "Maryland",
+                "country": "United States",
+                "rawInput": "Upper Marlboro MD",
+                "countryCode": "US"
+            },
+            "dates": {
+                "startDate": "2014-12-01",
+                "endDate": "2016-11-01",
+                "monthsInPosition": 23,
+                "isCurrent": false
+            },
+            "jobDescription": " Implemented C&A duties and updated POA&M and Critical Control Review (CCR) analysis and remediation of POA&M and CCR findings. Involved in System Security Plan (SSP) Contingency Plans (CP) Contingency Plan Test (CPT), authorship, analysis and modification. \n•Provide ongoing gap analysis of current policies, practices, and procedures as they relate to established guidelines outlined by NIST, OMB, FISMA. \n•Updated and reviewed A&A Packages to include Core Docs, Policy & Procedures, Operations and Maintenance Artifacts, SSP, SAR, FIPS 200, FIPS 199, POA&M, BIA, PTA, PIA, and more Collected Operation and Maintenance artifacts on an ongoing basis so that Security Control Assessment (SCA) is seamless. \n•Provided security expertise and guidance in support of security assessments and supported A&A activities according to the A&A project plan. \n•Reviewed authorization documentation for completeness and accuracy for compliance and facilitated Security Control Assessment and Continuous Monitoring Activities. \n•Executed examine, interview, test procedures in accordance with NIST SP 800-53A Revision 4. \n•Oversaw the preparation of a Comprehensive and Executive Certification & Accreditation (C&A) packages for submission to the Information Assurance Program Office for approval of an Authorization to Operate. \n•Reviewed and updating System Security Plan based on findings from Assessing controls using NIST SP 800-18 rev1, NIST SP 800-53a rev4 and NIST SP 800-53. \n•Applies appropriate information control for Federal Information Security based on NIST 800-37 rev1, SP 800-53 rev4, FIPS 199 and FIPS 200. \n•Conduct Security Assessment via document examination, interviews and manual assessments; Populate the Requirements Traceability Matrix (RTM) with results of Security Assessment. \n•Reviewed and update some of the system categorization using FIPS 199. Created and update Contingency plans and Disaster recovery plans for information systems using NIST SP 800 – 34. \n•Updated IT security policies, procedures, standards, and guidelines according to department and federal requirements. ",
+            "occupation": {
+                "jobTitle": "Information Security Analyst",
+                "jobTitleNormalized": "Information Security Analyst",
+                "classification": {
+                    "socCode": 2135,
+                    "title": "Cyber security professionals",
+                    "minorGroup": "Information Technology Professionals",
+                    "subMajorGroup": "SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",
+                    "majorGroup": "PROFESSIONAL OCCUPATIONS"
+                },
+                "managementLevel": "Low"
+            }
+        }
+    ],
+    "headShot": null,
+    "isResumeProbability": 88,
+    "rawText": "Teddy Nsai: 9108 Elaine Court Apt X3, Laurel MD 20708, Email nsaiemperior@yahoo.com Tel: 8573120689\nEDUCATION: Northeastern University, Boston MA: April 2013 to Present Master of Sciences in Project Manager and Information Security Northeastern University, Boston MA: April 2011 to April 2013 Master of Sciences in Global Studies and International Affairs University of Buea Cameroon: October 2005 to October 2008 Bachelor of Sciences in Sociology and Anthropology\nCERTIFICATIONS: AWS Certified Solution Architect Associates Certified Information Security Manager (CISM) Certificate of Cloud Security Knowledge (CCSK) CompTia Security Plus (SecPlus) Certified Ethical Hacker (CEH)\nSUMMARY: Seven years of Cyber Security, RFM, FedRAMP, five to six-year experience as an Information Security Officer and four years as an AWS Solutions Architect. Cyber Security: Certification and Accreditation (A&A), Project Management, Change Management, NIST 800-53 rev1 and rev4 and NIST SP 800-37 rev 1, 800-18, 800-53 rev 3 and 800-34, FIPS, FISMA, NIST family of security controls, POA&M, A&A Package, Knowledge of the System Development Life Cycle (SDLC) PMBOK Project Management Knowledge Areas, Research Analysis, Risk management, Costs planning and, Project scheduling and Planning, General Management, Communication, Negotiation, Mediation Facilitation, Leaderships and Organization. AWS Solutions Architect: Cloud Orchestration / Automation: AWS CloudFormation, AWS Lambda, AWS Systems Manager, AWS SSM Parameter Store, Ansible, Docker, Jenkins, ECS, EKS, Terraform AWS Security: AWS Security Hub, AWS Guard Duty, AWS Shield, AWS Firewall Manager, AWS Inspector Monitoring and Event Management: AWS CloudWatch (Events and Logs), AWS SNS, AWS S3 Identity and Access Management: AWS Organization, AWS IAM, AWS AD Connector, Active Directory, AWS Workspaces, AWS Secrets Manager, etc Governance and Compliance: AWS Config Rules, AWS Organization, AWS Control Tower, AWS Trusted Advisor, AWS Well Architected Tool, AWS Budgets, AWS License Manager\nTOOLS: AWS Platform: AWS CloudFormation, AWS Lambda, AWS Systems Manager, EC2, ELB, RDS, SNS, SQS, SES, Route53, CloudFront, Service Catalog, AWS Auto Scaling, Trusted Advisor, CloudWatch, VPC, AWS WAF, AWS SHIELD, AWS Guard Duty, VPC Flow logs, IAM, Security Groups, NACLs, Security Hub, EC2, S3, CloudWatch, CloudTrail. PROFESSIONAL EXPERIENCE: XLA FedRAMP Compliance /Clouds Security Architect VIENNA VA November 2016 to Present • Implement security best practices around Clouds Infrastructure using tools like; VPC, AWS WAF, AWS SHIELD, AWS Guard Duty, VPC Flow logs, IAM, Security Groups, NACLs, Security Hub. • Also used CloudWatch and CloudTrail for Monitoring and Logging respectively, thereby utilizing these tools to monitor event driven patterns and to integrated with Lambda Functions for Auto-remediations. • Using encryption and Certificates, for data security and Privacy using standard encryption mechanisms like KMS, for encryption at rest and encryption in transit. • Work with customers to define key capabilities and performance requirements. Develops technical roadmaps for future implementations. • Designed secure, cost-optimized, highly available, and fault-tolerant infrastructure in AWS.\n• Architected and configured Dev / Stage / QA environments in AWS (VPC, subnets, security groups, EC2 instances, load balancer, RDS, Redis, route53, etc.). • Implemented security best practices in AWS including multi-factor authentication, access key rotation, role-based permissions, enforced strong password policy, configured security groups and NACLs, S3 bucket policies and ACLs, etc. • Optimized cost through reserved instances, selection and changing of EC2 instance types based on resource need, S3 storage classes and S3 lifecycle policies, leveraging Autoscaling, etc. • Leveraged EC2 CreateSnapshot API call to create snapshots of EBS Volumes on scheduled intervals. • Configured CloudWatch alarm rules for operational and performance metrics for AWS resources and applications. • Configured S3 events to set up automated communication between S3 and other AWS services. • Review Infrastructure as code and develop patterns, review patterns to support DevSecOps • Develops business case analysis on potential projects.Ensures security is integrated into all architecture solutions • Evaluates new application, infrastructure and cloud decisions in existing context of applications, infrastructure, standards, current business strategy and future business strategy. • Perform continues monitoring on the AWS, HUBZone, DataPipe, Salesforce and MS Azure cloud systems using Splunk, remediating all vulnerability and closing of all open POA&Ms. • Develop deliverables associated with a FedRAMP security authorization package (System Security Plan, Information System Contingency Plan, Security Assessment Plan, Security Assessment Report, Authorization to Operate (ATO), Risk Assessment Report (RAR), Business Impact Analysis, Privacy Impact Analysis, Contingency Plan, Contingency Plan Testing and Plan of Action & Milestones (POA&Ms). • Work closely with Engineer to deliver FedRAMP requirements and perform FedRAMP advisory engagements and 3PAO assessments and to ensure mitigation of System findings, updating POAMS. • Work with the client, SaaS providers and internal development team to identify security gaps and resolve them to protect client data. • Establishing, monitoring, and re-assessing systems Plan of Action and Milestones to effectively address systems weakness or vulnerabilities. • Advise developers and assist with the Lifecycle Assessment and Authorization (A&A) process and developing SSP. • Provide support for security related FedRAMP compliance controls; and audit systems, services, and processes to verify adherence to company security policies and procedures. • Develop information security policies, standards, procedures, and best practices to support a FedRAMP moderate operating environment. • Actively participate in the risk management program. • Perform security risk assessments, analyze results, and provide recommendations for mitigations/enhancements. • Consult with business groups and provide guidance on security-related topics and participate in team on-call rotation. • Preform detail Security Assessment on HUBZone, DataPipe, Salesforce and MS Azure AWS cloud systems by ensuring that costumer responsibility statement and FedRAMP packages are well implemented. • Evaluate, recommend, and implement security solutions and practices that protect online services and information assets and help the company manage risks and meet compliance obligations. WASHINGTONTECH SOLUTION Inc. Information Security Analyst Upper Marlboro MD December 2014 to November 2016 • Implemented C&A duties and updated POA&M and Critical Control Review (CCR) analysis and remediation of POA&M and CCR findings. Involved in System Security Plan (SSP) Contingency Plans (CP) Contingency Plan Test (CPT), authorship, analysis and modification. • Provide ongoing gap analysis of current policies, practices, and procedures as they relate to established guidelines outlined by NIST, OMB, FISMA. • Updated and reviewed A&A Packages to include Core Docs, Policy & Procedures, Operations and Maintenance Artifacts, SSP, SAR, FIPS 200, FIPS 199, POA&M, BIA, PTA, PIA, and more Collected Operation and Maintenance artifacts on an ongoing basis so that Security Control Assessment (SCA) is seamless. • Provided security expertise and guidance in support of security assessments and supported A&A activities according to the A&A project plan. • Reviewed authorization documentation for completeness and accuracy for compliance and facilitated Security Control Assessment and Continuous Monitoring Activities. • Executed examine, interview, test procedures in accordance with NIST SP 800-53A Revision 4.\n• Oversaw the preparation of a Comprehensive and Executive Certification & Accreditation (C&A) packages for submission to the Information Assurance Program Office for approval of an Authorization to Operate. • Reviewed and updating System Security Plan based on findings from Assessing controls using NIST SP 800-18 rev1, NIST SP 800-53a rev4 and NIST SP 800-53. • Applies appropriate information control for Federal Information Security based on NIST 800-37 rev1, SP 800-53 rev4, FIPS 199 and FIPS 200. • Conduct Security Assessment via document examination, interviews and manual assessments; Populate the Requirements Traceability Matrix (RTM) with results of Security Assessment. • Reviewed and update some of the system categorization using FIPS 199. Created and update Contingency plans and Disaster recovery plans for information systems using NIST SP 800 – 34. • Updated IT security policies, procedures, standards, and guidelines according to department and federal requirements."
+}

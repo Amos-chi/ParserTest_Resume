@@ -10,7 +10,7 @@ import os
 
 tar_dir = r'Step1_origdata\Affinda_Reuslt'
 
-f = open('affinda-parser-sMcmpETT.json','r', encoding='utf-8')
+f = open('affinda-parser-JMdZyXaL.json','r', encoding='utf-8')
 data = json.load(f)
 
 for json_ in data['resumes']:

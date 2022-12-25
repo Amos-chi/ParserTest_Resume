@@ -1,0 +1,18 @@
+{
+    "all": 10,
+    "important": 9,
+    "desc": 1,
+    "correct_important": 6,
+    "correct_desc": 0,
+    "additional": 0,
+    "important_keys": {
+        "contacts.0": false,
+        "experiences.0.startDate": false,
+        "currentLocation.location": false
+    },
+    "unimportant_keys": {
+        "experiences.0.description": false
+    },
+    "addition_info_count": 0,
+    "addition_info": {}
+}

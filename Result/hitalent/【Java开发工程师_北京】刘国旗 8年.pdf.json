@@ -1,0 +1,27 @@
+{
+    "all": 38,
+    "important": 33,
+    "desc": 5,
+    "correct_important": 33,
+    "correct_desc": 5,
+    "additional": 2,
+    "important_keys": {},
+    "unimportant_keys": {
+        "experiences.0.description": true,
+        "experiences.1.description": true,
+        "experiences.2.description": true,
+        "experiences.3.description": true,
+        "experiences.4.description": true
+    },
+    "addition_info_count": 2,
+    "addition_info": {
+        "preferredLocations": [
+            {
+                "location": "北京"
+            }
+        ],
+        "languages": [
+            "MANDARIN"
+        ]
+    }
+}

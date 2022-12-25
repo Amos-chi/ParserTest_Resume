@@ -1,0 +1,847 @@
+{
+    "predicted_result": {
+        "desired_salary": null,
+        "tags": {
+            "skills": [
+                {
+                    "tag": "界面设计",
+                    "type": "professional_skill",
+                    "subclass": "UI设计"
+                },
+                {
+                    "tag": "网页设计",
+                    "type": "professional_skill",
+                    "subclass": "UI设计"
+                },
+                {
+                    "tag": "数据库",
+                    "type": "professional_skill",
+                    "subclass": "DATABASE"
+                },
+                {
+                    "tag": "AFTER EFFECTS",
+                    "type": "professional_skill",
+                    "subclass": "影视"
+                },
+                {
+                    "tag": "ILLUSTRATOR",
+                    "type": "professional_skill",
+                    "subclass": "UI设计"
+                },
+                {
+                    "tag": "JAVASCRIPT",
+                    "type": "professional_skill",
+                    "subclass": "前端开发"
+                },
+                {
+                    "tag": "PHOTOSHOP",
+                    "type": "professional_skill",
+                    "subclass": "UI设计"
+                },
+                {
+                    "tag": "INDESIGN",
+                    "type": "professional_skill",
+                    "subclass": "UI设计"
+                },
+                {
+                    "tag": "PREMIERE",
+                    "type": "professional_skill",
+                    "subclass": "其它"
+                },
+                {
+                    "tag": "DESIGNER",
+                    "type": "professional_skill",
+                    "subclass": "其它"
+                },
+                {
+                    "tag": "KEYSHOT",
+                    "type": "professional_skill",
+                    "subclass": "UI设计"
+                },
+                {
+                    "tag": "HTML5",
+                    "type": "professional_skill",
+                    "subclass": "前端开发"
+                },
+                {
+                    "tag": "UNITY",
+                    "type": "professional_skill",
+                    "subclass": "UI设计"
+                },
+                {
+                    "tag": "SPSS",
+                    "type": "professional_skill",
+                    "subclass": "数据分析"
+                },
+                {
+                    "tag": "平面设计",
+                    "type": "professional_skill",
+                    "subclass": "UI设计"
+                },
+                {
+                    "tag": "交互设计",
+                    "type": "professional_skill",
+                    "subclass": "产品"
+                },
+                {
+                    "tag": "可视化",
+                    "type": "professional_skill",
+                    "subclass": "其它"
+                },
+                {
+                    "tag": "C4D",
+                    "type": "professional_skill",
+                    "subclass": "UI设计"
+                },
+                {
+                    "tag": "CSS",
+                    "type": "professional_skill",
+                    "subclass": "前端开发"
+                },
+                {
+                    "tag": "运营",
+                    "type": "professional_skill",
+                    "subclass": "运营"
+                },
+                {
+                    "tag": "UX",
+                    "type": "professional_skill",
+                    "subclass": "产品"
+                },
+                {
+                    "tag": "UI",
+                    "type": "professional_skill",
+                    "subclass": "UI设计"
+                },
+                {
+                    "tag": "AR",
+                    "type": "professional_skill",
+                    "subclass": "算法"
+                },
+                {
+                    "tag": "AR",
+                    "type": "professional_skill",
+                    "subclass": "金融财务"
+                },
+                {
+                    "tag": "编程",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "JS",
+                    "type": "professional_skill",
+                    "subclass": "前端开发"
+                },
+                {
+                    "tag": "微信公众号",
+                    "type": "professional_skill",
+                    "subclass": "运营"
+                },
+                {
+                    "tag": "图形设计",
+                    "type": "professional_skill",
+                    "subclass": "UI设计"
+                },
+                {
+                    "tag": "网页排版",
+                    "type": "professional_skill",
+                    "subclass": "其它"
+                },
+                {
+                    "tag": "VI设计",
+                    "type": "professional_skill",
+                    "subclass": "UI设计"
+                },
+                {
+                    "tag": "宣传",
+                    "type": "professional_skill",
+                    "subclass": "运营"
+                }
+            ],
+            "professional": [
+                {
+                    "tag": "互联网/软件",
+                    "type": "industry"
+                },
+                {
+                    "tag": "科研",
+                    "type": "industry"
+                },
+                {
+                    "tag": "IT/互联网-前端开发-UI/UX",
+                    "type": "standard_title"
+                },
+                {
+                    "tag": "UI/UX设计",
+                    "type": "job_title"
+                }
+            ],
+            "education": [
+                {
+                    "tag": "工业设计",
+                    "type": "major"
+                },
+                {
+                    "tag": "湖南大学与华为合作项目",
+                    "type": "major"
+                },
+                {
+                    "tag": "985工程院校",
+                    "type": "school_level"
+                },
+                {
+                    "tag": "211工程院校",
+                    "type": "school_level"
+                }
+            ],
+            "basic": [
+                {
+                    "tag": "初级",
+                    "type": "level"
+                }
+            ],
+            "others": [
+                {
+                    "tag": "全国大学生工业设计大赛金奖",
+                    "type": "award"
+                },
+                {
+                    "tag": "英语写作一等奖",
+                    "type": "award"
+                },
+                {
+                    "tag": "团队获省级奖",
+                    "type": "award"
+                },
+                {
+                    "tag": "IF设计奖",
+                    "type": "award"
+                },
+                {
+                    "tag": "小组获奖",
+                    "type": "award"
+                }
+            ]
+        },
+        "highlights": {
+            "project": [],
+            "occupation": [],
+            "education": [],
+            "others": [],
+            "tags": [
+                "国内985/211"
+            ]
+        },
+        "predicted_industry": {
+            "建筑/房地产": 5,
+            "咨询/法律/公务员": 5,
+            "生物/制药/医疗/护理": 5.5,
+            "教育/翻译/服务业": 5,
+            "其他": 5,
+            "工程师": 5.5,
+            "运营/客服/销售/市场": 9,
+            "人事/行政/高级管理": 5,
+            "生产/采购/物流": 5,
+            "互联网": 6,
+            "产品": 5,
+            "金融": 5
+        },
+        "predicted_titles": [
+            {
+                "score": 0.6400000000000001,
+                "title": {
+                    "l2": "前端开发",
+                    "l3": "UI/UX",
+                    "l1": "IT/互联网"
+                }
+            },
+            {
+                "score": 0.3548987365345695,
+                "title": {
+                    "l2": "市场",
+                    "l3": "广告设计",
+                    "l1": "销售/客服/市场"
+                }
+            },
+            {
+                "score": 0.3109832462932368,
+                "title": {
+                    "l2": "销售",
+                    "l3": "医药销售",
+                    "l1": "销售/客服/市场"
+                }
+            },
+            {
+                "score": 0.20742899479735752,
+                "title": {
+                    "l2": "工程师",
+                    "l3": "汽车研发",
+                    "l1": "传统工业/工程"
+                }
+            }
+        ],
+        "stability": {
+            "average_job_function_time": 13.5,
+            "average_industry_time": 9,
+            "average_work_time": 9,
+            "work_stability": "跳槽频繁"
+        },
+        "predicted_capability": {
+            "language": 6,
+            "socialexp": 7.5,
+            "leadership": 7,
+            "workexp": 6.2,
+            "education": 8,
+            "honor": 9
+        },
+        "predicted_skills": [
+            {
+                "skill": "界面设计",
+                "score": 0.8
+            },
+            {
+                "skill": "网页设计",
+                "score": 0.8
+            },
+            {
+                "skill": "数据库",
+                "score": 0.8
+            },
+            {
+                "skill": "after effects",
+                "score": 0.7
+            },
+            {
+                "skill": "illustrator",
+                "score": 0.7
+            },
+            {
+                "skill": "javascript",
+                "score": 0.7
+            },
+            {
+                "skill": "photoshop",
+                "score": 0.7
+            },
+            {
+                "skill": "indesign",
+                "score": 0.7
+            },
+            {
+                "skill": "premiere",
+                "score": 0.7
+            },
+            {
+                "skill": "designer",
+                "score": 0.7
+            },
+            {
+                "skill": "keyshot",
+                "score": 0.7
+            },
+            {
+                "skill": "html5",
+                "score": 0.7
+            },
+            {
+                "skill": "unity",
+                "score": 0.7
+            },
+            {
+                "skill": "spss",
+                "score": 0.7
+            },
+            {
+                "skill": "平面设计",
+                "score": 0.7
+            },
+            {
+                "skill": "交互设计",
+                "score": 0.7
+            },
+            {
+                "skill": "可视化",
+                "score": 0.7
+            },
+            {
+                "skill": "c4d",
+                "score": 0.7
+            },
+            {
+                "skill": "css",
+                "score": 0.7
+            },
+            {
+                "skill": "运营",
+                "score": 0.7
+            },
+            {
+                "skill": "ux",
+                "score": 0.7
+            },
+            {
+                "skill": "ui",
+                "score": 0.7
+            },
+            {
+                "skill": "ar",
+                "score": 0.7
+            },
+            {
+                "skill": "编程",
+                "score": 0.7
+            },
+            {
+                "skill": "写作",
+                "score": 0.7
+            },
+            {
+                "skill": "js",
+                "score": 0.7
+            },
+            {
+                "skill": "手绘",
+                "score": 0.7
+            },
+            {
+                "skill": "微信公众号",
+                "score": 0.5
+            },
+            {
+                "skill": "图形设计",
+                "score": 0.5
+            },
+            {
+                "skill": "网页排版",
+                "score": 0.5
+            },
+            {
+                "skill": "vi设计",
+                "score": 0.5
+            },
+            {
+                "skill": "宣传",
+                "score": 0.5
+            }
+        ],
+        "predicted_salary": "4000_to_6000",
+        "predicted_turnover": 0.23154127597808838,
+        "risks": {
+            "occupation": [],
+            "education": [
+                "教育经历时间有1年以上的间隔",
+                "在湖南大学和BA, Product Design的教育经历出现时间冲突"
+            ],
+            "tags": [
+                "教育经历间断",
+                "教育经历重合"
+            ]
+        }
+    },
+    "cv_name": "d80eadfc7155831e05b79f021871b7a6.pdf",
+    "ocr_count": 1,
+    "src_id": "",
+    "version": "4.7.0",
+    "cv_language": "zh/en",
+    "src_site": "other",
+    "file_name": "2022-12-21T09:58:24--7a45f6ce72624e6ccb96cd3b475ac15c.pdf",
+    "errormessage": "succeed",
+    "cv_id": "",
+    "english_parsing_result": {
+        "project_experience": [],
+        "contact_info": {
+            "phone_number": "",
+            "QQ": "",
+            "wechat": "",
+            "email": "",
+            "home_phone_number": ""
+        },
+        "social_experience": [],
+        "education_experience": [],
+        "basic_info": {
+            "major": "",
+            "expect_location": "",
+            "current_salary": "",
+            "current_location": "",
+            "desired_salary": "",
+            "birthplace": "",
+            "political_status": "",
+            "desired_industry": "",
+            "desired_position": "",
+            "zipcode": "",
+            "professional_level": "",
+            "national_identity_number": "",
+            "date_of_birth": "",
+            "num_work_experience": 1,
+            "current_position": "Interaction Design",
+            "work_start_year": "",
+            "degree": "",
+            "current_company": "Illustrator, Photoshop, InDesign,",
+            "school_name": "",
+            "ethnic": "",
+            "recent_graduate_year": "",
+            "name": "",
+            "lastupdate_time": "2022-12-21-09-58-27",
+            "gender": "",
+            "age": null,
+            "marital_status": "",
+            "current_status": "",
+            "school_type": "",
+            "detailed_location": "",
+            "industry": ""
+        },
+        "training_experience": [],
+        "resume_rawtext": "",
+        "others": {
+            "language": [],
+            "certificate": [],
+            "skills": [
+                "SPSS",
+                "Unity",
+                "HTML5",
+                "摄影",
+                "手绘",
+                "Keyshot",
+                "Designer",
+                "Indesign",
+                "Photoshop",
+                "JavaScript",
+                "Illustrator",
+                "After Effects"
+            ],
+            "self_evaluation": "",
+            "awards": [],
+            "it_skills": [
+                "SPSS",
+                "HTML5",
+                "Photoshop",
+                "JavaScript"
+            ],
+            "business_skills": []
+        },
+        "work_experience": [
+            {
+                "salary": "",
+                "description": "优化可视化的人头数据以提高数据的清晰度，为可穿戴设备\n的设计提供帮助\nDESIGN TOOLS\nVisual Design & Motion Graphics\nAR超能学院手绘本项目-小组获奖",
+                "end_time_year": "",
+                "still_active": 0,
+                "skills": [],
+                "end_time_month": "",
+                "industry": "",
+                "start_time_month": "",
+                "company_type": "",
+                "department": "",
+                "company_name": "摄影&手绘",
+                "start_time_year": "",
+                "location": "",
+                "report_to": "",
+                "job_function": "",
+                "underling_num": "",
+                "job_title": "",
+                "company_size": ""
+            },
+            {
+                "salary": "",
+                "description": "深圳实习，中国16. 2016一7.2016 Premie\nre, After Effects\n带领4人小组完成公司分配的项目并展示最终结果\nInteraction Design\nHtml5/CSS/JavaScript, Brackets,\n设计的AR图画书，通过儿童涂鸦与拼图游戏结合\nP5,js, Processing, Arduinc\n再由AR技术展示出来，帮助儿童扩大想象力\nIndustrial Design\nRhinoceros,UG,Keyshot\n新媒体部UI/UX Designer-实习\nGame Design\n长沙风和丽日广告有限公司，中国 17.\n2016一8.2016 Unity 团队制作办公的墙绘项目\nData Processing\nArtec, Geomagic Studio, SPSS\n独立负责“云壹”餐厅七夕节整套VI设计，包括logo\n海报，宣传册，餐垫等\nRECOGNITION",
+                "end_time_year": "2016",
+                "still_active": 0,
+                "skills": [],
+                "end_time_month": "07",
+                "industry": "",
+                "start_time_month": "00",
+                "company_type": "",
+                "department": "",
+                "company_name": "Illustrator, Photoshop, InDesign,",
+                "start_time_year": "2016",
+                "location": "",
+                "report_to": "",
+                "job_function": "",
+                "underling_num": "",
+                "job_title": "Interaction Design",
+                "company_size": ""
+            }
+        ]
+    },
+    "updated_time": "",
+    "applied_job": "",
+    "resume_integrity": 0.4318827429255982,
+    "parsing_result": {
+        "project_experience": [],
+        "contact_info": {
+            "phone_number": "",
+            "QQ": "",
+            "wechat": "",
+            "email": "",
+            "home_phone_number": ""
+        },
+        "social_experience": [
+            {
+                "description": "组织游戏互动，帮助赞助商完成促销\nACTIVITIES\n湖南爱弥尔(NGO",
+                "end_time_year": "2017",
+                "still_active": 0,
+                "end_time_month": "01",
+                "organization_name": "湖南大学",
+                "start_time_year": "2013",
+                "location": "长沙",
+                "department": "",
+                "job_title": "",
+                "start_time_month": "01"
+            },
+            {
+                "description": "与自闭症儿童一起玩游戏，分享不同的故事，并教\n学生会思政部副部\n他们基本的绘画技巧\n主要负责学院思想政治活动的组织与宣传9.2013-6.2015",
+                "end_time_year": "2014",
+                "still_active": 0,
+                "end_time_month": "12",
+                "organization_name": "长沙",
+                "start_time_year": "2014",
+                "location": "长沙",
+                "department": "",
+                "job_title": "",
+                "start_time_month": "11"
+            }
+        ],
+        "education_experience": [
+            {
+                "ranking": "",
+                "major": "",
+                "degree": "",
+                "end_time_year": "2020",
+                "still_active": 0,
+                "school_rank": "55",
+                "school_level": "985 211",
+                "end_time_month": "09",
+                "school_name": "东北大学",
+                "abroad_country": "",
+                "GPA": "",
+                "courses": "",
+                "start_time_year": "2020",
+                "location": "沈阳",
+                "department": "",
+                "study_model": "",
+                "abroad": 0,
+                "start_time_month": "04"
+            },
+            {
+                "ranking": "",
+                "major": "工业设计",
+                "degree": "",
+                "end_time_year": "2017",
+                "still_active": 0,
+                "school_rank": "",
+                "school_level": "",
+                "end_time_month": "01",
+                "school_name": "BA, Product Design",
+                "abroad_country": "",
+                "GPA": "",
+                "courses": "数据库",
+                "start_time_year": "2013",
+                "location": "",
+                "department": "",
+                "study_model": "",
+                "abroad": 0,
+                "start_time_month": "01"
+            },
+            {
+                "ranking": "",
+                "major": "湖南大学与华为合作项目",
+                "degree": "",
+                "end_time_year": "2017",
+                "still_active": 0,
+                "school_rank": "31",
+                "school_level": "985 211",
+                "end_time_month": "06",
+                "school_name": "湖南大学",
+                "abroad_country": "",
+                "GPA": "",
+                "courses": "",
+                "start_time_year": "2016",
+                "location": "长沙",
+                "department": "",
+                "study_model": "",
+                "abroad": 0,
+                "start_time_month": "12"
+            }
+        ],
+        "basic_info": {
+            "major": "",
+            "expect_location": "",
+            "current_salary": "",
+            "current_location_norm": "",
+            "current_location": "",
+            "expect_location_norm": "",
+            "desired_salary": "",
+            "birthplace": "",
+            "degree": "",
+            "desired_industry": "",
+            "desired_position": "",
+            "zipcode": "",
+            "professional_level": "初级",
+            "national_identity_number": "",
+            "date_of_birth": "",
+            "birthplace_norm": "",
+            "num_work_experience": 2,
+            "current_position": "",
+            "work_start_year": "2017",
+            "political_status": "",
+            "current_company": "长沙风和丽日广告有限公司",
+            "school_name": "东北大学",
+            "ethnic": "",
+            "recent_graduate_year": "2020",
+            "name": "Best",
+            "lastupdate_time": "2022-12-21-09-58-28",
+            "gender": "",
+            "age": null,
+            "marital_status": "",
+            "current_status": "",
+            "school_type": "985 211",
+            "detailed_location": "",
+            "industry": ""
+        },
+        "training_experience": [],
+        "work_experience": [
+            {
+                "salary": "",
+                "description": "团队制作办公的墙绘项目\n独立负责“云壹”餐厅七夕节整套VI设计，包括logo\n海报，宣传册，餐垫等\n负责运营微信公众号，特别是动态图形设计和网页排版\nSIT创新设计学术报告，团队获省级奖",
+                "end_time_year": "2016",
+                "still_active": 0,
+                "skills": [
+                    "logo",
+                    "运营",
+                    "排版",
+                    "vi"
+                ],
+                "company_type": "",
+                "industry": "互联网/软件",
+                "end_time_month": "08",
+                "location": "",
+                "company_size": "",
+                "job_function": "",
+                "start_time_year": "2016",
+                "company_name": "长沙风和丽日广告有限公司",
+                "report_to": "",
+                "department": "",
+                "underling_num": "",
+                "job_title": "",
+                "start_time_month": "07"
+            },
+            {
+                "salary": "",
+                "description": "IF设计奖，团队获前300强",
+                "end_time_year": "2016",
+                "still_active": 0,
+                "skills": [],
+                "company_type": "",
+                "industry": "科研",
+                "end_time_month": "01",
+                "location": "",
+                "company_size": "",
+                "job_function": "",
+                "start_time_year": "2015",
+                "company_name": "湖南大学",
+                "report_to": "",
+                "department": "",
+                "underling_num": "",
+                "job_title": "",
+                "start_time_month": "01"
+            },
+            {
+                "salary": "",
+                "description": "使用Geomagic，C4D和SPSS处理数据，并参考人机数据库\n响应式设计: 适合Apple产品屏幕的基础编程的网页设计，并\n将简洁的科技样式融入界面设计中\n优化可视化的人头数据以提高数据的清晰度，为可穿戴设备\n的设计提供帮助\n深圳实习 ， 中国 16.2016一7.2016\n带领4人小组完成公司分配的项目并展示最终结果\n设计的AR图画书，通过儿童涂鸦与拼图游戏结合\n再由AR技术展示出来，帮助儿童扩大想象力",
+                "end_time_year": "",
+                "still_active": 0,
+                "skills": [
+                    "优化",
+                    "界面设计",
+                    "c4d",
+                    "数据库",
+                    "网页设计",
+                    "ui",
+                    "spss",
+                    "ar"
+                ],
+                "company_type": "",
+                "industry": "互联网/软件",
+                "end_time_month": "",
+                "location": "",
+                "company_size": "",
+                "job_function": "艺术/设计",
+                "start_time_year": "",
+                "company_name": "利用ArtecSpide",
+                "report_to": "",
+                "department": "",
+                "underling_num": "",
+                "job_title": "UI/UX设计",
+                "start_time_month": ""
+            }
+        ],
+        "others": {
+            "language": [
+                "英语"
+            ],
+            "certificate": [],
+            "skills": [
+                "Ar",
+                "Vi",
+                "Js",
+                "Ui",
+                "C4D",
+                "CSS",
+                "Logo",
+                "SPSS",
+                "Unity",
+                "HTML5",
+                "优化",
+                "Design",
+                "绘画",
+                "写作",
+                "Friday",
+                "运营",
+                "Studio",
+                "摄影",
+                "排版",
+                "手绘",
+                "Keyshot",
+                "Designer",
+                "Premiere",
+                "activiti",
+                "Indesign",
+                "Photoshop",
+                "Education",
+                "数据库",
+                "JavaScript",
+                "Illustrator",
+                "交互设计",
+                "平面设计",
+                "界面设计",
+                "网页设计",
+                "工业设计",
+                "After Effects"
+            ],
+            "self_evaluation": "",
+            "awards": [
+                "IF设计奖",
+                "小组获奖",
+                "英语写作一等奖",
+                "团队获省级奖",
+                "全国大学生工业设计大赛金奖"
+            ],
+            "it_skills": [
+                "CSS",
+                "SPSS",
+                "HTML5",
+                "activiti",
+                "Photoshop",
+                "JavaScript"
+            ],
+            "business_skills": []
+        },
+        "resume_rawtext": ""
+    },
+    "avatar_url": "",
+    "client_id": "",
+    "file_ext": "pdf",
+    "errorcode": 0,
+    "avatar_data": "",
+    "hash_id": "d80eadfc7155831e05b79f021871b7a6"
+}

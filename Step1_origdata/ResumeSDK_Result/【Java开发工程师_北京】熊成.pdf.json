@@ -1,0 +1,275 @@
+{
+    "status": {
+        "message": "success",
+        "code": 200
+    },
+    "result": {
+        "college_rank": "85",
+        "cont_job_skill": "1.熟练掌握 java 基础知识,\n具有良好的编码习惯。\n2.熟悉SpringBoot,Spring,\nMybatis等相关开发框架,能\n进行对应的后端开发。\n3.掌握Mysql和Redis数据\n库,能进行相应功能的开发。\n4.熟悉大数据生态圈如:\nhadoop,hive,spark,flink\n等相关框架。",
+        "major": "计算机技术",
+        "social_exp_objs": [],
+        "living_address_norm": "中国-湖北省-武汉市",
+        "work_company": "九江银行",
+        "college": "中南财经政法大学",
+        "work_pos_type_p": "软件工程师",
+        "work_start_time_inf": "2021.07",
+        "all_cert_objs": [],
+        "resume_type": "0",
+        "city": "武汉市",
+        "cont_my_desc": "本人能与同事协作,服从安排,能尽快适应新的环境,为人诚恳、有上进心、\n对技术有热情、喜欢折腾、愿意不停学习新的知识性格优势,富有团队合作\n精神。具有良好的交流能力、能和团队成员进行良好的项目开发。",
+        "cert_objs": [],
+        "skills_objs": [
+            {
+                "skills_level": "熟练",
+                "skills_name": "java"
+            },
+            {
+                "skills_level": "熟悉",
+                "skills_name": "Spring"
+            },
+            {
+                "skills_name": "Mybatis"
+            },
+            {
+                "skills_level": "掌握",
+                "skills_name": "Mysql"
+            },
+            {
+                "skills_level": "掌握",
+                "skills_name": "Redis"
+            },
+            {
+                "skills_level": "熟悉",
+                "skills_name": "大数据"
+            },
+            {
+                "skills_name": "hadoop"
+            },
+            {
+                "skills_name": "hive"
+            },
+            {
+                "skills_name": "spark"
+            },
+            {
+                "skills_name": "Kafka"
+            }
+        ],
+        "education_objs": [
+            {
+                "edu_college": "中南财经政法大学",
+                "edu_major": "计算机技术",
+                "end_date": "2021.06",
+                "edu_degree": "硕士",
+                "edu_degree_norm": "硕士研究生",
+                "edu_college_rank": "85",
+                "edu_college_type": "2",
+                "edu_recruit": "全日制",
+                "start_date": "2019.09"
+            },
+            {
+                "edu_college": "武汉纺织大学",
+                "edu_major": "软件工程",
+                "end_date": "2019.06",
+                "edu_degree": "一本",
+                "edu_degree_norm": "本科",
+                "edu_college_rank": "373",
+                "edu_college_type": "0",
+                "edu_recruit": "全日制",
+                "start_date": "2015.09"
+            }
+        ],
+        "cont_award": "1.2018年湖北省大创项\n目入围\n2. 校级一等奖学金\n3. CET-4556分",
+        "resume_integrity": "62",
+        "training_objs": [],
+        "email": "xc19970212@163.com",
+        "cont_job_exp": "2021.07-2022.06  九江银行  信息科技部 金融科技岗\n《公司工资代发系统》\n项目描述:该项目基于银行内的信息,服务于与银行合作的优质公司的工资代\n发,项目提供PC端,采用前后端分离的模式进行开发,旨在留住银行中优\n质的对公客户。\n所用技术:Springboot+Redis+Mysql+Mybatis+SpringCloud\n项目责任:\n负责项目中定时任务模块和PC端服务模块的开发。\n负责项目后期引进的SpringCloud框架对应功能的开发。\n负责该项目的上线,投产和维护工作,同时处理业务人员发送的问题。\n负责处理来自业务部门的指标查询和账户限制要求。\n负责编写该项目的上线文档,保持项目的正常运行。\n《核心大数据平台》\n项目描述:该项目基于所有公司内用户数据进行行为分析,统计日活,周活等\n各个指标并且提供数据可视化和数据在线查询功能。\n所用技术:Springboot+Alluxio+Presto+Flume+Kafka+Hadoop+Redis\n项目责任:\n根据原有项目上新增的需求编写系统模块服务对应的Java代码。\n根据业务需求,统计不同时间段的访问次数,点击,交易,转化率等指标。\n将需求的热点数据放入新引入的存储框架并结合即席查询引擎提高查询\n效率。\n根据后续需求修改alluxio源码来改变同步数据的方式,提升同步效率。\n负责基于 spark对接 kafka 进行日志评估,通过正则匹配与正则抽取得到\n数据, 调用评估责任链,产生风险评估报告。\n根据项目后续业务需求,使用spark完成任务配置的动态更新,提高效率。",
+        "city_norm": "中国-湖北省-武汉市",
+        "lang_objs": [],
+        "grad_time": "2021.06",
+        "degree": "硕士",
+        "proj_exp_objs": [],
+        "work_year_norm": "0",
+        "work_year": "应届生",
+        "phone": "18571852172",
+        "birthday": "1997.02",
+        "resume_parse_time": "2022-12-21 17:51:56",
+        "raw_text": "基本信息\n出生年月:1997.02\n最高学历:硕士\n工作经验:应届生或1年\n联系方式\n电 话:18571852172\n邮 箱:xc19970212@163.com\n地 址:湖北省武汉市\n荣誉证书\n1.2018年湖北省大创项\n目入围\n2. 校级一等奖学金\n3. CET-4556分\n专业技能\n1.熟练掌握 java 基础知识,\n具有良好的编码习惯。\n2.熟悉SpringBoot,Spring,\nMybatis等相关开发框架,能\n进行对应的后端开发。\n3.掌握Mysql和Redis数据\n库,能进行相应功能的开发。\n4.熟悉大数据生态圈如:\nhadoop,hive,spark,flink\n等相关框架。\n熊成  求职意向:软件开发工程师\n教育背景\n2015.09-2019.06 武汉纺织大学(全日制一本)  软件工程/本科\n2019.09-2021.06 中南财经政法大学(全日制211) 计算机技术/硕士\n工作经历\n2021.07-2022.06  九江银行  信息科技部 金融科技岗\n《公司工资代发系统》\n项目描述:该项目基于银行内的信息,服务于与银行合作的优质公司的工资代\n发,项目提供PC端,采用前后端分离的模式进行开发,旨在留住银行中优\n质的对公客户。\n所用技术:Springboot+Redis+Mysql+Mybatis+SpringCloud\n项目责任:\n负责项目中定时任务模块和PC端服务模块的开发。\n负责项目后期引进的SpringCloud框架对应功能的开发。\n负责该项目的上线,投产和维护工作,同时处理业务人员发送的问题。\n负责处理来自业务部门的指标查询和账户限制要求。\n负责编写该项目的上线文档,保持项目的正常运行。\n《核心大数据平台》\n项目描述:该项目基于所有公司内用户数据进行行为分析,统计日活,周活等\n各个指标并且提供数据可视化和数据在线查询功能。\n所用技术:Springboot+Alluxio+Presto+Flume+Kafka+Hadoop+Redis\n项目责任:\n根据原有项目上新增的需求编写系统模块服务对应的Java代码。\n根据业务需求,统计不同时间段的访问次数,点击,交易,转化率等指标。\n将需求的热点数据放入新引入的存储框架并结合即席查询引擎提高查询\n效率。\n根据后续需求修改alluxio源码来改变同步数据的方式,提升同步效率。\n负责基于 spark对接 kafka 进行日志评估,通过正则匹配与正则抽取得到\n数据, 调用评估责任链,产生风险评估报告。\n根据项目后续业务需求,使用spark完成任务配置的动态更新,提高效率。\n自我评价\n本人能与同事协作,服从安排,能尽快适应新的环境,为人诚恳、有上进心、\n对技术有热情、喜欢折腾、愿意不停学习新的知识性格优势,富有团队合作\n精神。具有良好的交流能力、能和团队成员进行良好的项目开发。",
+        "expect_job": "软件开发工程师",
+        "cont_expect_job": "熊成  求职意向:软件开发工程师",
+        "cont_basic_info": "基本信息\n出生年月:1997.02\n最高学历:硕士\n工作经验:应届生或1年\n联系方式\n电 话:18571852172\n邮 箱:xc19970212@163.com\n地 址:湖北省武汉市",
+        "job_exp_objs": [
+            {
+                "job_dept": "信息科技部",
+                "end_date": "2022.06",
+                "job_position": "金融科技岗",
+                "job_content": "《公司工资代发系统》\n项目描述:该项目基于银行内的信息,服务于与银行合作的优质公司的工资代\n发,项目提供PC端,采用前后端分离的模式进行开发,旨在留住银行中优\n质的对公客户。\n所用技术:Springboot+Redis+Mysql+Mybatis+SpringCloud\n项目责任:\n负责项目中定时任务模块和PC端服务模块的开发。\n负责项目后期引进的SpringCloud框架对应功能的开发。\n负责该项目的上线,投产和维护工作,同时处理业务人员发送的问题。\n负责处理来自业务部门的指标查询和账户限制要求。\n负责编写该项目的上线文档,保持项目的正常运行。\n《核心大数据平台》\n项目描述:该项目基于所有公司内用户数据进行行为分析,统计日活,周活等\n各个指标并且提供数据可视化和数据在线查询功能。\n所用技术:Springboot+Alluxio+Presto+Flume+Kafka+Hadoop+Redis\n项目责任:\n根据原有项目上新增的需求编写系统模块服务对应的Java代码。\n根据业务需求,统计不同时间段的访问次数,点击,交易,转化率等指标。\n将需求的热点数据放入新引入的存储框架并结合即席查询引擎提高查询\n效率。\n根据后续需求修改alluxio源码来改变同步数据的方式,提升同步效率。\n负责基于 spark对接 kafka 进行日志评估,通过正则匹配与正则抽取得到\n数据, 调用评估责任链,产生风险评估报告。\n根据项目后续业务需求,使用spark完成任务配置的动态更新,提高效率。",
+                "job_cpy": "九江银行",
+                "job_pos_type_p": "软件工程师",
+                "job_duration": "11个月",
+                "start_date": "2021.07"
+            }
+        ],
+        "work_start_time": "2021.07",
+        "age": "25",
+        "living_address": "湖北省武汉市",
+        "recruit": "全日制",
+        "resume_name": "cv20221221_175156111_750.pdf",
+        "cont_education": "2015.09-2019.06 武汉纺织大学(全日制一本)  软件工程/本科\n2019.09-2021.06 中南财经政法大学(全日制211) 计算机技术/硕士",
+        "work_position": "金融科技岗",
+        "college_type": "2"
+    },
+    "eval": {
+        "salary": 9200
+    },
+    "tags": {
+        "industries": [
+            {
+                "tag_weight": 1.0,
+                "tag_name": "银行"
+            }
+        ],
+        "pos_types": [
+            {
+                "tag_weight": 1.4588206744277135,
+                "tag_name": "软件工程师"
+            },
+            {
+                "tag_weight": 0.5027295594312342,
+                "tag_name": "高级软件工程师"
+            },
+            {
+                "tag_weight": 0.35044465813204323,
+                "tag_name": "互联网软件开发工程师"
+            },
+            {
+                "tag_weight": 0.1334263948675422,
+                "tag_name": "技术研发工程师"
+            },
+            {
+                "tag_weight": 0.10884086787740846,
+                "tag_name": "其他"
+            }
+        ],
+        "pos_tags": [
+            {
+                "tag_weight": 1.2,
+                "tag_name": "软件开发工程师"
+            },
+            {
+                "tag_weight": 1.0,
+                "tag_name": "金融科技岗"
+            },
+            {
+                "tag_weight": 0.31002199172973627,
+                "tag_name": "开发工程师"
+            },
+            {
+                "tag_weight": 0.284913318157196,
+                "tag_name": "研发工程师"
+            },
+            {
+                "tag_weight": 0.2789496517181396,
+                "tag_name": "java开发工程师"
+            },
+            {
+                "tag_weight": 0.27785837888717646,
+                "tag_name": "工程师"
+            },
+            {
+                "tag_weight": 0.27663702964782716,
+                "tag_name": "c开发工程师"
+            },
+            {
+                "tag_weight": 0.2758928775787353,
+                "tag_name": "后端开发工程师"
+            },
+            {
+                "tag_weight": 0.25981880664825435,
+                "tag_name": ".net开发工程师"
+            },
+            {
+                "tag_weight": 0.2592264890670776,
+                "tag_name": "后台开发工程师"
+            }
+        ],
+        "skills_tags": [
+            {
+                "tag_weight": 1.0164928817749024,
+                "tag_name": "spark"
+            },
+            {
+                "tag_weight": 1.0050788068771364,
+                "tag_name": "hadoop"
+            },
+            {
+                "tag_weight": 0.952101435661316,
+                "tag_name": "redis"
+            },
+            {
+                "tag_weight": 0.7879345560073854,
+                "tag_name": "springboot"
+            },
+            {
+                "tag_weight": 0.6391419887542725,
+                "tag_name": "mybatis"
+            },
+            {
+                "tag_weight": 0.6264336585998536,
+                "tag_name": "hive"
+            },
+            {
+                "tag_weight": 0.6108467102050782,
+                "tag_name": "spring"
+            },
+            {
+                "tag_weight": 0.6,
+                "tag_name": "软件开发"
+            },
+            {
+                "tag_weight": 0.5290188312530518,
+                "tag_name": "mysql"
+            },
+            {
+                "tag_weight": 0.47756586074829105,
+                "tag_name": "java 基础"
+            },
+            {
+                "tag_weight": 0.4457903385162354,
+                "tag_name": "后端开发"
+            },
+            {
+                "tag_weight": 0.442080020904541,
+                "tag_name": "大数据"
+            },
+            {
+                "tag_weight": 0.3720207118988037,
+                "tag_name": "kafka"
+            },
+            {
+                "tag_weight": 0.3668993616104126,
+                "tag_name": "flume"
+            },
+            {
+                "tag_weight": 0.323593225479126,
+                "tag_name": "大数据平台"
+            },
+            {
+                "tag_weight": 0.27776657581329345,
+                "tag_name": "数据可视化"
+            },
+            {
+                "tag_weight": 0.2594880485534668,
+                "tag_name": "java"
+            },
+            {
+                "tag_weight": 0.2536904716491699,
+                "tag_name": "前后端"
+            },
+            {
+                "tag_weight": 0.2037065052986145,
+                "tag_name": "行为分析"
+            }
+        ]
+    }
+}

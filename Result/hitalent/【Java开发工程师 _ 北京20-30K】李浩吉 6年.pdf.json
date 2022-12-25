@@ -1,0 +1,27 @@
+{
+    "all": 29,
+    "important": 29,
+    "desc": 0,
+    "correct_important": 27,
+    "correct_desc": 0,
+    "additional": 3,
+    "important_keys": {
+        "educations.0.current": false,
+        "educations.0.degreeLevel": false
+    },
+    "unimportant_keys": {},
+    "addition_info_count": 3,
+    "addition_info": {
+        "currentLocation": {
+            "location": "Tianjin"
+        },
+        "preferredLocations": [
+            {
+                "location": "Tianjin"
+            }
+        ],
+        "languages": [
+            "MANDARIN"
+        ]
+    }
+}

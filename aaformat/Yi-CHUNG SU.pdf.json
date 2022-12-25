@@ -30,14 +30,14 @@
     "experiences": [
         {
             "description": "\\W*Worked\\W*in\\W*the\\W*Agile\\W*Scrum\\W*team\\W*to\\W*improve\\W*the\\W*John\\W*Deere\\W*tractor\\W*s\\W*control\\W*system\\W*with\\W*python\\W*and\\W*Docker\\W*Redesigned\\W*the\\W*Tractor\\W*s\\W*safety\\W*system\\W*to\\W*deal\\W*with\\W*emergency\\W*conditions\\W*based\\W*on\\W*Test\\W*driven\\W*Development\\W*Built\\W*the\\W*hardware\\W*simulator\\W*with\\W*fake\\W*CAN\\W*messages\\W*fake\\W*perception\\W*messages\\W*and\\W*fake\\W*GPS\\W*data\\W*to\\W*test\\W*the\\W*system\\W*Programmed\\W*unit\\W*tests\\W*and\\W*integration\\W*tests\\W*for\\W*every\\W*function\\W*in\\W*the\\W*program\\W*using\\W*Travis\\W*Catch2\\W*and\\W*Fake\\W*it\\W*Developed\\W*radar\\W*detection\\W*code\\W*using\\W*C\\W*and\\W*Bosch\\W*mid\\W*range\\W*radar\\W*and\\W*Continental\\W*Radar\\W*Launched\\W*a\\W*heartbeat\\W*program\\W*between\\W*main\\W*CPU\\W*and\\W*redundant\\W*CPU\\W*by\\W*serial\\W*communication\\W*Implemented\\W*the\\W*Safety\\W*Stop\\W*program\\W*through\\W*I2C\\W*Bus\\W*between\\W*redundant\\W*CPU\\W*and\\W*brake\\W*module\\W*Developed\\W*the\\W*speed\\W*controller\\W*algorithm\\W*Gear\\W*selection\\W*and\\W*throttle\\W*adjustment\\W*for\\W*tractors\\W*with\\W*Power\\W*Shift\\W*Transmission\\W*by\\W*using\\W*state\\W*machine\\W*QNX\\W*environment\\W*",
-            "companyName": "SmartAg\\W{0,2}",
+            "companyName": "SmartAg\\W{0,4}(Ames\\W{0,2}(Iowa)?)?",
             "title": "Autonomous Vehicle Engineer",
             "startDate": "2018-09-01",
             "current": true
         },
         {
             "description": "\\W*Built\\W*3D\\W*CAD\\W*models\\W*including\\W*robotic\\W*arm\\W*CNC\\W*and\\W*conveyor\\W*system\\W*to\\W*demo\\W*industry\\W*4\\W*0\\W*products\\W*Simulated\\W*milling\\W*processes\\W*using\\W*ABB\\W*Robotstudio\\W*Machining\\W*PowerPac\\W*to\\W*assess\\W*its\\W*auto\\W*path\\W*generation\\W*function\\W*",
-            "companyName": "SyntecTechnology",
+            "companyName": "(AutomationDept\\W{0,4})?SyntecTechnology",
             "title": "Mechanical Engineering Intern",
             "startDate": "2017-05-01",
             "endDate": "2017-06-01"

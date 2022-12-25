@@ -1,0 +1,28 @@
+{
+    "all": 18,
+    "important": 17,
+    "desc": 1,
+    "correct_important": 8,
+    "correct_desc": 0,
+    "additional": 1,
+    "important_keys": {
+        "educations.0.degreeLevel": false,
+        "experiences.0.companyName": false,
+        "experiences.0.endDate": false,
+        "experiences.0.startDate": false,
+        "experiences.0.title": false,
+        "currentLocation": false,
+        "fullName": false,
+        "skills.0.skillName": false,
+        "skills.1.skillName": false
+    },
+    "unimportant_keys": {
+        "experiences.0.description": false
+    },
+    "addition_info_count": 1,
+    "addition_info": {
+        "languages": [
+            "MANDARIN"
+        ]
+    }
+}

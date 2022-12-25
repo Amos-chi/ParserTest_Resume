@@ -10,9 +10,9 @@
             "contact": "+8618911151483"
         }
     ],
-    "currentLocation": {
-        "location": "Beijing"
-    },
+    "currentLocation": [{
+        "location": "(Beijing(\\W{0,3}China)?)|(北京)"
+    }],
     "languages": [
         "ENGLISH"
     ],

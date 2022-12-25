@@ -1,0 +1,23 @@
+{
+    "all": 23,
+    "important": 22,
+    "desc": 1,
+    "correct_important": 14,
+    "correct_desc": 0,
+    "additional": 0,
+    "important_keys": {
+        "educations.1.collegeName": false,
+        "educations.1.degreeLevel": false,
+        "educations.1.majorName": false,
+        "experiences.0.companyName": false,
+        "experiences.0.title": false,
+        "experiences.0.startDate": false,
+        "experiences.0.endDate": false,
+        "currentLocation": false
+    },
+    "unimportant_keys": {
+        "experiences.0.description": false
+    },
+    "addition_info_count": 0,
+    "addition_info": {}
+}

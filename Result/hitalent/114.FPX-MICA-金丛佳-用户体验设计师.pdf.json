@@ -1,0 +1,38 @@
+{
+    "all": 54,
+    "important": 46,
+    "desc": 8,
+    "correct_important": 43,
+    "correct_desc": 8,
+    "additional": 3,
+    "important_keys": {
+        "educations.0.degreeLevel": false,
+        "educations.1.degreeLevel": false,
+        "experiences.5.title": false
+    },
+    "unimportant_keys": {
+        "experiences.0.description": true,
+        "experiences.1.description": true,
+        "experiences.2.description": true,
+        "experiences.3.description": true,
+        "experiences.4.description": true,
+        "experiences.5.description": true,
+        "experiences.6.description": true,
+        "experiences.7.description": true
+    },
+    "addition_info_count": 3,
+    "addition_info": {
+        "currentLocation": {
+            "location": "Beijing"
+        },
+        "preferredLocations": [
+            {
+                "location": "Beijing"
+            }
+        ],
+        "languages": [
+            "MANDARIN",
+            "ENGLISH"
+        ]
+    }
+}

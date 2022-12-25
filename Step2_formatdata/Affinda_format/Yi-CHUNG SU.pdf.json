@@ -1,0 +1,210 @@
+{
+    "fullName": "Yi-Chung  Su",
+    "contacts": [
+        {
+            "contact": "yichusu@umich.edu",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "+17347095275",
+            "type": "PHONE"
+        }
+    ],
+    "currentLocation": [
+        {
+            "location": "321 S 5th St #240, Ames, IA 50010, USA"
+        }
+    ],
+    "languages": [
+        "English"
+    ],
+    "educations": [
+        {
+            "endDate": "2018-04-01",
+            "collegeName": "University of Michigan",
+            "degreeLevel": "masters",
+            "majorName": "Master of Science"
+        },
+        {
+            "endDate": "2014-06-01",
+            "collegeName": "National Taiwan University",
+            "degreeLevel": "bachelors",
+            "majorName": "Bachelor of Science"
+        }
+    ],
+    "experiences": [
+        {
+            "description": " Worked in the Agile Scrum team to improve the John Deere tractor's control system with python and Docker. \n•Redesigned the Tractor's safety system to deal with emergency conditions based on Test-driven Development. \n•Built the hardware simulator with fake CAN messages, fake perception messages and fake GPS data to test the system. \n•Programmed unit tests and integration tests for every function in the program using Travis, Catch2, and Fake-it. \n•Developed radar detection code using C++ and Bosch mid-range radar and Continental Radar. \n•Launched a heartbeat program between main CPU and redundant CPU by serial communication. \n•Implemented the Safety Stop program through I2C Bus between redundant CPU and brake module. \n•Developed the speed controller algorithm(Gear selection and throttle adjustment) for tractors with Power Shift Transmission by using state machine QNX environment. ",
+            "companyName": "Smart Ag.",
+            "title": "Autonomous Vehicle Engineer",
+            "startDate": "2018-09-01",
+            "endDate": "2022-12-21",
+            "current": true
+        },
+        {
+            "description": " Built 3D CAD models including robotic arm, CNC, and conveyor system to demo industry 4.0 products. \n•Simulated milling processes using ABB Robotstudio Machining PowerPac to assess its auto-path generation function. ",
+            "companyName": "Automation Dept., Syntec Technology",
+            "title": "Mechanical Engineering Intern",
+            "startDate": "2017-05-01",
+            "endDate": "2017-06-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "Kinematics"
+        },
+        {
+            "skillName": "State Machines"
+        },
+        {
+            "skillName": "OpenCV"
+        },
+        {
+            "skillName": "Automation"
+        },
+        {
+            "skillName": "MATLAB"
+        },
+        {
+            "skillName": "Travis Ci"
+        },
+        {
+            "skillName": "Negative Feedback"
+        },
+        {
+            "skillName": "Integration"
+        },
+        {
+            "skillName": "SolidWorks (CAD)"
+        },
+        {
+            "skillName": "Sensor Fusion"
+        },
+        {
+            "skillName": "Brake (Sheet Metal Bending)"
+        },
+        {
+            "skillName": "Control Systems"
+        },
+        {
+            "skillName": "C (Programming Language)"
+        },
+        {
+            "skillName": "MySQL"
+        },
+        {
+            "skillName": "Python (Programming Language)"
+        },
+        {
+            "skillName": "Simulations"
+        },
+        {
+            "skillName": "Computer Vision"
+        },
+        {
+            "skillName": "Communications"
+        },
+        {
+            "skillName": "Radar"
+        },
+        {
+            "skillName": "Machining"
+        },
+        {
+            "skillName": "Mid-Range"
+        },
+        {
+            "skillName": "Simulink"
+        },
+        {
+            "skillName": "Linux"
+        },
+        {
+            "skillName": "LabVIEW"
+        },
+        {
+            "skillName": "Agile Software Development"
+        },
+        {
+            "skillName": "Scrum (Software Development)"
+        },
+        {
+            "skillName": "Delcam PowerInspect (3D CAD)"
+        },
+        {
+            "skillName": "Industry 4.0"
+        },
+        {
+            "skillName": "Accelerometer"
+        },
+        {
+            "skillName": "CMake"
+        },
+        {
+            "skillName": "Stepper"
+        },
+        {
+            "skillName": "Arduino"
+        },
+        {
+            "skillName": "Inverse Kinematics"
+        },
+        {
+            "skillName": "Vehicle Dynamics"
+        },
+        {
+            "skillName": "Docker (Software)"
+        },
+        {
+            "skillName": "Cudnn"
+        },
+        {
+            "skillName": "Transmission"
+        },
+        {
+            "skillName": "Data Mining"
+        },
+        {
+            "skillName": "Low-Pass Filter"
+        },
+        {
+            "skillName": "Stepper Motor"
+        },
+        {
+            "skillName": "Message Queuing Telemetry Transport (MQTT)"
+        },
+        {
+            "skillName": "Trajectory"
+        },
+        {
+            "skillName": "Conveyor Systems"
+        },
+        {
+            "skillName": "QNX (Software)"
+        },
+        {
+            "skillName": "Computer Numerical Control (CNC)"
+        },
+        {
+            "skillName": "Mechatronics"
+        },
+        {
+            "skillName": "Mechanical Engineering"
+        },
+        {
+            "skillName": "Angular (Web Framework)"
+        },
+        {
+            "skillName": "Feedback Control"
+        },
+        {
+            "skillName": "Dilution Of Precision (GPS)"
+        },
+        {
+            "skillName": "Linear-Quadratic Regulator"
+        },
+        {
+            "skillName": "Autonomous Vehicles"
+        }
+    ]
+}

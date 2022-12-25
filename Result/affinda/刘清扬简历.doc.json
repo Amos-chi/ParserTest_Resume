@@ -1,0 +1,23 @@
+{
+    "all": 21,
+    "important": 19,
+    "desc": 2,
+    "correct_important": 12,
+    "correct_desc": 0,
+    "additional": 0,
+    "important_keys": {
+        "educations.0.degreeLevel": false,
+        "educations.0.majorName": false,
+        "languages.0": false,
+        "currentLocation": false,
+        "fullName": false,
+        "skills.0.skillName": false,
+        "skills.1.skillName": false
+    },
+    "unimportant_keys": {
+        "experiences.0.description": false,
+        "experiences.1.description": false
+    },
+    "addition_info_count": 0,
+    "addition_info": {}
+}

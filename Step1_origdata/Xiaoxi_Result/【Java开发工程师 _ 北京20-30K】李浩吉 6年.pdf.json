@@ -1,0 +1,1461 @@
+{
+    "predicted_result": {
+        "desired_salary": null,
+        "tags": {
+            "skills": [
+                {
+                    "tag": "SPRINGCLOUD",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "数据库设计",
+                    "type": "professional_skill",
+                    "subclass": "DATABASE"
+                },
+                {
+                    "tag": "负载均衡",
+                    "type": "professional_skill",
+                    "subclass": "系统运维"
+                },
+                {
+                    "tag": "技术架构",
+                    "type": "professional_skill",
+                    "subclass": "其它"
+                },
+                {
+                    "tag": "数据缓存",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "库存",
+                    "type": "professional_skill",
+                    "subclass": "物流管理"
+                },
+                {
+                    "tag": "HTTPCLIENT",
+                    "type": "professional_skill",
+                    "subclass": "前端开发"
+                },
+                {
+                    "tag": "SPRINGMVC",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "ROCKETMQ",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "SWAGGER",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "分布式架构",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "缓存数据库",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "缓存数据库",
+                    "type": "professional_skill",
+                    "subclass": "DATABASE"
+                },
+                {
+                    "tag": "SHIRO",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "数据安全",
+                    "type": "professional_skill",
+                    "subclass": "互联网安全"
+                },
+                {
+                    "tag": "架构设计",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "系统管理",
+                    "type": "professional_skill",
+                    "subclass": "系统运维"
+                },
+                {
+                    "tag": "系统维护",
+                    "type": "professional_skill",
+                    "subclass": "系统运维"
+                },
+                {
+                    "tag": "统计分析",
+                    "type": "professional_skill",
+                    "subclass": "其它"
+                },
+                {
+                    "tag": "代码编写",
+                    "type": "professional_skill",
+                    "subclass": "其它"
+                },
+                {
+                    "tag": "大数据",
+                    "type": "professional_skill",
+                    "subclass": "数据分析"
+                },
+                {
+                    "tag": "小程序",
+                    "type": "professional_skill",
+                    "subclass": "前端开发"
+                },
+                {
+                    "tag": "物联网",
+                    "type": "professional_skill",
+                    "subclass": "物联网"
+                },
+                {
+                    "tag": "用户端",
+                    "type": "professional_skill",
+                    "subclass": "其它"
+                },
+                {
+                    "tag": "B2C",
+                    "type": "professional_skill",
+                    "subclass": "电子商务"
+                },
+                {
+                    "tag": "中间件",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "客服",
+                    "type": "professional_skill",
+                    "subclass": "客户服务"
+                },
+                {
+                    "tag": "测试",
+                    "type": "professional_skill",
+                    "subclass": "软件测试"
+                },
+                {
+                    "tag": "ELASTICSEARCH",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "SPRINGBOOT",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "DUBBO服务调度",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "ZOOKEEPER",
+                    "type": "professional_skill",
+                    "subclass": "数据分析"
+                },
+                {
+                    "tag": "SHARDING",
+                    "type": "professional_skill",
+                    "subclass": "DATABASE"
+                },
+                {
+                    "tag": "ACTIVEMQ",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "MYSQL数据库",
+                    "type": "professional_skill",
+                    "subclass": "DATABASE"
+                },
+                {
+                    "tag": "MYBATIS",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "FASTDFS",
+                    "type": "professional_skill",
+                    "subclass": "其它"
+                },
+                {
+                    "tag": "缓存REDIS",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "SESSION",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "ECLIPSE",
+                    "type": "professional_skill",
+                    "subclass": "开发工具"
+                },
+                {
+                    "tag": "JAVA开发",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "系统后台管理",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "COOKIE",
+                    "type": "professional_skill",
+                    "subclass": "前端开发"
+                },
+                {
+                    "tag": "后台管理系统",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "TOMCAT",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "整理用户需求",
+                    "type": "professional_skill",
+                    "subclass": "产品"
+                },
+                {
+                    "tag": "MAVEN",
+                    "type": "professional_skill",
+                    "subclass": "开发工具"
+                },
+                {
+                    "tag": "NGINX",
+                    "type": "professional_skill",
+                    "subclass": "系统运维"
+                },
+                {
+                    "tag": "微服务架构",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "微信公众号",
+                    "type": "professional_skill",
+                    "subclass": "运营"
+                },
+                {
+                    "tag": "文件服务器",
+                    "type": "professional_skill",
+                    "subclass": "其它"
+                },
+                {
+                    "tag": "EXCEL",
+                    "type": "professional_skill",
+                    "subclass": "办公软件"
+                },
+                {
+                    "tag": "NETTY",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "MYCAT",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "LINUX",
+                    "type": "professional_skill",
+                    "subclass": "系统运维"
+                },
+                {
+                    "tag": "接口设计",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "IDEA",
+                    "type": "professional_skill",
+                    "subclass": "开发工具"
+                },
+                {
+                    "tag": "支付服务",
+                    "type": "professional_skill",
+                    "subclass": "其它"
+                },
+                {
+                    "tag": "绩效设计",
+                    "type": "professional_skill",
+                    "subclass": "人力资源"
+                },
+                {
+                    "tag": "JDBC",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "MQTT",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "SAAS",
+                    "type": "professional_skill",
+                    "subclass": "常用软件"
+                },
+                {
+                    "tag": "订单处理",
+                    "type": "professional_skill",
+                    "subclass": "其它"
+                },
+                {
+                    "tag": "系统配置",
+                    "type": "professional_skill",
+                    "subclass": "其它"
+                },
+                {
+                    "tag": "接口文档",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "课程管理",
+                    "type": "professional_skill",
+                    "subclass": "教育培训"
+                },
+                {
+                    "tag": "后台运营",
+                    "type": "professional_skill",
+                    "subclass": "运营"
+                },
+                {
+                    "tag": "内容管理",
+                    "type": "professional_skill",
+                    "subclass": "运营编辑"
+                },
+                {
+                    "tag": "项目策划",
+                    "type": "professional_skill",
+                    "subclass": "项目管理"
+                },
+                {
+                    "tag": "数据结构",
+                    "type": "professional_skill",
+                    "subclass": "计算机基础"
+                },
+                {
+                    "tag": "机械制造",
+                    "type": "professional_skill",
+                    "subclass": "机械相关"
+                },
+                {
+                    "tag": "SVN",
+                    "type": "professional_skill",
+                    "subclass": "开发工具"
+                },
+                {
+                    "tag": "纺织品",
+                    "type": "professional_skill",
+                    "subclass": "服装相关"
+                },
+                {
+                    "tag": "GIT",
+                    "type": "professional_skill",
+                    "subclass": "开发工具"
+                },
+                {
+                    "tag": "JDK",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "二维码",
+                    "type": "professional_skill",
+                    "subclass": "其它"
+                },
+                {
+                    "tag": "VUE",
+                    "type": "professional_skill",
+                    "subclass": "前端开发"
+                },
+                {
+                    "tag": "OSS",
+                    "type": "professional_skill",
+                    "subclass": "系统运维"
+                },
+                {
+                    "tag": "多线程",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "JVM",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "NIO",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "交互",
+                    "type": "professional_skill",
+                    "subclass": "产品"
+                },
+                {
+                    "tag": "快递",
+                    "type": "professional_skill",
+                    "subclass": "物流管理"
+                },
+                {
+                    "tag": "接单",
+                    "type": "professional_skill",
+                    "subclass": "客户服务"
+                },
+                {
+                    "tag": "入库",
+                    "type": "professional_skill",
+                    "subclass": "物流管理"
+                },
+                {
+                    "tag": "后端",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "资金",
+                    "type": "professional_skill",
+                    "subclass": "金融财务"
+                },
+                {
+                    "tag": "筹资",
+                    "type": "professional_skill",
+                    "subclass": "投资相关"
+                },
+                {
+                    "tag": "沟通能力",
+                    "type": "soft_skill",
+                    "subclass": "软性技能"
+                },
+                {
+                    "tag": "抗压能力",
+                    "type": "soft_skill",
+                    "subclass": "软性技能"
+                },
+                {
+                    "tag": "学习能力",
+                    "type": "soft_skill",
+                    "subclass": "软性技能"
+                }
+            ],
+            "professional": [
+                {
+                    "tag": "互联网/软件",
+                    "type": "industry"
+                },
+                {
+                    "tag": "软件外包",
+                    "type": "industry"
+                },
+                {
+                    "tag": "IT/互联网-后端开发-JAVA",
+                    "type": "standard_title"
+                },
+                {
+                    "tag": "JAVA开发工程师",
+                    "type": "job_title"
+                }
+            ],
+            "education": [
+                {
+                    "tag": "本科学历",
+                    "type": "degree"
+                },
+                {
+                    "tag": "大专学历",
+                    "type": "degree"
+                },
+                {
+                    "tag": "计算机信息管理",
+                    "type": "major"
+                },
+                {
+                    "tag": "机械制造与自动化",
+                    "type": "major"
+                },
+                {
+                    "tag": "211工程院校",
+                    "type": "school_level"
+                }
+            ],
+            "basic": [
+                {
+                    "tag": "男",
+                    "type": "gender"
+                },
+                {
+                    "tag": "26到30岁",
+                    "type": "age"
+                },
+                {
+                    "tag": "高级",
+                    "type": "level"
+                },
+                {
+                    "tag": "5-10年经验",
+                    "type": "experience"
+                }
+            ],
+            "others": []
+        },
+        "highlights": {
+            "project": [
+                "拥有丰富的项目经验"
+            ],
+            "occupation": [
+                "候选人存在2段工作经历2年以上，工作稳定性较高"
+            ],
+            "education": [
+                "院校背景不错，本科学历，毕业于211院校"
+            ],
+            "others": [
+                "有丰富的数据库经验，对mysql数据库、sql、mysql、数据库设计、db、数据库、sql数据库、sharding等技能或工具有深入的理解",
+                "有丰富的大数据开发经验，对elasticsearch、zookeeper、大数据、分布式等技能或工具有深入的理解",
+                "有丰富的后端开发经验，对redis、eclipse、spring、boot、架构、sql、dubbo、mysql、maven、缓存、java、mvc、netty、mybatis、springboot、系统、分布式、多线程、数据库、tomcat等技能或工具有深入的理解"
+            ],
+            "tags": [
+                "稳定性高",
+                "国内211",
+                "技术达标"
+            ]
+        },
+        "predicted_industry": {
+            "建筑/房地产": 5,
+            "咨询/法律/公务员": 5,
+            "生物/制药/医疗/护理": 5,
+            "教育/翻译/服务业": 5,
+            "其他": 5,
+            "工程师": 5,
+            "运营/客服/销售/市场": 5,
+            "人事/行政/高级管理": 5,
+            "生产/采购/物流": 5,
+            "互联网": 10,
+            "产品": 5,
+            "金融": 5
+        },
+        "predicted_titles": [
+            {
+                "score": 0.6400000000000001,
+                "title": {
+                    "l2": "后端开发",
+                    "l3": "JAVA",
+                    "l1": "IT/互联网"
+                }
+            }
+        ],
+        "stability": {
+            "average_job_function_time": null,
+            "average_industry_time": 26.333333333333332,
+            "average_work_time": 26.333333333333332,
+            "work_stability": "稳定"
+        },
+        "predicted_capability": {
+            "language": 6,
+            "socialexp": 6,
+            "leadership": 9,
+            "workexp": 8,
+            "education": 7,
+            "honor": 5
+        },
+        "predicted_skills": [
+            {
+                "skill": "springcloud",
+                "score": 1
+            },
+            {
+                "skill": "数据库设计",
+                "score": 1
+            },
+            {
+                "skill": "负载均衡",
+                "score": 1
+            },
+            {
+                "skill": "技术架构",
+                "score": 1
+            },
+            {
+                "skill": "数据缓存",
+                "score": 0.9
+            },
+            {
+                "skill": "库存",
+                "score": 0.9
+            },
+            {
+                "skill": "httpclient",
+                "score": 0.8
+            },
+            {
+                "skill": "springmvc",
+                "score": 0.8
+            },
+            {
+                "skill": "rocketmq",
+                "score": 0.8
+            },
+            {
+                "skill": "swagger",
+                "score": 0.8
+            },
+            {
+                "skill": "分布式架构",
+                "score": 0.8
+            },
+            {
+                "skill": "缓存数据库",
+                "score": 0.8
+            },
+            {
+                "skill": "shiro",
+                "score": 0.8
+            },
+            {
+                "skill": "数据安全",
+                "score": 0.8
+            },
+            {
+                "skill": "架构设计",
+                "score": 0.8
+            },
+            {
+                "skill": "系统管理",
+                "score": 0.8
+            },
+            {
+                "skill": "系统维护",
+                "score": 0.8
+            },
+            {
+                "skill": "统计分析",
+                "score": 0.8
+            },
+            {
+                "skill": "代码编写",
+                "score": 0.8
+            },
+            {
+                "skill": "大数据",
+                "score": 0.8
+            },
+            {
+                "skill": "小程序",
+                "score": 0.8
+            },
+            {
+                "skill": "物联网",
+                "score": 0.8
+            },
+            {
+                "skill": "用户端",
+                "score": 0.8
+            },
+            {
+                "skill": "b2c",
+                "score": 0.8
+            },
+            {
+                "skill": "中间件",
+                "score": 0.8
+            },
+            {
+                "skill": "客服",
+                "score": 0.8
+            },
+            {
+                "skill": "测试",
+                "score": 0.8
+            },
+            {
+                "skill": "前台",
+                "score": 0.8
+            },
+            {
+                "skill": "elasticsearch",
+                "score": 0.7
+            },
+            {
+                "skill": "springboot",
+                "score": 0.7
+            },
+            {
+                "skill": "dubbo服务调度",
+                "score": 0.7
+            },
+            {
+                "skill": "zookeeper",
+                "score": 0.7
+            },
+            {
+                "skill": "sharding",
+                "score": 0.7
+            },
+            {
+                "skill": "activemq",
+                "score": 0.7
+            },
+            {
+                "skill": "mysql数据库",
+                "score": 0.7
+            },
+            {
+                "skill": "mybatis",
+                "score": 0.7
+            },
+            {
+                "skill": "fastdfs",
+                "score": 0.7
+            },
+            {
+                "skill": "缓存redis",
+                "score": 0.7
+            },
+            {
+                "skill": "session",
+                "score": 0.7
+            },
+            {
+                "skill": "eclipse",
+                "score": 0.7
+            },
+            {
+                "skill": "java开发",
+                "score": 0.7
+            },
+            {
+                "skill": "系统后台管理",
+                "score": 0.7
+            },
+            {
+                "skill": "cookie",
+                "score": 0.7
+            },
+            {
+                "skill": "后台管理系统",
+                "score": 0.7
+            },
+            {
+                "skill": "tomcat",
+                "score": 0.7
+            },
+            {
+                "skill": "整理用户需求",
+                "score": 0.7
+            },
+            {
+                "skill": "maven",
+                "score": 0.7
+            },
+            {
+                "skill": "nginx",
+                "score": 0.7
+            },
+            {
+                "skill": "微服务架构",
+                "score": 0.7
+            },
+            {
+                "skill": "微信公众号",
+                "score": 0.7
+            },
+            {
+                "skill": "文件服务器",
+                "score": 0.7
+            },
+            {
+                "skill": "excel",
+                "score": 0.7
+            },
+            {
+                "skill": "netty",
+                "score": 0.7
+            },
+            {
+                "skill": "mycat",
+                "score": 0.7
+            },
+            {
+                "skill": "linux",
+                "score": 0.7
+            },
+            {
+                "skill": "接口设计",
+                "score": 0.7
+            },
+            {
+                "skill": "idea",
+                "score": 0.7
+            },
+            {
+                "skill": "支付服务",
+                "score": 0.7
+            },
+            {
+                "skill": "绩效设计",
+                "score": 0.7
+            },
+            {
+                "skill": "jdbc",
+                "score": 0.7
+            },
+            {
+                "skill": "mqtt",
+                "score": 0.7
+            },
+            {
+                "skill": "saas",
+                "score": 0.7
+            },
+            {
+                "skill": "订单处理",
+                "score": 0.7
+            },
+            {
+                "skill": "系统配置",
+                "score": 0.7
+            },
+            {
+                "skill": "接口文档",
+                "score": 0.7
+            },
+            {
+                "skill": "课程管理",
+                "score": 0.7
+            },
+            {
+                "skill": "后台运营",
+                "score": 0.7
+            },
+            {
+                "skill": "内容管理",
+                "score": 0.7
+            },
+            {
+                "skill": "项目策划",
+                "score": 0.7
+            },
+            {
+                "skill": "沟通能力",
+                "score": 0.7
+            },
+            {
+                "skill": "数据结构",
+                "score": 0.7
+            },
+            {
+                "skill": "机械制造",
+                "score": 0.7
+            },
+            {
+                "skill": "svn",
+                "score": 0.7
+            },
+            {
+                "skill": "纺织品",
+                "score": 0.7
+            },
+            {
+                "skill": "git",
+                "score": 0.7
+            },
+            {
+                "skill": "jdk",
+                "score": 0.7
+            },
+            {
+                "skill": "二维码",
+                "score": 0.7
+            },
+            {
+                "skill": "vue",
+                "score": 0.7
+            },
+            {
+                "skill": "oss",
+                "score": 0.7
+            },
+            {
+                "skill": "多线程",
+                "score": 0.7
+            },
+            {
+                "skill": "jvm",
+                "score": 0.7
+            },
+            {
+                "skill": "nio",
+                "score": 0.7
+            },
+            {
+                "skill": "投放",
+                "score": 0.7
+            },
+            {
+                "skill": "交互",
+                "score": 0.7
+            },
+            {
+                "skill": "快递",
+                "score": 0.7
+            },
+            {
+                "skill": "接单",
+                "score": 0.7
+            },
+            {
+                "skill": "入库",
+                "score": 0.7
+            },
+            {
+                "skill": "存储",
+                "score": 0.7
+            },
+            {
+                "skill": "农业",
+                "score": 0.7
+            },
+            {
+                "skill": "后端",
+                "score": 0.7
+            },
+            {
+                "skill": "资金",
+                "score": 0.7
+            },
+            {
+                "skill": "筹资",
+                "score": 0.7
+            }
+        ],
+        "predicted_salary": "15000_to_20000",
+        "predicted_turnover": 0.22320827841758728,
+        "risks": {
+            "occupation": [
+                "过往有过外包的⼯作经历"
+            ],
+            "education": [
+                "存在专升本嫌疑的教育经历",
+                "本科经历异常，共读了2年",
+                "教育经历时间有1年以上的间隔"
+            ],
+            "tags": [
+                "外包经历嫌疑",
+                "专升本",
+                "本科学历异常",
+                "教育经历间断"
+            ]
+        }
+    },
+    "cv_name": "90420fc8ac1c8dfc32ff71b8fe0cdf9d.pdf",
+    "ocr_count": 0,
+    "src_id": "",
+    "version": "4.7.0",
+    "cv_language": "zh",
+    "src_site": "other",
+    "file_name": "2022-12-21T10:02:13--c0052bcd7c3051279eb9b0b20c221de8.pdf",
+    "errormessage": "succeed",
+    "cv_id": "",
+    "english_parsing_result": {},
+    "updated_time": "",
+    "applied_job": "",
+    "resume_integrity": 0.745095280377472,
+    "parsing_result": {
+        "project_experience": [
+            {
+                "project_name": "小黄狗智能回收(小程序/App)",
+                "description": "开发环境: IDEA、JDK1.8、Mysql5.5、Maven、Git 、SVN\n技术架构: Spring、Mybatis、SpringBoot 、SpringCloud、Redis、RocketMQ、Nginx 、Kong网关、阿里云\n项目描述: 小黄狗智能回收是小黄狗环保科技有限公司旗下的再生资源科技智能回收平台，目前注册用户量达600万，日活\n约3万，全国铺设回收机柜约8000台。通过在小区、写字楼、酒店、闹市区设立废旧、闲置物品智能回收站，以有偿的方式\n接收市民投放的废纸、塑料、金属、废旧纺织品、玻璃等废弃物，并对接专职的废品回收人员，结合物联网、大数据、人工\n智能识别等高新科技达到整合废品回收生态链的目的，发展社会环保公益事；整体业务分为C端即用户端，B端骑手端（回\n收员等），终端（小区铺放智能机柜）；按业务功能划分微服务大约20个，主要模块有面向用户的C端服务、B端骑手服\n务、支付服务、CMS通知服务、数据墙、订单中心、后台管理、游戏中心、活动中心等。\n项目职责:\n1.负责小黄狗C端上门回收业务下单流程数据库设计接口设计，保证线上程序稳定\n2.负责小黄狗线下交投点业务，与回收机柜终端进行交互\n3.负责小黄狗Activity活动中心服务需求设计，例如: 扫码拉新活动，阶梯投递奖励活动等\n5.对接第三方业务，如: 顺丰，快递鸟等\n4.紧急需求及生产问题排查，客服反馈的用户日常程序问题解决\n6.微信相关业务开发，如: 小程序模板消息通知，公众号消息通知，用户微信登录等\n技术描述:\n1.SpringCloud: 系统分布式架构，注册中心Euraka，服务调用openFeign，ribbon负载均衡\n2.Redis: 实现用户及热点数据缓存；Redis分布式锁，下单接口及库存增减业务并发场景使用，保证数据安全\n3.Sharding-jdbc 对订单表，流水表进行分表，减小数据库读写压力\n4.RocketMq: 服务间异步通知；利用其延迟消息，对骑手开箱回收时间进行阶梯绩效设计\n5.Nginx: 实现服务的反向代理和负载均衡\n6.Kong网关接口白名单管理及鉴权",
+                "end_time_year": "",
+                "still_active": 0,
+                "skills": [
+                    "feign",
+                    "springboot",
+                    "spring",
+                    "idea",
+                    "大数据",
+                    "mysql",
+                    "open",
+                    "ribbon",
+                    "git",
+                    "redis",
+                    "mybatis",
+                    "物联网",
+                    "maven",
+                    "nginx",
+                    "用户端",
+                    "svn",
+                    "缓存",
+                    "jdk",
+                    "架构",
+                    "springcloud",
+                    "数据库",
+                    "客服",
+                    "接口",
+                    "activity",
+                    "数据库设计",
+                    "功能",
+                    "cms",
+                    "rocketmq",
+                    "sharding-jdbc"
+                ],
+                "end_time_month": "",
+                "location": "",
+                "start_time_year": "",
+                "company_name": "",
+                "job_function": "JAVA",
+                "job_title": "",
+                "start_time_month": ""
+            },
+            {
+                "project_name": "阻碳派SaaS系统(小程序)",
+                "description": "开发环境: IDEA、JDK1.8、Mysql5.5、Maven、Git\n技术架构: Spring、MybatisPlus、SpringBoot 、SpringCloud、Redis、MQTT、Nginx 、阿里云\n项目描述: 阻碳派SaaS系统是小黄狗环保科技有限公司旗下专门为线下商铺，大中小型超市等大B端进行垃圾上门回收服\n务，并进行长期合作的一款环保SaaS小程序。该系统主模块分为回收站点端，骑手端，商家端（大B端）。每个回收站点都\n有自己的绑定二维码，商家扫描二维码后，会自动与该回收站点绑定，绑定认证签约通过后，可下单呼叫其绑定站点下的骑\n手进行上门回收服务；骑手回收完成回收后，回把回收物品送到回收站点进行入库；回收站点入库后，可对入库物品分类后\n指派骑手出售给它垃圾回收站。\n项目职责:\n1.从0到1参与项目的整个项目需求讨论及开发过程\n2.阻碳派SaaS系统站点骑手端，商铺端数据库设计；整个商铺下单，骑手接单上门流程设计及开发，保证线上程序稳定\n3.负责阻碳派SaaS系统后台管理模块数据库设计及功能开发，订单统计，库存统计等\n4.负责微信公众号/小程序状态消息提醒功能,微信扫码支付功能\n5.完成组内codeReview，反馈排期；修复测试bug，生产故障定位排查\n技术描述:\n1.SpringCloud: 系统分布式架构，进行微服务架构设计\n2.Redis: 缓存数据库，实现数据缓存；Redission分布式锁对骑手接单场景，入库库存操作场景使用，保证数据安全\n3.MQTT: 实现与客户端消息异步发送，骑手新订单及未处理订单的提醒\n4.Nginx: 实现服务的反向代理和负载均衡\n5.Shiro: 用户身份认证登录及权限验证",
+                "end_time_year": "",
+                "still_active": 0,
+                "skills": [
+                    "缓存",
+                    "saas",
+                    "mybatisplus",
+                    "springboot",
+                    "jdk",
+                    "数据库",
+                    "spring",
+                    "springcloud",
+                    "redis",
+                    "idea",
+                    "架构设计",
+                    "maven",
+                    "nginx",
+                    "git",
+                    "mysql",
+                    "数据库设计",
+                    "架构",
+                    "功能",
+                    "shiro",
+                    "view"
+                ],
+                "end_time_month": "",
+                "location": "",
+                "start_time_year": "",
+                "company_name": "",
+                "job_function": "JAVA",
+                "job_title": "",
+                "start_time_month": ""
+            },
+            {
+                "project_name": "派啦网",
+                "description": "开发环境: IDEA、JDK1.8、Mysql5.7、Maven、Git\n技术架构: Spring、Mybatis、SpringBoot 、SpringCloud、Redis、ActiveMQ、Nginx 、ElasticSearch、Vue\n项目描述: 该项目是一个 B2C 项目模式，经营绿色农业(农副土特产、干货、礼品、休闲小吃)为主产品与服务的综合性购物\n网站， 整个项目分为网上客户前台使用的购物功能平台。管理员所使用的后台管理。系统用户主要分为两大类用户: 网上\n顾客、系统 管理员。 针对两类用户实现的功能: 客户在网站浏览，搜索产品、添加购物车、填写/确认/修改订单、用户注\n册、注销、登陆、 查看/修改 信息。系统管理员—上线产品、修改产品信息、维护用户信息、订单处理，系统维护。模块主\n要划分: 用户模块、 登录模块、购物车模块、商品详情模块、订单模块、后台管理模块、支付模块、库存模块\n项目职责:\n1. 负责项目的下单流程，订单模块数据库设计及业务开发\n2. 购物车模块业务开发，利用cookie存储用户未登录时购物车信息，登录后进行数据合并，并同步缓存Redis hash存储\n3. 负责项目单点登录开发，利用MVC拦截器及自定义注解实现单点登录，redis存储用户登录信息\n4. 测试修复开发过程中出现的 bug\n技术描述:\n1. SpringCloud: Eureka注册中心，feigen远程调用，Ribbon负载均衡，Hystrix限流降级\n2. 通过 cookie 和 Redis + db 组合，实现购物车模块系列功能 ；Redis: 缓存数据库，实现数据缓存\n3. Elasticsearch: 全文搜索，实现商品搜索功能\n4. Nginx: 实现服务的反向代理和负载均衡\n5. FastDFS 文件服务器，实现商品图片上传\n6. activityMq服务间异步通知及消息补偿",
+                "end_time_year": "",
+                "still_active": 0,
+                "skills": [
+                    "springboot",
+                    "redis",
+                    "mysql",
+                    "fastdfs",
+                    "idea",
+                    "系统管理",
+                    "ribbon",
+                    "git",
+                    "hystrix",
+                    "系统维护",
+                    "spring",
+                    "mybatis",
+                    "hash",
+                    "maven",
+                    "nginx",
+                    "cookie",
+                    "activemq",
+                    "缓存",
+                    "vue",
+                    "jdk",
+                    "架构",
+                    "springcloud",
+                    "eureka",
+                    "数据库",
+                    "mvc",
+                    "elasticsearch",
+                    "activity",
+                    "数据库设计",
+                    "功能"
+                ],
+                "end_time_month": "",
+                "location": "",
+                "start_time_year": "",
+                "company_name": "",
+                "job_function": "JAVA",
+                "job_title": "",
+                "start_time_month": ""
+            },
+            {
+                "project_name": "口优才英语",
+                "description": "开发环境: IDEA、JDK1.8、MySQL、Maven、Git\n技术架构: Spring、Mybatis-plus、SpringBoot 、Dubbo、HttpClient、Redis、easyExcel、Vue\n项目描述: 该项目是一个 B2C 模式的在线英语教学系统，分为前台用户系统和后台运营平台。使用了微服务技术架构，前\n后端分离 开发，持久层用的是 MyBatis-Plus，微服务分库设计，使用 Swagger 生成接口文档接入了阿里云视频点播、阿\n里云 OSS。 系统分为前台用户系统和后台管理系统两部分。前台用户系统包括课程、问答、文章。后台管理系统包括: 系\n统管理、内容管理、社群问答、课程管理、消息中心、用户中心、统计分析、系统配置等功能。\n项目职责:\n1. 负责后台课程章节管理\n2. 负责前台课程详情展示模块\n3. 负责前台课程列表模块\n4.负责系统菜单、系统配置模块\n技术描述:\n1. Dubbo服务调度中间件，Zookeeper注册中心\n2. 登录使用了 JWT、三方支付使用的支付宝接口\n3. Nginx: 实现服务的反向代理和负载均衡\n4. 阿里云 OSS、视频点播\n5. Redis 用户信息缓存",
+                "end_time_year": "",
+                "still_active": 0,
+                "skills": [
+                    "接口",
+                    "springboot",
+                    "spring",
+                    "oss",
+                    "zookeeper",
+                    "idea",
+                    "mysql",
+                    "配置",
+                    "dubbo",
+                    "git",
+                    "redis",
+                    "swagger",
+                    "httpclient",
+                    "mybatis-plus",
+                    "运营",
+                    "maven",
+                    "nginx",
+                    "缓存",
+                    "vue",
+                    "jdk",
+                    "架构",
+                    "excel",
+                    "jwt",
+                    "中间件",
+                    "统计分析",
+                    "功能"
+                ],
+                "end_time_month": "",
+                "location": "",
+                "start_time_year": "",
+                "company_name": "",
+                "job_function": "JAVA",
+                "job_title": "",
+                "start_time_month": ""
+            },
+            {
+                "project_name": "集米聚筹",
+                "description": "开发环境: Eclipse、JDK1.7、Tomcat、Mysql、meven、Git\n技术架构: SpringMVC、Spring、Mybatis、SpringSecurity、阿里云 OSS\n项目描述: 该项目是一种为为大众筹资或群众筹资的系统，也是一种团购预购的形式。利用互联网传播的特性，让创业企\n业、艺术 家或个人对公众展示他们的创意及项目，争取大家的关注和支持，进而获得所需要的资金援助。该运作模式: 需\n要资金的个人 或团队将项目策划交给众筹平台，经过相关审核后，便可以在平台的网站上建立属于自己的页面，用来向公\n众介绍项目情况。 该系统有主要构成模块有用户登录模块，用户管理，角色维护，权限维护，实名认证及订单支付模块。\n项目职责:\n1. 负责用户管理模块\n2. 负责角色维护模块\n3. 参与了户登录模块代码编写\n4.其它bug维护\n技术描述:\n1. log4j+Logback 进行日志管理\n2. SpringSecurity: 对权限进行细粒度维护，认证和授权\n3. Nginx: 实现服务的反向代理和负载均衡\n4. SpringSession: 解决 session 一致性问题",
+                "end_time_year": "",
+                "still_active": 0,
+                "skills": [
+                    "git",
+                    "代码编写",
+                    "jdk",
+                    "tomcat",
+                    "nginx",
+                    "springmvc",
+                    "spring",
+                    "oss",
+                    "策划",
+                    "eclipse",
+                    "springsecurity",
+                    "mybatis",
+                    "session",
+                    "mysql",
+                    "springsession",
+                    "架构",
+                    "logback",
+                    "log4j"
+                ],
+                "end_time_month": "",
+                "location": "",
+                "start_time_year": "",
+                "company_name": "",
+                "job_function": "JAVA",
+                "job_title": "",
+                "start_time_month": ""
+            }
+        ],
+        "contact_info": {
+            "phone_number": "15822516730",
+            "QQ": "",
+            "wechat": "",
+            "email": "lihaoji1994@163.com",
+            "home_phone_number": ""
+        },
+        "social_experience": [],
+        "education_experience": [
+            {
+                "ranking": "",
+                "major": "计算机信息管理",
+                "degree": "本科",
+                "end_time_year": "2022",
+                "still_active": 1,
+                "school_rank": "47",
+                "school_level": "211",
+                "end_time_month": "12",
+                "school_name": "北京邮电大学",
+                "abroad_country": "",
+                "GPA": "",
+                "courses": "",
+                "start_time_year": "2020",
+                "location": "北京",
+                "department": "",
+                "study_model": "",
+                "abroad": 0,
+                "start_time_month": "04"
+            },
+            {
+                "ranking": "",
+                "major": "机械制造与自动化",
+                "degree": "大专",
+                "end_time_year": "2016",
+                "still_active": 0,
+                "school_rank": "",
+                "school_level": "",
+                "end_time_month": "06",
+                "school_name": "天津职业大学",
+                "abroad_country": "",
+                "GPA": "",
+                "courses": "",
+                "start_time_year": "2013",
+                "location": "中国 天津",
+                "department": "",
+                "study_model": "",
+                "abroad": 0,
+                "start_time_month": "09"
+            }
+        ],
+        "basic_info": {
+            "major": "计算机信息管理",
+            "expect_location": "",
+            "current_salary": "",
+            "current_location_norm": "",
+            "current_location": "",
+            "expect_location_norm": "",
+            "desired_salary": "",
+            "birthplace": "山西阳泉",
+            "degree": "本科",
+            "desired_industry": "",
+            "desired_position": "",
+            "zipcode": "",
+            "professional_level": "高级",
+            "national_identity_number": "",
+            "date_of_birth": "1994",
+            "birthplace_norm": "中国-山西-阳泉",
+            "num_work_experience": 7,
+            "current_position": "Java开发工程师",
+            "work_start_year": "2016",
+            "political_status": "",
+            "current_company": "小黄狗环保科技有限公司",
+            "school_name": "北京邮电大学",
+            "ethnic": "汉族",
+            "recent_graduate_year": "2022",
+            "name": "李浩吉",
+            "lastupdate_time": "2022-12-21-10-02-14",
+            "gender": "男",
+            "age": 28,
+            "marital_status": "",
+            "current_status": "",
+            "school_type": "211",
+            "detailed_location": "",
+            "industry": ""
+        },
+        "training_experience": [],
+        "work_experience": [
+            {
+                "salary": "",
+                "description": "",
+                "end_time_year": "2022",
+                "still_active": 1,
+                "skills": [
+                    "java开发"
+                ],
+                "company_type": "",
+                "industry": "互联网/软件",
+                "end_time_month": "12",
+                "location": "",
+                "company_size": "",
+                "job_function": "软件/互联网开发/系统集成",
+                "start_time_year": "2019",
+                "company_name": "小黄狗环保科技有限公司",
+                "report_to": "",
+                "department": "",
+                "underling_num": "",
+                "job_title": "Java开发工程师",
+                "start_time_month": "11"
+            },
+            {
+                "salary": "",
+                "description": "",
+                "end_time_year": "2019",
+                "still_active": 0,
+                "skills": [
+                    "java开发"
+                ],
+                "company_type": "",
+                "industry": "软件外包",
+                "end_time_month": "10",
+                "location": "",
+                "company_size": "",
+                "job_function": "软件/互联网开发/系统集成",
+                "start_time_year": "2017",
+                "company_name": "软通动力信息技术有限公司",
+                "report_to": "",
+                "department": "",
+                "underling_num": "",
+                "job_title": "Java开发工程师",
+                "start_time_month": "08"
+            },
+            {
+                "salary": "",
+                "description": "",
+                "end_time_year": "2017",
+                "still_active": 0,
+                "skills": [
+                    "java开发"
+                ],
+                "company_type": "",
+                "industry": "互联网/软件",
+                "end_time_month": "08",
+                "location": "",
+                "company_size": "",
+                "job_function": "软件/互联网开发/系统集成",
+                "start_time_year": "2016",
+                "company_name": "北京中宝世纪科技有限公司",
+                "report_to": "",
+                "department": "",
+                "underling_num": "",
+                "job_title": "Java开发工程师",
+                "start_time_month": "07"
+            }
+        ],
+        "others": {
+            "language": [
+                "英语"
+            ],
+            "certificate": [],
+            "skills": [
+                "App",
+                "Jvm",
+                "Oss",
+                "Jdk",
+                "Cms",
+                "Nio",
+                "Git",
+                "SQL",
+                "Svn",
+                "Vue",
+                "Jwt",
+                "MVC",
+                "Jdbc",
+                "Java",
+                "Idea",
+                "Open",
+                "Saas",
+                "Hash",
+                "View",
+                "Feign",
+                "Redis",
+                "Linux",
+                "Nginx",
+                "netty",
+                "Excel",
+                "Dubbo",
+                "MySQL",
+                "Log4J",
+                "shiro",
+                "Mycat",
+                "Maven",
+                "策划",
+                "配置",
+                "运营",
+                "缓存",
+                "功能",
+                "优化",
+                "接口",
+                "Spring",
+                "Ribbon",
+                "线程",
+                "Cookie",
+                "架构",
+                "Tomcat",
+                "Eureka",
+                "客服",
+                "Fastdfs",
+                "Session",
+                "Logback",
+                "Mybatis",
+                "swagger",
+                "Eclipse",
+                "Hystrix",
+                "Activemq",
+                "Activity",
+                "rocketmq",
+                "用户端",
+                "物联网",
+                "多线程",
+                "中间件",
+                "数据库",
+                "springmvc",
+                "Zookeeper",
+                "大数据",
+                "Springboot",
+                "Java开发",
+                "httpclient",
+                "Mybatisplus",
+                "springcloud",
+                "代码编写",
+                "Sql数据库",
+                "Mybatis-Plus",
+                "信息技术",
+                "系统管理",
+                "数据结构",
+                "架构设计",
+                "机械制造",
+                "系统维护",
+                "沟通能力",
+                "统计分析",
+                "Sharding-Jdbc",
+                "Springsession",
+                "Elasticsearch",
+                "Mysql数据库",
+                "springsecurity",
+                "数据库设计"
+            ],
+            "self_evaluation": "1. 沟通能力强，思路清晰，有优秀的理解与判断能力，善于挖掘及整理用户需求\n2. 对待工作心细胆大，尽职尽责，喜欢从事有挑战性的工作\n3. 学习能力较强，对新技术有着强烈的求知欲望\n4. 有较强的抗压能力，可以应对高强度的加班",
+            "awards": [],
+            "it_skills": [
+                "SQL",
+                "MVC",
+                "Java",
+                "netty",
+                "Excel",
+                "MySQL",
+                "shiro",
+                "Maven",
+                "swagger",
+                "rocketmq",
+                "springmvc",
+                "Java开发",
+                "httpclient",
+                "springcloud",
+                "springsecurity"
+            ],
+            "business_skills": [
+                "Excel"
+            ]
+        },
+        "resume_rawtext": ""
+    },
+    "avatar_url": "",
+    "client_id": "",
+    "file_ext": "pdf",
+    "errorcode": 0,
+    "avatar_data": "",
+    "hash_id": "90420fc8ac1c8dfc32ff71b8fe0cdf9d"
+}

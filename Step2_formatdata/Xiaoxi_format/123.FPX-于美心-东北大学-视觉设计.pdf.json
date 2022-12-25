@@ -1,0 +1,55 @@
+{
+    "fullName": "",
+    "contacts": [],
+    "experiences": [
+        {
+            "description": "优化可视化的人头数据以提高数据的清晰度，为可穿戴设备\n的设计提供帮助\nDESIGN TOOLS\nVisual Design & Motion Graphics\nAR超能学院手绘本项目-小组获奖",
+            "companyName": "摄影&手绘"
+        },
+        {
+            "description": "深圳实习，中国16. 2016一7.2016 Premie\nre, After Effects\n带领4人小组完成公司分配的项目并展示最终结果\nInteraction Design\nHtml5/CSS/JavaScript, Brackets,\n设计的AR图画书，通过儿童涂鸦与拼图游戏结合\nP5,js, Processing, Arduinc\n再由AR技术展示出来，帮助儿童扩大想象力\nIndustrial Design\nRhinoceros,UG,Keyshot\n新媒体部UI/UX Designer-实习\nGame Design\n长沙风和丽日广告有限公司，中国 17.\n2016一8.2016 Unity 团队制作办公的墙绘项目\nData Processing\nArtec, Geomagic Studio, SPSS\n独立负责“云壹”餐厅七夕节整套VI设计，包括logo\n海报，宣传册，餐垫等\nRECOGNITION",
+            "companyName": "Illustrator, Photoshop, InDesign,",
+            "title": "Interaction Design",
+            "startDate": "2016-00-01",
+            "endDate": "2016-07-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "SPSS"
+        },
+        {
+            "skillName": "Unity"
+        },
+        {
+            "skillName": "HTML5"
+        },
+        {
+            "skillName": "摄影"
+        },
+        {
+            "skillName": "手绘"
+        },
+        {
+            "skillName": "Keyshot"
+        },
+        {
+            "skillName": "Designer"
+        },
+        {
+            "skillName": "Indesign"
+        },
+        {
+            "skillName": "Photoshop"
+        },
+        {
+            "skillName": "JavaScript"
+        },
+        {
+            "skillName": "Illustrator"
+        },
+        {
+            "skillName": "After Effects"
+        }
+    ]
+}

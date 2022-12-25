@@ -1,0 +1,180 @@
+{
+    "certifications": [],
+    "dateOfBirth": null,
+    "education": [
+        {
+            "id": 8038874,
+            "organization": "武汉学院",
+            "accreditation": {
+                "education": "英语 ( 本科 )",
+                "educationLevel": null,
+                "inputStr": "英语 ( 本科 )",
+                "matchStr": ""
+            },
+            "grade": null,
+            "location": null,
+            "dates": {
+                "startDate": "2019-09-01",
+                "completionDate": "2023-06-01",
+                "isCurrent": true
+            }
+        }
+    ],
+    "emails": [
+        "2386682293@qq.com"
+    ],
+    "location": {
+        "formatted": "Jiangxia District, Wuhan, Hubei, China",
+        "streetNumber": null,
+        "street": null,
+        "apartmentNumber": null,
+        "city": "Wuhan",
+        "postalCode": null,
+        "state": "Hubei",
+        "country": "China",
+        "rawInput": "湖北省武汉市江夏区",
+        "countryCode": "CN"
+    },
+    "name": {
+        "raw": "",
+        "last": "",
+        "first": "",
+        "title": "",
+        "middle": ""
+    },
+    "objective": "",
+    "phoneNumbers": [
+        "+8618934661537",
+        "+862386682293"
+    ],
+    "publications": [],
+    "referees": [],
+    "sections": [
+        {
+            "sectionType": "PersonalDetails",
+            "bbox": [
+                38.751,
+                100.74548,
+                328.90298,
+                208.62994
+            ],
+            "pageIndex": 0,
+            "text": "基本信息 姓名:刘清扬 民 族:汉 联系电话 : 18934661537 邮 箱 : 2386682293@qq.com 现居地址 : 湖北省武汉市江夏区 出生年月 : 2002.05 身 高 : 164cm 政治面貌 : 团员 毕业院校 : 武汉学院"
+        },
+        {
+            "sectionType": "Education",
+            "bbox": [
+                38.7205,
+                198.24548,
+                552.1635,
+                317.22546
+            ],
+            "pageIndex": 0,
+            "text": "学历:本科 教育背景 2019.9-2023.06 武汉学院 英语 ( 本科 ) 主修课程 : 高级英语、 英美文学概况、 IT英语翻译、 商务翻译、 英汉文化比较与翻译、 同声传译、 高级口译、 英 语语言学、 第二外语 ( 日 )"
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                39.671,
+                394.02603,
+                332.171,
+                590.79004
+            ],
+            "pageIndex": 0,
+            "text": "2020.07-2020.8 疫情志愿者  : ;  秩序维护 : 通过现场人群的引流和疏导 , 降低疫情蔓延风险 , 2021.08-2021.09 树人教育 英语教师  负责教导小升初的小朋友英语。  负责课程编排、 2019.9-2019.10 校园志愿者服务队 ( 小麦苗服务队 ) "
+        },
+        {
+            "sectionType": "Training/Certifications",
+            "bbox": [
+                38.668,
+                645.6855,
+                436.19202,
+                717.595
+            ],
+            "pageIndex": 0,
+            "text": "技能证书 大学英语四/六级 ( CET-4/6 ) , 良好的听说读写能力 , 快速浏览英语专业文件及书籍 ; 通过全国计算机一级考试 , 熟练运用office、 word相关软件 ; 普通话乙等。"
+        },
+        {
+            "sectionType": "Summary",
+            "bbox": [
+                39.345499992370605,
+                752.5865030288696,
+                553.60406,
+                787.0895
+            ],
+            "pageIndex": 0,
+            "text": "自我评价 关注社会时事与流行 , 对社会热点问题有一定的敏锐度 ; 有较好的语言组织能力与逻辑思维 ; 工作负责 , 能够认 真对待工作任务并即时提交 ; 有较强的学习能力 , 对待陌生领域有积极求知与探索精神。"
+        }
+    ],
+    "skills": [],
+    "languages": [
+        "Chinese"
+    ],
+    "summary": "关注社会时事与流行 , 对社会热点问题有一定的敏锐度 ; 有较好的语言组织能力与逻辑思维 ; 工作负责 , 能够认 真对待工作任务并即时提交 ; 有较强的学习能力 , 对待陌生领域有积极求知与探索精神。",
+    "websites": [],
+    "linkedin": null,
+    "totalYearsExperience": 0,
+    "profession": null,
+    "workExperience": [
+        {
+            "id": 15083502,
+            "jobTitle": "疫情志愿者",
+            "organization": null,
+            "location": null,
+            "dates": {
+                "startDate": "2020-07-01",
+                "endDate": "2020-08-01",
+                "monthsInPosition": 1,
+                "isCurrent": false
+            },
+            "jobDescription": " : ;  秩序维护 : 通过现场人群的引流和疏导 , 降低疫情蔓延风险 , ",
+            "occupation": {
+                "jobTitle": "疫情志愿者",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        },
+        {
+            "id": 15083503,
+            "jobTitle": "英语教师",
+            "organization": "树人教育",
+            "location": null,
+            "dates": {
+                "startDate": "2021-08-01",
+                "endDate": "2021-09-01",
+                "monthsInPosition": 1,
+                "isCurrent": false
+            },
+            "jobDescription": " 负责教导小升初的小朋友英语。  负责课程编排、 ",
+            "occupation": {
+                "jobTitle": "英语教师",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        },
+        {
+            "id": 15083504,
+            "jobTitle": "",
+            "organization": "校园志愿者服务队 ( 小麦苗服务队",
+            "location": null,
+            "dates": {
+                "startDate": "2019-09-01",
+                "endDate": "2019-10-01",
+                "monthsInPosition": 1,
+                "isCurrent": false
+            },
+            "jobDescription": " ",
+            "occupation": {
+                "jobTitle": "",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        }
+    ],
+    "headShot": "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",
+    "isResumeProbability": 65,
+    "rawText": "基本信息 姓名:刘清扬 民 族:汉 联系电话 : 18934661537 邮 箱 : 2386682293@qq.com 现居地址 : 湖北省武汉市江夏区 出生年月 : 2002.05 身 高 : 164cm 政治面貌 : 团员 毕业院校 : 武汉学院\n学历:本科 教育背景 2019.9-2023.06 武汉学院 英语 ( 本科 ) 主修课程 : 高级英语、 英美文学概况、 IT英语翻译、 商务翻译、 英汉文化比较与翻译、 同声传译、 高级口译、 英 语语言学、 第二外语 ( 日 )\n2020.07-2020.8 疫情志愿者  : ;  秩序维护 : 通过现场人群的引流和疏导 , 降低疫情蔓延风险 , 2021.08-2021.09 树人教育 英语教师  负责教导小升初的小朋友英语。  负责课程编排、 2019.9-2019.10 校园志愿者服务队 ( 小麦苗服务队 ) \n技能证书 大学英语四/六级 ( CET-4/6 ) , 良好的听说读写能力 , 快速浏览英语专业文件及书籍 ; 通过全国计算机一级考试 , 熟练运用office、 word相关软件 ; 普通话乙等。\n自我评价 关注社会时事与流行 , 对社会热点问题有一定的敏锐度 ; 有较好的语言组织能力与逻辑思维 ; 工作负责 , 能够认 真对待工作任务并即时提交 ; 有较强的学习能力 , 对待陌生领域有积极求知与探索精神。"
+}

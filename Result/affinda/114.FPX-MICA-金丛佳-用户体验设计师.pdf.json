@@ -1,0 +1,40 @@
+{
+    "all": 50,
+    "important": 42,
+    "desc": 8,
+    "correct_important": 28,
+    "correct_desc": 0,
+    "additional": 1,
+    "important_keys": {
+        "educations.0.majorName": false,
+        "educations.1.majorName": false,
+        "experiences.5.companyName": false,
+        "experiences.5.endDate": false,
+        "experiences.5.title": false,
+        "experiences.6.companyName": false,
+        "experiences.6.title": false,
+        "experiences.7.companyName": false,
+        "experiences.7.title": false,
+        "skills.0.skillName": false,
+        "skills.1.skillName": false,
+        "skills.2.skillName": false,
+        "skills.3.skillName": false,
+        "skills.4.skillName": false
+    },
+    "unimportant_keys": {
+        "experiences.0.description": false,
+        "experiences.1.description": false,
+        "experiences.2.description": false,
+        "experiences.3.description": false,
+        "experiences.4.description": false,
+        "experiences.5.description": false,
+        "experiences.6.description": false,
+        "experiences.7.description": false
+    },
+    "addition_info_count": 1,
+    "addition_info": {
+        "languages": [
+            "ENGLISH"
+        ]
+    }
+}

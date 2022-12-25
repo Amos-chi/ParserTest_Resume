@@ -7,11 +7,11 @@ proxies = {
     'https': 'http://127.0.0.1:4780'
 }
 
-def getResult(file):
+def getResult(type_,file):
     print(f'处理 {file}中..')
     target_dir = 'aaformat'
-    step2_dir = 'Step2_formatdata\hitalent_format'
-    #step2_dir = 'Step2_formatdata\ResumeSDK_format'
+    #step2_dir = 'Step2_formatdata\hitalent_format'
+    step2_dir = f'Step2_formatdata\{type_}_format'
     url = 'http://127.0.0.1:5000/parser/v3/resume/assert_resume'
 
 
@@ -29,8 +29,8 @@ def getResult(file):
         del data['important_keys'][k]
 
     #print(json.dumps(data,indent=4))
-    #f = open(fr'Result\resumeSDK\{file}','w', encoding='utf-8')
-    f = open(fr'Result\hitalent\{file}','w', encoding='utf-8')
+    f = open(fr'Result\{type_}\{file}','w', encoding='utf-8')
+    #f = open(fr'Result\hitalent\{file}','w', encoding='utf-8')
     f.write(json.dumps(data,indent=4,ensure_ascii=False))
     #print(json.dumps(data,indent=4))
 
@@ -43,9 +43,9 @@ if __name__ == '__main__':
     # files = os.listdir('aaformat')
     # for file in files:
     #     try:
-    #         getResult(file)
+    #         getResult('affinda',file)
     #     except Exception as e:
     #         print(f'------------------------ {file} error!!!')
 
-
-    getResult('【java开发_武汉】王俊港 3年.pdf.json')
+    # hitalent resumeSDK xiaoxi affinda
+    getResult('affinda','Teddy Nsai AWS Resume .docx.json')

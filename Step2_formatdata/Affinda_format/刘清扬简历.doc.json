@@ -1,0 +1,55 @@
+{
+    "fullName": "  ",
+    "contacts": [
+        {
+            "contact": "2386682293@qq.com",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "+8618934661537",
+            "type": "PHONE"
+        },
+        {
+            "contact": "+862386682293",
+            "type": "PHONE"
+        }
+    ],
+    "currentLocation": [
+        {
+            "location": "Jiangxia District, Wuhan, Hubei, China"
+        }
+    ],
+    "languages": [
+        "Chinese"
+    ],
+    "educations": [
+        {
+            "startDate": "2019-09-01",
+            "endDate": "2023-06-01",
+            "current": true,
+            "collegeName": "武汉学院",
+            "majorName": "英语 ( 本科 )"
+        }
+    ],
+    "experiences": [
+        {
+            "description": " : ;  秩序维护 : 通过现场人群的引流和疏导 , 降低疫情蔓延风险 , ",
+            "title": "疫情志愿者",
+            "startDate": "2020-07-01",
+            "endDate": "2020-08-01"
+        },
+        {
+            "description": " 负责教导小升初的小朋友英语。  负责课程编排、 ",
+            "companyName": "树人教育",
+            "title": "英语教师",
+            "startDate": "2021-08-01",
+            "endDate": "2021-09-01"
+        },
+        {
+            "description": " ",
+            "companyName": "校园志愿者服务队 ( 小麦苗服务队",
+            "startDate": "2019-09-01",
+            "endDate": "2019-10-01"
+        }
+    ]
+}

@@ -18,7 +18,9 @@
             "type": "WECHAT"
         }
     ],
-    "location": "武汉市",
+    "currentLocation": {
+        "location": "武汉市"
+    },
     "educations": [
         {
             "startDate": "2019.09",

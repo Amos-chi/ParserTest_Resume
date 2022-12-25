@@ -1,0 +1,163 @@
+{
+    "fullName": "Kuan  Liu",
+    "contacts": [
+        {
+            "contact": "alan1997liu@berkeley.edu",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "+17143193123",
+            "type": "PHONE"
+        }
+    ],
+    "currentLocation": [
+        {
+            "location": "Fullerton, CA 92835, USA"
+        }
+    ],
+    "languages": [
+        "English",
+        "Mandarin"
+    ],
+    "educations": [
+        {
+            "startDate": "2020-09-01",
+            "endDate": "2022-06-01",
+            "collegeName": "Stanford University",
+            "majorName": "M.S ., Materials Science and Engineering"
+        },
+        {
+            "endDate": "2019-12-01",
+            "collegeName": "University of California, Berkeley",
+            "majorName": "B.S ., Chemical Engineering Minor: Materials Science & Engineering"
+        }
+    ],
+    "experiences": [
+        {
+            "description": " Leveraged Python computer vision and deep learning modules to extract information from piping and instrumentation diagrams (P&IDs) as part of a team of three interns. \n·Provided a P&ID UI feature for the gas turbine human-machine interface using JavaScript, HTML, and CSS. ",
+            "companyName": "SOLAR TURBINES",
+            "title": "Software Engineering Assistant",
+            "startDate": "2020-06-01",
+            "endDate": "2020-08-01"
+        },
+        {
+            "description": " Implemented thermodynamic equilibrium calculations in MATLAB for predicting ternary phase diagrams of salt hydrate systems. \n·Investigated methods for synthesizing novel salt hydrate materials. ",
+            "companyName": "National Renewable Energy Laboratory",
+            "title": "Engineering Materials Intern",
+            "startDate": "2020-01-01",
+            "endDate": "2020-05-01"
+        },
+        {
+            "description": ". Saved 78 engineering hours and $8,500 per turbine project by developing a Python & Java program that automatically determines optimal gas detector placements in turbine packages \n·Implemented the automation program using CFD data, CAD and optimization algorithms. \n·Conducted training on how to use the program to CFD engineers within the department. ",
+            "companyName": "SOLAR TURBINES",
+            "title": "Engineering Assistant",
+            "startDate": "2019-05-01",
+            "endDate": "2019-08-01"
+        },
+        {
+            "description": " Developed Python and Bash programs to automatically calculate energies of perovskite materials with DFT. ",
+            "companyName": "Mark Asta Computational Materials Science Research Group",
+            "title": "Undergraduate Research Assistant",
+            "startDate": "2018-07-01",
+            "endDate": "2019-05-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "Software Engineering"
+        },
+        {
+            "skillName": "Comsol Multiphysics"
+        },
+        {
+            "skillName": "Bash (Scripting Language)"
+        },
+        {
+            "skillName": "Thermodynamics"
+        },
+        {
+            "skillName": "SolidWorks (CAD)"
+        },
+        {
+            "skillName": "Undergraduate Research"
+        },
+        {
+            "skillName": "Java (Programming Language)"
+        },
+        {
+            "skillName": "Chemistry"
+        },
+        {
+            "skillName": "Chromatography"
+        },
+        {
+            "skillName": "Data Science"
+        },
+        {
+            "skillName": "Mass Spectrometry"
+        },
+        {
+            "skillName": "Computer Vision"
+        },
+        {
+            "skillName": "MATLAB"
+        },
+        {
+            "skillName": "JavaScript (Programming Language)"
+        },
+        {
+            "skillName": "Instrumentation"
+        },
+        {
+            "skillName": "Renewable Energy"
+        },
+        {
+            "skillName": "Storage Area Network (SAN)"
+        },
+        {
+            "skillName": "Materials Science"
+        },
+        {
+            "skillName": "Cascading Style Sheets (CSS)"
+        },
+        {
+            "skillName": "Automation"
+        },
+        {
+            "skillName": "HyperText Markup Language (HTML)"
+        },
+        {
+            "skillName": "Research"
+        },
+        {
+            "skillName": "Python (Programming Language)"
+        },
+        {
+            "skillName": "Deep Learning"
+        },
+        {
+            "skillName": "Research Experiences"
+        },
+        {
+            "skillName": "Turbines"
+        },
+        {
+            "skillName": "Spectrometry"
+        },
+        {
+            "skillName": "Fusion 360 (CAD Software)"
+        },
+        {
+            "skillName": "Gas Chromatography"
+        },
+        {
+            "skillName": "Calculations"
+        },
+        {
+            "skillName": "Gas Detector"
+        },
+        {
+            "skillName": "Gas Turbine"
+        }
+    ]
+}

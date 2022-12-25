@@ -1,0 +1,454 @@
+{
+    "status": {
+        "message": "success",
+        "code": 200
+    },
+    "result": {
+        "cont_job_skill": "1.  掌握JavaSE基础知识,OOP面向对象和AOP面向切面,熟悉设计模式、反射、泛型、自定义注解。\n2.  熟练运用Spring、Mybatis、SpringMVC、SpringBoot等优秀的开源框架,熟悉Spring的IOC、AOP设计思想。\n3.  熟悉RabbitMq、SpringSecurity、Oauth2.0技术设计、实现RBAC权限控制,资源安全性。\n4.  掌握数据库Mysql、Redis的使用,能编写常用的sql语句,使用Redis作缓存\n5.  熟练掌握 SpringCould 分布式架构,Nacos、Hystrix、Ribbon、OpenFeign、Gateway等。\n6.  掌握 Ngnix 反向代理服务器,结合 Docker、Linux 实现服务的负载均衡、动静分离。\n7.  熟悉使用 Redis 数据库,集群,持久化方案(RDB、AOF),缓存删除、淘汰策略(LFU、LRU)。\n8.  熟练使用Docker、Git常用命令,可快速完成项目结构的搭建工作,代码管理。\n9.  掌握以 Nacos 为注册中心、结合 Ribbon 负载均衡、Feign 远程调用搭建微服务框架。\n10. 熟练使用Docker、Git常用命令,可快速完成项目结构的搭建工作,代码管理。\n11. 掌握Elasticsearch、FastDFS技术、可实现文件协调管理,资源导入、搜索引擎功能。\n12. 掌握以 Gateway 为微服务网关、结合 Redis、OAuth 2.0 组件、JWT 技术实现资源拦截和访问\n13. 掌握XML、HTML、CSS、Jquery、JavaScript、AJAX技术,具备Layui、Vue框架使用功底。",
+        "surname": "王",
+        "social_exp_objs": [],
+        "college": "三峡大学科技学院",
+        "all_cert_objs": [],
+        "resume_type": "0",
+        "cont_my_desc": "做事情追求完美,寻求效率化,具有良好的职业操守及团队合作精神,能快速融入团队;\n热爱编程,对新技术充满兴趣,能够快速学习新技术并且很快应用于实际工作中。\n具有很强的团队精神,乐于与同事、领导和客户沟通,有强烈的集体荣誉感、责任心,积极上进。",
+        "cert_objs": [],
+        "skills_objs": [
+            {
+                "skills_level": "掌握",
+                "skills_name": "JavaSE"
+            },
+            {
+                "skills_level": "掌握",
+                "skills_name": "OOP"
+            },
+            {
+                "skills_level": "掌握",
+                "skills_name": "面向对象"
+            },
+            {
+                "skills_level": "掌握",
+                "skills_name": "设计模式"
+            },
+            {
+                "skills_level": "熟练",
+                "skills_name": "Spring"
+            },
+            {
+                "skills_level": "熟练",
+                "skills_name": "Mybatis"
+            },
+            {
+                "skills_level": "熟练",
+                "skills_name": "SpringMVC"
+            },
+            {
+                "skills_level": "熟悉",
+                "skills_name": "RabbitMq"
+            },
+            {
+                "skills_level": "掌握",
+                "skills_name": "数据库"
+            },
+            {
+                "skills_level": "掌握",
+                "skills_name": "Mysql"
+            },
+            {
+                "skills_level": "掌握",
+                "skills_name": "Redis"
+            },
+            {
+                "skills_level": "掌握",
+                "skills_name": "sql"
+            },
+            {
+                "skills_level": "熟练",
+                "skills_name": "分布式"
+            },
+            {
+                "skills_level": "掌握",
+                "skills_name": "Docker"
+            },
+            {
+                "skills_level": "掌握",
+                "skills_name": "Linux"
+            },
+            {
+                "skills_level": "掌握",
+                "skills_name": "负载均衡"
+            },
+            {
+                "skills_level": "熟练",
+                "skills_name": "Git"
+            },
+            {
+                "skills_level": "掌握",
+                "skills_name": "Elasticsearch"
+            },
+            {
+                "skills_level": "掌握",
+                "skills_name": "XML"
+            },
+            {
+                "skills_level": "掌握",
+                "skills_name": "HTML"
+            },
+            {
+                "skills_level": "掌握",
+                "skills_name": "CSS"
+            },
+            {
+                "skills_level": "掌握",
+                "skills_name": "Jquery"
+            },
+            {
+                "skills_level": "掌握",
+                "skills_name": "JavaScript"
+            },
+            {
+                "skills_level": "掌握",
+                "skills_name": "AJAX"
+            },
+            {
+                "skills_level": "掌握",
+                "skills_name": "Vue"
+            }
+        ],
+        "education_objs": [
+            {
+                "edu_college": "三峡大学科技学院",
+                "end_date": "2019.07",
+                "edu_degree": "本科",
+                "edu_degree_norm": "本科",
+                "edu_college_type": "0",
+                "start_date": "2015.09"
+            }
+        ],
+        "resume_integrity": "52",
+        "expect_jlocation": "深圳市",
+        "training_objs": [],
+        "cont_basic_info": "个人信息\n姓   名: 王俊港              性    别: 男\n年    龄: 25                       学    历: 本科\n籍    贯: 湖北黄冈                       联系电话: 18071807610\n电子邮件: 18071807610@163.com    工作年限: 3年\n意向城市: 武汉            求职岗位: java开发工程师",
+        "email": "18071807610@163.com",
+        "lang_objs": [],
+        "grad_time": "2019.07",
+        "degree": "本科",
+        "proj_exp_objs": [
+            {
+                "proj_resp": "责任描述:\n参与项目的需求分析,制定项目周期计划,确定技术选型方案;\n参与项目结构设计,划分功能模块归属;\n负责编写并优化商品订单模块、会员模块并测试\n与同事进行技术难点探讨、修改Bug及部分模块功能测试;",
+                "proj_name": "智惠商城",
+                "start_date": "2022.01",
+                "end_date": "2022.09",
+                "proj_content": "项目描述:智惠商城是以B2C模式运营的在线商城,总览企业及公司产品于一体,主打自主研发品牌以推广的互联网化新商城。\n系统采用的微服务架构模式,以功能模块划分,前台系统主要功能包括用户登录,商品收藏,评论展示,我的订单,我的购物车,订\n单支付,会员系统等系统。后台主要功能包括,商品管理,商品分类管理,消息管理,订单管理,商品评价管理,日志系统管理,服\n务监控系统等。\n开发工具:JDK1.8,IDEA,Maven,GitLab,Tomcat,Linux,Postman,Navicat\n技术选型:    WeChat+Alipay\n技术描述:\n1.  项目的微服务基于SpringBoot、SpringCloud构建的,采用前后端分离开发。前后端的数据交流采用json数据格式;\n2.  接口采用RestFul风格设计并且使用SwaggerUI做接口文档;\n3.  使用Nacos集群搭建注册中心,完成服务的注册和发现/并且作为项目的配置文件中心,使得服务和配置文件集中化管\n理和复用;\n4. 采用新一代网关Gateway结合注册中心完成请求动态路由,使用全局过滤器完成token的校验,ip黑名单,结合Redis\n做限流操作;\n5. 在项目授权中使用Oauth2.0整合jwt非对称加密做项目应用的授权,抽象common模块完成资源服务器的统一解析\n工作,并且将jwt存入redis,整合网关做业务登出功能,增强系统的安全性;\n6. 使用spring-admin作为服务解控组件,实时监控服务状态,当服务出现问题,可以邮件发送给维护人员,及时解决问\n题;\n7. 在完成图片上传功能的实现时,为了减轻服务器的压力,采用FastDFS将图片保存到单独一个图片服务器上;\n8. 使用递归加载菜单,并且将菜单数据存入Redis,提高用户体验;\n9. 自定义日志注解,将用户操作日志,通过AOP等技术,记录到Elasticseach中,定期做日志分析,发现用户操作习惯\n以及接口响应速度瓶颈,并且做定期优化;\n10. 服务间采用OpenFeign+Hystrix完成远程调用和熔断方案;\n11. 采用Elasticseach做为项目所有引擎,完成模糊查询,分页,排序,高亮等复杂查询;\n12. 采用窗口滑动模型完成生产环境中商品修改的增量导入功能\n13. 采用延迟队列完成用户下单后超时未支付,商品库存回滚等功能"
+            },
+            {
+                "proj_resp": "责任描述:\n参与项目的需求分析和周期计划安排;\n参与功能设计与实现,主要负责模块有员工管理接口、部门管理接口。",
+                "proj_name": "智惠积分软件",
+                "start_date": "2021.05",
+                "end_date": "2022.01",
+                "proj_content": "开发工具:JDK1.8,IDEA,Maven,GitLab,Tomcat,Postman,Navicat\n技术选型:\n项目描述:该软件开发项目管理的积分制是一种软件开发项目的绩效管理模式,以项目利润、客户满意度、项目质量、创新等为\nKPI指标,将积分与员工福利奖金、晋升、荣誉等捆绑以此来调动员工的积极性。项目在技术方面采用最主流的前后端分离开发模式,\n使用vue框架来构建前端,使用springboot构建后台。\n技术描述:\n1. 项目使用了vue框架构建前端。\n2. 在浏览器端主要采用axios处理客户端逻辑以及发送异步请求并实现了系统界面。\n3. 持久层使用了MyBatis框架进行对数据库持久层数据的操作。\n4. 在统计表使用了 Echarts 的漏斗图。\n5. 在表单中使用了数据字典,并将数据字典保存到服务器缓存中。"
+            },
+            {
+                "proj_resp": "责任描述:\n产品管理模块,主要包括旅游产品添加,分页查询等\n订单模块,主要包括订单的分页查询,订单详情页面查询等\nAOP日志的实现,将用户访问的详情记录在日志",
+                "proj_name": "慧订旅游",
+                "start_date": "2020.07",
+                "end_date": "2021.03",
+                "proj_content": "开发工具:JDK1.8,IDEA,Maven,Gitee,Tomcat,Postman,Navicat\n技术选型:Spring + MyBatis + SpringMVC + MySQL +Maven+Git+Redis+Jsp +FastDFS\n项目描述:慧订旅游是一个致力于提供消费者进行网上选择旅游商品的平台。本项目主要分为前台和后台两个大的服务工程,前\n台主要包括用户的登录注册模块、旅游分类展示的模块、旅游线路的分页展示、旅游线路详情和线路收藏的模块。后台管理模块包括\n旅游产品管理模块、订单管理模块、用户管理、权限管理等模块。\n技术描述:\n1. 本项目采用maven项目管理工具,使用主流SSM框架实现\n2. 产品的分页查询使用PageHelper插件,在Service层实现\n3. 用户登录模块使用了强大的spring security框架,进行权限的控制,采用redis快速登录\n4. 旅游图片的管理采用开源的FastDFS,减轻服务器压力。\n5. 通过spring中配置切面,将日志功能实现"
+            },
+            {
+                "proj_resp": "责任描述:\n参与项目架分析设计,负责创建商品信息服务、入库管理服务、出库管理服务核心模块开发。",
+                "proj_name": "慧订销售库存管理软件",
+                "start_date": "2019.10",
+                "end_date": "2020.07",
+                "proj_content": "开发工具:JDK1.8,IDEA,Maven,Gitee,Tomcat,Postman,Navicat\n技术选型:Springmvc + Spring + Mybaits + Lay-ui + POI + Thymeleaf + JavaMail\n项目描述:Web应用程序,采用smm框架,功能包含采购、库存、销售三个主要部分,支持条形码管理,Excel表导出,丰富的\n导入、导出功能,完善的权限管理 。\n技术描述:\n1. 项目前端采用layui框架作为前端页面展示。\n2. 在浏览器端主要采用Ajax处理客户端逻辑以及发送异步请求并实现了系统界面。\n3. 此系统整体采用MVC模式的ssm框架,持久层使用的是mybatis实现。\n4. 使用poi将数据导出为excel文件。\n5. 使用javaMail实现邮件的发送功能。"
+            }
+        ],
+        "work_year_norm": "3",
+        "work_year": "3",
+        "phone": "18071807610",
+        "resume_parse_time": "2022-12-21 17:51:52",
+        "raw_text": "个人信息\n姓   名: 王俊港              性    别: 男\n年    龄: 25                       学    历: 本科\n籍    贯: 湖北黄冈                       联系电话: 18071807610\n电子邮件: 18071807610@163.com    工作年限: 3年\n意向城市: 武汉            求职岗位: java开发工程师\n专业技能\n1.  掌握JavaSE基础知识,OOP面向对象和AOP面向切面,熟悉设计模式、反射、泛型、自定义注解。\n2.  熟练运用Spring、Mybatis、SpringMVC、SpringBoot等优秀的开源框架,熟悉Spring的IOC、AOP设计思想。\n3.  熟悉RabbitMq、SpringSecurity、Oauth2.0技术设计、实现RBAC权限控制,资源安全性。\n4.  掌握数据库Mysql、Redis的使用,能编写常用的sql语句,使用Redis作缓存\n5.  熟练掌握 SpringCould 分布式架构,Nacos、Hystrix、Ribbon、OpenFeign、Gateway等。\n6.  掌握 Ngnix 反向代理服务器,结合 Docker、Linux 实现服务的负载均衡、动静分离。\n7.  熟悉使用 Redis 数据库,集群,持久化方案(RDB、AOF),缓存删除、淘汰策略(LFU、LRU)。\n8.  熟练使用Docker、Git常用命令,可快速完成项目结构的搭建工作,代码管理。\n9.  掌握以 Nacos 为注册中心、结合 Ribbon 负载均衡、Feign 远程调用搭建微服务框架。\n10. 熟练使用Docker、Git常用命令,可快速完成项目结构的搭建工作,代码管理。\n11. 掌握Elasticsearch、FastDFS技术、可实现文件协调管理,资源导入、搜索引擎功能。\n12. 掌握以 Gateway 为微服务网关、结合 Redis、OAuth 2.0 组件、JWT 技术实现资源拦截和访问\n13. 掌握XML、HTML、CSS、Jquery、JavaScript、AJAX技术,具备Layui、Vue框架使用功底。\n求职意向   工作经历\n公司名称:深圳市慧搭科技有限公司\n工作时间:2021.04-2022.09\n工作内容:参与产品及项目开发,完成需求分析,完成子系统和模块设计。\n参与产品讨论,业务逻辑实现,根据项目任务计划按时完成软件编码和单元测试工作。\n根据产品需求,完成后端项目设计与开发,确保项目进度。\n公司名称:深圳慧订网络科技有限公司\n工作时间:2019.08-2021.03\n工作内容:主要从事软件编码工作\n涉及用户需求分析、功能模块分析及编码实现等。\n参与产品讨论、技术设计,与团队成员共同协作完成软件开发。\n项目经历\n项目一: 智惠商城                                                               2022.01-2022.09\n项目描述:智惠商城是以B2C模式运营的在线商城,总览企业及公司产品于一体,主打自主研发品牌以推广的互联网化新商城。\n系统采用的微服务架构模式,以功能模块划分,前台系统主要功能包括用户登录,商品收藏,评论展示,我的订单,我的购物车,订\n单支付,会员系统等系统。后台主要功能包括,商品管理,商品分类管理,消息管理,订单管理,商品评价管理,日志系统管理,服\n务监控系统等。\n开发工具:JDK1.8,IDEA,Maven,GitLab,Tomcat,Linux,Postman,Navicat\n技术选型:    WeChat+Alipay\n技术描述:\n1.  项目的微服务基于SpringBoot、SpringCloud构建的,采用前后端分离开发。前后端的数据交流采用json数据格式;\n2.  接口采用RestFul风格设计并且使用SwaggerUI做接口文档;\n3.  使用Nacos集群搭建注册中心,完成服务的注册和发现/并且作为项目的配置文件中心,使得服务和配置文件集中化管\n理和复用;\n4. 采用新一代网关Gateway结合注册中心完成请求动态路由,使用全局过滤器完成token的校验,ip黑名单,结合Redis\n做限流操作;\n5. 在项目授权中使用Oauth2.0整合jwt非对称加密做项目应用的授权,抽象common模块完成资源服务器的统一解析\n工作,并且将jwt存入redis,整合网关做业务登出功能,增强系统的安全性;\n6. 使用spring-admin作为服务解控组件,实时监控服务状态,当服务出现问题,可以邮件发送给维护人员,及时解决问\n题;\n7. 在完成图片上传功能的实现时,为了减轻服务器的压力,采用FastDFS将图片保存到单独一个图片服务器上;\n8. 使用递归加载菜单,并且将菜单数据存入Redis,提高用户体验;\n9. 自定义日志注解,将用户操作日志,通过AOP等技术,记录到Elasticseach中,定期做日志分析,发现用户操作习惯\n以及接口响应速度瓶颈,并且做定期优化;\n10. 服务间采用OpenFeign+Hystrix完成远程调用和熔断方案;\n11. 采用Elasticseach做为项目所有引擎,完成模糊查询,分页,排序,高亮等复杂查询;\n12. 采用窗口滑动模型完成生产环境中商品修改的增量导入功能\n13. 采用延迟队列完成用户下单后超时未支付,商品库存回滚等功能\n责任描述:\n参与项目的需求分析,制定项目周期计划,确定技术选型方案;\n参与项目结构设计,划分功能模块归属;\n负责编写并优化商品订单模块、会员模块并测试\n与同事进行技术难点探讨、修改Bug及部分模块功能测试;\n项目二:智惠积分软件                                                    2021.05-2022.01\n开发工具:JDK1.8,IDEA,Maven,GitLab,Tomcat,Postman,Navicat\n技术选型:\n项目描述:该软件开发项目管理的积分制是一种软件开发项目的绩效管理模式,以项目利润、客户满意度、项目质量、创新等为\nKPI指标,将积分与员工福利奖金、晋升、荣誉等捆绑以此来调动员工的积极性。项目在技术方面采用最主流的前后端分离开发模式,\n使用vue框架来构建前端,使用springboot构建后台。\n技术描述:\n1. 项目使用了vue框架构建前端。\n2. 在浏览器端主要采用axios处理客户端逻辑以及发送异步请求并实现了系统界面。\n3. 持久层使用了MyBatis框架进行对数据库持久层数据的操作。\n4. 在统计表使用了 Echarts 的漏斗图。\n5. 在表单中使用了数据字典,并将数据字典保存到服务器缓存中。\n责任描述:\n参与项目的需求分析和周期计划安排;\n参与功能设计与实现,主要负责模块有员工管理接口、部门管理接口。\n项目三:慧订旅游                                                           2020.07-2021.03\n开发工具:JDK1.8,IDEA,Maven,Gitee,Tomcat,Postman,Navicat\n技术选型:Spring + MyBatis + SpringMVC + MySQL +Maven+Git+Redis+Jsp +FastDFS\n项目描述:慧订旅游是一个致力于提供消费者进行网上选择旅游商品的平台。本项目主要分为前台和后台两个大的服务工程,前\n台主要包括用户的登录注册模块、旅游分类展示的模块、旅游线路的分页展示、旅游线路详情和线路收藏的模块。后台管理模块包括\n旅游产品管理模块、订单管理模块、用户管理、权限管理等模块。\n技术描述:\n1. 本项目采用maven项目管理工具,使用主流SSM框架实现\n2. 产品的分页查询使用PageHelper插件,在Service层实现\n3. 用户登录模块使用了强大的spring security框架,进行权限的控制,采用redis快速登录\n4. 旅游图片的管理采用开源的FastDFS,减轻服务器压力。\n5. 通过spring中配置切面,将日志功能实现\n责任描述:\n产品管理模块,主要包括旅游产品添加,分页查询等\n订单模块,主要包括订单的分页查询,订单详情页面查询等\nAOP日志的实现,将用户访问的详情记录在日志\n项目四:慧订销售库存管理软件                                                           2019.10-2020.07\n开发工具:JDK1.8,IDEA,Maven,Gitee,Tomcat,Postman,Navicat\n技术选型:Springmvc + Spring + Mybaits + Lay-ui + POI + Thymeleaf + JavaMail\n项目描述:Web应用程序,采用smm框架,功能包含采购、库存、销售三个主要部分,支持条形码管理,Excel表导出,丰富的\n导入、导出功能,完善的权限管理 。\n技术描述:\n1. 项目前端采用layui框架作为前端页面展示。\n2. 在浏览器端主要采用Ajax处理客户端逻辑以及发送异步请求并实现了系统界面。\n3. 此系统整体采用MVC模式的ssm框架,持久层使用的是mybatis实现。\n4. 使用poi将数据导出为excel文件。\n5. 使用javaMail实现邮件的发送功能。\n责任描述:\n参与项目架分析设计,负责创建商品信息服务、入库管理服务、出库管理服务核心模块开发。\n教育经历\n毕业学校:三峡大学科技学院\n时    间:2015 年 9 月 至 2019 年 7 月\n学    历:本科\n自我评价\n做事情追求完美,寻求效率化,具有良好的职业操守及团队合作精神,能快速融入团队;\n热爱编程,对新技术充满兴趣,能够快速学习新技术并且很快应用于实际工作中。\n具有很强的团队精神,乐于与同事、领导和客户沟通,有强烈的集体荣誉感、责任心,积极上进。",
+        "expect_job": "java开发工程师",
+        "expect_jlocation_norm": "中国-广东省-深圳市",
+        "hukou_address_norm": "中国-湖北省-黄冈市",
+        "cont_expect_job": "工作经历\n公司名称:深圳市慧搭科技有限公司\n工作时间:2021.04-2022.09\n工作内容:参与产品及项目开发,完成需求分析,完成子系统和模块设计。\n参与产品讨论,业务逻辑实现,根据项目任务计划按时完成软件编码和单元测试工作。\n根据产品需求,完成后端项目设计与开发,确保项目进度。\n公司名称:深圳慧订网络科技有限公司\n工作时间:2019.08-2021.03\n工作内容:主要从事软件编码工作\n涉及用户需求分析、功能模块分析及编码实现等。\n参与产品讨论、技术设计,与团队成员共同协作完成软件开发。",
+        "name": "王俊港",
+        "job_exp_objs": [],
+        "gender": "男",
+        "age": "25",
+        "resume_name": "cv20221221_175152241_994.pdf",
+        "hukou_address": "湖北黄冈",
+        "cont_education": "毕业学校:三峡大学科技学院\n时    间:2015 年 9 月 至 2019 年 7 月\n学    历:本科",
+        "cont_proj_exp": "项目一: 智惠商城                                                               2022.01-2022.09\n项目描述:智惠商城是以B2C模式运营的在线商城,总览企业及公司产品于一体,主打自主研发品牌以推广的互联网化新商城。\n系统采用的微服务架构模式,以功能模块划分,前台系统主要功能包括用户登录,商品收藏,评论展示,我的订单,我的购物车,订\n单支付,会员系统等系统。后台主要功能包括,商品管理,商品分类管理,消息管理,订单管理,商品评价管理,日志系统管理,服\n务监控系统等。\n开发工具:JDK1.8,IDEA,Maven,GitLab,Tomcat,Linux,Postman,Navicat\n技术选型:    WeChat+Alipay\n技术描述:\n1.  项目的微服务基于SpringBoot、SpringCloud构建的,采用前后端分离开发。前后端的数据交流采用json数据格式;\n2.  接口采用RestFul风格设计并且使用SwaggerUI做接口文档;\n3.  使用Nacos集群搭建注册中心,完成服务的注册和发现/并且作为项目的配置文件中心,使得服务和配置文件集中化管\n理和复用;\n4. 采用新一代网关Gateway结合注册中心完成请求动态路由,使用全局过滤器完成token的校验,ip黑名单,结合Redis\n做限流操作;\n5. 在项目授权中使用Oauth2.0整合jwt非对称加密做项目应用的授权,抽象common模块完成资源服务器的统一解析\n工作,并且将jwt存入redis,整合网关做业务登出功能,增强系统的安全性;\n6. 使用spring-admin作为服务解控组件,实时监控服务状态,当服务出现问题,可以邮件发送给维护人员,及时解决问\n题;\n7. 在完成图片上传功能的实现时,为了减轻服务器的压力,采用FastDFS将图片保存到单独一个图片服务器上;\n8. 使用递归加载菜单,并且将菜单数据存入Redis,提高用户体验;\n9. 自定义日志注解,将用户操作日志,通过AOP等技术,记录到Elasticseach中,定期做日志分析,发现用户操作习惯\n以及接口响应速度瓶颈,并且做定期优化;\n10. 服务间采用OpenFeign+Hystrix完成远程调用和熔断方案;\n11. 采用Elasticseach做为项目所有引擎,完成模糊查询,分页,排序,高亮等复杂查询;\n12. 采用窗口滑动模型完成生产环境中商品修改的增量导入功能\n13. 采用延迟队列完成用户下单后超时未支付,商品库存回滚等功能\n责任描述:\n参与项目的需求分析,制定项目周期计划,确定技术选型方案;\n参与项目结构设计,划分功能模块归属;\n负责编写并优化商品订单模块、会员模块并测试\n与同事进行技术难点探讨、修改Bug及部分模块功能测试;\n项目二:智惠积分软件                                                    2021.05-2022.01\n开发工具:JDK1.8,IDEA,Maven,GitLab,Tomcat,Postman,Navicat\n技术选型:\n项目描述:该软件开发项目管理的积分制是一种软件开发项目的绩效管理模式,以项目利润、客户满意度、项目质量、创新等为\nKPI指标,将积分与员工福利奖金、晋升、荣誉等捆绑以此来调动员工的积极性。项目在技术方面采用最主流的前后端分离开发模式,\n使用vue框架来构建前端,使用springboot构建后台。\n技术描述:\n1. 项目使用了vue框架构建前端。\n2. 在浏览器端主要采用axios处理客户端逻辑以及发送异步请求并实现了系统界面。\n3. 持久层使用了MyBatis框架进行对数据库持久层数据的操作。\n4. 在统计表使用了 Echarts 的漏斗图。\n5. 在表单中使用了数据字典,并将数据字典保存到服务器缓存中。\n责任描述:\n参与项目的需求分析和周期计划安排;\n参与功能设计与实现,主要负责模块有员工管理接口、部门管理接口。\n项目三:慧订旅游                                                           2020.07-2021.03\n开发工具:JDK1.8,IDEA,Maven,Gitee,Tomcat,Postman,Navicat\n技术选型:Spring + MyBatis + SpringMVC + MySQL +Maven+Git+Redis+Jsp +FastDFS\n项目描述:慧订旅游是一个致力于提供消费者进行网上选择旅游商品的平台。本项目主要分为前台和后台两个大的服务工程,前\n台主要包括用户的登录注册模块、旅游分类展示的模块、旅游线路的分页展示、旅游线路详情和线路收藏的模块。后台管理模块包括\n旅游产品管理模块、订单管理模块、用户管理、权限管理等模块。\n技术描述:\n1. 本项目采用maven项目管理工具,使用主流SSM框架实现\n2. 产品的分页查询使用PageHelper插件,在Service层实现\n3. 用户登录模块使用了强大的spring security框架,进行权限的控制,采用redis快速登录\n4. 旅游图片的管理采用开源的FastDFS,减轻服务器压力。\n5. 通过spring中配置切面,将日志功能实现\n责任描述:\n产品管理模块,主要包括旅游产品添加,分页查询等\n订单模块,主要包括订单的分页查询,订单详情页面查询等\nAOP日志的实现,将用户访问的详情记录在日志\n项目四:慧订销售库存管理软件                                                           2019.10-2020.07\n开发工具:JDK1.8,IDEA,Maven,Gitee,Tomcat,Postman,Navicat\n技术选型:Springmvc + Spring + Mybaits + Lay-ui + POI + Thymeleaf + JavaMail\n项目描述:Web应用程序,采用smm框架,功能包含采购、库存、销售三个主要部分,支持条形码管理,Excel表导出,丰富的\n导入、导出功能,完善的权限管理 。\n技术描述:\n1. 项目前端采用layui框架作为前端页面展示。\n2. 在浏览器端主要采用Ajax处理客户端逻辑以及发送异步请求并实现了系统界面。\n3. 此系统整体采用MVC模式的ssm框架,持久层使用的是mybatis实现。\n4. 使用poi将数据导出为excel文件。\n5. 使用javaMail实现邮件的发送功能。\n责任描述:\n参与项目架分析设计,负责创建商品信息服务、入库管理服务、出库管理服务核心模块开发。",
+        "hometown_address_norm": "中国-湖北省-黄冈市",
+        "college_type": "0",
+        "hometown_address": "湖北黄冈"
+    },
+    "eval": {
+        "salary": 10900
+    },
+    "tags": {
+        "industries": [],
+        "pos_types": [
+            {
+                "tag_weight": 1.3301821554669775,
+                "tag_name": "软件工程师"
+            },
+            {
+                "tag_weight": 0.5969394208329146,
+                "tag_name": "高级软件工程师"
+            },
+            {
+                "tag_weight": 0.39601696793789876,
+                "tag_name": "互联网软件开发工程师"
+            },
+            {
+                "tag_weight": 0.08927550504103383,
+                "tag_name": "技术研发工程师"
+            },
+            {
+                "tag_weight": 0.06885949945698114,
+                "tag_name": "多媒体/游戏开发工程师"
+            }
+        ],
+        "pos_tags": [
+            {
+                "tag_weight": 1.2,
+                "tag_name": "java开发工程师"
+            },
+            {
+                "tag_weight": 0.31661153554916377,
+                "tag_name": "java后端开发工程师"
+            },
+            {
+                "tag_weight": 0.28175195932388303,
+                "tag_name": "后端开发工程师"
+            },
+            {
+                "tag_weight": 0.2789496517181396,
+                "tag_name": "软件开发工程师"
+            },
+            {
+                "tag_weight": 0.27402425765991206,
+                "tag_name": "开发工程师"
+            },
+            {
+                "tag_weight": 0.2634236741065979,
+                "tag_name": "java服务器开发工程师"
+            },
+            {
+                "tag_weight": 0.2629251480102539,
+                "tag_name": "研发工程师"
+            },
+            {
+                "tag_weight": 0.25913889884948726,
+                "tag_name": "开发平台java工程师"
+            },
+            {
+                "tag_weight": 0.25801097631454467,
+                "tag_name": "靠谱鸟java工程师"
+            },
+            {
+                "tag_weight": 0.2566592073440552,
+                "tag_name": "java后台应用工程师"
+            }
+        ],
+        "skills_tags": [
+            {
+                "tag_weight": 1.0593769431114197,
+                "tag_name": "redis"
+            },
+            {
+                "tag_weight": 0.9539560294151306,
+                "tag_name": "springboot"
+            },
+            {
+                "tag_weight": 0.9539051711559297,
+                "tag_name": "spring"
+            },
+            {
+                "tag_weight": 0.8654340088367463,
+                "tag_name": "fastdfs"
+            },
+            {
+                "tag_weight": 0.7516473197937013,
+                "tag_name": "aop"
+            },
+            {
+                "tag_weight": 0.7380036568641664,
+                "tag_name": "mybatis"
+            },
+            {
+                "tag_weight": 0.7254845535755158,
+                "tag_name": "springmvc"
+            },
+            {
+                "tag_weight": 0.6017603874206543,
+                "tag_name": "rabbitmq"
+            },
+            {
+                "tag_weight": 0.6,
+                "tag_name": "java开发"
+            },
+            {
+                "tag_weight": 0.5846314680576326,
+                "tag_name": "maven"
+            },
+            {
+                "tag_weight": 0.5737746310234071,
+                "tag_name": "vue"
+            },
+            {
+                "tag_weight": 0.5709129333496094,
+                "tag_name": "ioc"
+            },
+            {
+                "tag_weight": 0.570646095275879,
+                "tag_name": "elasticsearch"
+            },
+            {
+                "tag_weight": 0.5424756050109864,
+                "tag_name": "分布式架构"
+            },
+            {
+                "tag_weight": 0.542099142074585,
+                "tag_name": "docker"
+            },
+            {
+                "tag_weight": 0.5256852042675019,
+                "tag_name": "tomcat"
+            },
+            {
+                "tag_weight": 0.5223078727722168,
+                "tag_name": "数据库mysql"
+            },
+            {
+                "tag_weight": 0.5181125164031982,
+                "tag_name": "ajax技术"
+            },
+            {
+                "tag_weight": 0.5110598564147949,
+                "tag_name": "jquery"
+            },
+            {
+                "tag_weight": 0.5104129791259766,
+                "tag_name": "oop"
+            },
+            {
+                "tag_weight": 0.510150957107544,
+                "tag_name": "ngnix"
+            },
+            {
+                "tag_weight": 0.5073703289031982,
+                "tag_name": "javascript"
+            },
+            {
+                "tag_weight": 0.5055012226104737,
+                "tag_name": "反向代理"
+            },
+            {
+                "tag_weight": 0.5037651062011719,
+                "tag_name": "springsecurity"
+            },
+            {
+                "tag_weight": 0.48785120964050294,
+                "tag_name": "postman"
+            },
+            {
+                "tag_weight": 0.4844942045211792,
+                "tag_name": "navicat"
+            },
+            {
+                "tag_weight": 0.4651515007019043,
+                "tag_name": "泛型"
+            },
+            {
+                "tag_weight": 0.426049325466156,
+                "tag_name": "gitlab"
+            },
+            {
+                "tag_weight": 0.4052443027496338,
+                "tag_name": "javase基础"
+            },
+            {
+                "tag_weight": 0.3783693289756775,
+                "tag_name": "前后端"
+            },
+            {
+                "tag_weight": 0.31864098548889164,
+                "tag_name": "restful"
+            },
+            {
+                "tag_weight": 0.28557766914367677,
+                "tag_name": "微服务"
+            },
+            {
+                "tag_weight": 0.230901517868042,
+                "tag_name": "监控系统"
+            },
+            {
+                "tag_weight": 0.21206556797027587,
+                "tag_name": "admin"
+            },
+            {
+                "tag_weight": 0.20709460020065307,
+                "tag_name": "网关"
+            },
+            {
+                "tag_weight": 0.19276056528091431,
+                "tag_name": "系统管理"
+            },
+            {
+                "tag_weight": 0.19025817155838012,
+                "tag_name": "过滤器"
+            },
+            {
+                "tag_weight": 0.18831970930099487,
+                "tag_name": "排序"
+            },
+            {
+                "tag_weight": 0.1880941653251648,
+                "tag_name": "校验"
+            },
+            {
+                "tag_weight": 0.15012797832489014,
+                "tag_name": "echarts"
+            },
+            {
+                "tag_weight": 0.14615368366241455,
+                "tag_name": "mybatis框架"
+            },
+            {
+                "tag_weight": 0.13753759384155273,
+                "tag_name": "开发模式"
+            },
+            {
+                "tag_weight": 0.11781021475791931,
+                "tag_name": "前端"
+            },
+            {
+                "tag_weight": 0.07934778094291688,
+                "tag_name": "spring security"
+            },
+            {
+                "tag_weight": 0.07678838729858399,
+                "tag_name": "ssm框架"
+            },
+            {
+                "tag_weight": 0.07552767157554627,
+                "tag_name": "mysql"
+            },
+            {
+                "tag_weight": 0.07552582979202271,
+                "tag_name": "jsp"
+            },
+            {
+                "tag_weight": 0.07529006361961366,
+                "tag_name": "maven项目管理"
+            },
+            {
+                "tag_weight": 0.046370629072189334,
+                "tag_name": "后台管理"
+            }
+        ]
+    }
+}

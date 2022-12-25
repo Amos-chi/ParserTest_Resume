@@ -38,7 +38,7 @@
         {
             "description": "Human\\W*centred\\W*design\\W*is\\W*the\\W*key\\W*to\\W*give\\W*Emotech\\W*s\\W*products\\W*spirit\\W*As\\W*an\\W*interaction\\W*designer\\W*I\\W*am\\W*responsible\\W*for\\W*envisioning\\W*and\\W*executing\\W*the\\W*interaction\\W*between\\W*people\\W*and\\W*robot\\W*in\\W*the\\W*future\\W*home\\W*scenario\\W*assessing\\W*product\\W*requirements\\W*costs\\W*manufacturing\\W*feasibility\\W*and\\W*market\\W*requirements\\W*etc\\W*doing\\W*complex\\W*tasks\\W*related\\W*to\\W*artificial\\W*intelligence\\W*and\\W*collaborating\\W*with\\W*our\\W*machine\\W*learning\\W*scientists\\W*researchers\\W*and\\W*developers\\W*gaining\\W*experience\\W*working\\W*with\\W*a\\W*multi\\W*disciplinary\\W*team\\W*",
             "companyName": "Emotech(Ltd\\W{0,2})?",
-            "title": "Interaction Designer",
+            "title": "Interaction Designer(\\W{0,3}Emotech\\W{0,2}Ltd\\W{0,4}(London\\W{0,2}UK)?)?",
             "startDate": "2017-04-01",
             "current": true
         },
@@ -76,19 +76,7 @@
             "skillName": "UX"
         },
         {
-            "skillName": "Fabrication"
-        },
-        {
             "skillName": "HTML"
-        },
-        {
-            "skillName": "Illustrator"
-        },
-        {
-            "skillName": "Adobe\\W{0,2}Photoshop"
-        },
-        {
-            "skillName": "Sketch"
         },
         {
             "skillName": "Python"
@@ -98,12 +86,6 @@
         },
         {
             "skillName": "Javascript"
-        },
-        {
-            "skillName": "Tensorflow"
-        },
-        {
-            "skillName": "Project\\W{0,2}Management"
         },
         {
             "skillName": "UI"

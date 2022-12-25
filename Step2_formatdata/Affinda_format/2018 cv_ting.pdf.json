@@ -1,0 +1,216 @@
+{
+    "fullName": "Shu Ting Huang",
+    "contacts": [
+        {
+            "contact": "+447493060066",
+            "type": "PHONE"
+        }
+    ],
+    "languages": [
+        "Japanese",
+        "Mandarin",
+        "English"
+    ],
+    "educations": [
+        {
+            "startDate": "2015-01-01",
+            "endDate": "2017-01-01",
+            "collegeName": "Royal College of Art",
+            "majorName": "MA, Innovation Design Engineering,"
+        },
+        {
+            "startDate": "2015-01-01",
+            "endDate": "2017-01-01",
+            "collegeName": "Imperial College London",
+            "degreeLevel": "masters",
+            "majorName": "Master of Science"
+        },
+        {
+            "startDate": "2009-01-01",
+            "endDate": "2014-01-01",
+            "collegeName": "Shih Chien University",
+            "majorName": "BA, Industrial Design,"
+        },
+        {
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "collegeName": "Köln International School of Design, Cologne University of Applied Sciences",
+            "majorName": "Exchange student program, Integrated Design,"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "Human-centred design is the key to give Emotech's products spirit. As an interaction designer, I am responsible for envisioning and executing the interaction between people and robot in the future home scenario, assessing product requirements (costs, manufacturing feasibility and market requirements, etc.); doing complex tasks related to artificial intelligence and collaborating with our machine learning scientists, researchers and developers; gaining experience working with a multi-disciplinary team. ",
+            "companyName": "Emotech Ltd.;",
+            "title": "Interaction Designer",
+            "startDate": "2017-04-01",
+            "endDate": "2022-12-21",
+            "current": true
+        },
+        {
+            "description": "An 8-week internship working in the design team to understand users and social impact of space technology. This is part of the Space Placements in INdustry (SPIN) scheme, which is managed by the Institute for Environmental Analytics at the University of Reading and supported by the Satellite Applications Catapult and the UK Space Agency. ",
+            "companyName": "Satellite Applications Catapult;",
+            "title": "Design Thinker",
+            "startDate": "2016-07-01",
+            "endDate": "2016-08-01"
+        },
+        {
+            "description": "Commissioned by the company as a contract designer to design its IPO presentation materials, including understanding and visualising the company's value proposition, as well as its products (long-acting analgesic injection and small molecule for the acute ischemic stroke treatment). ",
+            "companyName": "Lumosa Therapeutics co. Ltd.;",
+            "title": "Designer",
+            "startDate": "2015-04-01",
+            "endDate": "2015-07-01"
+        },
+        {
+            "description": "Hired as a UX designer by Migo. I organised compatible structures of a project by field research (shadowing and interviewing potential users in Manila, the Philippines), defining user journey map, narrating user stories and conducting usability tests (e.g. A/B testing). Migo is a consumer-focused innovation company focusing on emerging markets, where transformative innovation in entertainment is lacking. ",
+            "companyName": "Migo TV;",
+            "title": "Imagineer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-03-01"
+        },
+        {
+            "description": "Worked in the project \"Experimental Program of Visual Guiding System\" as a UI designer with Taipei Digital Art Centre, Smart Network System Institute of the Institute for Information Industry, ChipSiP Technology Co. and Kupo Co., Ltd. ",
+            "companyName": "Taipei Digital Art Centre;",
+            "title": "UI Designer",
+            "startDate": "2014-05-01",
+            "endDate": "2014-07-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "Field Research"
+        },
+        {
+            "skillName": "Machine Learning"
+        },
+        {
+            "skillName": "Moulding"
+        },
+        {
+            "skillName": "Creativity"
+        },
+        {
+            "skillName": "Laser Cutting"
+        },
+        {
+            "skillName": "Project Management"
+        },
+        {
+            "skillName": "Usability"
+        },
+        {
+            "skillName": "Adobe Photoshop"
+        },
+        {
+            "skillName": "Artificial Intelligence"
+        },
+        {
+            "skillName": "Cinema 4D"
+        },
+        {
+            "skillName": "Product Requirements"
+        },
+        {
+            "skillName": "Research"
+        },
+        {
+            "skillName": "Information Industry"
+        },
+        {
+            "skillName": "HyperText Markup Language (HTML)"
+        },
+        {
+            "skillName": "Catapult"
+        },
+        {
+            "skillName": "Industrial Design"
+        },
+        {
+            "skillName": "Innovation"
+        },
+        {
+            "skillName": "Adobe XD"
+        },
+        {
+            "skillName": "Analytics"
+        },
+        {
+            "skillName": "Prototype (Manufacturing)"
+        },
+        {
+            "skillName": "Persona (User Experience)"
+        },
+        {
+            "skillName": "Management"
+        },
+        {
+            "skillName": "Cascading Style Sheets (CSS)"
+        },
+        {
+            "skillName": "JavaScript (Programming Language)"
+        },
+        {
+            "skillName": "Presentations"
+        },
+        {
+            "skillName": "User Experience Design (UX)"
+        },
+        {
+            "skillName": "Python (Programming Language)"
+        },
+        {
+            "skillName": "Communications"
+        },
+        {
+            "skillName": "Value Proposition"
+        },
+        {
+            "skillName": "Filmmaking"
+        },
+        {
+            "skillName": "Interaction Design"
+        },
+        {
+            "skillName": "Scheme (Programming Language)"
+        },
+        {
+            "skillName": "TensorFlow"
+        },
+        {
+            "skillName": "Final Cut Pro"
+        },
+        {
+            "skillName": "Autodesk Alias"
+        },
+        {
+            "skillName": "Sketch (Design Software)"
+        },
+        {
+            "skillName": "Laser"
+        },
+        {
+            "skillName": "Autodesk"
+        },
+        {
+            "skillName": "Computer Numerical Control (CNC)"
+        },
+        {
+            "skillName": "Fabrication"
+        },
+        {
+            "skillName": "User Story"
+        },
+        {
+            "skillName": "3D Printing"
+        },
+        {
+            "skillName": "Adobe Illustrator"
+        },
+        {
+            "skillName": "Soldering"
+        },
+        {
+            "skillName": "UX Research"
+        }
+    ]
+}

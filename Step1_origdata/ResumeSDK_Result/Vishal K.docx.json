@@ -1,0 +1,460 @@
+{
+    "status": {
+        "message": "success",
+        "code": 200
+    },
+    "result": {
+        "cont_job_skill": "Languages    Ruby, SQL, MQL, HiveQL, Python, Java, PHP, C, C++\nDatabase    MongoDB, Oracle SQL, PostgreSQL, Hive\nWeb and Scripting Languages Rake, Rails, JavaScript, JQuery, AngularJS, ReactJS, ASP, HTML5, CSS3.\nRuby Testing Tools  Rspec, Cucumber, selenium-webdriver, capybara, Minitest\nApplication Servers  Microsoft IIS, Tomcat, Apache (LAMP), Web sphere\nOperating Systems   Mac OS, Linux (Ubuntu 8.04 through 11.10) & Windows (multi-threading applications)\nWeb Service Technologies SOUP, Restful\nUML Tools    MS-Visio 2010/2013\nDevelopment Tools       RubyMine, VS Studio, Sublime, Atom, VS Professional, Spring\nTool Suite, Eclipse, Intellij\nVersioning Tools   GitHub, TFS, TortoiseSVN\nPlatforms      Ubuntu, Windows server 2012, Windows 7/8/10, AWS (EC2,EMR)\nNetwork Protocols  TCP/IP, UDP, HTTP",
+        "cont_job_exp": "M9 Consulting Inc.\nClient: HBX, Washington, DC                                                (July 2017 – Present) Senior Software Engineer / Ruby on Rails Developer\nResponsibilities:\n· Prepared and analyzed System Requirements Specifications (SRS) for a project and interacted with client during requirements specifications.\n· Implemented and enhanced CRUD operations for the applications using the MVC (Model View Controller) architecture framework.\n· Developed microservices to increase productivity, quality and security.\n· Created most important Business Rules which are useful for the scope of project and needs of customers.\n· Developed and tested many features for dashboard using Ruby on Rails, Bootstrap, CSS and JavaScript.\n· Planned and carried out daily scrums, weekly estimations and retrospectives and pair programming.\n· Followed Test Driven Development (TDD), Scrum concepts of the Agile Methodology to produce high Quality Software.\n· Practiced Test-Driven Development with RSpec as well as Behavior Driven Development with Cucumber and Capybara to specify and test controller classes, models, view templates, helpers and routing.\n· User Interface for website with ERB, JQuery, html, css, Ajax in Ruby on Rails Framework.\n· Used Extreme Programming (XP) and Scrum practices.\n· Developed ETL workflows involving Data extraction, serialization, transformations and loading into mongodb.\n· Involved in creating and maintaining Database objects, Profiles and associated tablespaces, Roles and Privileges.\n· Used AMQP for messaging protocol.\n· Have exposer in building containers using Docker.\n· Used JQuery, Angularjs, Reactjs and Ajax in web applications to enhance the customer website experience.\n· Design and maintain ROR code. Implement upgrades, patches, code releases, and database changes using Mongo DB (NoSQL)\n· Peer-review code to satisfy quality, stability, performance, DRY patterns and security checklist.\n· Wrote ruby scripts for deployments onto AWS and Continuous Integration provisioning.\n· Analyzed software requirements and provide solutions and performed analysis, design, coding, testing, implementation, and maintenance of software solutions.\nEnvironment: Ruby 2.3 , Ruby 2.5, Rails 4.2, Rails 5.2 , HTML5, CSS3, Bootstrap, JavaScript, Angular JS, ReactJS , JSON, OJ, Multi_JSON, Jquery, Rubygems, Unix/Linux, GIT/ GitHub, RSPEC, Minitest, Cucumber, Agile, AmazonEC2, MongoDB, Faraday, httparty, Actionmailer, Selenium-webdriver, Capybara, Devise, concurrent-ruby, Rubo 3T (ROBOMONGO), AMQP, Docker, Puma.\nM9 Consulting Inc.\nClient: Ernst & Young, Alpharetta, GA                      (August 2016 – July 2017)\nSoftware Developer\nResponsibilities:\n• Developed web application using Ruby on Rails on Unix/Linux operating system, backed by MySQL, and PostgreSQL.\n• Planned and carried out daily scrums, weekly estimations and retrospectives and pair programming.\n· Involved in Software Development which is driven by Agile methodology.\n• Develop user friendly and sophisticated graphical representation of the catalogue of items that would be configured for a piece of equipment.\n• Design and implementation of MVC framework using technologies like JavaScript, HTML, CSS, and RUBY on RAILS.\n· Upgraded associated gems, across multiple Ruby and Rails versions.\n• Implemented Behavior Driven Deployment (BDD) using R spec and Cucumber to perform cross browser and regression testing.\n• Execute lossless data migrations in production from a MySQL database to a redesigned PostgreSQL database.\n· ETL: Data extraction, managing, aggregations and loading into Hive.\n· Used Talend to perform ETL jobs.\n· Implemented Big Data tools within Hadoop ecosystem (HDFS, Hive, Pig, Sqoop, Oozie).\n· Created Hive External tables and loaded the data into tables and queried data using HQL that helped market analysts to look for emerging trends by comparing fresh data with EDW reference tables.\n· Used Hive to analyze the partitioned and bucketed data and compute various metrics for reporting.\n· Worked closely with other developers, project managers, UX designers, and marketers on agile user stories.\nEnvironment: Ruby, Rails, HTML5, CSS3, Bootstrap, JavaScript, JSON, Jquery, Rubygems, MySQL, Unix/Linux, Restful, GIT, WEBrick, RSPEC, Cucumber, Agile, AmazonEC2, Hive, Pig, Sqoop, Oozie.\nCognizant Technology Solutions             (Nov 2009 to May 2015)\nSenior Programmer Analyst\nResponsibilities:\n· Involved in various phases of Software development life cycle (SDLC) as requirement gathering, modeling, analysis, architecture design & development.\n· Designed and developed web applications using Ruby, Rails, Java/J2EE design patterns, HTML, CSS, Java Script AJAX and JQuery.\n· Designed and developed necessary UML Diagrams (Use Case, Class, Sequence, State).\n· Responsibilities included developing new features, fixing bugs, interfacing with the product development and software quality assurance group.\n· Developed custom Rails applications specific to client's unique needs.\n· Database modeling and design. Involved in developing and implementation of the web application using Ruby on Rails.\n· Participated in requirements definition and story carding.\n· Worked extensively with arrays and hashes in the ruby environment.\n· Used many regular expressions in order to match the pattern with the existing one.\n· Designed, development controller and view part of the system by scaffolding.\n· Understanding of how web applications work including security, session management and best development practices.\n· Focus on Ruby development, both inside of a traditional Rails application, and as part of a report generating application.\n· Developed the user authentication and order processing modules for customer facing application.\n· Develop user friendly and sophisticated graphical representation of the catalogue of items that would be configured for a piece of equipment.\n· Responsible for most view/controller changes, as well as model/database integration with other members of team.\n· Developed cross-browser/platform using HTML, CSS, JQuery and JavaScript to match design specs for complex page layouts while adhering to code standards\n· Deployed application and provide continuous maintenance using Git.\n· Developed Session Beans to process user requests and Entity Beans to load and store information from database.\n· Designed and used JUnit test cases during the development phase.\n· Used Tortoise SVN for version control of the source code.\n· Open source cross-platform WebTesting (WSDL) using SoapUI.\n· Designed and implemented relational database, and stored procedures, views, and triggers using MS SQL server development tool.\nEnvironment: Ruby, Rails, SQL, WEBrick, HTML, JQuery, JavaScript, CSS3, AJAX, Java, J2EE, Web Services (SOAP, WSDL, JAX-WS), Spring, Servlets, JSP, JUnit, Tortoise SVN, Log4j, PL/SQL, WebSphere",
+        "work_location": "Washington",
+        "work_company": "Client",
+        "lang_objs": [],
+        "work_position": "Senior Software Engineer",
+        "job_exp_objs": [
+            {
+                "job_position": "Senior Software Engineer",
+                "end_date": "至今",
+                "job_location": "Washington",
+                "job_content": "/ Ruby on Rails Developer\nResponsibilities:\n· Prepared and analyzed System Requirements Specifications (SRS) for a project and interacted with client during requirements specifications.\n· Implemented and enhanced CRUD operations for the applications using the MVC (Model View Controller) architecture framework.\n· Developed microservices to increase productivity, quality and security.\n· Created most important Business Rules which are useful for the scope of project and needs of customers.\n· Developed and tested many features for dashboard using Ruby on Rails, Bootstrap, CSS and JavaScript.\n· Planned and carried out daily scrums, weekly estimations and retrospectives and pair programming.\n· Followed Test Driven Development (TDD), Scrum concepts of the Agile Methodology to produce high Quality Software.\n· Practiced Test-Driven Development with RSpec as well as Behavior Driven Development with Cucumber and Capybara to specify and test controller classes, models, view templates, helpers and routing.\n· User Interface for website with ERB, JQuery, html, css, Ajax in Ruby on Rails Framework.\n· Used Extreme Programming (XP) and Scrum practices.\n· Developed ETL workflows involving Data extraction, serialization, transformations and loading into mongodb.\n· Involved in creating and maintaining Database objects, Profiles and associated tablespaces, Roles and Privileges.\n· Used AMQP for messaging protocol.\n· Have exposer in building containers using Docker.\n· Used JQuery, Angularjs, Reactjs and Ajax in web applications to enhance the customer website experience.\n· Design and maintain ROR code. Implement upgrades, patches, code releases, and database changes using Mongo DB (NoSQL)\n· Peer-review code to satisfy quality, stability, performance, DRY patterns and security checklist.\n· Wrote ruby scripts for deployments onto AWS and Continuous Integration provisioning.\n· Analyzed software requirements and provide solutions and performed analysis, design, coding, testing, implementation, and maintenance of software solutions.\nEnvironment: Ruby 2.3 , Ruby 2.5, Rails 4.2, Rails 5.2 , HTML5, CSS3, Bootstrap, JavaScript, Angular JS, ReactJS , JSON, OJ, Multi_JSON, Jquery, Rubygems, Unix/Linux, GIT/ GitHub, RSPEC, Minitest, Cucumber, Agile, AmazonEC2, MongoDB, Faraday, httparty, Actionmailer, Selenium-webdriver, Capybara, Devise, concurrent-ruby, Rubo 3T (ROBOMONGO), AMQP, Docker, Puma.\nM9 Consulting Inc.",
+                "job_cpy": "Client",
+                "job_duration": "5年5个月",
+                "start_date": "2017.07"
+            },
+            {
+                "job_position": "Software Developer",
+                "end_date": "2017.07",
+                "job_content": "Responsibilities:\n• Developed web application using Ruby on Rails on Unix/Linux operating system, backed by MySQL, and PostgreSQL.\n• Planned and carried out daily scrums, weekly estimations and retrospectives and pair programming.\n· Involved in Software Development which is driven by Agile methodology.\n• Develop user friendly and sophisticated graphical representation of the catalogue of items that would be configured for a piece of equipment.\n• Design and implementation of MVC framework using technologies like JavaScript, HTML, CSS, and RUBY on RAILS.\n· Upgraded associated gems, across multiple Ruby and Rails versions.\n• Implemented Behavior Driven Deployment (BDD) using R spec and Cucumber to perform cross browser and regression testing.\n• Execute lossless data migrations in production from a MySQL database to a redesigned PostgreSQL database.\n· ETL: Data extraction, managing, aggregations and loading into Hive.\n· Used Talend to perform ETL jobs.\n· Implemented Big Data tools within Hadoop ecosystem (HDFS, Hive, Pig, Sqoop, Oozie).\n· Created Hive External tables and loaded the data into tables and queried data using HQL that helped market analysts to look for emerging trends by comparing fresh data with EDW reference tables.\n· Used Hive to analyze the partitioned and bucketed data and compute various metrics for reporting.\n· Worked closely with other developers, project managers, UX designers, and marketers on agile user stories.\nEnvironment: Ruby, Rails, HTML5, CSS3, Bootstrap, JavaScript, JSON, Jquery, Rubygems, MySQL, Unix/Linux, Restful, GIT, WEBrick, RSPEC, Cucumber, Agile, AmazonEC2, Hive, Pig, Sqoop, Oozie.",
+                "job_cpy": "Client",
+                "job_duration": "11个月",
+                "start_date": "2016.08"
+            },
+            {
+                "job_position": "Senior Programmer Analyst",
+                "end_date": "2015.05",
+                "job_content": "Responsibilities:\n· Involved in various phases of Software development life cycle (SDLC) as requirement gathering, modeling, analysis, architecture design & development.\n· Designed and developed web applications using Ruby, Rails, Java/J2EE design patterns, HTML, CSS, Java Script AJAX and JQuery.\n· Designed and developed necessary UML Diagrams (Use Case, Class, Sequence, State).\n· Responsibilities included developing new features, fixing bugs, interfacing with the product development and software quality assurance group.\n· Developed custom Rails applications specific to client's unique needs.\n· Database modeling and design. Involved in developing and implementation of the web application using Ruby on Rails.\n· Participated in requirements definition and story carding.\n· Worked extensively with arrays and hashes in the ruby environment.\n· Used many regular expressions in order to match the pattern with the existing one.\n· Designed, development controller and view part of the system by scaffolding.\n· Understanding of how web applications work including security, session management and best development practices.\n· Focus on Ruby development, both inside of a traditional Rails application, and as part of a report generating application.\n· Developed the user authentication and order processing modules for customer facing application.\n· Develop user friendly and sophisticated graphical representation of the catalogue of items that would be configured for a piece of equipment.\n· Responsible for most view/controller changes, as well as model/database integration with other members of team.\n· Developed cross-browser/platform using HTML, CSS, JQuery and JavaScript to match design specs for complex page layouts while adhering to code standards\n· Deployed application and provide continuous maintenance using Git.\n· Developed Session Beans to process user requests and Entity Beans to load and store information from database.\n· Designed and used JUnit test cases during the development phase.\n· Used Tortoise SVN for version control of the source code.\n· Open source cross-platform WebTesting (WSDL) using SoapUI.\n· Designed and implemented relational database, and stored procedures, views, and triggers using MS SQL server development tool.\nEnvironment: Ruby, Rails, SQL, WEBrick, HTML, JQuery, JavaScript, CSS3, AJAX, Java, J2EE, Web Services (SOAP, WSDL, JAX-WS), Spring, Servlets, JSP, JUnit, Tortoise SVN, Log4j, PL/SQL, WebSphere",
+                "job_cpy": "Cognizant Technology Solutions",
+                "job_duration": "5年6个月",
+                "start_date": "2009.11"
+            }
+        ],
+        "proj_exp_objs": [],
+        "skills_objs": [
+            {
+                "skills_name": "Ruby on Rails"
+            },
+            {
+                "skills_name": "MVC"
+            },
+            {
+                "skills_name": "Bootstrap"
+            },
+            {
+                "skills_name": "CSS"
+            },
+            {
+                "skills_name": "JavaScript"
+            },
+            {
+                "skills_name": "Scrum"
+            },
+            {
+                "skills_name": "JQuery"
+            },
+            {
+                "skills_name": "html"
+            },
+            {
+                "skills_name": "Ajax"
+            },
+            {
+                "skills_name": "ETL"
+            },
+            {
+                "skills_name": "mongodb"
+            },
+            {
+                "skills_name": "Database"
+            },
+            {
+                "skills_name": "Docker"
+            },
+            {
+                "skills_name": "Angularjs"
+            },
+            {
+                "skills_name": "Mongo"
+            },
+            {
+                "skills_name": "DB"
+            },
+            {
+                "skills_name": "NoSQL"
+            },
+            {
+                "skills_name": "ruby"
+            },
+            {
+                "skills_name": "Rails"
+            },
+            {
+                "skills_name": "HTML5"
+            },
+            {
+                "skills_name": "CSS3"
+            },
+            {
+                "skills_name": "Angular"
+            },
+            {
+                "skills_name": "JS"
+            },
+            {
+                "skills_name": "JSON"
+            },
+            {
+                "skills_name": "Unix/Linux"
+            },
+            {
+                "skills_name": "GIT"
+            },
+            {
+                "skills_name": "GitHub"
+            },
+            {
+                "skills_name": "Selenium"
+            },
+            {
+                "skills_name": "GA"
+            },
+            {
+                "skills_name": "MySQL"
+            },
+            {
+                "skills_name": "PostgreSQL"
+            },
+            {
+                "skills_name": "R"
+            },
+            {
+                "skills_name": "Hive"
+            },
+            {
+                "skills_name": "Hadoop"
+            },
+            {
+                "skills_name": "Java/J2EE"
+            },
+            {
+                "skills_name": "Java Script"
+            },
+            {
+                "skills_name": "UML"
+            },
+            {
+                "skills_name": "JUnit"
+            },
+            {
+                "skills_name": "SVN"
+            },
+            {
+                "skills_name": "SQL server"
+            },
+            {
+                "skills_name": "SQL"
+            },
+            {
+                "skills_name": "Java"
+            },
+            {
+                "skills_name": "J2EE"
+            },
+            {
+                "skills_name": "Spring"
+            },
+            {
+                "skills_name": "JSP"
+            },
+            {
+                "skills_name": "PL/SQL"
+            },
+            {
+                "skills_name": "WebSphere"
+            }
+        ],
+        "education_objs": [],
+        "resume_name": "cv20221221_175151059_570.docx",
+        "social_exp_objs": [],
+        "resume_integrity": "18",
+        "cert_objs": [],
+        "resume_parse_time": "2022-12-21 17:51:51",
+        "training_objs": [],
+        "cont_basic_info": "Vishal Kalletla\nSenior Software Engineer\nM:\nSUMMARY\n· 10+ years of experience in Analysis, Design, Development, Implementation and Production in Financial, Marketing and Healthcare Domains.\n· Developed applications using Ruby on Rails, HTML, CSS, JavaScript, AngularJS, JQuery, Bootstrap, Java, JSP, J2EE, Spring, SQL, MySQL, Oracle, MongoDB, Python, Linux/Unix.\n· Have comprehensive knowledge in Ruby on Rails lifecycle: architecture, user stories, UX & UI.\n· Experience in developing Object-Oriented Programming (OOP), MVC based Applications using ROR and Java.\n· Worked with the teams that follow Agile Scrum methodology, participated in designing and planning the project.\n· Analyze, design, develop and implement various applications utilizing Ruby on Rails.\n· Experience in Test-Driven Development (TDD) and Behavior-Driven Development (BDD).\n· Experienced various Open source and proprietary Ruby Gems with Heroku, Capistrano.\n· Used RSpec, factory girl/factory bot, cucumber, capybara and gherkin to create test/behavior driven development. Experience with all of the RVM, Bundler, GEMS and libraries for this version of the ruby/rails.\n· Practiced Test Driven Development with RSpec and Behavior Driven Development with Cucumber and Capybara.\n· Expert working knowledge on databases like RDBMS (MySQL, MS-SQL, SQLite, Oracle) & NoSQL (Mongo DB)\n· Proficient in designing and implementation of store procedures, views, triggers on databases such as MySQL, Hive, SQLite, PostgreSQL and Oracle.\n· Performed extensive programming in MYSQL to achieve all functionality.\n· High proficiency with front end web frameworks such as Angular.js.\n· Hands on experience with Non-SQL Databases such as CouchDB and MongoDB.\n· Worked with XML related technologies such as XML, XSD, XSLT and JAXB and used XML Schema for retrieving patient details in some of my projects.\n· Experienced in UI development using HTML5, CSS3, AJAX, JavaScript and jQuery, ANT and Maven.\n· Good Knowledge in developing single page application using Angular, React with responsive and reactive design(RXJS, NGRX, REDUX).\n· Experience with cloud services like Heroku, Amazon web services(AWS) EC2, S3 etc.\n· Have Knowledge in build and deployment tools like Jenkins\n· Developed and implemented various Ajax Frameworks such as jQuery, JSON.\n· Experienced in installing, configuring, modifying, testing and deploying applications with Apache.\n· Good Knowledge Objected Oriented Concepts, Standard Template Library, Smart Pointers, Data Structures and Design patterns.\n· Hands on Ruby on Rails tools like scaffolding to construct the models and views, WEBrick and PUMA for Ruby web server management.\n· Expert in MS SQL Server BI components, Integration Services (SSIS), Analysis Services (SSAS) and Reporting Services (SSRS)\n· Great experience with troubleshooting and debugging the code.\n· Excellent problem solving, analytical skills and critical thinking skills.\n· Experience in installation and configuration of multiple versions of Ruby using RVM (Ruby Version Manager) bundler install.",
+        "raw_text": "Vishal Kalletla\nSenior Software Engineer\nM:\nSUMMARY\n· 10+ years of experience in Analysis, Design, Development, Implementation and Production in Financial, Marketing and Healthcare Domains.\n· Developed applications using Ruby on Rails, HTML, CSS, JavaScript, AngularJS, JQuery, Bootstrap, Java, JSP, J2EE, Spring, SQL, MySQL, Oracle, MongoDB, Python, Linux/Unix.\n· Have comprehensive knowledge in Ruby on Rails lifecycle: architecture, user stories, UX & UI.\n· Experience in developing Object-Oriented Programming (OOP), MVC based Applications using ROR and Java.\n· Worked with the teams that follow Agile Scrum methodology, participated in designing and planning the project.\n· Analyze, design, develop and implement various applications utilizing Ruby on Rails.\n· Experience in Test-Driven Development (TDD) and Behavior-Driven Development (BDD).\n· Experienced various Open source and proprietary Ruby Gems with Heroku, Capistrano.\n· Used RSpec, factory girl/factory bot, cucumber, capybara and gherkin to create test/behavior driven development. Experience with all of the RVM, Bundler, GEMS and libraries for this version of the ruby/rails.\n· Practiced Test Driven Development with RSpec and Behavior Driven Development with Cucumber and Capybara.\n· Expert working knowledge on databases like RDBMS (MySQL, MS-SQL, SQLite, Oracle) & NoSQL (Mongo DB)\n· Proficient in designing and implementation of store procedures, views, triggers on databases such as MySQL, Hive, SQLite, PostgreSQL and Oracle.\n· Performed extensive programming in MYSQL to achieve all functionality.\n· High proficiency with front end web frameworks such as Angular.js.\n· Hands on experience with Non-SQL Databases such as CouchDB and MongoDB.\n· Worked with XML related technologies such as XML, XSD, XSLT and JAXB and used XML Schema for retrieving patient details in some of my projects.\n· Experienced in UI development using HTML5, CSS3, AJAX, JavaScript and jQuery, ANT and Maven.\n· Good Knowledge in developing single page application using Angular, React with responsive and reactive design(RXJS, NGRX, REDUX).\n· Experience with cloud services like Heroku, Amazon web services(AWS) EC2, S3 etc.\n· Have Knowledge in build and deployment tools like Jenkins\n· Developed and implemented various Ajax Frameworks such as jQuery, JSON.\n· Experienced in installing, configuring, modifying, testing and deploying applications with Apache.\n· Good Knowledge Objected Oriented Concepts, Standard Template Library, Smart Pointers, Data Structures and Design patterns.\n· Hands on Ruby on Rails tools like scaffolding to construct the models and views, WEBrick and PUMA for Ruby web server management.\n· Expert in MS SQL Server BI components, Integration Services (SSIS), Analysis Services (SSAS) and Reporting Services (SSRS)\n· Great experience with troubleshooting and debugging the code.\n· Excellent problem solving, analytical skills and critical thinking skills.\n· Experience in installation and configuration of multiple versions of Ruby using RVM (Ruby Version Manager) bundler install.\nTECHNICAL SKILLS\nLanguages    Ruby, SQL, MQL, HiveQL, Python, Java, PHP, C, C++\nDatabase    MongoDB, Oracle SQL, PostgreSQL, Hive\nWeb and Scripting Languages Rake, Rails, JavaScript, JQuery, AngularJS, ReactJS, ASP, HTML5, CSS3.\nRuby Testing Tools  Rspec, Cucumber, selenium-webdriver, capybara, Minitest\nApplication Servers  Microsoft IIS, Tomcat, Apache (LAMP), Web sphere\nOperating Systems   Mac OS, Linux (Ubuntu 8.04 through 11.10) & Windows (multi-threading applications)\nWeb Service Technologies SOUP, Restful\nUML Tools    MS-Visio 2010/2013\nDevelopment Tools       RubyMine, VS Studio, Sublime, Atom, VS Professional, Spring\nTool Suite, Eclipse, Intellij\nVersioning Tools   GitHub, TFS, TortoiseSVN\nPlatforms      Ubuntu, Windows server 2012, Windows 7/8/10, AWS (EC2,EMR)\nNetwork Protocols  TCP/IP, UDP, HTTP\nPROFESSIONAL EXPERIENCE\nM9 Consulting Inc.\nClient: HBX, Washington, DC                                                (July 2017 – Present) Senior Software Engineer / Ruby on Rails Developer\nResponsibilities:\n· Prepared and analyzed System Requirements Specifications (SRS) for a project and interacted with client during requirements specifications.\n· Implemented and enhanced CRUD operations for the applications using the MVC (Model View Controller) architecture framework.\n· Developed microservices to increase productivity, quality and security.\n· Created most important Business Rules which are useful for the scope of project and needs of customers.\n· Developed and tested many features for dashboard using Ruby on Rails, Bootstrap, CSS and JavaScript.\n· Planned and carried out daily scrums, weekly estimations and retrospectives and pair programming.\n· Followed Test Driven Development (TDD), Scrum concepts of the Agile Methodology to produce high Quality Software.\n· Practiced Test-Driven Development with RSpec as well as Behavior Driven Development with Cucumber and Capybara to specify and test controller classes, models, view templates, helpers and routing.\n· User Interface for website with ERB, JQuery, html, css, Ajax in Ruby on Rails Framework.\n· Used Extreme Programming (XP) and Scrum practices.\n· Developed ETL workflows involving Data extraction, serialization, transformations and loading into mongodb.\n· Involved in creating and maintaining Database objects, Profiles and associated tablespaces, Roles and Privileges.\n· Used AMQP for messaging protocol.\n· Have exposer in building containers using Docker.\n· Used JQuery, Angularjs, Reactjs and Ajax in web applications to enhance the customer website experience.\n· Design and maintain ROR code. Implement upgrades, patches, code releases, and database changes using Mongo DB (NoSQL)\n· Peer-review code to satisfy quality, stability, performance, DRY patterns and security checklist.\n· Wrote ruby scripts for deployments onto AWS and Continuous Integration provisioning.\n· Analyzed software requirements and provide solutions and performed analysis, design, coding, testing, implementation, and maintenance of software solutions.\nEnvironment: Ruby 2.3 , Ruby 2.5, Rails 4.2, Rails 5.2 , HTML5, CSS3, Bootstrap, JavaScript, Angular JS, ReactJS , JSON, OJ, Multi_JSON, Jquery, Rubygems, Unix/Linux, GIT/ GitHub, RSPEC, Minitest, Cucumber, Agile, AmazonEC2, MongoDB, Faraday, httparty, Actionmailer, Selenium-webdriver, Capybara, Devise, concurrent-ruby, Rubo 3T (ROBOMONGO), AMQP, Docker, Puma.\nM9 Consulting Inc.\nClient: Ernst & Young, Alpharetta, GA                      (August 2016 – July 2017)\nSoftware Developer\nResponsibilities:\n• Developed web application using Ruby on Rails on Unix/Linux operating system, backed by MySQL, and PostgreSQL.\n• Planned and carried out daily scrums, weekly estimations and retrospectives and pair programming.\n· Involved in Software Development which is driven by Agile methodology.\n• Develop user friendly and sophisticated graphical representation of the catalogue of items that would be configured for a piece of equipment.\n• Design and implementation of MVC framework using technologies like JavaScript, HTML, CSS, and RUBY on RAILS.\n· Upgraded associated gems, across multiple Ruby and Rails versions.\n• Implemented Behavior Driven Deployment (BDD) using R spec and Cucumber to perform cross browser and regression testing.\n• Execute lossless data migrations in production from a MySQL database to a redesigned PostgreSQL database.\n· ETL: Data extraction, managing, aggregations and loading into Hive.\n· Used Talend to perform ETL jobs.\n· Implemented Big Data tools within Hadoop ecosystem (HDFS, Hive, Pig, Sqoop, Oozie).\n· Created Hive External tables and loaded the data into tables and queried data using HQL that helped market analysts to look for emerging trends by comparing fresh data with EDW reference tables.\n· Used Hive to analyze the partitioned and bucketed data and compute various metrics for reporting.\n· Worked closely with other developers, project managers, UX designers, and marketers on agile user stories.\nEnvironment: Ruby, Rails, HTML5, CSS3, Bootstrap, JavaScript, JSON, Jquery, Rubygems, MySQL, Unix/Linux, Restful, GIT, WEBrick, RSPEC, Cucumber, Agile, AmazonEC2, Hive, Pig, Sqoop, Oozie.\nCognizant Technology Solutions             (Nov 2009 to May 2015)\nSenior Programmer Analyst\nResponsibilities:\n· Involved in various phases of Software development life cycle (SDLC) as requirement gathering, modeling, analysis, architecture design & development.\n· Designed and developed web applications using Ruby, Rails, Java/J2EE design patterns, HTML, CSS, Java Script AJAX and JQuery.\n· Designed and developed necessary UML Diagrams (Use Case, Class, Sequence, State).\n· Responsibilities included developing new features, fixing bugs, interfacing with the product development and software quality assurance group.\n· Developed custom Rails applications specific to client's unique needs.\n· Database modeling and design. Involved in developing and implementation of the web application using Ruby on Rails.\n· Participated in requirements definition and story carding.\n· Worked extensively with arrays and hashes in the ruby environment.\n· Used many regular expressions in order to match the pattern with the existing one.\n· Designed, development controller and view part of the system by scaffolding.\n· Understanding of how web applications work including security, session management and best development practices.\n· Focus on Ruby development, both inside of a traditional Rails application, and as part of a report generating application.\n· Developed the user authentication and order processing modules for customer facing application.\n· Develop user friendly and sophisticated graphical representation of the catalogue of items that would be configured for a piece of equipment.\n· Responsible for most view/controller changes, as well as model/database integration with other members of team.\n· Developed cross-browser/platform using HTML, CSS, JQuery and JavaScript to match design specs for complex page layouts while adhering to code standards\n· Deployed application and provide continuous maintenance using Git.\n· Developed Session Beans to process user requests and Entity Beans to load and store information from database.\n· Designed and used JUnit test cases during the development phase.\n· Used Tortoise SVN for version control of the source code.\n· Open source cross-platform WebTesting (WSDL) using SoapUI.\n· Designed and implemented relational database, and stored procedures, views, and triggers using MS SQL server development tool.\nEnvironment: Ruby, Rails, SQL, WEBrick, HTML, JQuery, JavaScript, CSS3, AJAX, Java, J2EE, Web Services (SOAP, WSDL, JAX-WS), Spring, Servlets, JSP, JUnit, Tortoise SVN, Log4j, PL/SQL, WebSphere",
+        "all_cert_objs": [],
+        "resume_type": "1"
+    },
+    "eval": {
+        "salary": 16100
+    },
+    "tags": {
+        "industries": [],
+        "pos_types": [
+            {
+                "tag_weight": 0.007748010635375977,
+                "tag_name": "软件工程师"
+            },
+            {
+                "tag_weight": 0.0038740053176879886,
+                "tag_name": "高级软件工程师"
+            },
+            {
+                "tag_weight": 0.0012913351058959962,
+                "tag_name": "互联网软件开发工程师"
+            }
+        ],
+        "pos_tags": [
+            {
+                "tag_weight": 1.0,
+                "tag_name": " software engineer"
+            },
+            {
+                "tag_weight": 0.2,
+                "tag_name": "software developer"
+            },
+            {
+                "tag_weight": 0.01586501827597618,
+                "tag_name": "database"
+            },
+            {
+                "tag_weight": 0.015470623493194582,
+                "tag_name": "agile"
+            },
+            {
+                "tag_weight": 0.014065916738510133,
+                "tag_name": "integration"
+            },
+            {
+                "tag_weight": 0.013738499478101731,
+                "tag_name": "architecture"
+            },
+            {
+                "tag_weight": 0.013679274985790253,
+                "tag_name": "applications"
+            },
+            {
+                "tag_weight": 0.012913351058959962,
+                "tag_name": "developer"
+            },
+            {
+                "tag_weight": 0.01240858507156372,
+                "tag_name": "framework"
+            },
+            {
+                "tag_weight": 0.012348788499832154,
+                "tag_name": "cucumber"
+            }
+        ],
+        "skills_tags": [
+            {
+                "tag_weight": 1.3148839032649993,
+                "tag_name": "database"
+            },
+            {
+                "tag_weight": 1.2281598186492921,
+                "tag_name": "ruby"
+            },
+            {
+                "tag_weight": 1.1229390859603883,
+                "tag_name": "cucumber"
+            },
+            {
+                "tag_weight": 1.0124702453613281,
+                "tag_name": "angularjs"
+            },
+            {
+                "tag_weight": 1.0088411092758178,
+                "tag_name": "mongodb"
+            },
+            {
+                "tag_weight": 0.9592340624332428,
+                "tag_name": "javascript"
+            },
+            {
+                "tag_weight": 0.9173505544662476,
+                "tag_name": "reactjs"
+            },
+            {
+                "tag_weight": 0.8870022296905518,
+                "tag_name": "selenium"
+            },
+            {
+                "tag_weight": 0.8470390081405641,
+                "tag_name": "aws"
+            },
+            {
+                "tag_weight": 0.8286604881286622,
+                "tag_name": "postgresql"
+            },
+            {
+                "tag_weight": 0.7927318453788758,
+                "tag_name": "restful"
+            },
+            {
+                "tag_weight": 0.7734165668487549,
+                "tag_name": "agile"
+            },
+            {
+                "tag_weight": 0.6628530263900757,
+                "tag_name": "hive"
+            },
+            {
+                "tag_weight": 0.6568863868713379,
+                "tag_name": "rails"
+            },
+            {
+                "tag_weight": 0.6500765895843506,
+                "tag_name": "integration"
+            },
+            {
+                "tag_weight": 0.6323868072032929,
+                "tag_name": "architecture"
+            },
+            {
+                "tag_weight": 0.6317972636222839,
+                "tag_name": "applications"
+            },
+            {
+                "tag_weight": 0.6143944025039674,
+                "tag_name": "framework"
+            },
+            {
+                "tag_weight": 0.5923254251480102,
+                "tag_name": "ruby on rails"
+            },
+            {
+                "tag_weight": 0.560701847076416,
+                "tag_name": "web service"
+            },
+            {
+                "tag_weight": 0.5520794188976288,
+                "tag_name": "spring"
+            },
+            {
+                "tag_weight": 0.5498851776123047,
+                "tag_name": "python"
+            },
+            {
+                "tag_weight": 0.5474337816238404,
+                "tag_name": "mvc"
+            },
+            {
+                "tag_weight": 0.5442908763885498,
+                "tag_name": "iis"
+            },
+            {
+                "tag_weight": 0.5423489570617676,
+                "tag_name": "eclipse"
+            },
+            {
+                "tag_weight": 0.5340102672576904,
+                "tag_name": "ubuntu"
+            },
+            {
+                "tag_weight": 0.524091100692749,
+                "tag_name": "github"
+            },
+            {
+                "tag_weight": 0.516930341720581,
+                "tag_name": "css3"
+            },
+            {
+                "tag_weight": 0.5165340423583985,
+                "tag_name": "developer"
+            },
+            {
+                "tag_weight": 0.5095616817474365,
+                "tag_name": "windows server"
+            },
+            {
+                "tag_weight": 0.5082849502563477,
+                "tag_name": "udp"
+            },
+            {
+                "tag_weight": 0.5056396484375,
+                "tag_name": "tomcat"
+            },
+            {
+                "tag_weight": 0.5053441524505615,
+                "tag_name": "jquery"
+            },
+            {
+                "tag_weight": 0.49922704696655273,
+                "tag_name": "tcp/ip"
+            },
+            {
+                "tag_weight": 0.49865150451660156,
+                "tag_name": "html5"
+            },
+            {
+                "tag_weight": 0.48560523986816406,
+                "tag_name": "java"
+            },
+            {
+                "tag_weight": 0.4837373054027558,
+                "tag_name": "controller"
+            },
+            {
+                "tag_weight": 0.4794037342071533,
+                "tag_name": "php"
+            },
+            {
+                "tag_weight": 0.47672444939613345,
+                "tag_name": "model"
+            },
+            {
+                "tag_weight": 0.46677446365356445,
+                "tag_name": "webdriver"
+            },
+            {
+                "tag_weight": 0.46673398017883305,
+                "tag_name": "tfs"
+            },
+            {
+                "tag_weight": 0.4621586322784424,
+                "tag_name": "sublime"
+            },
+            {
+                "tag_weight": 0.4613827705383301,
+                "tag_name": "c++"
+            },
+            {
+                "tag_weight": 0.445358943939209,
+                "tag_name": "consulting"
+            },
+            {
+                "tag_weight": 0.4429653644561768,
+                "tag_name": "lamp"
+            },
+            {
+                "tag_weight": 0.4372572422027588,
+                "tag_name": "coding"
+            },
+            {
+                "tag_weight": 0.42813138961791997,
+                "tag_name": "vs"
+            },
+            {
+                "tag_weight": 0.41284279823303227,
+                "tag_name": "asp"
+            },
+            {
+                "tag_weight": 0.4013636112213135,
+                "tag_name": "tortoisesvn"
+            },
+            {
+                "tag_weight": 0.39995436668396,
+                "tag_name": "oracle sql"
+            }
+        ]
+    }
+}

@@ -1,0 +1,312 @@
+{
+    "fullName": "李浩吉",
+    "contacts": [
+        {
+            "contact": "15822516730",
+            "type": "PHONE"
+        },
+        {
+            "contact": "lihaoji1994@163.com",
+            "type": "EMAIL"
+        }
+    ],
+    "languages": [
+        "英语"
+    ],
+    "educations": [
+        {
+            "startDate": "2020-04-01",
+            "current": true,
+            "collegeName": "北京邮电大学",
+            "degreeLevel": "本科",
+            "majorName": "计算机信息管理"
+        },
+        {
+            "startDate": "2013-09-01",
+            "endDate": "2016-06-01",
+            "collegeName": "天津职业大学",
+            "degreeLevel": "大专",
+            "majorName": "机械制造与自动化"
+        }
+    ],
+    "experiences": [
+        {
+            "companyName": "小黄狗环保科技有限公司",
+            "title": "Java开发工程师",
+            "startDate": "2019-11-01",
+            "current": true
+        },
+        {
+            "companyName": "软通动力信息技术有限公司",
+            "title": "Java开发工程师",
+            "startDate": "2017-08-01",
+            "endDate": "2019-10-01"
+        },
+        {
+            "companyName": "北京中宝世纪科技有限公司",
+            "title": "Java开发工程师",
+            "startDate": "2016-07-01",
+            "endDate": "2017-08-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "App"
+        },
+        {
+            "skillName": "Jvm"
+        },
+        {
+            "skillName": "Oss"
+        },
+        {
+            "skillName": "Jdk"
+        },
+        {
+            "skillName": "Cms"
+        },
+        {
+            "skillName": "Nio"
+        },
+        {
+            "skillName": "Git"
+        },
+        {
+            "skillName": "SQL"
+        },
+        {
+            "skillName": "Svn"
+        },
+        {
+            "skillName": "Vue"
+        },
+        {
+            "skillName": "Jwt"
+        },
+        {
+            "skillName": "MVC"
+        },
+        {
+            "skillName": "Jdbc"
+        },
+        {
+            "skillName": "Java"
+        },
+        {
+            "skillName": "Idea"
+        },
+        {
+            "skillName": "Open"
+        },
+        {
+            "skillName": "Saas"
+        },
+        {
+            "skillName": "Hash"
+        },
+        {
+            "skillName": "View"
+        },
+        {
+            "skillName": "Feign"
+        },
+        {
+            "skillName": "Redis"
+        },
+        {
+            "skillName": "Linux"
+        },
+        {
+            "skillName": "Nginx"
+        },
+        {
+            "skillName": "netty"
+        },
+        {
+            "skillName": "Excel"
+        },
+        {
+            "skillName": "Dubbo"
+        },
+        {
+            "skillName": "MySQL"
+        },
+        {
+            "skillName": "Log4J"
+        },
+        {
+            "skillName": "shiro"
+        },
+        {
+            "skillName": "Mycat"
+        },
+        {
+            "skillName": "Maven"
+        },
+        {
+            "skillName": "策划"
+        },
+        {
+            "skillName": "配置"
+        },
+        {
+            "skillName": "运营"
+        },
+        {
+            "skillName": "缓存"
+        },
+        {
+            "skillName": "功能"
+        },
+        {
+            "skillName": "优化"
+        },
+        {
+            "skillName": "接口"
+        },
+        {
+            "skillName": "Spring"
+        },
+        {
+            "skillName": "Ribbon"
+        },
+        {
+            "skillName": "线程"
+        },
+        {
+            "skillName": "Cookie"
+        },
+        {
+            "skillName": "架构"
+        },
+        {
+            "skillName": "Tomcat"
+        },
+        {
+            "skillName": "Eureka"
+        },
+        {
+            "skillName": "客服"
+        },
+        {
+            "skillName": "Fastdfs"
+        },
+        {
+            "skillName": "Session"
+        },
+        {
+            "skillName": "Logback"
+        },
+        {
+            "skillName": "Mybatis"
+        },
+        {
+            "skillName": "swagger"
+        },
+        {
+            "skillName": "Eclipse"
+        },
+        {
+            "skillName": "Hystrix"
+        },
+        {
+            "skillName": "Activemq"
+        },
+        {
+            "skillName": "Activity"
+        },
+        {
+            "skillName": "rocketmq"
+        },
+        {
+            "skillName": "用户端"
+        },
+        {
+            "skillName": "物联网"
+        },
+        {
+            "skillName": "多线程"
+        },
+        {
+            "skillName": "中间件"
+        },
+        {
+            "skillName": "数据库"
+        },
+        {
+            "skillName": "springmvc"
+        },
+        {
+            "skillName": "Zookeeper"
+        },
+        {
+            "skillName": "大数据"
+        },
+        {
+            "skillName": "Springboot"
+        },
+        {
+            "skillName": "Java开发"
+        },
+        {
+            "skillName": "httpclient"
+        },
+        {
+            "skillName": "Mybatisplus"
+        },
+        {
+            "skillName": "springcloud"
+        },
+        {
+            "skillName": "代码编写"
+        },
+        {
+            "skillName": "Sql数据库"
+        },
+        {
+            "skillName": "Mybatis-Plus"
+        },
+        {
+            "skillName": "信息技术"
+        },
+        {
+            "skillName": "系统管理"
+        },
+        {
+            "skillName": "数据结构"
+        },
+        {
+            "skillName": "架构设计"
+        },
+        {
+            "skillName": "机械制造"
+        },
+        {
+            "skillName": "系统维护"
+        },
+        {
+            "skillName": "沟通能力"
+        },
+        {
+            "skillName": "统计分析"
+        },
+        {
+            "skillName": "Sharding-Jdbc"
+        },
+        {
+            "skillName": "Springsession"
+        },
+        {
+            "skillName": "Elasticsearch"
+        },
+        {
+            "skillName": "Mysql数据库"
+        },
+        {
+            "skillName": "springsecurity"
+        },
+        {
+            "skillName": "数据库设计"
+        }
+    ]
+}

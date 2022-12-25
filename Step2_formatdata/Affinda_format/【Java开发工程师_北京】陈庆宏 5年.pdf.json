@@ -1,0 +1,70 @@
+{
+    "fullName": "陈庆宏 Chen Qing Hong",
+    "contacts": [
+        {
+            "contact": "631953504@qq.com",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "+8617686412707",
+            "type": "PHONE"
+        },
+        {
+            "contact": "9e699384b46327161",
+            "type": "PHONE"
+        },
+        {
+            "contact": "e69938 4b 463 271",
+            "type": "PHONE"
+        }
+    ],
+    "currentLocation": [
+        {
+            "location": "Beijing, China"
+        }
+    ],
+    "languages": [
+        "Chinese"
+    ],
+    "educations": [
+        {
+            "collegeName": "山东科技大学",
+            "majorName": "计算机科学与技术"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "公司名称 北京智德天成信息技术有限公司 2021.6-2022.9 Java 开发工程师 ",
+            "companyName": "天地伟业技术有限公司",
+            "title": "Java 开发工程师",
+            "startDate": "2018-06-01",
+            "endDate": "2021-06-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "MyBatis"
+        },
+        {
+            "skillName": "RabbitMQ"
+        },
+        {
+            "skillName": "MySQL"
+        },
+        {
+            "skillName": "Linux"
+        },
+        {
+            "skillName": "Java (Programming Language)"
+        },
+        {
+            "skillName": "SQL (Programming Language)"
+        },
+        {
+            "skillName": "Apache ActiveMQ"
+        },
+        {
+            "skillName": "Redis"
+        }
+    ]
+}

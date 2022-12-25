@@ -1,0 +1,39 @@
+{
+    "fullName": "熊成  ",
+    "languages": [
+        "Chinese"
+    ],
+    "educations": [
+        {
+            "startDate": "2015-09-01",
+            "endDate": "2019-06-01",
+            "collegeName": "武汉纺织大学",
+            "majorName": "(全日制一本) 软件工程/本科"
+        },
+        {
+            "startDate": "2019-09-01",
+            "endDate": "2021-06-01",
+            "collegeName": "中南财经政法大学",
+            "majorName": "(全日制211) 计算机技术/硕士"
+        }
+    ],
+    "experiences": [
+        {
+            "companyName": "nFy3tu8EVNTy5G6VfqZReOhmQ~~"
+        },
+        {
+            "companyName": "九江银行 信息科技部",
+            "title": "金融科技岗",
+            "startDate": "2021-07-01",
+            "endDate": "2022-06-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "Apache Kafka"
+        },
+        {
+            "skillName": "Java (Programming Language)"
+        }
+    ]
+}

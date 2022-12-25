@@ -1,0 +1,104 @@
+{
+    "fullName": "  ",
+    "contacts": [
+        {
+            "contact": "lihaoji1994@163.com",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "+8615822516730",
+            "type": "PHONE"
+        }
+    ],
+    "currentLocation": [
+        {
+            "location": "Yangquan, Shanxi, China"
+        }
+    ],
+    "languages": [
+        "Chinese"
+    ],
+    "educations": [
+        {
+            "collegeName": "北京邮电大学",
+            "majorName": "计算机信息管理 (本科)"
+        },
+        {
+            "startDate": "2013-09-01",
+            "endDate": "2016-06-01",
+            "collegeName": "天津职业大学",
+            "majorName": "机械制造与自动化 (大专)"
+        }
+    ],
+    "experiences": [
+        {
+            "companyName": "小黄狗环保科技有限公司",
+            "title": "Java开发工程师"
+        },
+        {
+            "companyName": "软通动力信息技术有限公司",
+            "title": "Java开发工程师",
+            "startDate": "2017-08-01",
+            "endDate": "2019-10-01"
+        },
+        {
+            "companyName": "北京中宝世纪科技有限公司",
+            "title": "Java开发工程师",
+            "startDate": "2016-07-01",
+            "endDate": "2017-08-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "JSON Web Token (JWT)"
+        },
+        {
+            "skillName": "Apache Tomcat"
+        },
+        {
+            "skillName": "Software Versioning"
+        },
+        {
+            "skillName": "MySQL"
+        },
+        {
+            "skillName": "Linux"
+        },
+        {
+            "skillName": "Java (Programming Language)"
+        },
+        {
+            "skillName": "Nginx"
+        },
+        {
+            "skillName": "Session (Computer Science)"
+        },
+        {
+            "skillName": "Elasticsearch"
+        },
+        {
+            "skillName": "MyBatis"
+        },
+        {
+            "skillName": "Message Queuing Telemetry Transport (MQTT)"
+        },
+        {
+            "skillName": "Spring Security"
+        },
+        {
+            "skillName": "Jdk1.7"
+        },
+        {
+            "skillName": "Httpclient"
+        },
+        {
+            "skillName": "Eclipse (Software)"
+        },
+        {
+            "skillName": "Redis"
+        },
+        {
+            "skillName": "Apache ActiveMQ"
+        }
+    ]
+}

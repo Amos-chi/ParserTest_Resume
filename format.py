@@ -12,6 +12,7 @@ def ResumeSDK_format():
     tar_path = 'Step2_formatdata\\ResumeSDK_format'
     files = os.listdir(path)
     for file in files:
+        print(f'ResumeSDK_Result_format :  {file}')
         f = open(os.path.join(path,file), 'r', encoding='utf-8')
         dataStr = f.read()
         data = json.loads(dataStr)
@@ -48,7 +49,9 @@ def ResumeSDK_format():
 
         #location
         if data['result'].get('city_norm'):
-            dict['location'] = data['result']['city']
+            currentLocation = {}
+            currentLocation['location'] = data['result']['city']
+            dict['currentLocation'] = currentLocation
 
         # languages
         if data['result'].get('lang_objs'):
@@ -110,7 +113,7 @@ def ResumeSDK_format():
                 skills.append(skillsDict)
             dict['skills'] = skills
 
-        print(f'ResumeSDK_Result_format :  {file}')
+        print(f'{file} done')
         ff = open(os.path.join(tar_path,file), 'w', encoding='utf-8')
         ff.write(json.dumps(dict, indent=4, ensure_ascii=False))
 
@@ -219,12 +222,9 @@ def affinda_format():
 
         # locations
         if data.get('location'):
-            dict['currentLocation'] = {
-                "location" : data['location']
-            }
-            dict['preferredLocations'] = {
-                "location" : data['location']
-            }
+            dict['currentLocation'] = [{
+                "location" : data['location']['formatted']
+            }]
 
         # languages
         if data.get('languages'):
@@ -331,11 +331,14 @@ def Xiaoxi_format():
 
             # current_location
             if not data['english_parsing_result']['basic_info']['current_location'] == '':
-                dict['currentLocation'] = data['english_parsing_result']['basic_info']['current_location']
+                dict['currentLocation'] = [{
+                    "location": data['english_parsing_result']['basic_info']['current_location']
+                }]
             # expect_location
             if not data['english_parsing_result']['basic_info']['expect_location'] == '':
-                dict['preferredLocations'] = data['english_parsing_result']['basic_info']['expect_location']
-
+                dict['preferredLocations'] = [{
+                    "location": data['english_parsing_result']['basic_info']['expect_location']
+                }]
             # languages
             if not data['english_parsing_result']['others']['language'] == []:
                 dict['languages'] = data['english_parsing_result']['others']['language']
@@ -435,10 +438,14 @@ def Xiaoxi_format():
 
             # current_location
             if not data['parsing_result']['basic_info']['current_location'] == '':
-                dict['currentLocation'] = data['parsing_result']['basic_info']['current_location']
+                dict['currentLocation'] = [{
+                    "location": data['parsing_result']['basic_info']['current_location']
+                }]
             # expect_location
             if not data['parsing_result']['basic_info']['expect_location'] == '':
-                dict['preferredLocations'] = data['parsing_result']['basic_info']['expect_location']
+                dict['preferredLocations'] = [{
+                    "location": data['parsing_result']['basic_info']['expect_location']
+                }]
 
             # languages
             if not data['parsing_result']['others']['language'] == []:
@@ -515,8 +522,8 @@ def Xiaoxi_format():
 
 if __name__ == '__main__':
     #hitlant_format()
-    ResumeSDK_format()
+    #ResumeSDK_format()
     #affinda_format()
-    #Xiaoxi_format()
+    Xiaoxi_format()
 
 

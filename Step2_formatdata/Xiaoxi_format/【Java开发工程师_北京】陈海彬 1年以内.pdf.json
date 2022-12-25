@@ -1,0 +1,203 @@
+{
+    "fullName": "陈海彬",
+    "contacts": [
+        {
+            "contact": "18170488637",
+            "type": "PHONE"
+        },
+        {
+            "contact": "qmjianli@qq.com",
+            "type": "EMAIL"
+        }
+    ],
+    "languages": [
+        "英语",
+        "英语四级"
+    ],
+    "educations": [
+        {
+            "startDate": "2018-07-01",
+            "endDate": "2022-07-01",
+            "collegeName": "江西师范大学",
+            "degreeLevel": "本科",
+            "majorName": "网络工程"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "负责微店商家平台增长业务后端的研发工作，日常工作包括但不限于:\n• 编写业务代码、单元测试、联调、修复测试提出的bug、集成部署代码上线\n• 及时关注线上告警和群内用户反馈，修复线上bug",
+            "companyName": "无线生活（北京）信息技术有限公司",
+            "title": "Java开发工程师",
+            "startDate": "2022-07-01",
+            "current": true
+        },
+        {
+            "description": "负责微店商家平台增长业务后端的研发工作，协助正式员工完成对应的需求开发，日常工作包\n 18170488637 • 编写业务代码、单元测试、联调、修复测试提出的bug、集成部署代码上线\n• 及时关注线上告警和群内用户反馈，修复线上bug",
+            "companyName": "无线生活（北京）信息技术有限公司",
+            "title": "共青团员",
+            "startDate": "2021-07-01",
+            "endDate": "2022-04-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "Mq"
+        },
+        {
+            "skillName": "Git"
+        },
+        {
+            "skillName": "Jvm"
+        },
+        {
+            "skillName": "Ssm"
+        },
+        {
+            "skillName": "Web"
+        },
+        {
+            "skillName": "Vue"
+        },
+        {
+            "skillName": "Jdk"
+        },
+        {
+            "skillName": "SQL"
+        },
+        {
+            "skillName": "Cps"
+        },
+        {
+            "skillName": "Idea"
+        },
+        {
+            "skillName": "Java"
+        },
+        {
+            "skillName": "Hive"
+        },
+        {
+            "skillName": "MySQL"
+        },
+        {
+            "skillName": "HBase"
+        },
+        {
+            "skillName": "Dubbo"
+        },
+        {
+            "skillName": "Redis"
+        },
+        {
+            "skillName": "Maven"
+        },
+        {
+            "skillName": "Linux"
+        },
+        {
+            "skillName": "Debug"
+        },
+        {
+            "skillName": "接口"
+        },
+        {
+            "skillName": "Spring"
+        },
+        {
+            "skillName": "营销"
+        },
+        {
+            "skillName": "配置"
+        },
+        {
+            "skillName": "Devops"
+        },
+        {
+            "skillName": "迭代"
+        },
+        {
+            "skillName": "Docker"
+        },
+        {
+            "skillName": "缓存"
+        },
+        {
+            "skillName": "性能"
+        },
+        {
+            "skillName": "功能"
+        },
+        {
+            "skillName": "Navicate"
+        },
+        {
+            "skillName": "大数据"
+        },
+        {
+            "skillName": "多线程"
+        },
+        {
+            "skillName": "中间件"
+        },
+        {
+            "skillName": "数据库"
+        },
+        {
+            "skillName": "Springboot"
+        },
+        {
+            "skillName": "Java开发"
+        },
+        {
+            "skillName": "Java语言"
+        },
+        {
+            "skillName": "沟通能力"
+        },
+        {
+            "skillName": "程序设计"
+        },
+        {
+            "skillName": "网络工程"
+        },
+        {
+            "skillName": "信息技术"
+        },
+        {
+            "skillName": "单元测试"
+        },
+        {
+            "skillName": "系统设计"
+        },
+        {
+            "skillName": "操作系统"
+        },
+        {
+            "skillName": "数据分析"
+        },
+        {
+            "skillName": "开发工具"
+        },
+        {
+            "skillName": "网络编程"
+        },
+        {
+            "skillName": "Elasticsearch"
+        },
+        {
+            "skillName": "Intellij Idea"
+        },
+        {
+            "skillName": "Mysql数据库"
+        },
+        {
+            "skillName": "计算机网络"
+        },
+        {
+            "skillName": "常用的设计模式"
+        },
+        {
+            "skillName": "数据结构和算法"
+        }
+    ]
+}

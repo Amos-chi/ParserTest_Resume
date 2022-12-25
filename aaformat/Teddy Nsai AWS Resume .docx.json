@@ -17,21 +17,21 @@
         {
             "startDate": "2013-04-01",
             "current": true,
-            "collegeName": "NortheasternUniversity\\W{0,2}Boston",
+            "collegeName": "NortheasternUniversity(\\W{0,2}Boston)?",
             "degreeLevel": "MASTER",
-            "majorName": "Sciences in Project Manager and Information Security"
+            "majorName": "(Sciences in )?Project Manager and Information Security"
         },
         {
             "startDate": "2011-04-01",
             "endDate": "2013-04-01",
-            "collegeName": "NortheasternUniversity\\W{0,2}Boston",
+            "collegeName": "NortheasternUniversity(\\W{0,2}Boston)?",
             "degreeLevel": "MASTER",
             "majorName": "Sciences in Global Studies and International Affairs"
         },
         {
             "startDate": "2005-10-01",
             "endDate": "2008-10-01",
-            "collegeName": "UniversityofBueaCameroon",
+            "collegeName": "UniversityofBuea(Cameroon)?",
             "degreeLevel": "BACHELOR",
             "majorName": "Sciences in Sociology and Anthropology"
         }
@@ -40,7 +40,7 @@
         {
             "description": "\\W*W\\W*Implement\\W*W\\W*security\\W*W\\W*best\\W*W\\W*practices\\W*W\\W*around\\W*W\\W*Clouds\\W*W\\W*Infrastructure\\W*W\\W*using\\W*W\\W*tools\\W*W\\W*like\\W*W\\W*VPC\\W*W\\W*AWS\\W*W\\W*WAF\\W*W\\W*AWS\\W*W\\W*SHIELD\\W*W\\W*AWSGuard\\W*W\\W*Duty\\W*W\\W*VPC\\W*W\\W*Flow\\W*W\\W*logs\\W*W\\W*IAM\\W*W\\W*Security\\W*W\\W*Groups\\W*W\\W*NACLs\\W*W\\W*Security\\W*W\\W*Hub\\W*W\\W*Also\\W*W\\W*used\\W*W\\W*CloudWatch\\W*W\\W*and\\W*W\\W*CloudTrail\\W*W\\W*for\\W*W\\W*Monitoring\\W*W\\W*and\\W*W\\W*Logging\\W*W\\W*respectively\\W*W\\W*thereby\\W*W\\W*utilizing\\W*W\\W*these\\W*W\\W*tools\\W*W\\W*to\\W*W\\W*monitorevent\\W*W\\W*driven\\W*W\\W*patterns\\W*W\\W*and\\W*W\\W*to\\W*W\\W*integrated\\W*W\\W*with\\W*W\\W*Lambda\\W*W\\W*Functions\\W*W\\W*for\\W*W\\W*Auto\\W*W\\W*remediations\\W*W\\W*Using\\W*W\\W*encryption\\W*W\\W*and\\W*W\\W*Certificates\\W*W\\W*for\\W*W\\W*data\\W*W\\W*security\\W*W\\W*and\\W*W\\W*Privacy\\W*W\\W*using\\W*W\\W*standard\\W*W\\W*encryption\\W*W\\W*mechanisms\\W*W\\W*like\\W*W\\W*KMS\\W*W\\W*forencryption\\W*W\\W*at\\W*W\\W*rest\\W*W\\W*and\\W*W\\W*encryption\\W*W\\W*in\\W*W\\W*transit\\W*W\\W*Work\\W*W\\W*with\\W*W\\W*customers\\W*W\\W*to\\W*W\\W*define\\W*W\\W*key\\W*W\\W*capabilities\\W*W\\W*and\\W*W\\W*performance\\W*W\\W*requirements\\W*W\\W*Develops\\W*W\\W*technical\\W*W\\W*roadmaps\\W*W\\W*for\\W*W\\W*futureimplementations\\W*W\\W*Designed\\W*W\\W*secure\\W*W\\W*cost\\W*W\\W*optimized\\W*W\\W*highly\\W*W\\W*available\\W*W\\W*and\\W*W\\W*fault\\W*W\\W*tolerant\\W*W\\W*infrastructure\\W*W\\W*in\\W*W\\W*AWS\\W*W\\W*Architected\\W*W\\W*and\\W*W\\W*configured\\W*W\\W*Dev\\W*W\\W*Stage\\W*W\\W*QA\\W*W\\W*environments\\W*W\\W*in\\W*W\\W*AWS\\W*W\\W*VPC\\W*W\\W*subnets\\W*W\\W*security\\W*W\\W*groups\\W*W\\W*EC2\\W*W\\W*instances\\W*W\\W*loadbalancer\\W*W\\W*RDS\\W*W\\W*Redis\\W*W\\W*route53\\W*W\\W*etc\\W*W\\W*Implemented\\W*W\\W*security\\W*W\\W*best\\W*W\\W*practices\\W*W\\W*in\\W*W\\W*AWS\\W*W\\W*including\\W*W\\W*multi\\W*W\\W*factor\\W*W\\W*authentication\\W*W\\W*access\\W*W\\W*key\\W*W\\W*rotation\\W*W\\W*role\\W*W\\W*basedpermissions\\W*W\\W*enforced\\W*W\\W*strong\\W*W\\W*password\\W*W\\W*policy\\W*W\\W*configured\\W*W\\W*security\\W*W\\W*groups\\W*W\\W*and\\W*W\\W*NACLs\\W*W\\W*S3\\W*W\\W*bucket\\W*W\\W*policies\\W*W\\W*and\\W*W\\W*ACLs\\W*W\\W*etc\\W*W\\W*Optimized\\W*W\\W*cost\\W*W\\W*through\\W*W\\W*reserved\\W*W\\W*instances\\W*W\\W*selection\\W*W\\W*and\\W*W\\W*changing\\W*W\\W*of\\W*W\\W*EC2\\W*W\\W*instance\\W*W\\W*types\\W*W\\W*based\\W*W\\W*on\\W*W\\W*resource\\W*W\\W*need\\W*W\\W*S3storage\\W*W\\W*classes\\W*W\\W*and\\W*W\\W*S3\\W*W\\W*lifecycle\\W*W\\W*policies\\W*W\\W*leveraging\\W*W\\W*Autoscaling\\W*W\\W*etc\\W*W\\W*Leveraged\\W*W\\W*EC2\\W*W\\W*CreateSnapshot\\W*W\\W*API\\W*W\\W*call\\W*W\\W*to\\W*W\\W*create\\W*W\\W*snapshots\\W*W\\W*of\\W*W\\W*EBS\\W*W\\W*Volumes\\W*W\\W*on\\W*W\\W*scheduled\\W*W\\W*intervals\\W*W\\W*Configured\\W*W\\W*CloudWatch\\W*W\\W*alarm\\W*W\\W*rules\\W*W\\W*for\\W*W\\W*operational\\W*W\\W*and\\W*W\\W*performance\\W*W\\W*metrics\\W*W\\W*for\\W*W\\W*AWS\\W*W\\W*resources\\W*W\\W*and\\W*W\\W*applications\\W*W\\W*Configured\\W*W\\W*S3\\W*W\\W*events\\W*W\\W*to\\W*W\\W*set\\W*W\\W*up\\W*W\\W*automated\\W*W\\W*communication\\W*W\\W*between\\W*W\\W*S3\\W*W\\W*and\\W*W\\W*other\\W*W\\W*AWS\\W*W\\W*services\\W*W\\W*Review\\W*W\\W*Infrastructure\\W*W\\W*as\\W*W\\W*code\\W*W\\W*and\\W*W\\W*develop\\W*W\\W*patterns\\W*W\\W*review\\W*W\\W*patterns\\W*W\\W*to\\W*W\\W*support\\W*W\\W*DevSecOps\\W*W\\W*Develops\\W*W\\W*business\\W*W\\W*case\\W*W\\W*analysis\\W*W\\W*on\\W*W\\W*potential\\W*W\\W*projects\\W*W\\W*Ensures\\W*W\\W*security\\W*W\\W*is\\W*W\\W*integrated\\W*W\\W*into\\W*W\\W*all\\W*W\\W*architecture\\W*W\\W*solutions\\W*W\\W*Evaluates\\W*W\\W*new\\W*W\\W*application\\W*W\\W*infrastructure\\W*W\\W*and\\W*W\\W*cloud\\W*W\\W*decisions\\W*W\\W*in\\W*W\\W*existing\\W*W\\W*context\\W*W\\W*of\\W*W\\W*applications\\W*W\\W*infrastructure\\W*W\\W*standards\\W*W\\W*current\\W*W\\W*business\\W*W\\W*strategy\\W*W\\W*and\\W*W\\W*future\\W*W\\W*business\\W*W\\W*strategy\\W*W\\W*Perform\\W*W\\W*continues\\W*W\\W*monitoring\\W*W\\W*on\\W*W\\W*the\\W*W\\W*AWS\\W*W\\W*HUBZone\\W*W\\W*DataPipe\\W*W\\W*Salesforce\\W*W\\W*and\\W*W\\W*MS\\W*W\\W*Azure\\W*W\\W*cloud\\W*W\\W*systems\\W*W\\W*using\\W*W\\W*Splunk\\W*W\\W*remediating\\W*W\\W*all\\W*W\\W*vulnerability\\W*W\\W*and\\W*W\\W*closing\\W*W\\W*of\\W*W\\W*all\\W*W\\W*open\\W*W\\W*POA\\W*W\\W*Ms\\W*W\\W*Develop\\W*W\\W*deliverables\\W*W\\W*associated\\W*W\\W*with\\W*W\\W*a\\W*W\\W*FedRAMP\\W*W\\W*security\\W*W\\W*authorization\\W*W\\W*package\\W*W\\W*System\\W*W\\W*Security\\W*W\\W*Plan\\W*W\\W*InformationSystem\\W*W\\W*Contingency\\W*W\\W*Plan\\W*W\\W*Security\\W*W\\W*Assessment\\W*W\\W*Plan\\W*W\\W*Security\\W*W\\W*Assessment\\W*W\\W*Report\\W*W\\W*Authorization\\W*W\\W*to\\W*W\\W*Operate\\W*W\\W*ATO\\W*W\\W*Risk\\W*W\\W*Assessment\\W*W\\W*Report\\W*W\\W*RAR\\W*W\\W*Business\\W*W\\W*Impact\\W*W\\W*Analysis\\W*W\\W*Privacy\\W*W\\W*Impact\\W*W\\W*Analysis\\W*W\\W*Contingency\\W*W\\W*Plan\\W*W\\W*ContingencyPlan\\W*W\\W*Testing\\W*W\\W*and\\W*W\\W*Plan\\W*W\\W*of\\W*W\\W*Action\\W*W\\W*Milestones\\W*W\\W*POA\\W*W\\W*Ms\\W*W\\W*Work\\W*W\\W*closely\\W*W\\W*with\\W*W\\W*Engineer\\W*W\\W*to\\W*W\\W*deliver\\W*W\\W*FedRAMP\\W*W\\W*requirements\\W*W\\W*and\\W*W\\W*perform\\W*W\\W*FedRAMP\\W*W\\W*advisory\\W*W\\W*engagements\\W*W\\W*and\\W*W\\W*3PAOassessments\\W*W\\W*and\\W*W\\W*to\\W*W\\W*ensure\\W*W\\W*mitigation\\W*W\\W*of\\W*W\\W*System\\W*W\\W*findings\\W*W\\W*updating\\W*W\\W*POAMS\\W*W\\W*Work\\W*W\\W*with\\W*W\\W*the\\W*W\\W*client\\W*W\\W*SaaS\\W*W\\W*providers\\W*W\\W*and\\W*W\\W*internal\\W*W\\W*development\\W*W\\W*team\\W*W\\W*to\\W*W\\W*identify\\W*W\\W*security\\W*W\\W*gaps\\W*W\\W*and\\W*W\\W*resolve\\W*W\\W*them\\W*W\\W*to\\W*W\\W*protectclient\\W*W\\W*data\\W*W\\W*Establishing\\W*W\\W*monitoring\\W*W\\W*and\\W*W\\W*re\\W*W\\W*assessing\\W*W\\W*systems\\W*W\\W*Plan\\W*W\\W*of\\W*W\\W*Action\\W*W\\W*and\\W*W\\W*Milestones\\W*W\\W*to\\W*W\\W*effectively\\W*W\\W*address\\W*W\\W*systemsweakness\\W*W\\W*or\\W*W\\W*vulnerabilities\\W*W\\W*Advise\\W*W\\W*developers\\W*W\\W*and\\W*W\\W*assist\\W*W\\W*with\\W*W\\W*the\\W*W\\W*Lifecycle\\W*W\\W*Assessment\\W*W\\W*and\\W*W\\W*Authorization\\W*W\\W*A\\W*W\\W*A\\W*W\\W*process\\W*W\\W*and\\W*W\\W*developing\\W*W\\W*SSP\\W*W\\W*Provide\\W*W\\W*support\\W*W\\W*for\\W*W\\W*security\\W*W\\W*related\\W*W\\W*FedRAMP\\W*W\\W*compliance\\W*W\\W*controls\\W*W\\W*and\\W*W\\W*audit\\W*W\\W*systems\\W*W\\W*services\\W*W\\W*and\\W*W\\W*processes\\W*W\\W*to\\W*W\\W*verifyadherence\\W*W\\W*to\\W*W\\W*company\\W*W\\W*security\\W*W\\W*policies\\W*W\\W*and\\W*W\\W*procedures\\W*W\\W*Develop\\W*W\\W*information\\W*W\\W*security\\W*W\\W*policies\\W*W\\W*standards\\W*W\\W*procedures\\W*W\\W*and\\W*W\\W*best\\W*W\\W*practices\\W*W\\W*to\\W*W\\W*support\\W*W\\W*a\\W*W\\W*FedRAMP\\W*W\\W*moderateoperating\\W*W\\W*environment\\W*W\\W*Actively\\W*W\\W*participate\\W*W\\W*in\\W*W\\W*the\\W*W\\W*risk\\W*W\\W*management\\W*W\\W*program\\W*W\\W*Perform\\W*W\\W*security\\W*W\\W*risk\\W*W\\W*assessments\\W*W\\W*analyze\\W*W\\W*results\\W*W\\W*and\\W*W\\W*provide\\W*W\\W*recommendations\\W*W\\W*for\\W*W\\W*mitigations\\W*W\\W*enhancements\\W*W\\W*Consult\\W*W\\W*with\\W*W\\W*business\\W*W\\W*groups\\W*W\\W*and\\W*W\\W*provide\\W*W\\W*guidance\\W*W\\W*on\\W*W\\W*security\\W*W\\W*related\\W*W\\W*topics\\W*W\\W*and\\W*W\\W*participate\\W*W\\W*in\\W*W\\W*team\\W*W\\W*on\\W*W\\W*call\\W*W\\W*rotation\\W*W\\W*Preform\\W*W\\W*detail\\W*W\\W*Security\\W*W\\W*Assessment\\W*W\\W*on\\W*W\\W*HUBZone\\W*W\\W*DataPipe\\W*W\\W*Salesforce\\W*W\\W*and\\W*W\\W*MS\\W*W\\W*Azure\\W*W\\W*AWS\\W*W\\W*cloud\\W*W\\W*systems\\W*W\\W*by\\W*W\\W*ensuringthat\\W*W\\W*costumer\\W*W\\W*responsibility\\W*W\\W*statement\\W*W\\W*and\\W*W\\W*FedRAMP\\W*W\\W*packages\\W*W\\W*are\\W*W\\W*well\\W*W\\W*implemented\\W*W\\W*Evaluate\\W*W\\W*recommend\\W*W\\W*and\\W*W\\W*implement\\W*W\\W*security\\W*W\\W*solutions\\W*W\\W*and\\W*W\\W*practices\\W*W\\W*that\\W*W\\W*protect\\W*W\\W*online\\W*W\\W*services\\W*W\\W*and\\W*W\\W*information\\W*W\\W*assetsand\\W*W\\W*help\\W*W\\W*the\\W*W\\W*company\\W*W\\W*manage\\W*W\\W*risks\\W*W\\W*and\\W*W\\W*meet\\W*W\\W*compliance\\W*W\\W*obligations\\W*W\\W*",
             "companyName": "XLA",
-            "title": "FedRAMP Compliance /Clouds Security Architect",
+            "title": "(FedRAMP Compliance /Clouds Security Architect)|(\\W{0,2}Clouds Security Architect)",
             "startDate": "2016-11-01",
             "current": true
         },
@@ -54,19 +54,7 @@
     ],
     "skills": [
         {
-            "skillName": "AWS"
-        },
-        {
-            "skillName": "CloudWatch"
-        },
-        {
-            "skillName": "MS\\W{0,2}Azure"
-        },
-        {
-            "skillName": "Lambda"
-        },
-        {
-            "skillName": "Project\\W{0,2}Management"
+            "skillName": "Redis"
         },
         {
             "skillName": "Docker"

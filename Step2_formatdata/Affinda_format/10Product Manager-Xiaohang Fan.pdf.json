@@ -1,0 +1,122 @@
+{
+    "fullName": "Xiaohang  Fan",
+    "contacts": [
+        {
+            "contact": "xfan79@wisc.edu",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "+8615801806638",
+            "type": "PHONE"
+        }
+    ],
+    "currentLocation": [
+        {
+            "location": "Madison, WI, USA"
+        }
+    ],
+    "languages": [
+        "Mandarin",
+        "English"
+    ],
+    "educations": [
+        {
+            "endDate": "2020-12-01",
+            "collegeName": "University of Wisconsin-Madison",
+            "degreeLevel": "masters",
+            "majorName": "Master of Science"
+        },
+        {
+            "endDate": "2019-06-01",
+            "collegeName": "Shanghai University of Finance and Economics",
+            "degreeLevel": "bachelors",
+            "majorName": "Bachelor of Economics"
+        },
+        {
+            "startDate": "2017-09-01",
+            "endDate": "2017-12-01",
+            "collegeName": "Toulouse Business School (Exchange)"
+        }
+    ],
+    "experiences": [
+        {
+            "description": " Conducted market research and case studies of current trends and prospects in the insurance industry \n•Consolidated data and key findings into presentations and reports deliverable to clients ",
+            "companyName": "Ernst & Young LLP",
+            "title": "FSO-PI Intern",
+            "startDate": "2019-08-01",
+            "endDate": "2019-12-01"
+        },
+        {
+            "description": " Analyzed industry data using WIND to evaluate potential growth opportunities \n•Presented weekly updates to the management team, reviewing current projects and key next steps ",
+            "companyName": "Northeast Securities Co., Ltd.",
+            "title": "Strategic Planning Intern",
+            "startDate": "2019-01-01",
+            "endDate": "2019-04-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "Discounted Cash Flow"
+        },
+        {
+            "skillName": "Modern Portfolio Theory"
+        },
+        {
+            "skillName": "Python (Programming Language)"
+        },
+        {
+            "skillName": "Market Research"
+        },
+        {
+            "skillName": "Economy"
+        },
+        {
+            "skillName": "Digital Transformation"
+        },
+        {
+            "skillName": "Research"
+        },
+        {
+            "skillName": "Presentations"
+        },
+        {
+            "skillName": "Management"
+        },
+        {
+            "skillName": "Securities (Finance)"
+        },
+        {
+            "skillName": "Economics"
+        },
+        {
+            "skillName": "FourGen Computer-Aided Software Engineering (CASE) Tools"
+        },
+        {
+            "skillName": "Planning"
+        },
+        {
+            "skillName": "Nonlinear Regression"
+        },
+        {
+            "skillName": "Stata"
+        },
+        {
+            "skillName": "Business Model"
+        },
+        {
+            "skillName": "Strategic Planning"
+        },
+        {
+            "skillName": "Cooperation"
+        },
+        {
+            "skillName": "Julia (Programming Language)"
+        },
+        {
+            "skillName": "Comparative Analysis"
+        },
+        {
+            "skillName": "Transformation (Genetics)"
+        }
+    ]
+}

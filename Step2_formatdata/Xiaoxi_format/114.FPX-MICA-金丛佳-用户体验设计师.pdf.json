@@ -1,0 +1,66 @@
+{
+    "fullName": "",
+    "contacts": [
+        {
+            "contact": "17801011020",
+            "type": "PHONE"
+        },
+        {
+            "contact": "cjin02@mica.edu",
+            "type": "EMAIL"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "+86 17801011020 Part-time Tutor\ncjin02@mica.edu H ART International Art Education, Beijing, China, 2020\ncongjiajin.com Produced study materials in a variety of academic subjects to\nhelp senior students improve their design portfolio.\nFreelance Writer\nAWARDS\nZuibishe learning platform, Guangdong, China, 2020\nContributed articles on a variety of topics related to design to\nAIGA Blue Ridge’s annual Zuibishe learning platform, including experience sharing,\nFlux Student Design Competition, analysis of professional lecture and giving recommendations.\nIdentity, Winner 2019\nGraduate Teaching Intern\nAIGA Blue Ridge’s annual\nFlux Student Design Competition, Maryland Institute College of Art, Baltimore, Maryland, 2019\nPackaging, Winner 2019 Assisted professor Maureen Weiss in sophomore Graphic Design\nBeijing Outstanding Graduates Studio I and Typography I. Participated in critiques for juniors.\nof Session 2018\nDesign Intern\nNational Endeavor Scholarship 2016\nKUDOS Design Collaboratory, NY, USA, 2019\nProvided assistance to senior designers. Formulated design\nconcepts and artwork for promotional materials. Worked on\nSKILLS\nthe development and implementation of creative requirements,\nDesign\nincluding layout, illustration, typography and photography.\nBranding\nFreelance Designer\nMotion Graphic\nMaryland Institute College of Art, Baltimore, Maryland, 2019\nPublication\nFull Bleed:\nA Journal of Art & Design Journal published by MICA,\nTypography designed and edited by students.\nIllustration\nLaser cutting\nFilm Branding project, collaborated with film major MFA\nPhotography\nstudents. Worked on the design of visual identity including\nposters, EPK and website design.\nSoftware\nChina Construction Bank, Beijing, China, 2016\nIllustrator\nDesigned a specific visual identity for the American\nInDesign\nExpress Centurion Card, including the typography, packaging,\nAfter Effects\nand the display of the card.\nCinema 4D\nPhotoshop\nDesign Project Group Leader\nLightroom\nBrand Design Seminar, Beijing, China, 2016\nCreative Coding Created a branding image with a theme of “Solitude”. Included\nHTML & CSS an expanded concept, design for a logo and visual identity.\nOrganized and assigned tasks to each member for completion\nof their work.\nINTERESTS\nEDUCATION",
+            "companyName": "H ART International Art Education, Beijing, China, 2020",
+            "title": "Part-time Tutor"
+        },
+        {
+            "description": "| Graphic Design 2018-2020\nSharing Ideas Maryland Institute College of Art (MICA)",
+            "companyName": "Maryland Institute College of Art (MICA)",
+            "title": "Graphic Design",
+            "startDate": "2018-00-01",
+            "endDate": "2020-00-01"
+        },
+        {
+            "description": "Taking Critisim Beijing Institute of Fashion Technology (BIFT)",
+            "companyName": "Beijing Institute of Fashion Technology (BIFT)",
+            "title": "Visual Communication Design",
+            "startDate": "2014-00-01",
+            "endDate": "2018-00-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "CSS"
+        },
+        {
+            "skillName": "html"
+        },
+        {
+            "skillName": "Group"
+        },
+        {
+            "skillName": "Improve"
+        },
+        {
+            "skillName": "Designer"
+        },
+        {
+            "skillName": "Indesign"
+        },
+        {
+            "skillName": "Photoshop"
+        },
+        {
+            "skillName": "Completion"
+        },
+        {
+            "skillName": "Illustrator"
+        },
+        {
+            "skillName": "After Effects"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "all": 28,
+    "important": 25,
+    "desc": 3,
+    "correct_important": 17,
+    "correct_desc": 0,
+    "additional": 1,
+    "important_keys": {
+        "skills.0.skillName": false,
+        "skills.3.skillName": false,
+        "skills.4.skillName": false,
+        "skills.5.skillName": false,
+        "skills.6.skillName": false,
+        "skills.7.skillName": false,
+        "skills.8.skillName": false,
+        "skills.9.skillName": false
+    },
+    "unimportant_keys": {
+        "experiences.0.description": false,
+        "experiences.1.description": false,
+        "experiences.2.description": false
+    },
+    "addition_info_count": 1,
+    "addition_info": {
+        "languages": [
+            "ENGLISH"
+        ]
+    }
+}

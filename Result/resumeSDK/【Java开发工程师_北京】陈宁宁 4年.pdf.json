@@ -1,0 +1,24 @@
+{
+    "all": 29,
+    "important": 26,
+    "desc": 3,
+    "correct_important": 19,
+    "correct_desc": 0,
+    "additional": 0,
+    "important_keys": {
+        "educations.0.endDate": false,
+        "experiences.0.companyName": false,
+        "experiences.0.title": false,
+        "experiences.1.companyName": false,
+        "experiences.2.title": false,
+        "preferredLocations.0.location": false,
+        "skills.4.skillName": false
+    },
+    "unimportant_keys": {
+        "experiences.0.description": false,
+        "experiences.1.description": false,
+        "experiences.2.description": false
+    },
+    "addition_info_count": 0,
+    "addition_info": {}
+}

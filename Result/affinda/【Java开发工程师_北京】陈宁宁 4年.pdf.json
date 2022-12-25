@@ -1,0 +1,46 @@
+{
+    "all": 29,
+    "important": 26,
+    "desc": 3,
+    "correct_important": 1,
+    "correct_desc": 0,
+    "additional": 1,
+    "important_keys": {
+        "contacts.0": false,
+        "contacts.1": false,
+        "contacts.2": false,
+        "educations.0.endDate": false,
+        "educations.0.collegeName": false,
+        "educations.0.degreeLevel": false,
+        "educations.0.majorName": false,
+        "experiences.0.companyName": false,
+        "experiences.0.current": false,
+        "experiences.0.startDate": false,
+        "experiences.0.title": false,
+        "experiences.1.companyName": false,
+        "experiences.1.endDate": false,
+        "experiences.1.startDate": false,
+        "experiences.1.title": false,
+        "experiences.2.companyName": false,
+        "experiences.2.endDate": false,
+        "experiences.2.startDate": false,
+        "experiences.2.title": false,
+        "preferredLocations.0.location": false,
+        "skills.0.skillName": false,
+        "skills.1.skillName": false,
+        "skills.2.skillName": false,
+        "skills.3.skillName": false,
+        "skills.4.skillName": false
+    },
+    "unimportant_keys": {
+        "experiences.0.description": false,
+        "experiences.1.description": false,
+        "experiences.2.description": false
+    },
+    "addition_info_count": 1,
+    "addition_info": {
+        "languages": [
+            "VIETNAMESE"
+        ]
+    }
+}

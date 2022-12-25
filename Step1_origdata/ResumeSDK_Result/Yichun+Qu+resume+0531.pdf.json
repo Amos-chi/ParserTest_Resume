@@ -1,0 +1,227 @@
+{
+    "status": {
+        "message": "success",
+        "code": 200
+    },
+    "result": {
+        "cont_job_skill": "Power BI ◦ Tableau ◦ Data Management ◦ Data Modeling ◦ SQL (MCSA 461,462 passed) ◦ ERP ◦ CRM ◦ Excel ◦ SAS◦R◦Python",
+        "major": "Information Technology and Management",
+        "social_exp_objs": [],
+        "college": "The University of Texas at Dallas, Naveen Jindal School of Management",
+        "work_start_time_inf": "2014.01",
+        "all_cert_objs": [],
+        "resume_type": "1",
+        "cert_objs": [],
+        "skills_objs": [
+            {
+                "skills_name": "database"
+            },
+            {
+                "skills_name": "tableau"
+            },
+            {
+                "skills_name": "CRM"
+            },
+            {
+                "skills_name": "PowerPoint"
+            },
+            {
+                "skills_name": "Excel"
+            }
+        ],
+        "education_objs": [
+            {
+                "edu_college": "The University of Texas at Dallas, Naveen Jindal School of Management",
+                "edu_major": "Information Technology and Management",
+                "end_date": "2017.05",
+                "edu_degree": "Master of Science",
+                "edu_degree_norm": "Master",
+                "edu_college_type": "0",
+                "start_date": "2016.08"
+            },
+            {
+                "edu_college": "Shanghai Jiao Tong University",
+                "edu_major": "Finance",
+                "end_date": "2016.08",
+                "edu_degree": "Master of Science",
+                "edu_degree_norm": "Master",
+                "edu_college_type": "0",
+                "start_date": "2014.09"
+            },
+            {
+                "edu_college": "Shanghai University of International Business and Economics",
+                "edu_major": "Art",
+                "end_date": "2014.06",
+                "edu_degree": "Bachelor",
+                "edu_degree_norm": "Bachelor",
+                "edu_college_rank": "297",
+                "edu_college_type": "0",
+                "start_date": "2010.09"
+            }
+        ],
+        "resume_integrity": "54",
+        "training_objs": [],
+        "email": "qyc11@hotmail.com",
+        "cont_job_exp": "I-77 Mobility Partners LLC/ Cintra US / Ferrovial  Charlotte, North Carolina\nOperation Data Analyst\nJuly 2018- April 2021\nWork with business stakeholders to translate business requirement into functional requirement.\nSet up the Power BI database, design and develop all the custom metrics, reports and dashboards in Power BI to meet functional\nrequirements for the whole operation department by cooperating with IT team in Spain.\nClarify end user’s inquiry on reports’ features and functionalities, continuously optimize reports along with the developing\noperating procedure.\nCollect and consolidate data from different portals to prepare monthly and quarterly operational reports for upper management to\ntrack enterprise level KPI.\nConduct analytical projects on massive datasets with tableau to analyze system operational constraints, deficiencies and defects,\ncollaborate with operation team and tech team to develop solutions.\nMonitor and report on accurate transaction generation at the roadside, timely data transmission, data validation of transaction,\ntrack and analyze system performance and operation performance.\nParticipate in the implementation and testing of Central Systems, track results and records and escalate system performance issues.\nProdigy Diabetes Care LLC  Charlotte, North Carolina\nData and Billing Analyst\nOct 2017- June 2018\nExtracted data from CRM system, created monthly reports based on different key performance indicators including customer\ncomplaint code, complaint over 60 days and average complaint solving days.\nCreated and compared charts, tables and graphs, identified trends and occurrences.\nPrepared advanced shipping notice by using electronic data interchange system, maintained data integrity of inventory system by\ntrouble shooting between Redtail and Microsoft GP.\nSearched, extracted, managed and analyzed data in Microsoft Dynamics Great Plains system to support daily business process\nand annual auditing.\nLVMH Perfumes & Cosmetics (Shanghai) Company Limited  Shanghai, China\nFRESH Training Department Business Analyst Intern\nJanuary 2014 – June 2015\nPerformed ad-hoc reports of beauty advisors’ basic information for training and sales department.\nCreated monthly, quarterly, and yearly coaching reports for more than 200 beauty advisors from the whole China department\nand presented it in PowerPoint in department meetings to improve beauty advisors’ selling skills.\nTroubleshooted and analyzed reports using Excel (V lookup, pivot tables) to follow up beauty advisors’ performance every\nseason, helped training department to achieve higher efficiency on training beauty advisors’ selling skills by 15%.\nTracked and analyzed actual product using and ordering on a monthly basis, forecasted second year product ordering based on\nthe purchase price variance and budget variance.\nSupported the creation of key door action plan, provided insight into the establishment of SKU sales target of each beauty\nadvisor.",
+        "work_company": "I-77 Mobility Partners LLC",
+        "lang_objs": [],
+        "grad_time": "2017.05",
+        "degree": "Master of Science",
+        "proj_exp_objs": [],
+        "work_year_norm": "9.0",
+        "work_year": "9.0",
+        "phone": "18964858957",
+        "resume_parse_time": "2022-12-21 17:51:51",
+        "work_year_inf": "9.0",
+        "raw_text": "Yichun(Kate) Qu\nqyc11@hotmail.com ◦ 18964858957 ◦ Shanghai\nTECHNICAL SKILLS\nPower BI ◦ Tableau ◦ Data Management ◦ Data Modeling ◦ SQL (MCSA 461,462 passed) ◦ ERP ◦ CRM ◦ Excel ◦ SAS◦R◦Python\nEXPERIENCE\nI-77 Mobility Partners LLC/ Cintra US / Ferrovial  Charlotte, North Carolina\nOperation Data Analyst\nJuly 2018- April 2021\nWork with business stakeholders to translate business requirement into functional requirement.\nSet up the Power BI database, design and develop all the custom metrics, reports and dashboards in Power BI to meet functional\nrequirements for the whole operation department by cooperating with IT team in Spain.\nClarify end user’s inquiry on reports’ features and functionalities, continuously optimize reports along with the developing\noperating procedure.\nCollect and consolidate data from different portals to prepare monthly and quarterly operational reports for upper management to\ntrack enterprise level KPI.\nConduct analytical projects on massive datasets with tableau to analyze system operational constraints, deficiencies and defects,\ncollaborate with operation team and tech team to develop solutions.\nMonitor and report on accurate transaction generation at the roadside, timely data transmission, data validation of transaction,\ntrack and analyze system performance and operation performance.\nParticipate in the implementation and testing of Central Systems, track results and records and escalate system performance issues.\nProdigy Diabetes Care LLC  Charlotte, North Carolina\nData and Billing Analyst\nOct 2017- June 2018\nExtracted data from CRM system, created monthly reports based on different key performance indicators including customer\ncomplaint code, complaint over 60 days and average complaint solving days.\nCreated and compared charts, tables and graphs, identified trends and occurrences.\nPrepared advanced shipping notice by using electronic data interchange system, maintained data integrity of inventory system by\ntrouble shooting between Redtail and Microsoft GP.\nSearched, extracted, managed and analyzed data in Microsoft Dynamics Great Plains system to support daily business process\nand annual auditing.\nLVMH Perfumes & Cosmetics (Shanghai) Company Limited  Shanghai, China\nFRESH Training Department Business Analyst Intern\nJanuary 2014 – June 2015\nPerformed ad-hoc reports of beauty advisors’ basic information for training and sales department.\nCreated monthly, quarterly, and yearly coaching reports for more than 200 beauty advisors from the whole China department\nand presented it in PowerPoint in department meetings to improve beauty advisors’ selling skills.\nTroubleshooted and analyzed reports using Excel (V lookup, pivot tables) to follow up beauty advisors’ performance every\nseason, helped training department to achieve higher efficiency on training beauty advisors’ selling skills by 15%.\nTracked and analyzed actual product using and ordering on a monthly basis, forecasted second year product ordering based on\nthe purchase price variance and budget variance.\nSupported the creation of key door action plan, provided insight into the establishment of SKU sales target of each beauty\nadvisor.\nEDUCATION\nThe University of Texas at Dallas, Naveen Jindal School of Management  Dallas,TX\nMaster of Science in Information Technology and Management  August 2016 - May 2017\nGPA: 3.6/4.0\nMaster of Science in Finance (First Year in Shanghai Jiao Tong University)  September 2014 - August 2016\nGPA: 3.5/4.0\nShanghai University of International Business and Economics  Shanghai, China\nBachelor of Art in English  September 2010 - June 2014\nGPA: 3.7 / 4.0",
+        "cont_basic_info": "Yichun(Kate) Qu\nqyc11@hotmail.com ◦ 18964858957 ◦ Shanghai",
+        "work_location": "Charlotte",
+        "name": "Yichun Qu",
+        "job_exp_objs": [
+            {
+                "job_position": "Operation Data Analyst",
+                "end_date": "2021.04",
+                "job_location": "Charlotte",
+                "job_content": "Work with business stakeholders to translate business requirement into functional requirement.\nSet up the Power BI database, design and develop all the custom metrics, reports and dashboards in Power BI to meet functional\nrequirements for the whole operation department by cooperating with IT team in Spain.\nClarify end user’s inquiry on reports’ features and functionalities, continuously optimize reports along with the developing\noperating procedure.\nCollect and consolidate data from different portals to prepare monthly and quarterly operational reports for upper management to\ntrack enterprise level KPI.\nConduct analytical projects on massive datasets with tableau to analyze system operational constraints, deficiencies and defects,\ncollaborate with operation team and tech team to develop solutions.\nMonitor and report on accurate transaction generation at the roadside, timely data transmission, data validation of transaction,\ntrack and analyze system performance and operation performance.\nParticipate in the implementation and testing of Central Systems, track results and records and escalate system performance issues.",
+                "job_cpy": "I-77 Mobility Partners LLC",
+                "job_duration": "2年9个月",
+                "start_date": "2018.07"
+            },
+            {
+                "job_position": "Data and Billing Analyst",
+                "end_date": "2018.06",
+                "job_location": "Charlotte",
+                "job_content": "Extracted data from CRM system, created monthly reports based on different key performance indicators including customer\ncomplaint code, complaint over 60 days and average complaint solving days.\nCreated and compared charts, tables and graphs, identified trends and occurrences.\nPrepared advanced shipping notice by using electronic data interchange system, maintained data integrity of inventory system by\ntrouble shooting between Redtail and Microsoft GP.\nSearched, extracted, managed and analyzed data in Microsoft Dynamics Great Plains system to support daily business process\nand annual auditing.",
+                "job_cpy": "Prodigy Diabetes Care LLC",
+                "job_duration": "8个月",
+                "start_date": "2017.10"
+            },
+            {
+                "job_position": "FRESH Training Department Business Analyst Intern",
+                "end_date": "2015.06",
+                "job_location": "Shanghai",
+                "job_content": "Performed ad-hoc reports of beauty advisors’ basic information for training and sales department.\nCreated monthly, quarterly, and yearly coaching reports for more than 200 beauty advisors from the whole China department\nand presented it in PowerPoint in department meetings to improve beauty advisors’ selling skills.\nTroubleshooted and analyzed reports using Excel (V lookup, pivot tables) to follow up beauty advisors’ performance every\nseason, helped training department to achieve higher efficiency on training beauty advisors’ selling skills by 15%.\nTracked and analyzed actual product using and ordering on a monthly basis, forecasted second year product ordering based on\nthe purchase price variance and budget variance.\nSupported the creation of key door action plan, provided insight into the establishment of SKU sales target of each beauty\nadvisor.",
+                "job_cpy": "LVMH Perfumes & Cosmetics (Shanghai) Company Limited",
+                "job_duration": "1年5个月",
+                "start_date": "2014.01"
+            }
+        ],
+        "work_start_time": "2014.01",
+        "resume_name": "cv20221221_175151882_107.pdf",
+        "cont_education": "The University of Texas at Dallas, Naveen Jindal School of Management  Dallas,TX\nMaster of Science in Information Technology and Management  August 2016 - May 2017\nGPA: 3.6/4.0\nMaster of Science in Finance (First Year in Shanghai Jiao Tong University)  September 2014 - August 2016\nGPA: 3.5/4.0\nShanghai University of International Business and Economics  Shanghai, China\nBachelor of Art in English  September 2010 - June 2014\nGPA: 3.7 / 4.0",
+        "work_position": "Operation Data Analyst",
+        "college_type": "0"
+    },
+    "eval": {
+        "salary": 13700
+    },
+    "tags": {
+        "industries": [],
+        "pos_types": [
+            {
+                "tag_weight": 0.0035398792266845705,
+                "tag_name": "高级软件工程师"
+            },
+            {
+                "tag_weight": 0.0035398792266845705,
+                "tag_name": "软件工程师"
+            },
+            {
+                "tag_weight": 0.0017699396133422853,
+                "tag_name": "互联网软件开发工程师"
+            },
+            {
+                "tag_weight": 0.0003754115581512452,
+                "tag_name": "投资/理财顾问"
+            },
+            {
+                "tag_weight": 0.0002502743721008301,
+                "tag_name": "个人业务客户经理"
+            }
+        ],
+        "pos_tags": [
+            {
+                "tag_weight": 1.0,
+                "tag_name": "operation data analyst"
+            },
+            {
+                "tag_weight": 0.2,
+                "tag_name": "data and billing analyst"
+            },
+            {
+                "tag_weight": 0.01,
+                "tag_name": "fresh training department business analyst "
+            },
+            {
+                "tag_weight": 0.00966412580013275,
+                "tag_name": "tableau"
+            },
+            {
+                "tag_weight": 0.008849698066711426,
+                "tag_name": "bi"
+            },
+            {
+                "tag_weight": 0.008094273567199706,
+                "tag_name": "database"
+            },
+            {
+                "tag_weight": 0.0018191135644912721,
+                "tag_name": "dynamics"
+            },
+            {
+                "tag_weight": 0.0016053936004638673,
+                "tag_name": "gp"
+            },
+            {
+                "tag_weight": 0.0015016462326049808,
+                "tag_name": "crm"
+            },
+            {
+                "tag_weight": 9.839776515960694e-05,
+                "tag_name": "sales"
+            }
+        ],
+        "skills_tags": [
+            {
+                "tag_weight": 1.0383647108078002,
+                "tag_name": "tableau"
+            },
+            {
+                "tag_weight": 0.9646078968048096,
+                "tag_name": "bi"
+            },
+            {
+                "tag_weight": 0.6015103816986085,
+                "tag_name": "data modeling"
+            },
+            {
+                "tag_weight": 0.5792097568511964,
+                "tag_name": "sas"
+            },
+            {
+                "tag_weight": 0.4778045654296875,
+                "tag_name": "python"
+            },
+            {
+                "tag_weight": 0.39755933284759526,
+                "tag_name": "crm"
+            },
+            {
+                "tag_weight": 0.1819113564491272,
+                "tag_name": "dynamics"
+            },
+            {
+                "tag_weight": 0.16053936004638672,
+                "tag_name": "gp"
+            },
+            {
+                "tag_weight": 0.09839776515960694,
+                "tag_name": "sales"
+            },
+            {
+                "tag_weight": 0.096162668466568,
+                "tag_name": "advisor"
+            }
+        ]
+    }
+}

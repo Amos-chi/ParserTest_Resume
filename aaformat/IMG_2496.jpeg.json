@@ -17,11 +17,19 @@
     "currentLocation": {
         "location": "(158\\W{0,2}Lynnwood\\W{0,2}Circle(\\W{0,2}Clraksville\\W{0,2}TN(\\W{0,2}37040)?)?)|(Clraksville\\W{0,2}TN)"
     },
+    "educations": [
+        {
+            "startDate": "2019-01-01",
+            "collegeName": "AustinPeayStateUniversity",
+            "degreeLevel": "Bachelor",
+            "majorName": "Communication Arts"
+        }
+    ],
     "experiences": [
         {
             "description": "Carriedoutthesamedutiesasmostrecent\\W*roleatPostmates\\W*IncduetoUber\\W*s\\W*acquisition\\W*WhilealsoutilizingUber\\W*stools\\W*toassistwith\\W*orders\\W*on\\W*the\\W*Uber\\W*side\\W*as\\W*theintegrationprogressed\\W*LatertransitionedtoUber\\W*snewPremiumSupport\\W*department\\W*",
             "companyName": "Uber(Technology)?",
-            "title": "COE\\W{0,2}Specialist\\W{0,2}II",
+            "title": "COE\\W{0,2}Specialist\\W{0,2}II\\W{0,2}",
             "startDate": "2021-03-01",
             "current": true
         },
@@ -80,7 +88,7 @@
     ],
     "skills": [
         {
-            "skillName": "support"
+            "skillName": "communication"
         }
     ]
 }

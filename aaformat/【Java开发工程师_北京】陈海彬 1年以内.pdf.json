@@ -40,9 +40,6 @@
         },
         {
             "skillName": "redis"
-        },
-        {
-            "skillName": "linux"
         }
     ]
 }

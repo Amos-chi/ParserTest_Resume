@@ -1,0 +1,26 @@
+{
+    "all": 18,
+    "important": 17,
+    "desc": 1,
+    "correct_important": 15,
+    "correct_desc": 1,
+    "additional": 2,
+    "important_keys": {
+        "educations.0.degreeLevel": false,
+        "currentLocation.location": false
+    },
+    "unimportant_keys": {
+        "experiences.0.description": true
+    },
+    "addition_info_count": 2,
+    "addition_info": {
+        "preferredLocations": [
+            {
+                "location": "Jinan, Shandong"
+            }
+        ],
+        "languages": [
+            "MANDARIN"
+        ]
+    }
+}

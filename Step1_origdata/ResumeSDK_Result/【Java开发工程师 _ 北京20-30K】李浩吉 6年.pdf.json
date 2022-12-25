@@ -1,0 +1,500 @@
+{
+    "status": {
+        "message": "success",
+        "code": 200
+    },
+    "result": {
+        "college_rank": "26",
+        "cont_job_skill": "1. 熟练掌握 Java 基础及特性,良好的编程习惯;\n2. 熟练使用Java集合容器及数据结构原理,熟悉JUC并发包,熟悉多线程编程;\n3. 熟悉 JVM内存结构和 GC-算法;\n4. 熟练Spring、SpringMVC、Mybatis 、Mybatis-Plus等框架的使用及其基本原理;\n5. 熟悉Springcloud 分布式架构及其组件原理,熟练使用 SpringBoot 微服务、Dubbo服务调中间件;\n6. 了解Java NIO 及 netty框架;\n7. 掌握 MySQL数据库及原理,熟练使用 SQL语句编程,熟悉SQL调优及索引优化;\n8. 熟练使用 Redis ,熟悉Redis基本数据结构,内存过期策略等;熟悉 Redis分布式锁及原理;\n9. 熟悉 Nginx 反向代理,负载均衡,动静分离特性的使用;\n10. 熟悉 RocketMq消息中间件的使用及原理,了解 mycat、sharding-jdbc数据库中间件;\n11. 熟悉 Linux 基本操作命令,进行线上日志查询排查问题;",
+        "major": "计算机信息管理",
+        "surname": "李",
+        "social_exp_objs": [],
+        "college": "北京邮电大学",
+        "work_pos_type_p": "软件工程师",
+        "work_start_time_inf": "2016.07",
+        "all_cert_objs": [],
+        "resume_type": "0",
+        "cont_my_desc": "1. 沟通能力强,思路清晰,有优秀的理解与判断能力,善于挖掘及整理用户需求\n2. 对待工作心细胆大,尽职尽责,喜欢从事有挑战性的工作\n3. 学习能力较强,对新技术有着强烈的求知欲望\n4. 有较强的抗压能力,可以应对高强度的加班",
+        "cert_objs": [],
+        "skills_objs": [
+            {
+                "skills_level": "熟练",
+                "skills_name": "Java"
+            },
+            {
+                "skills_level": "熟练",
+                "skills_name": "数据结构"
+            },
+            {
+                "skills_level": "熟练",
+                "skills_name": "多线程编程"
+            },
+            {
+                "skills_level": "熟悉",
+                "skills_name": "JVM"
+            },
+            {
+                "skills_level": "熟悉",
+                "skills_name": "算法"
+            },
+            {
+                "skills_level": "熟练",
+                "skills_name": "Spring"
+            },
+            {
+                "skills_level": "熟练",
+                "skills_name": "SpringMVC"
+            },
+            {
+                "skills_level": "熟练",
+                "skills_name": "Mybatis"
+            },
+            {
+                "skills_level": "熟悉",
+                "skills_name": "分布式"
+            },
+            {
+                "skills_level": "熟悉",
+                "skills_name": "Dubbo"
+            },
+            {
+                "skills_level": "了解",
+                "skills_name": "netty"
+            },
+            {
+                "skills_level": "掌握",
+                "skills_name": "MySQL数据库"
+            },
+            {
+                "skills_level": "掌握",
+                "skills_name": "SQL"
+            },
+            {
+                "skills_level": "熟练",
+                "skills_name": "Redis"
+            },
+            {
+                "skills_level": "熟悉",
+                "skills_name": "Nginx"
+            },
+            {
+                "skills_level": "熟悉",
+                "skills_name": "负载均衡"
+            },
+            {
+                "skills_level": "熟悉",
+                "skills_name": "jdbc"
+            },
+            {
+                "skills_level": "熟悉",
+                "skills_name": "数据库"
+            },
+            {
+                "skills_level": "熟悉",
+                "skills_name": "Linux"
+            },
+            {
+                "skills_name": "Maven"
+            },
+            {
+                "skills_name": "Git"
+            },
+            {
+                "skills_name": "SVN"
+            },
+            {
+                "skills_name": "大数据"
+            },
+            {
+                "skills_name": "游戏"
+            },
+            {
+                "skills_name": "数据库设计"
+            },
+            {
+                "skills_name": "架构设计"
+            },
+            {
+                "skills_name": "ActiveMQ"
+            },
+            {
+                "skills_name": "ElasticSearch"
+            },
+            {
+                "skills_name": "Vue"
+            },
+            {
+                "skills_name": "MVC"
+            },
+            {
+                "skills_name": "db"
+            }
+        ],
+        "education_objs": [
+            {
+                "edu_college": "北京邮电大学",
+                "edu_major": "计算机信息管理",
+                "end_date": "至今",
+                "edu_degree": "本科",
+                "edu_degree_norm": "本科",
+                "edu_college_rank": "26",
+                "edu_college_type": "2",
+                "edu_recruit": "在读",
+                "start_date": "2020.04"
+            },
+            {
+                "edu_college": "天津职业大学",
+                "edu_major": "机械制造与自动化",
+                "end_date": "2016.06",
+                "edu_degree": "大专",
+                "edu_degree_norm": "大专",
+                "edu_college_type": "6",
+                "start_date": "2013.09"
+            }
+        ],
+        "resume_integrity": "66",
+        "cont_proj_exp": "项目一:小黄狗智能回收(小程序/App)\n开发环境: IDEA、JDK1.8、Mysql5.5、Maven、Git 、SVN\n技术架构:Spring、Mybatis、SpringBoot 、SpringCloud、Redis、RocketMQ、Nginx 、Kong网关、阿里云\n项目描述:小黄狗智能回收是小黄狗环保科技有限公司旗下的再生资源科技智能回收平台,目前注册用户量达600万,日活\n约3万,全国铺设回收机柜约8000台。通过在小区、写字楼、酒店、闹市区设立废旧、闲置物品智能回收站,以有偿的方式\n接收市民投放的废纸、塑料、金属、废旧纺织品、玻璃等废弃物,并对接专职的废品回收人员,结合物联网、大数据、人工\n智能识别等高新科技达到整合废品回收生态链的目的,发展社会环保公益事;整体业务分为C端即用户端,B端骑手端(回收员等),终端(小区铺放智能机柜);按业务功能划分微服务大约20个,主要模块有面向用户的C端服务、B端骑手服\n务、支付服务、CMS通知服务、数据墙、订单中心、后台管理、游戏中心、活动中心等。\n项目职责:\n1.负责小黄狗C端上门回收业务下单流程数据库设计接口设计,保证线上程序稳定\n2.负责小黄狗线下交投点业务,与回收机柜终端进行交互\n3.负责小黄狗Activity活动中心服务需求设计,例如:扫码拉新活动,阶梯投递奖励活动等\n5.对接第三方业务,如:顺丰,快递鸟等\n4.紧急需求及生产问题排查,客服反馈的用户日常程序问题解决\n6.微信相关业务开发,如: 小程序模板消息通知,公众号消息通知,用户微信登录等\n技术描述:\n1.SpringCloud:系统分布式架构,注册中心Euraka,服务调用openFeign,ribbon负载均衡\n2.Redis:实现用户及热点数据缓存;Redis分布式锁,下单接口及库存增减业务并发场景使用,保证数据安全\n3.Sharding-jdbc 对订单表,流水表进行分表,减小数据库读写压力\n4.RocketMq:服务间异步通知;利用其延迟消息,对骑手开箱回收时间进行阶梯绩效设计\n5.Nginx:实现服务的反向代理和负载均衡\n6.Kong网关接口白名单管理及鉴权\n项目二:阻碳派SaaS系统(小程序)\n开发环境: IDEA、JDK1.8、Mysql5.5、Maven、Git\n技术架构:Spring、MybatisPlus、SpringBoot 、SpringCloud、Redis、MQTT、Nginx 、阿里云\n项目描述:阻碳派SaaS系统是小黄狗环保科技有限公司旗下专门为线下商铺,大中小型超市等大B端进行垃圾上门回收服\n务,并进行长期合作的一款环保SaaS小程序。该系统主模块分为回收站点端,骑手端,商家端(大B端)。每个回收站点都\n有自己的绑定二维码,商家扫描二维码后,会自动与该回收站点绑定,绑定认证签约通过后,可下单呼叫其绑定站点下的骑\n手进行上门回收服务;骑手回收完成回收后,回把回收物品送到回收站点进行入库;回收站点入库后,可对入库物品分类后\n指派骑手出售给它垃圾回收站。\n项目职责:\n1.从0到1参与项目的整个项目需求讨论及开发过程\n2.阻碳派SaaS系统站点骑手端,商铺端数据库设计;整个商铺下单,骑手接单上门流程设计及开发,保证线上程序稳定\n3.负责阻碳派SaaS系统后台管理模块数据库设计及功能开发,订单统计,库存统计等\n4.负责微信公众号/小程序状态消息提醒功能,微信扫码支付功能\n5.完成组内codeReview,反馈排期;修复测试bug,生产故障定位排查\n技术描述:\n1.SpringCloud:系统分布式架构,进行微服务架构设计\n2.Redis:缓存数据库,实现数据缓存;Redission分布式锁对骑手接单场景,入库库存操作场景使用,保证数据安全\n3.MQTT:实现与客户端消息异步发送,骑手新订单及未处理订单的提醒\n4.Nginx:实现服务的反向代理和负载均衡\n5.Shiro:用户身份认证登录及权限验证\n项目三:派啦网\n开发环境: IDEA、JDK1.8、Mysql5.7、Maven、Git\n技术架构:Spring、Mybatis、SpringBoot 、SpringCloud、Redis、ActiveMQ、Nginx 、ElasticSearch、Vue\n项目描述:该项目是一个 B2C 项目模式,经营绿色农业(农副土特产、干货、礼品、休闲小吃)为主产品与服务的综合性购物\n网站, 整个项目分为网上客户前台使用的购物功能平台。管理员所使用的后台管理。系统用户主要分为两大类用户:网上\n顾客、系统 管理员。 针对两类用户实现的功能:客户在网站浏览,搜索产品、添加购物车、填写/确认/修改订单、用户注\n册、注销、登陆、 查看/修改 信息。系统管理员—上线产品、修改产品信息、维护用户信息、订单处理,系统维护。模块主\n要划分:用户模块、 登录模块、购物车模块、商品详情模块、订单模块、后台管理模块、支付模块、库存模块\n项目职责:\n1.   负责项目的下单流程,订单模块数据库设计及业务开发\n2.   购物车模块业务开发,利用cookie存储用户未登录时购物车信息,登录后进行数据合并,并同步缓存Redis hash存储\n3.   负责项目单点登录开发,利用MVC拦截器及自定义注解实现单点登录,redis存储用户登录信息\n4.   测试修复开发过程中出现的 bug\n技术描述:\n1.   SpringCloud:Eureka注册中心,feigen远程调用,Ribbon负载均衡,Hystrix限流降级\n2.   通过 cookie 和 Redis + db 组合,实现购物车模块系列功能 ;Redis:缓存数据库,实现数据缓存\n3.   Elasticsearch:全文搜索,实现商品搜索功能\n4.   Nginx:实现服务的反向代理和负载均衡\n5.   FastDFS 文件服务器,实现商品图片上传\n6.   activityMq服务间异步通知及消息补偿\n项目四:口优才英语\n开发环境: IDEA、JDK1.8、MySQL、Maven、Git\n技术架构:Spring、Mybatis-plus、SpringBoot 、Dubbo、HttpClient、Redis、easyExcel、Vue\n项目描述:该项目是一个 B2C 模式的在线英语教学系统,分为前台用户系统和后台运营平台。使用了微服务技术架构,前\n后端分离 开发,持久层用的是 MyBatis-Plus,微服务分库设计,使用 Swagger 生成接口文档接入了阿里云视频点播、阿\n里云 OSS。 系统分为前台用户系统和后台管理系统两部分。前台用户系统包括课程、问答、文章。后台管理系统包括:系\n统管理、内容管理、社群问答、课程管理、消息中心、用户中心、统计分析、系统配置等功能。\n项目职责:\n1. 负责后台课程章节管理\n2. 负责前台课程详情展示模块\n3. 负责前台课程列表模块\n4.负责系统菜单、系统配置模块\n技术描述:\n1. Dubbo服务调度中间件,Zookeeper注册中心\n2. 登录使用了 JWT、三方支付使用的支付宝接口\n3. Nginx:实现服务的反向代理和负载均衡\n4. 阿里云 OSS、视频点播\n5. Redis 用户信息缓存\n项目五:集米聚筹\n开发环境:Eclipse、JDK1.7、Tomcat、Mysql、meven、Git\n技术架构:SpringMVC、Spring、Mybatis、SpringSecurity、阿里云 OSS\n项目描述:该项目是一种为为大众筹资或群众筹资的系统,也是一种团购预购的形式。利用互联网传播的特性,让创业企\n业、艺术 家或个人对公众展示他们的创意及项目,争取大家的关注和支持,进而获得所需要的资金援助。该运作模式:需\n要资金的个人 或团队将项目策划交给众筹平台,经过相关审核后,便可以在平台的网站上建立属于自己的页面,用来向公\n众介绍项目情况。 该系统有主要构成模块有用户登录模块,用户管理,角色维护,权限维护,实名认证及订单支付模块。\n项目职责:\n1. 负责用户管理模块\n2. 负责角色维护模块\n3. 参与了户登录模块代码编写\n4.其它bug维护\n技术描述:\n1. log4j+Logback 进行日志管理\n2. SpringSecurity:对权限进行细粒度维护,认证和授权\n3. Nginx:实现服务的反向代理和负载均衡\n4. SpringSession:解决 session 一致性问题",
+        "training_objs": [],
+        "email": "lihaoji1994@163.com",
+        "cont_job_exp": "2019-11 ~ 至今  小黄狗环保科技有限公司  Java开发工程师\n2017-08 ~ 2019-10  软通动力信息技术有限公司  Java开发工程师\n2016-07 ~ 2017-08  北京中宝世纪科技有限公司  Java开发工程师",
+        "work_company": "小黄狗环保科技有限公司",
+        "lang_objs": [],
+        "grad_time": "2024.07",
+        "degree": "本科",
+        "proj_exp_objs": [
+            {
+                "proj_resp": "项目职责:\n1.负责小黄狗C端上门回收业务下单流程数据库设计接口设计,保证线上程序稳定\n2.负责小黄狗线下交投点业务,与回收机柜终端进行交互\n3.负责小黄狗Activity活动中心服务需求设计,例如:扫码拉新活动,阶梯投递奖励活动等\n5.对接第三方业务,如:顺丰,快递鸟等\n4.紧急需求及生产问题排查,客服反馈的用户日常程序问题解决\n6.微信相关业务开发,如: 小程序模板消息通知,公众号消息通知,用户微信登录等",
+                "proj_name": "小黄狗智能回收(小程序/App)",
+                "proj_content": "开发环境: IDEA、JDK1.8、Mysql5.5、Maven、Git 、SVN\n技术架构:Spring、Mybatis、SpringBoot 、SpringCloud、Redis、RocketMQ、Nginx 、Kong网关、阿里云\n项目描述:小黄狗智能回收是小黄狗环保科技有限公司旗下的再生资源科技智能回收平台,目前注册用户量达600万,日活\n约3万,全国铺设回收机柜约8000台。通过在小区、写字楼、酒店、闹市区设立废旧、闲置物品智能回收站,以有偿的方式\n接收市民投放的废纸、塑料、金属、废旧纺织品、玻璃等废弃物,并对接专职的废品回收人员,结合物联网、大数据、人工\n智能识别等高新科技达到整合废品回收生态链的目的,发展社会环保公益事;整体业务分为C端即用户端,B端骑手端(回收员等),终端(小区铺放智能机柜);按业务功能划分微服务大约20个,主要模块有面向用户的C端服务、B端骑手服\n务、支付服务、CMS通知服务、数据墙、订单中心、后台管理、游戏中心、活动中心等。\n技术描述:\n1.SpringCloud:系统分布式架构,注册中心Euraka,服务调用openFeign,ribbon负载均衡\n2.Redis:实现用户及热点数据缓存;Redis分布式锁,下单接口及库存增减业务并发场景使用,保证数据安全\n3.Sharding-jdbc 对订单表,流水表进行分表,减小数据库读写压力\n4.RocketMq:服务间异步通知;利用其延迟消息,对骑手开箱回收时间进行阶梯绩效设计\n5.Nginx:实现服务的反向代理和负载均衡\n6.Kong网关接口白名单管理及鉴权"
+            },
+            {
+                "proj_resp": "项目职责:\n1.从0到1参与项目的整个项目需求讨论及开发过程\n2.阻碳派SaaS系统站点骑手端,商铺端数据库设计;整个商铺下单,骑手接单上门流程设计及开发,保证线上程序稳定\n3.负责阻碳派SaaS系统后台管理模块数据库设计及功能开发,订单统计,库存统计等\n4.负责微信公众号/小程序状态消息提醒功能,微信扫码支付功能\n5.完成组内codeReview,反馈排期;修复测试bug,生产故障定位排查",
+                "proj_name": "阻碳派SaaS系统(小程序)",
+                "proj_content": "开发环境: IDEA、JDK1.8、Mysql5.5、Maven、Git\n技术架构:Spring、MybatisPlus、SpringBoot 、SpringCloud、Redis、MQTT、Nginx 、阿里云\n项目描述:阻碳派SaaS系统是小黄狗环保科技有限公司旗下专门为线下商铺,大中小型超市等大B端进行垃圾上门回收服\n务,并进行长期合作的一款环保SaaS小程序。该系统主模块分为回收站点端,骑手端,商家端(大B端)。每个回收站点都\n有自己的绑定二维码,商家扫描二维码后,会自动与该回收站点绑定,绑定认证签约通过后,可下单呼叫其绑定站点下的骑\n手进行上门回收服务;骑手回收完成回收后,回把回收物品送到回收站点进行入库;回收站点入库后,可对入库物品分类后\n指派骑手出售给它垃圾回收站。\n技术描述:\n1.SpringCloud:系统分布式架构,进行微服务架构设计\n2.Redis:缓存数据库,实现数据缓存;Redission分布式锁对骑手接单场景,入库库存操作场景使用,保证数据安全\n3.MQTT:实现与客户端消息异步发送,骑手新订单及未处理订单的提醒\n4.Nginx:实现服务的反向代理和负载均衡\n5.Shiro:用户身份认证登录及权限验证"
+            },
+            {
+                "proj_resp": "项目职责:\n1.   负责项目的下单流程,订单模块数据库设计及业务开发\n2.   购物车模块业务开发,利用cookie存储用户未登录时购物车信息,登录后进行数据合并,并同步缓存Redis hash存储\n3.   负责项目单点登录开发,利用MVC拦截器及自定义注解实现单点登录,redis存储用户登录信息\n4.   测试修复开发过程中出现的 bug",
+                "proj_name": "派啦网",
+                "proj_content": "开发环境: IDEA、JDK1.8、Mysql5.7、Maven、Git\n技术架构:Spring、Mybatis、SpringBoot 、SpringCloud、Redis、ActiveMQ、Nginx 、ElasticSearch、Vue\n项目描述:该项目是一个 B2C 项目模式,经营绿色农业(农副土特产、干货、礼品、休闲小吃)为主产品与服务的综合性购物\n网站, 整个项目分为网上客户前台使用的购物功能平台。管理员所使用的后台管理。系统用户主要分为两大类用户:网上\n顾客、系统 管理员。 针对两类用户实现的功能:客户在网站浏览,搜索产品、添加购物车、填写/确认/修改订单、用户注\n册、注销、登陆、 查看/修改 信息。系统管理员—上线产品、修改产品信息、维护用户信息、订单处理,系统维护。模块主\n要划分:用户模块、 登录模块、购物车模块、商品详情模块、订单模块、后台管理模块、支付模块、库存模块\n技术描述:\n1.   SpringCloud:Eureka注册中心,feigen远程调用,Ribbon负载均衡,Hystrix限流降级\n2.   通过 cookie 和 Redis + db 组合,实现购物车模块系列功能 ;Redis:缓存数据库,实现数据缓存\n3.   Elasticsearch:全文搜索,实现商品搜索功能\n4.   Nginx:实现服务的反向代理和负载均衡\n5.   FastDFS 文件服务器,实现商品图片上传\n6.   activityMq服务间异步通知及消息补偿"
+            },
+            {
+                "proj_resp": "项目职责:\n1. 负责后台课程章节管理\n2. 负责前台课程详情展示模块\n3. 负责前台课程列表模块\n4.负责系统菜单、系统配置模块",
+                "proj_name": "口优才英语",
+                "proj_content": "开发环境: IDEA、JDK1.8、MySQL、Maven、Git\n技术架构:Spring、Mybatis-plus、SpringBoot 、Dubbo、HttpClient、Redis、easyExcel、Vue\n项目描述:该项目是一个 B2C 模式的在线英语教学系统,分为前台用户系统和后台运营平台。使用了微服务技术架构,前\n后端分离 开发,持久层用的是 MyBatis-Plus,微服务分库设计,使用 Swagger 生成接口文档接入了阿里云视频点播、阿\n里云 OSS。 系统分为前台用户系统和后台管理系统两部分。前台用户系统包括课程、问答、文章。后台管理系统包括:系\n统管理、内容管理、社群问答、课程管理、消息中心、用户中心、统计分析、系统配置等功能。\n技术描述:\n1. Dubbo服务调度中间件,Zookeeper注册中心\n2. 登录使用了 JWT、三方支付使用的支付宝接口\n3. Nginx:实现服务的反向代理和负载均衡\n4. 阿里云 OSS、视频点播\n5. Redis 用户信息缓存"
+            },
+            {
+                "proj_resp": "项目职责:\n1. 负责用户管理模块\n2. 负责角色维护模块\n3. 参与了户登录模块代码编写\n4.其它bug维护",
+                "proj_name": "集米聚筹",
+                "proj_content": "开发环境:Eclipse、JDK1.7、Tomcat、Mysql、meven、Git\n技术架构:SpringMVC、Spring、Mybatis、SpringSecurity、阿里云 OSS\n项目描述:该项目是一种为为大众筹资或群众筹资的系统,也是一种团购预购的形式。利用互联网传播的特性,让创业企\n业、艺术 家或个人对公众展示他们的创意及项目,争取大家的关注和支持,进而获得所需要的资金援助。该运作模式:需\n要资金的个人 或团队将项目策划交给众筹平台,经过相关审核后,便可以在平台的网站上建立属于自己的页面,用来向公\n众介绍项目情况。 该系统有主要构成模块有用户登录模块,用户管理,角色维护,权限维护,实名认证及订单支付模块。\n技术描述:\n1. log4j+Logback 进行日志管理\n2. SpringSecurity:对权限进行细粒度维护,认证和授权\n3. Nginx:实现服务的反向代理和负载均衡\n4. SpringSession:解决 session 一致性问题"
+            }
+        ],
+        "work_year_norm": "5",
+        "work_year": "5",
+        "phone": "15822516730",
+        "resume_parse_time": "2022-12-21 17:51:52",
+        "expect_salary": "面议",
+        "raw_text": "个人简历\n基本信息\n姓  名: 李浩吉  年  龄: 28岁\n性  别: 男  民  族: 汉\n籍  贯: 山西阳泉  工作年限: 5年经验\n联系电话: 15822516730  邮  箱: lihaoji1994@163.com\n期望薪资: 面议  学  历: 本科\n技能特长\n1. 熟练掌握 Java 基础及特性,良好的编程习惯;\n2. 熟练使用Java集合容器及数据结构原理,熟悉JUC并发包,熟悉多线程编程;\n3. 熟悉 JVM内存结构和 GC-算法;\n4. 熟练Spring、SpringMVC、Mybatis 、Mybatis-Plus等框架的使用及其基本原理;\n5. 熟悉Springcloud 分布式架构及其组件原理,熟练使用 SpringBoot 微服务、Dubbo服务调中间件;\n6. 了解Java NIO 及 netty框架;\n7. 掌握 MySQL数据库及原理,熟练使用 SQL语句编程,熟悉SQL调优及索引优化;\n8. 熟练使用 Redis ,熟悉Redis基本数据结构,内存过期策略等;熟悉 Redis分布式锁及原理;\n9. 熟悉 Nginx 反向代理,负载均衡,动静分离特性的使用;\n10. 熟悉 RocketMq消息中间件的使用及原理,了解 mycat、sharding-jdbc数据库中间件;\n11. 熟悉 Linux 基本操作命令,进行线上日志查询排查问题;\n项目经验\n项目一:小黄狗智能回收(小程序/App)\n开发环境: IDEA、JDK1.8、Mysql5.5、Maven、Git 、SVN\n技术架构:Spring、Mybatis、SpringBoot 、SpringCloud、Redis、RocketMQ、Nginx 、Kong网关、阿里云\n项目描述:小黄狗智能回收是小黄狗环保科技有限公司旗下的再生资源科技智能回收平台,目前注册用户量达600万,日活\n约3万,全国铺设回收机柜约8000台。通过在小区、写字楼、酒店、闹市区设立废旧、闲置物品智能回收站,以有偿的方式\n接收市民投放的废纸、塑料、金属、废旧纺织品、玻璃等废弃物,并对接专职的废品回收人员,结合物联网、大数据、人工\n智能识别等高新科技达到整合废品回收生态链的目的,发展社会环保公益事;整体业务分为C端即用户端,B端骑手端(回收员等),终端(小区铺放智能机柜);按业务功能划分微服务大约20个,主要模块有面向用户的C端服务、B端骑手服\n务、支付服务、CMS通知服务、数据墙、订单中心、后台管理、游戏中心、活动中心等。\n项目职责:\n1.负责小黄狗C端上门回收业务下单流程数据库设计接口设计,保证线上程序稳定\n2.负责小黄狗线下交投点业务,与回收机柜终端进行交互\n3.负责小黄狗Activity活动中心服务需求设计,例如:扫码拉新活动,阶梯投递奖励活动等\n5.对接第三方业务,如:顺丰,快递鸟等\n4.紧急需求及生产问题排查,客服反馈的用户日常程序问题解决\n6.微信相关业务开发,如: 小程序模板消息通知,公众号消息通知,用户微信登录等\n技术描述:\n1.SpringCloud:系统分布式架构,注册中心Euraka,服务调用openFeign,ribbon负载均衡\n2.Redis:实现用户及热点数据缓存;Redis分布式锁,下单接口及库存增减业务并发场景使用,保证数据安全\n3.Sharding-jdbc 对订单表,流水表进行分表,减小数据库读写压力\n4.RocketMq:服务间异步通知;利用其延迟消息,对骑手开箱回收时间进行阶梯绩效设计\n5.Nginx:实现服务的反向代理和负载均衡\n6.Kong网关接口白名单管理及鉴权\n项目二:阻碳派SaaS系统(小程序)\n开发环境: IDEA、JDK1.8、Mysql5.5、Maven、Git\n技术架构:Spring、MybatisPlus、SpringBoot 、SpringCloud、Redis、MQTT、Nginx 、阿里云\n项目描述:阻碳派SaaS系统是小黄狗环保科技有限公司旗下专门为线下商铺,大中小型超市等大B端进行垃圾上门回收服\n务,并进行长期合作的一款环保SaaS小程序。该系统主模块分为回收站点端,骑手端,商家端(大B端)。每个回收站点都\n有自己的绑定二维码,商家扫描二维码后,会自动与该回收站点绑定,绑定认证签约通过后,可下单呼叫其绑定站点下的骑\n手进行上门回收服务;骑手回收完成回收后,回把回收物品送到回收站点进行入库;回收站点入库后,可对入库物品分类后\n指派骑手出售给它垃圾回收站。\n项目职责:\n1.从0到1参与项目的整个项目需求讨论及开发过程\n2.阻碳派SaaS系统站点骑手端,商铺端数据库设计;整个商铺下单,骑手接单上门流程设计及开发,保证线上程序稳定\n3.负责阻碳派SaaS系统后台管理模块数据库设计及功能开发,订单统计,库存统计等\n4.负责微信公众号/小程序状态消息提醒功能,微信扫码支付功能\n5.完成组内codeReview,反馈排期;修复测试bug,生产故障定位排查\n技术描述:\n1.SpringCloud:系统分布式架构,进行微服务架构设计\n2.Redis:缓存数据库,实现数据缓存;Redission分布式锁对骑手接单场景,入库库存操作场景使用,保证数据安全\n3.MQTT:实现与客户端消息异步发送,骑手新订单及未处理订单的提醒\n4.Nginx:实现服务的反向代理和负载均衡\n5.Shiro:用户身份认证登录及权限验证\n项目三:派啦网\n开发环境: IDEA、JDK1.8、Mysql5.7、Maven、Git\n技术架构:Spring、Mybatis、SpringBoot 、SpringCloud、Redis、ActiveMQ、Nginx 、ElasticSearch、Vue\n项目描述:该项目是一个 B2C 项目模式,经营绿色农业(农副土特产、干货、礼品、休闲小吃)为主产品与服务的综合性购物\n网站, 整个项目分为网上客户前台使用的购物功能平台。管理员所使用的后台管理。系统用户主要分为两大类用户:网上\n顾客、系统 管理员。 针对两类用户实现的功能:客户在网站浏览,搜索产品、添加购物车、填写/确认/修改订单、用户注\n册、注销、登陆、 查看/修改 信息。系统管理员—上线产品、修改产品信息、维护用户信息、订单处理,系统维护。模块主\n要划分:用户模块、 登录模块、购物车模块、商品详情模块、订单模块、后台管理模块、支付模块、库存模块\n项目职责:\n1.   负责项目的下单流程,订单模块数据库设计及业务开发\n2.   购物车模块业务开发,利用cookie存储用户未登录时购物车信息,登录后进行数据合并,并同步缓存Redis hash存储\n3.   负责项目单点登录开发,利用MVC拦截器及自定义注解实现单点登录,redis存储用户登录信息\n4.   测试修复开发过程中出现的 bug\n技术描述:\n1.   SpringCloud:Eureka注册中心,feigen远程调用,Ribbon负载均衡,Hystrix限流降级\n2.   通过 cookie 和 Redis + db 组合,实现购物车模块系列功能 ;Redis:缓存数据库,实现数据缓存\n3.   Elasticsearch:全文搜索,实现商品搜索功能\n4.   Nginx:实现服务的反向代理和负载均衡\n5.   FastDFS 文件服务器,实现商品图片上传\n6.   activityMq服务间异步通知及消息补偿\n项目四:口优才英语\n开发环境: IDEA、JDK1.8、MySQL、Maven、Git\n技术架构:Spring、Mybatis-plus、SpringBoot 、Dubbo、HttpClient、Redis、easyExcel、Vue\n项目描述:该项目是一个 B2C 模式的在线英语教学系统,分为前台用户系统和后台运营平台。使用了微服务技术架构,前\n后端分离 开发,持久层用的是 MyBatis-Plus,微服务分库设计,使用 Swagger 生成接口文档接入了阿里云视频点播、阿\n里云 OSS。 系统分为前台用户系统和后台管理系统两部分。前台用户系统包括课程、问答、文章。后台管理系统包括:系\n统管理、内容管理、社群问答、课程管理、消息中心、用户中心、统计分析、系统配置等功能。\n项目职责:\n1. 负责后台课程章节管理\n2. 负责前台课程详情展示模块\n3. 负责前台课程列表模块\n4.负责系统菜单、系统配置模块\n技术描述:\n1. Dubbo服务调度中间件,Zookeeper注册中心\n2. 登录使用了 JWT、三方支付使用的支付宝接口\n3. Nginx:实现服务的反向代理和负载均衡\n4. 阿里云 OSS、视频点播\n5. Redis 用户信息缓存\n项目五:集米聚筹\n开发环境:Eclipse、JDK1.7、Tomcat、Mysql、meven、Git\n技术架构:SpringMVC、Spring、Mybatis、SpringSecurity、阿里云 OSS\n项目描述:该项目是一种为为大众筹资或群众筹资的系统,也是一种团购预购的形式。利用互联网传播的特性,让创业企\n业、艺术 家或个人对公众展示他们的创意及项目,争取大家的关注和支持,进而获得所需要的资金援助。该运作模式:需\n要资金的个人 或团队将项目策划交给众筹平台,经过相关审核后,便可以在平台的网站上建立属于自己的页面,用来向公\n众介绍项目情况。 该系统有主要构成模块有用户登录模块,用户管理,角色维护,权限维护,实名认证及订单支付模块。\n项目职责:\n1. 负责用户管理模块\n2. 负责角色维护模块\n3. 参与了户登录模块代码编写\n4.其它bug维护\n技术描述:\n1. log4j+Logback 进行日志管理\n2. SpringSecurity:对权限进行细粒度维护,认证和授权\n3. Nginx:实现服务的反向代理和负载均衡\n4. SpringSession:解决 session 一致性问题\n工作经验\n2019-11 ~ 至今  小黄狗环保科技有限公司  Java开发工程师\n2017-08 ~ 2019-10  软通动力信息技术有限公司  Java开发工程师\n2016-07 ~ 2017-08  北京中宝世纪科技有限公司  Java开发工程师\n教育背景\n2020-04 ~ 至今  北京邮电大学 (在读)  计算机信息管理 (本科)\n2013-09 ~ 2016-06  天津职业大学  机械制造与自动化(大专)\n自我评价\n1. 沟通能力强,思路清晰,有优秀的理解与判断能力,善于挖掘及整理用户需求\n2. 对待工作心细胆大,尽职尽责,喜欢从事有挑战性的工作\n3. 学习能力较强,对新技术有着强烈的求知欲望\n4. 有较强的抗压能力,可以应对高强度的加班",
+        "cont_basic_info": "个人简历\n基本信息\n姓  名: 李浩吉  年  龄: 28岁\n性  别: 男  民  族: 汉\n籍  贯: 山西阳泉  工作年限: 5年经验\n联系电话: 15822516730  邮  箱: lihaoji1994@163.com\n期望薪资: 面议  学  历: 本科",
+        "hukou_address_norm": "中国-山西省-阳泉市",
+        "name": "李浩吉",
+        "job_exp_objs": [
+            {
+                "job_position": "Java开发工程师",
+                "end_date": "至今",
+                "job_cpy": "小黄狗环保科技有限公司",
+                "job_pos_type_p": "软件工程师",
+                "job_duration": "3年1个月",
+                "start_date": "2019.11"
+            },
+            {
+                "job_position": "Java开发工程师",
+                "end_date": "2019.10",
+                "job_cpy": "软通动力信息技术有限公司",
+                "job_pos_type_p": "软件工程师",
+                "job_duration": "2年2个月",
+                "start_date": "2017.08"
+            },
+            {
+                "job_position": "Java开发工程师",
+                "end_date": "2017.08",
+                "job_cpy": "北京中宝世纪科技有限公司",
+                "job_pos_type_p": "软件工程师",
+                "job_duration": "1年1个月",
+                "start_date": "2016.07"
+            }
+        ],
+        "gender": "男",
+        "age": "28",
+        "recruit": "在读",
+        "resume_name": "cv20221221_175152668_891.pdf",
+        "hukou_address": "山西阳泉",
+        "cont_education": "2020-04 ~ 至今  北京邮电大学 (在读)  计算机信息管理 (本科)\n2013-09 ~ 2016-06  天津职业大学  机械制造与自动化(大专)",
+        "race": "汉",
+        "hometown_address_norm": "中国-山西省-阳泉市",
+        "work_position": "Java开发工程师",
+        "work_start_time": "2016.07",
+        "college_type": "2",
+        "hometown_address": "山西阳泉"
+    },
+    "eval": {
+        "salary": 16400
+    },
+    "tags": {
+        "industries": [
+            {
+                "tag_weight": 0.6,
+                "tag_name": "通信/电信/网络设备"
+            }
+        ],
+        "pos_types": [
+            {
+                "tag_weight": 1.341267006762536,
+                "tag_name": "软件工程师"
+            },
+            {
+                "tag_weight": 0.6019139160065222,
+                "tag_name": "高级软件工程师"
+            },
+            {
+                "tag_weight": 0.3993171093373813,
+                "tag_name": "互联网软件开发工程师"
+            },
+            {
+                "tag_weight": 0.09001946758304247,
+                "tag_name": "技术研发工程师"
+            },
+            {
+                "tag_weight": 0.06943332861912266,
+                "tag_name": "多媒体/游戏开发工程师"
+            }
+        ],
+        "pos_tags": [
+            {
+                "tag_weight": 1.21,
+                "tag_name": "java开发工程师"
+            },
+            {
+                "tag_weight": 0.31924996501207353,
+                "tag_name": "java后端开发工程师"
+            },
+            {
+                "tag_weight": 0.2840998923182487,
+                "tag_name": "后端开发工程师"
+            },
+            {
+                "tag_weight": 0.2812742321491241,
+                "tag_name": "软件开发工程师"
+            },
+            {
+                "tag_weight": 0.2763077931404114,
+                "tag_name": "开发工程师"
+            },
+            {
+                "tag_weight": 0.2656188713908195,
+                "tag_name": "java服务器开发工程师"
+            },
+            {
+                "tag_weight": 0.26511619091033933,
+                "tag_name": "研发工程师"
+            },
+            {
+                "tag_weight": 0.26129838967323304,
+                "tag_name": "开发平台java工程师"
+            },
+            {
+                "tag_weight": 0.2601610677838325,
+                "tag_name": "靠谱鸟java工程师"
+            },
+            {
+                "tag_weight": 0.2587980340719223,
+                "tag_name": "java后台应用工程师"
+            }
+        ],
+        "skills_tags": [
+            {
+                "tag_weight": 1.2452540767192841,
+                "tag_name": "redis"
+            },
+            {
+                "tag_weight": 1.1640226674079894,
+                "tag_name": "nginx"
+            },
+            {
+                "tag_weight": 1.1460537564754487,
+                "tag_name": "spring"
+            },
+            {
+                "tag_weight": 1.0722733736038208,
+                "tag_name": "mybatis"
+            },
+            {
+                "tag_weight": 1.0602336144447326,
+                "tag_name": "分布式"
+            },
+            {
+                "tag_weight": 1.035191173553467,
+                "tag_name": "反向代理"
+            },
+            {
+                "tag_weight": 1.0219124412536622,
+                "tag_name": "分布式架构"
+            },
+            {
+                "tag_weight": 1.0177986574172975,
+                "tag_name": "springboot"
+            },
+            {
+                "tag_weight": 0.8612644577026367,
+                "tag_name": "rocketmq"
+            },
+            {
+                "tag_weight": 0.8288274192810059,
+                "tag_name": "jdbc"
+            },
+            {
+                "tag_weight": 0.6583184242248535,
+                "tag_name": "netty"
+            },
+            {
+                "tag_weight": 0.6556403160095216,
+                "tag_name": "springmvc"
+            },
+            {
+                "tag_weight": 0.637108564376831,
+                "tag_name": "dubbo"
+            },
+            {
+                "tag_weight": 0.619459342956543,
+                "tag_name": "nio"
+            },
+            {
+                "tag_weight": 0.6036434173583984,
+                "tag_name": "消息中间件"
+            },
+            {
+                "tag_weight": 0.5697253477573395,
+                "tag_name": "maven"
+            },
+            {
+                "tag_weight": 0.5613443922996522,
+                "tag_name": "负载均衡"
+            },
+            {
+                "tag_weight": 0.5379677772521972,
+                "tag_name": "mysql"
+            },
+            {
+                "tag_weight": 0.5314309120178223,
+                "tag_name": "sql调优"
+            },
+            {
+                "tag_weight": 0.5182724475860596,
+                "tag_name": "jvm内存"
+            },
+            {
+                "tag_weight": 0.4983407020568848,
+                "tag_name": "多线程编程"
+            },
+            {
+                "tag_weight": 0.4870228779315948,
+                "tag_name": "数据缓存"
+            },
+            {
+                "tag_weight": 0.4588065624237061,
+                "tag_name": "java"
+            },
+            {
+                "tag_weight": 0.45869031906127933,
+                "tag_name": "微服务"
+            },
+            {
+                "tag_weight": 0.45226793289184575,
+                "tag_name": "中间件"
+            },
+            {
+                "tag_weight": 0.44293050765991215,
+                "tag_name": "java 基础"
+            },
+            {
+                "tag_weight": 0.3881200075149536,
+                "tag_name": "算法"
+            },
+            {
+                "tag_weight": 0.3859839677810669,
+                "tag_name": "基本数据结构"
+            },
+            {
+                "tag_weight": 0.2432752275466919,
+                "tag_name": "网关"
+            },
+            {
+                "tag_weight": 0.242376389503479,
+                "tag_name": "cms"
+            },
+            {
+                "tag_weight": 0.2376848602294922,
+                "tag_name": "数据安全"
+            },
+            {
+                "tag_weight": 0.23354850053787232,
+                "tag_name": "大数据"
+            },
+            {
+                "tag_weight": 0.19005650520324707,
+                "tag_name": "机柜"
+            },
+            {
+                "tag_weight": 0.18659792184829713,
+                "tag_name": "后台管理"
+            },
+            {
+                "tag_weight": 0.16268897771835328,
+                "tag_name": "shiro"
+            },
+            {
+                "tag_weight": 0.13123067140579223,
+                "tag_name": "架构设计"
+            },
+            {
+                "tag_weight": 0.13026245355606078,
+                "tag_name": "mqtt"
+            },
+            {
+                "tag_weight": 0.08672345638275147,
+                "tag_name": "activemq"
+            },
+            {
+                "tag_weight": 0.08169402241706848,
+                "tag_name": "activitymq"
+            },
+            {
+                "tag_weight": 0.07950910687446594,
+                "tag_name": "elasticsearch"
+            },
+            {
+                "tag_weight": 0.07696358919143677,
+                "tag_name": "fastdfs"
+            },
+            {
+                "tag_weight": 0.06867449045181274,
+                "tag_name": "db"
+            },
+            {
+                "tag_weight": 0.06186743140220642,
+                "tag_name": "vue"
+            },
+            {
+                "tag_weight": 0.05410617053508759,
+                "tag_name": "cookie"
+            },
+            {
+                "tag_weight": 0.0493138587474823,
+                "tag_name": "系统维护"
+            },
+            {
+                "tag_weight": 0.04852549195289612,
+                "tag_name": "系统管理员"
+            }
+        ]
+    }
+}

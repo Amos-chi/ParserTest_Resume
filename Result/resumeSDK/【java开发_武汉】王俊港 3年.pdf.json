@@ -1,0 +1,23 @@
+{
+    "all": 20,
+    "important": 18,
+    "desc": 2,
+    "correct_important": 11,
+    "correct_desc": 0,
+    "additional": 0,
+    "important_keys": {
+        "experiences.0.companyName": false,
+        "experiences.0.startDate": false,
+        "experiences.0.endDate": false,
+        "experiences.1.companyName": false,
+        "experiences.1.startDate": false,
+        "experiences.1.endDate": false,
+        "preferredLocations.0.location": false
+    },
+    "unimportant_keys": {
+        "experiences.0.description": false,
+        "experiences.1.description": false
+    },
+    "addition_info_count": 0,
+    "addition_info": {}
+}

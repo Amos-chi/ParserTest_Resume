@@ -1,0 +1,433 @@
+{
+    "predicted_result": {
+        "desired_salary": null,
+        "tags": {
+            "skills": [
+                {
+                    "tag": "SPRINGCLOUD",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "SPRINGBOOT",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "MYBATIS",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "PRESTO",
+                    "type": "professional_skill",
+                    "subclass": "数据分析"
+                },
+                {
+                    "tag": "HADOOP",
+                    "type": "professional_skill",
+                    "subclass": "数据分析"
+                },
+                {
+                    "tag": "FLUME",
+                    "type": "professional_skill",
+                    "subclass": "数据分析"
+                },
+                {
+                    "tag": "SPARK",
+                    "type": "professional_skill",
+                    "subclass": "数据分析"
+                },
+                {
+                    "tag": "计算机技术",
+                    "type": "professional_skill",
+                    "subclass": "其它"
+                },
+                {
+                    "tag": "REDIS",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "MYSQL",
+                    "type": "professional_skill",
+                    "subclass": "DATABASE"
+                },
+                {
+                    "tag": "KAFKA",
+                    "type": "professional_skill",
+                    "subclass": "数据分析"
+                },
+                {
+                    "tag": "风险评估",
+                    "type": "professional_skill",
+                    "subclass": "风险管理"
+                },
+                {
+                    "tag": "JAVA",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "项目开发",
+                    "type": "professional_skill",
+                    "subclass": "项目管理"
+                },
+                {
+                    "tag": "HIVE",
+                    "type": "professional_skill",
+                    "subclass": "数据分析"
+                },
+                {
+                    "tag": "大数据",
+                    "type": "professional_skill",
+                    "subclass": "数据分析"
+                },
+                {
+                    "tag": "MQ",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "编码",
+                    "type": "professional_skill",
+                    "subclass": "后端开发"
+                },
+                {
+                    "tag": "团队合作",
+                    "type": "soft_skill",
+                    "subclass": "软性技能"
+                }
+            ],
+            "professional": [],
+            "education": [
+                {
+                    "tag": "硕士学历",
+                    "type": "degree"
+                },
+                {
+                    "tag": "计算机技术",
+                    "type": "major"
+                },
+                {
+                    "tag": "211工程院校",
+                    "type": "school_level"
+                }
+            ],
+            "basic": [
+                {
+                    "tag": "22到26岁",
+                    "type": "age"
+                },
+                {
+                    "tag": "湖北武汉",
+                    "type": "current_location"
+                },
+                {
+                    "tag": "初级",
+                    "type": "level"
+                }
+            ],
+            "others": [
+                {
+                    "tag": "英语",
+                    "type": "language",
+                    "level": "基本掌握"
+                },
+                {
+                    "tag": "cet-4",
+                    "type": "certificate"
+                },
+                {
+                    "tag": "校级一等奖学金",
+                    "type": "award"
+                }
+            ]
+        },
+        "highlights": {
+            "project": [],
+            "occupation": [],
+            "education": [
+                "拥有硕士学位",
+                "院校背景不错，硕士学历，毕业于211院校"
+            ],
+            "others": [
+                "熟练掌握英语，能进行基本的沟通",
+                "有丰富的大数据开发经验，对大数据、hive、hadoop、flume、spark、kafka、flink等技能或工具有深入的理解",
+                "有丰富的数据分析经验，对presto、大数据、flume、spark、hive、hadoop、kafka、flink、数据可视化等技能或工具有深入的理解",
+                "有丰富的后端开发经验，对redis、boot、spring、mysql、java、mybatis、springboot、系统等技能或工具有深入的理解"
+            ],
+            "tags": [
+                "国内211",
+                "英语能力良好",
+                "技术达标"
+            ]
+        },
+        "predicted_industry": {
+            "建筑/房地产": 5,
+            "咨询/法律/公务员": 5,
+            "生物/制药/医疗/护理": 5,
+            "教育/翻译/服务业": 5,
+            "其他": 5,
+            "工程师": 5,
+            "运营/客服/销售/市场": 5,
+            "人事/行政/高级管理": 5,
+            "生产/采购/物流": 5,
+            "互联网": 5,
+            "产品": 5,
+            "金融": 5
+        },
+        "predicted_titles": [],
+        "stability": {
+            "average_job_function_time": null,
+            "average_industry_time": null,
+            "average_work_time": null,
+            "work_stability": "稳定"
+        },
+        "predicted_capability": {
+            "language": 5,
+            "socialexp": 6,
+            "leadership": 5,
+            "workexp": 5,
+            "education": 7.5,
+            "honor": 7
+        },
+        "predicted_skills": [
+            {
+                "skill": "springcloud",
+                "score": 0.7
+            },
+            {
+                "skill": "springboot",
+                "score": 0.7
+            },
+            {
+                "skill": "mybatis",
+                "score": 0.7
+            },
+            {
+                "skill": "presto",
+                "score": 0.7
+            },
+            {
+                "skill": "hadoop",
+                "score": 0.7
+            },
+            {
+                "skill": "flume",
+                "score": 0.7
+            },
+            {
+                "skill": "spark",
+                "score": 0.7
+            },
+            {
+                "skill": "计算机技术",
+                "score": 0.7
+            },
+            {
+                "skill": "redis",
+                "score": 0.7
+            },
+            {
+                "skill": "mysql",
+                "score": 0.7
+            },
+            {
+                "skill": "kafka",
+                "score": 0.7
+            },
+            {
+                "skill": "风险评估",
+                "score": 0.7
+            },
+            {
+                "skill": "java",
+                "score": 0.7
+            },
+            {
+                "skill": "项目开发",
+                "score": 0.7
+            },
+            {
+                "skill": "hive",
+                "score": 0.7
+            },
+            {
+                "skill": "大数据",
+                "score": 0.7
+            },
+            {
+                "skill": "mq",
+                "score": 0.7
+            },
+            {
+                "skill": "编码",
+                "score": 0.7
+            }
+        ],
+        "predicted_salary": "8000_to_10000",
+        "predicted_turnover": null,
+        "risks": {
+            "occupation": [],
+            "education": [],
+            "tags": []
+        }
+    },
+    "cv_name": "4d4a280da4ded6a9cbd2765d6191af20.pdf",
+    "ocr_count": 0,
+    "src_id": "",
+    "version": "4.7.0",
+    "cv_language": "zh",
+    "src_site": "other",
+    "file_name": "2022-12-21T10:02:25--320311cfecf7bd6974f3460e2083dcb1.pdf",
+    "errormessage": "succeed",
+    "cv_id": "",
+    "english_parsing_result": {},
+    "updated_time": "",
+    "applied_job": "",
+    "resume_integrity": 0.5576862402033241,
+    "parsing_result": {
+        "project_experience": [],
+        "contact_info": {
+            "phone_number": "18571852172",
+            "QQ": "",
+            "wechat": "",
+            "email": "xc19970212@163.com",
+            "home_phone_number": ""
+        },
+        "social_experience": [],
+        "education_experience": [
+            {
+                "ranking": "",
+                "major": "",
+                "degree": "硕士",
+                "end_time_year": "2019",
+                "still_active": 0,
+                "school_rank": "",
+                "school_level": "",
+                "end_time_month": "06",
+                "school_name": "最高学历:",
+                "abroad_country": "",
+                "GPA": "",
+                "courses": "软件工程",
+                "start_time_year": "2015",
+                "location": "",
+                "department": "",
+                "study_model": "",
+                "abroad": 0,
+                "start_time_month": "09"
+            },
+            {
+                "ranking": "",
+                "major": "计算机技术",
+                "degree": "硕士",
+                "end_time_year": "2021",
+                "still_active": 0,
+                "school_rank": "71",
+                "school_level": "211",
+                "end_time_month": "06",
+                "school_name": "中南财经政法大学",
+                "abroad_country": "",
+                "GPA": "",
+                "courses": "",
+                "start_time_year": "2019",
+                "location": "武汉",
+                "department": "",
+                "study_model": "",
+                "abroad": 0,
+                "start_time_month": "09"
+            }
+        ],
+        "basic_info": {
+            "major": "计算机技术",
+            "expect_location": "",
+            "current_salary": "",
+            "current_location_norm": "中国-湖北-武汉",
+            "current_location": "湖北武汉",
+            "expect_location_norm": "",
+            "desired_salary": "1997.02",
+            "birthplace": "",
+            "degree": "硕士",
+            "desired_industry": "",
+            "desired_position": "",
+            "zipcode": "",
+            "professional_level": "初级",
+            "national_identity_number": "",
+            "date_of_birth": "1997-02",
+            "birthplace_norm": "",
+            "num_work_experience": 1,
+            "current_position": "",
+            "work_start_year": "2019",
+            "political_status": "",
+            "current_company": "",
+            "school_name": "中南财经政法大学",
+            "ethnic": "",
+            "recent_graduate_year": "2021",
+            "name": "熊成",
+            "lastupdate_time": "2022-12-21-10-02-27",
+            "gender": "",
+            "age": 25,
+            "marital_status": "",
+            "current_status": "",
+            "school_type": "211",
+            "detailed_location": "",
+            "industry": ""
+        },
+        "training_experience": [],
+        "work_experience": [],
+        "others": {
+            "language": [],
+            "certificate": [
+                "cet-4"
+            ],
+            "skills": [
+                "Pc",
+                "Mq",
+                "Java",
+                "Hive",
+                "Flume",
+                "Kafka",
+                "MySQL",
+                "Spark",
+                "Redis",
+                "Spring",
+                "配置",
+                "Presto",
+                "Hadoop",
+                "功能",
+                "编码",
+                "Mybatis",
+                "大数据",
+                "Springboot",
+                "springcloud",
+                "风险评估",
+                "软件工程",
+                "计算机技术"
+            ],
+            "self_evaluation": "自我评价 n Fy\nf1\n04\n5               96\n本人能与同事协作，服从安排，能尽快适应新的环境，为人诚恳、有上进心、\n58 4\nf99\n对技术有热情、喜欢折腾、愿意不停学习新的知识性格优势，富有团队合作\n0c\n4a\n精神。具有良好的交流能力、能和团队成员进行良好的项目开发。",
+            "awards": [
+                "校级一等奖学金"
+            ],
+            "it_skills": [
+                "Java",
+                "Hive",
+                "Kafka",
+                "MySQL",
+                "Spark",
+                "Hadoop",
+                "springcloud",
+                "软件工程",
+                "计算机技术"
+            ],
+            "business_skills": []
+        },
+        "resume_rawtext": ""
+    },
+    "avatar_url": "",
+    "client_id": "",
+    "file_ext": "pdf",
+    "errorcode": 0,
+    "avatar_data": "",
+    "hash_id": "4d4a280da4ded6a9cbd2765d6191af20"
+}

@@ -1,0 +1,75 @@
+{
+    "fullName": "Kuan (Alan) Liu",
+    "contacts": [
+        {
+            "contact": "alan1997liu@berkeley.edu",
+            "type": "EMAIL"
+        }
+    ],
+    "educations": [
+        {
+            "startDate": "2020-06-01",
+            "endDate": "2022-00-01",
+            "collegeName": "Stanford University ",
+            "majorName": "Materials Science and Engineering"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "San Diego, CA\nSoftware Engineering Assistant\n6/. 2020 to 8/. 2020 ● Le veraged Python computer vision and deep learning modules to extract information from piping\nand instrumentation diagrams (P&IDs) as part of a team of three interns.\nProvided a P&ID UI feature for the gas turbine human-machine interface using JavaScript, HTML,",
+            "companyName": "Provided a P&ID UI feature for the gas turbine human-machine interface using JavaScript, HTML,",
+            "title": "Software Engineering Assistant",
+            "startDate": "2020-00-01",
+            "endDate": "2020-08-01"
+        },
+        {
+            "description": "National Renewable Energy Laboratory\nGolden,CO\nEngineering Materials Intern\n1/. 2020 to 5/2020\nImplemented thermodynamic equilibrium calculations in MATLAB for predicting ternary phase\ndiagrams of salt hydrate systems\nInvestigated methods for synthesizing novel salt hydrate materials.\nSolar Turbines\nSan Diego, CA\nEngineering Assistant\n5/ 2019 to 8/. 2019 ●Sav\ned 78engineering hours and $8,500 per turbine project by developing a Python &Java\nprogram that automatically determines optimal gas detector placements in turbine packages\nImplemented the automation program using CFD data, CAD and optimization algorithms.\nConducted training on how to use the program to CFD engineers within the department.",
+            "companyName": "National Renewable Energy Laboratory",
+            "title": "Engineering Materials Intern",
+            "startDate": "2020-01-01",
+            "endDate": "2020-05-01"
+        },
+        {
+            "description": "7/2018 to 5/2019\nDeveloped Python and Bash programs to automatically calculate energies of perovskite materials\nwith DFT.",
+            "companyName": "Mark Asta Computational Materials Science Research Group",
+            "title": "Undergraduate Research Assistant",
+            "startDate": "2018-07-01",
+            "endDate": "2019-05-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "Unix"
+        },
+        {
+            "skillName": "html"
+        },
+        {
+            "skillName": "Java"
+        },
+        {
+            "skillName": "Bash"
+        },
+        {
+            "skillName": "Group"
+        },
+        {
+            "skillName": "Python"
+        },
+        {
+            "skillName": "MATLAB"
+        },
+        {
+            "skillName": "Control"
+        },
+        {
+            "skillName": "English"
+        },
+        {
+            "skillName": "HTML/CSS"
+        },
+        {
+            "skillName": "JavaScript"
+        }
+    ]
+}

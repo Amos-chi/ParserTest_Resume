@@ -1,0 +1,316 @@
+{
+    "fullName": "王俊港",
+    "contacts": [
+        {
+            "contact": "18071807610",
+            "type": "PHONE"
+        },
+        {
+            "contact": "18071807610@163.com",
+            "type": "EMAIL"
+        }
+    ],
+    "preferredLocations": [
+        {
+            "location": "湖北武汉"
+        }
+    ],
+    "educations": [
+        {
+            "startDate": "2015-09-01",
+            "endDate": "2019-07-01",
+            "collegeName": "三峡大学",
+            "degreeLevel": "本科",
+            "majorName": "科技"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "工作内容: 参与产品及项目开发，完成需求分析，完成子系统和模块设计。\n参与产品讨论，业务逻辑实现，根据项目任务计划按时完成软件编码和单元测试工作。\n根据产品需求，完成后端项目设计与开发，确保项目进度。",
+            "companyName": "深圳市慧搭科技有限公司",
+            "startDate": "2021-04-01",
+            "endDate": "2022-09-01"
+        },
+        {
+            "description": "工作内容: 主要从事软件编码工作\n涉及用户需求分析、功能模块分析及编码实现等。\n参与产品讨论、技术设计，与团队成员共同协作完成软件开发。",
+            "companyName": "深圳慧订网络科技有限公司",
+            "startDate": "2019-08-01",
+            "endDate": "2021-03-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "SQL"
+        },
+        {
+            "skillName": "XML"
+        },
+        {
+            "skillName": "Web"
+        },
+        {
+            "skillName": "Oop"
+        },
+        {
+            "skillName": "Jdk"
+        },
+        {
+            "skillName": "Kpi"
+        },
+        {
+            "skillName": "CSS"
+        },
+        {
+            "skillName": "Git"
+        },
+        {
+            "skillName": "Jsp"
+        },
+        {
+            "skillName": "Aop"
+        },
+        {
+            "skillName": "Ioc"
+        },
+        {
+            "skillName": "Ssm"
+        },
+        {
+            "skillName": "Vue"
+        },
+        {
+            "skillName": "Jwt"
+        },
+        {
+            "skillName": "MVC"
+        },
+        {
+            "skillName": "Poi"
+        },
+        {
+            "skillName": "Rbac"
+        },
+        {
+            "skillName": "Open"
+        },
+        {
+            "skillName": "Java"
+        },
+        {
+            "skillName": "Json"
+        },
+        {
+            "skillName": "Idea"
+        },
+        {
+            "skillName": "html"
+        },
+        {
+            "skillName": "Ajax"
+        },
+        {
+            "skillName": "Feign"
+        },
+        {
+            "skillName": "Redis"
+        },
+        {
+            "skillName": "MySQL"
+        },
+        {
+            "skillName": "axios"
+        },
+        {
+            "skillName": "Gitee"
+        },
+        {
+            "skillName": "Layui"
+        },
+        {
+            "skillName": "Linux"
+        },
+        {
+            "skillName": "Nginx"
+        },
+        {
+            "skillName": "Oauth"
+        },
+        {
+            "skillName": "Token"
+        },
+        {
+            "skillName": "Ngnix"
+        },
+        {
+            "skillName": "Excel"
+        },
+        {
+            "skillName": "Maven"
+        },
+        {
+            "skillName": "Alipay"
+        },
+        {
+            "skillName": "配置"
+        },
+        {
+            "skillName": "运营"
+        },
+        {
+            "skillName": "缓存"
+        },
+        {
+            "skillName": "Jquery"
+        },
+        {
+            "skillName": "编码"
+        },
+        {
+            "skillName": "架构"
+        },
+        {
+            "skillName": "Gitlab"
+        },
+        {
+            "skillName": "优化"
+        },
+        {
+            "skillName": "接口"
+        },
+        {
+            "skillName": "Spring"
+        },
+        {
+            "skillName": "搭建"
+        },
+        {
+            "skillName": "javase"
+        },
+        {
+            "skillName": "Ribbon"
+        },
+        {
+            "skillName": "前端"
+        },
+        {
+            "skillName": "功能"
+        },
+        {
+            "skillName": "Tomcat"
+        },
+        {
+            "skillName": "Docker"
+        },
+        {
+            "skillName": "Fastdfs"
+        },
+        {
+            "skillName": "navicat"
+        },
+        {
+            "skillName": "Mybatis"
+        },
+        {
+            "skillName": "swagger"
+        },
+        {
+            "skillName": "echarts"
+        },
+        {
+            "skillName": "Restful"
+        },
+        {
+            "skillName": "Postman"
+        },
+        {
+            "skillName": "Hystrix"
+        },
+        {
+            "skillName": "Mybaits"
+        },
+        {
+            "skillName": "Rabbitmq"
+        },
+        {
+            "skillName": "Security"
+        },
+        {
+            "skillName": "Javamail"
+        },
+        {
+            "skillName": "数据库"
+        },
+        {
+            "skillName": "springmvc"
+        },
+        {
+            "skillName": "thymeleaf"
+        },
+        {
+            "skillName": "Springboot"
+        },
+        {
+            "skillName": "JavaScript"
+        },
+        {
+            "skillName": "pagehelper"
+        },
+        {
+            "skillName": "Mybatisplus"
+        },
+        {
+            "skillName": "springcloud"
+        },
+        {
+            "skillName": "Elasticseach"
+        },
+        {
+            "skillName": "项目管理"
+        },
+        {
+            "skillName": "结构设计"
+        },
+        {
+            "skillName": "需求分析"
+        },
+        {
+            "skillName": "设计模式"
+        },
+        {
+            "skillName": "产品管理"
+        },
+        {
+            "skillName": "项目设计"
+        },
+        {
+            "skillName": "搜索引擎"
+        },
+        {
+            "skillName": "系统管理"
+        },
+        {
+            "skillName": "功能测试"
+        },
+        {
+            "skillName": "模块开发"
+        },
+        {
+            "skillName": "模块设计"
+        },
+        {
+            "skillName": "单元测试"
+        },
+        {
+            "skillName": "开发工具"
+        },
+        {
+            "skillName": "Elasticsearch"
+        },
+        {
+            "skillName": "springsecurity"
+        },
+        {
+            "skillName": "代理服务器"
+        }
+    ]
+}

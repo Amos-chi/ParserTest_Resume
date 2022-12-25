@@ -1,0 +1,40 @@
+{
+    "all": 29,
+    "important": 26,
+    "desc": 3,
+    "correct_important": 10,
+    "correct_desc": 0,
+    "additional": 2,
+    "important_keys": {
+        "educations.0.endDate": false,
+        "educations.0.collegeName": false,
+        "educations.0.majorName": false,
+        "experiences.0.companyName": false,
+        "experiences.0.title": false,
+        "experiences.0.startDate": false,
+        "experiences.0.current": false,
+        "experiences.1.companyName": false,
+        "experiences.1.title": false,
+        "experiences.1.startDate": false,
+        "experiences.1.endDate": false,
+        "experiences.2.companyName": false,
+        "experiences.2.title": false,
+        "experiences.2.startDate": false,
+        "experiences.2.endDate": false,
+        "preferredLocations.0.location": false
+    },
+    "unimportant_keys": {
+        "experiences.0.description": false,
+        "experiences.1.description": false,
+        "experiences.2.description": false
+    },
+    "addition_info_count": 2,
+    "addition_info": {
+        "currentLocation": {
+            "location": "Shijiazhuang, Hebei"
+        },
+        "languages": [
+            "MANDARIN"
+        ]
+    }
+}

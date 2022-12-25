@@ -1,0 +1,24 @@
+{
+    "all": 31,
+    "important": 29,
+    "desc": 2,
+    "correct_important": 29,
+    "correct_desc": 2,
+    "additional": 2,
+    "important_keys": {},
+    "unimportant_keys": {
+        "experiences.0.description": true,
+        "experiences.1.description": true
+    },
+    "addition_info_count": 2,
+    "addition_info": {
+        "preferredLocations": [
+            {
+                "location": "321 South 5th Street, Unit 240, Ames, Iowa 50010"
+            }
+        ],
+        "languages": [
+            "ENGLISH"
+        ]
+    }
+}

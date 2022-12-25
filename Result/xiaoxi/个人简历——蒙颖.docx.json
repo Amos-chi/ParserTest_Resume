@@ -1,0 +1,21 @@
+{
+    "all": 17,
+    "important": 16,
+    "desc": 1,
+    "correct_important": 14,
+    "correct_desc": 0,
+    "additional": 1,
+    "important_keys": {
+        "educations.0.endDate": false,
+        "experiences.0.title": false
+    },
+    "unimportant_keys": {
+        "experiences.0.description": false
+    },
+    "addition_info_count": 1,
+    "addition_info": {
+        "languages": [
+            "MANDARIN"
+        ]
+    }
+}

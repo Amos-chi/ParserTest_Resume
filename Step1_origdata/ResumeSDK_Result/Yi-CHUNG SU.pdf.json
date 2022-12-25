@@ -1,0 +1,267 @@
+{
+    "status": {
+        "message": "success",
+        "code": 200
+    },
+    "result": {
+        "cont_job_skill": "C++, Python, Matlab, Simulink, Labview, Arduino, RobotStudio, SolidWorks, Linux, OpenCV, ROS, MySQL, YOLOV2,\nCUDA, cuDNN, CANBus, Docker, MQTT, Git, React, Redux, Travis CI, Catch, CMake, UDP",
+        "social_exp_objs": [],
+        "work_start_time_inf": "2018.09",
+        "all_cert_objs": [],
+        "resume_type": "1",
+        "has_oversea_edu": "1",
+        "skills_objs": [
+            {
+                "skills_name": "Scrum"
+            },
+            {
+                "skills_name": "python"
+            },
+            {
+                "skills_name": "Docker"
+            },
+            {
+                "skills_name": "C++"
+            },
+            {
+                "skills_name": "3D"
+            },
+            {
+                "skills_name": "CAD"
+            },
+            {
+                "skills_name": "arm"
+            },
+            {
+                "skills_name": "OpenCV"
+            },
+            {
+                "skills_name": "Matlab"
+            },
+            {
+                "skills_name": "database"
+            },
+            {
+                "skills_name": "MySQL"
+            },
+            {
+                "skills_name": "Angular"
+            }
+        ],
+        "education_objs": [
+            {
+                "edu_college": "University of Michigan",
+                "edu_college_type": "4",
+                "edu_major": "Mechanical Engineering",
+                "edu_degree": "Master of Science",
+                "edu_degree_norm": "Master"
+            },
+            {
+                "edu_college": "National Taiwan University",
+                "edu_college_type": "0",
+                "edu_major": "Mechanical Engineering",
+                "edu_degree": "Bachelor of Science",
+                "edu_degree_norm": "Bachelor"
+            }
+        ],
+        "resume_integrity": "37",
+        "training_objs": [],
+        "email": "yichusu@umich.edu",
+        "cont_job_exp": "Smart Ag., Ames, Iowa(Autonomous Tractor Startup)                          Sep.2018-Present\nAutonomous Vehicle Engineer\n• Worked in the Agile Scrum team to improve the John Deere tractor’s control system with python and Docker.\n• Redesigned the Tractor’s safety system to deal with emergency conditions based on Test-driven Development.\n• Built the hardware simulator with fake CAN messages, fake perception messages and fake GPS data to test the system.\n• Programmed unit tests and integration tests for every function in the program using Travis, Catch2, and Fake-it.\n• Developed radar detection code using C++ and Bosch mid-range radar and Continental Radar.\n• Launched a heartbeat program between main CPU and redundant CPU by serial communication.\n• Implemented the Safety Stop program through I2C Bus between redundant CPU and brake module.\n• Developed the speed controller algorithm(Gear selection and throttle adjustment) for tractors with Power Shift\nTransmission by using state machine QNX environment.\nAutomation Dept., Syntec Technology, Hsinchu, Taiwan(Leading CNC controller manufacturer)    May-Jun.2017\nMechanical Engineering Intern\n• Built 3D CAD models including robotic arm, CNC, and conveyor system to demo industry 4.0 products.\n• Simulated milling processes using ABB Robotstudio Machining PowerPac to assess its auto-path generation function.",
+        "work_company": "Smart Ag",
+        "lang_objs": [],
+        "cert_objs": [],
+        "proj_exp_objs": [],
+        "work_year_norm": "4.3",
+        "work_year": "4.3",
+        "resume_parse_time": "2022-12-21 17:51:51",
+        "work_year_inf": "4.3",
+        "raw_text": "YI-CHUNG SU\n321 South 5th Street, Unit 240, Ames, Iowa 50010 | yichusu@umich.edu | (734)709-5275\nOBJECTIVE\nSeeking a full-time job in Control or Robotic fields.\nEDUCATION\nUniversity of Michigan, Ann Arbor, MI, USA                                       Apr.2018\nMaster of Science in Mechanical Engineering                                      GPA: 3.66/4.00\nNational Taiwan University, Taipei, Taiwan                                              Jun.2014\nBachelor of Science in Mechanical Engineering\nWORK EXPERIENCES\nSmart Ag., Ames, Iowa(Autonomous Tractor Startup)                          Sep.2018-Present\nAutonomous Vehicle Engineer\n• Worked in the Agile Scrum team to improve the John Deere tractor’s control system with python and Docker.\n• Redesigned the Tractor’s safety system to deal with emergency conditions based on Test-driven Development.\n• Built the hardware simulator with fake CAN messages, fake perception messages and fake GPS data to test the system.\n• Programmed unit tests and integration tests for every function in the program using Travis, Catch2, and Fake-it.\n• Developed radar detection code using C++ and Bosch mid-range radar and Continental Radar.\n• Launched a heartbeat program between main CPU and redundant CPU by serial communication.\n• Implemented the Safety Stop program through I2C Bus between redundant CPU and brake module.\n• Developed the speed controller algorithm(Gear selection and throttle adjustment) for tractors with Power Shift\nTransmission by using state machine QNX environment.\nAutomation Dept., Syntec Technology, Hsinchu, Taiwan(Leading CNC controller manufacturer)    May-Jun.2017\nMechanical Engineering Intern\n• Built 3D CAD models including robotic arm, CNC, and conveyor system to demo industry 4.0 products.\n• Simulated milling processes using ABB Robotstudio Machining PowerPac to assess its auto-path generation function.\nPROJECT EXPERIENCES\nComputer Vision Project                                                  April.2018\n• Developed a feature-based lane detection algorithm using OpenCV.\n• Fine-tuned a CNN model to do car detection using YOLOv2 and achieved up to 87.6% IOU in the testing video.\nVehicle Dynamics Project                                                 April.2018\n• Simulated the linear vehicle model’s movement by Simulink and Matlab.\n• Analyzed and identified the tire cornering stiffness by using the linear bicycle model and the experimental data.\n• Designed a steering controller to track a predefined path using Pure Pursuit control.\nAutomated vehicles’ Sensors and Data Mining Project                                Mar.2018\n• Analyze Lidar/Radar/GPS/Ultrasonic data from rosbag.\n• Extracted lane change events from a naturalistic driving database using MySQL.\nMechatronics Project                                                 Sep.-Dec.2017\n• Sensor Fusion for Accurate Angular Measurement: integrated an accelerometer along with the low-pass filter and a gyro\nalong with the high-pass filter for the pendulum tilt angle measurement.\n• Inverted Pendulum Mechatronic System Design: identified the model parameters and designed a full-state feedback\ncontrol system to stabilize an inverted pendulum through Linear-Quadratic Regulator (LQR) method and a classical\ncontrol system with two loops which the inner loop with negative feedback while the out loop with positive feedback.\n• DC Motor and Stepper Motor Position and Velocity Control: assessed motor’s performance characteristics for different\ninput and designed controllers to meet the position and velocity error requirement.\nSelf-Driving Car Project                                                   Dec.2017\n• Constructed a car obstacles-avoidance controller using PID control.\n• Achieved the controller with the planned-trajectory as the reference, traction force and steering angle as the control inputs\nto control the vehicle to follow the trajectory without crashing the track boundary.\nRobot Kinematics and Dynamics Project                                            Apr.2017\n• Developed a robotic arm that can grab a small-size object given its position using Arduino and servo motor.\n• Implemented DH table and two inverse kinematic methods (MIT rule and inverse Jacobian) to compute the joint angles\nand transmitted these data into Simulink and Arduino to activate the motor and simulation.\nSKILLS\nC++, Python, Matlab, Simulink, Labview, Arduino, RobotStudio, SolidWorks, Linux, OpenCV, ROS, MySQL, YOLOV2,\nCUDA, cuDNN, CANBus, Docker, MQTT, Git, React, Redux, Travis CI, Catch, CMake, UDP",
+        "work_location": "Iowa",
+        "cont_basic_info": "YI-CHUNG SU\n321 South 5th Street, Unit 240, Ames, Iowa 50010 | yichusu@umich.edu | (734)709-5275\nOBJECTIVE\nSeeking a full-time job in Control or Robotic fields.",
+        "job_exp_objs": [
+            {
+                "job_position": "Autonomous Vehicle Engineer",
+                "end_date": "至今",
+                "job_location": "Iowa",
+                "job_content": "Worked in the Agile Scrum team to improve the John Deere tractor’s control system with python and Docker.\n• Redesigned the Tractor’s safety system to deal with emergency conditions based on Test-driven Development.\n• Built the hardware simulator with fake CAN messages, fake perception messages and fake GPS data to test the system.\n• Programmed unit tests and integration tests for every function in the program using Travis, Catch2, and Fake-it.\n• Developed radar detection code using C++ and Bosch mid-range radar and Continental Radar.\n• Launched a heartbeat program between main CPU and redundant CPU by serial communication.\n• Implemented the Safety Stop program through I2C Bus between redundant CPU and brake module.\n• Developed the speed controller algorithm(Gear selection and throttle adjustment) for tractors with Power Shift\nTransmission by using state machine QNX environment.\nAutomation Dept., Syntec Technology, Hsinchu, Taiwan(Leading CNC controller manufacturer)    May-Jun.2017\nMechanical Engineering Intern\n• Built 3D CAD models including robotic arm, CNC, and conveyor system to demo industry 4.0 products.\n• Simulated milling processes using ABB Robotstudio Machining PowerPac to assess its auto-path generation function.",
+                "job_cpy": "Smart Ag",
+                "job_duration": "4年3个月",
+                "start_date": "2018.09"
+            }
+        ],
+        "work_start_time": "2018.09",
+        "resume_name": "cv20221221_175151514_433.pdf",
+        "cont_education": "University of Michigan, Ann Arbor, MI, USA                                       Apr.2018\nMaster of Science in Mechanical Engineering                                      GPA: 3.66/4.00\nNational Taiwan University, Taipei, Taiwan                                              Jun.2014\nBachelor of Science in Mechanical Engineering",
+        "cont_proj_exp": "Computer Vision Project                                                  April.2018\n• Developed a feature-based lane detection algorithm using OpenCV.\n• Fine-tuned a CNN model to do car detection using YOLOv2 and achieved up to 87.6% IOU in the testing video.\nVehicle Dynamics Project                                                 April.2018\n• Simulated the linear vehicle model’s movement by Simulink and Matlab.\n• Analyzed and identified the tire cornering stiffness by using the linear bicycle model and the experimental data.\n• Designed a steering controller to track a predefined path using Pure Pursuit control.\nAutomated vehicles’ Sensors and Data Mining Project                                Mar.2018\n• Analyze Lidar/Radar/GPS/Ultrasonic data from rosbag.\n• Extracted lane change events from a naturalistic driving database using MySQL.\nMechatronics Project                                                 Sep.-Dec.2017\n• Sensor Fusion for Accurate Angular Measurement: integrated an accelerometer along with the low-pass filter and a gyro\nalong with the high-pass filter for the pendulum tilt angle measurement.\n• Inverted Pendulum Mechatronic System Design: identified the model parameters and designed a full-state feedback\ncontrol system to stabilize an inverted pendulum through Linear-Quadratic Regulator (LQR) method and a classical\ncontrol system with two loops which the inner loop with negative feedback while the out loop with positive feedback.\n• DC Motor and Stepper Motor Position and Velocity Control: assessed motor’s performance characteristics for different\ninput and designed controllers to meet the position and velocity error requirement.\nSelf-Driving Car Project                                                   Dec.2017\n• Constructed a car obstacles-avoidance controller using PID control.\n• Achieved the controller with the planned-trajectory as the reference, traction force and steering angle as the control inputs\nto control the vehicle to follow the trajectory without crashing the track boundary.\nRobot Kinematics and Dynamics Project                                            Apr.2017\n• Developed a robotic arm that can grab a small-size object given its position using Arduino and servo motor.\n• Implemented DH table and two inverse kinematic methods (MIT rule and inverse Jacobian) to compute the joint angles\nand transmitted these data into Simulink and Arduino to activate the motor and simulation.",
+        "work_position": "Autonomous Vehicle Engineer"
+    },
+    "eval": {
+        "salary": 11000
+    },
+    "tags": {
+        "industries": [],
+        "pos_types": [
+            {
+                "tag_weight": 0.003997031331062317,
+                "tag_name": "财务分析经理/主管"
+            },
+            {
+                "tag_weight": 0.003997031331062317,
+                "tag_name": "成本管理员"
+            }
+        ],
+        "pos_tags": [
+            {
+                "tag_weight": 1.0,
+                "tag_name": "autonomous vehicle engineer"
+            },
+            {
+                "tag_weight": 0.00929095721244812,
+                "tag_name": "hardware"
+            },
+            {
+                "tag_weight": 0.009008994460105895,
+                "tag_name": "integration"
+            },
+            {
+                "tag_weight": 0.008670446038246155,
+                "tag_name": "automation"
+            },
+            {
+                "tag_weight": 0.008351318597793578,
+                "tag_name": "algorithm"
+            },
+            {
+                "tag_weight": 0.00829262351989746,
+                "tag_name": "module"
+            },
+            {
+                "tag_weight": 0.007994062662124634,
+                "tag_name": "controller"
+            },
+            {
+                "tag_weight": 0.007968088150024415,
+                "tag_name": "assess"
+            },
+            {
+                "tag_weight": 0.007886882781982421,
+                "tag_name": "i2c"
+            },
+            {
+                "tag_weight": 0.0077403316497802735,
+                "tag_name": "arm"
+            }
+        ],
+        "skills_tags": [
+            {
+                "tag_weight": 0.8010442161560059,
+                "tag_name": "python"
+            },
+            {
+                "tag_weight": 0.629948902130127,
+                "tag_name": "opencv"
+            },
+            {
+                "tag_weight": 0.5972742557525635,
+                "tag_name": "cuda"
+            },
+            {
+                "tag_weight": 0.5591791152954102,
+                "tag_name": "cmake"
+            },
+            {
+                "tag_weight": 0.5589992046356201,
+                "tag_name": "labview"
+            },
+            {
+                "tag_weight": 0.5383191585540772,
+                "tag_name": "udp"
+            },
+            {
+                "tag_weight": 0.5374761581420898,
+                "tag_name": "matlab"
+            },
+            {
+                "tag_weight": 0.5352552890777588,
+                "tag_name": "c++"
+            },
+            {
+                "tag_weight": 0.5108380317687988,
+                "tag_name": "docker"
+            },
+            {
+                "tag_weight": 0.5088983535766601,
+                "tag_name": "ros"
+            },
+            {
+                "tag_weight": 0.46733784675598145,
+                "tag_name": "mqtt"
+            },
+            {
+                "tag_weight": 0.44630012512207035,
+                "tag_name": "arduino"
+            },
+            {
+                "tag_weight": 0.4400193691253662,
+                "tag_name": "react"
+            },
+            {
+                "tag_weight": 0.434956693649292,
+                "tag_name": "mysql"
+            },
+            {
+                "tag_weight": 0.3716382884979248,
+                "tag_name": "hardware"
+            },
+            {
+                "tag_weight": 0.36035977840423583,
+                "tag_name": "integration"
+            },
+            {
+                "tag_weight": 0.3468178415298462,
+                "tag_name": "automation"
+            },
+            {
+                "tag_weight": 0.33405274391174317,
+                "tag_name": "algorithm"
+            },
+            {
+                "tag_weight": 0.33170494079589846,
+                "tag_name": "module"
+            },
+            {
+                "tag_weight": 0.3197625064849854,
+                "tag_name": "controller"
+            },
+            {
+                "tag_weight": 0.3187235260009766,
+                "tag_name": "assess"
+            },
+            {
+                "tag_weight": 0.3154753112792969,
+                "tag_name": "i2c"
+            },
+            {
+                "tag_weight": 0.309613265991211,
+                "tag_name": "arm"
+            },
+            {
+                "tag_weight": 0.2988263511657715,
+                "tag_name": "engineering intern"
+            },
+            {
+                "tag_weight": 0.2973465347290039,
+                "tag_name": "qnx"
+            },
+            {
+                "tag_weight": 0.29318129062652587,
+                "tag_name": "cpu"
+            },
+            {
+                "tag_weight": 0.2684492015838623,
+                "tag_name": "mid"
+            }
+        ]
+    }
+}

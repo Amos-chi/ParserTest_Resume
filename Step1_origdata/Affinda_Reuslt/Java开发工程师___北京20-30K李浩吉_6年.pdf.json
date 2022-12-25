@@ -1,0 +1,512 @@
+{
+    "certifications": [],
+    "dateOfBirth": null,
+    "education": [
+        {
+            "id": 8031590,
+            "organization": "北京邮电大学",
+            "accreditation": {
+                "education": "计算机信息管理 (本科)",
+                "educationLevel": null,
+                "inputStr": "计算机信息管理 (本科)",
+                "matchStr": ""
+            },
+            "grade": null,
+            "location": null,
+            "dates": null
+        },
+        {
+            "id": 8031591,
+            "organization": "天津职业大学",
+            "accreditation": {
+                "education": "机械制造与自动化 (大专)",
+                "educationLevel": null,
+                "inputStr": "机械制造与自动化 (大专)",
+                "matchStr": ""
+            },
+            "grade": null,
+            "location": null,
+            "dates": {
+                "startDate": "2013-09-01",
+                "completionDate": "2016-06-01",
+                "isCurrent": false
+            }
+        }
+    ],
+    "emails": [
+        "lihaoji1994@163.com"
+    ],
+    "location": {
+        "formatted": "Yangquan, Shanxi, China",
+        "streetNumber": null,
+        "street": null,
+        "apartmentNumber": null,
+        "city": "Yangquan",
+        "postalCode": null,
+        "state": "Shanxi",
+        "country": "China",
+        "rawInput": "山西阳泉",
+        "countryCode": "CN"
+    },
+    "name": {
+        "raw": "",
+        "last": "",
+        "first": "",
+        "title": "",
+        "middle": ""
+    },
+    "objective": "",
+    "phoneNumbers": [
+        "+8615822516730"
+    ],
+    "publications": [],
+    "referees": [],
+    "sections": [
+        {
+            "sectionType": "PersonalDetails",
+            "bbox": [
+                18.897,
+                7.630005,
+                564.38995,
+                175.16699
+            ],
+            "pageIndex": 0,
+            "text": "nZ72tS5E1dWy5G5VfuWTOegnw~~ 基本信息 姓名:李浩吉年龄:28岁 性别:男民族:汉 籍 贯 : 山西阳泉 工作年限 : 5年经验 联系电话 : 15822516730 邮 箱 : lihaoji1994@163.com"
+        },
+        {
+            "sectionType": "Other",
+            "bbox": [
+                30.2535,
+                7.7199707,
+                400.18,
+                39.304504
+            ],
+            "pageIndex": 0,
+            "text": "个 人 简 历 50ffa962bc5a21281"
+        },
+        {
+            "sectionType": "Summary",
+            "bbox": [
+                18.876,
+                213.76202,
+                493.38684,
+                418.491
+            ],
+            "pageIndex": 0,
+            "text": "技能特长 1. 熟练掌握 Java 基础及特性, 良好的编程习惯; 2. 熟练使用Java集合容器及数据结构原理, 熟悉JUC并发包, 熟悉多线程编程; 3. 熟悉 JVM内存结构和 GC-算法; 4. 熟练Spring、 SpringMVC、 Mybatis 、 Mybatis-Plus等框架的使用及其基本原理; 5. 熟悉Springcloud 分布式架构及其组件原理, 熟练使用 SpringBoot 微服务、 Dubbo服务调中间件; 6. 了解Java NIO 及 netty框架; 7. 掌握 MySQL数据库及原理, 熟练使用 SQL语句编程, 熟悉SQL调优及索引优化; 8. 熟练使用 Redis , 熟悉Redis基本数据结构, 内存过期策略等; 熟悉 Redis分布式锁及原理; 9. 熟悉 Nginx 反向代理, 负载均衡, 动静分离特性的使用; 10. 熟悉 RocketMq消息中间件的使用及原理, 了解 mycat、 sharding-jdbc数据库中间件; 11. 熟悉 Linux 基本操作命令, 进行线上日志查询排查问题;"
+        },
+        {
+            "sectionType": "Projects",
+            "bbox": [
+                18.8235,
+                434.346,
+                587.56006,
+                799.167
+            ],
+            "pageIndex": 0,
+            "text": "项目经验 项目一: 小黄狗智能回收(小程序/App) 开发环境: IDEA、 JDK1.8、 Mysql5.5、 Maven、 Git 、 SVN 技术架构: Spring、 Mybatis、 SpringBoot 、 SpringCloud、 Redis、 RocketMQ、 Nginx 、 Kong网关、 阿里云 项目描述: 小黄狗智能回收是小黄狗环保科技有限公司旗下的再生资源科技智能回收平台, 目前注册用户量达600万, 日活 约3万, 全国铺设回收机柜约8000台。 通过在小区、 写字楼、 1.SpringCloud: 2.Redis: 3.Sharding-jdbc"
+        },
+        {
+            "sectionType": "Projects",
+            "bbox": [
+                22.9485,
+                3.772522,
+                591.19104,
+                842.22
+            ],
+            "pageIndex": 1,
+            "text": "项目二: 阻碳派SaaS系统(小程序) 开发环境: IDEA、 JDK1.8、 Mysql5.5、 Maven、 Git 技术架构: Spring、 MybatisPlus、 SpringBoot 、 SpringCloud、 Redis、 MQTT、 Nginx 、 阿里云 项目描述: 阻碳派SaaS系统是小黄狗环保科技有限公司旗下专门为线下商铺, 大中小型超市等大B端进行垃圾上门回收服 务, 并进行长期合作的一款环保SaaS小程序。 该系统主模块分为回收站点端, 骑手端, 商家端 (大B端) 。 每个回收站点都 有自己的绑定二维码, 商家扫描二维码后, 会自动与该回收站点绑定, 绑定认证签约通过后, 可下单呼叫其绑定站点下的骑 手进行上门回收服务; 骑手回收完成回收后, 回把回收物品送到回收站点进行入库; 回收站点入库后, 可对入库物品分类后 指派骑手出售给它垃圾回收站。 项目职责: 1.从0到1参与项目的整个项目需求讨论及开发过程 2.阻碳派SaaS系统站点骑手端, 商铺端数据库设计; 整个商铺下单, 骑手接单上门流程设计及开发, 保证线上程序稳定 3.负责阻碳派SaaS系统后台管理模块数据库设计及功能开发, 订单统计, 库存统计等 4.负责微信公众号/小程序状态消息提醒功能,微信扫码支付功能 5.完成组内codeReview, 反馈排期; 修复测试bug, 生产故障定位排查 技术描述: 1.SpringCloud: 系统分布式架构, 进行微服务架构设计 2.Redis: 缓存数据库, 实现数据缓存; Redission分布式锁对骑手接单场景, 入库库存操作场景使用, 保证数据安全 3.MQTT: 实现与客户端消息异步发送, 骑手新订单及未处理订单的提醒 4.Nginx: 实现服务的反向代理和负载均衡 5.Shiro: 用户身份认证登录及权限验证 项目三: 派啦网 开发环境: IDEA、 JDK1.8、 Mysql5.7、 Maven、 Git 技术架构: Spring、 Mybatis、 SpringBoot 、 SpringCloud、 Redis、 ActiveMQ、 Nginx 、 ElasticSearch、 Vue 项目描述: 该项目是一个 B2C 项目模式, 经营绿色农业(农副土特产、 干货、 礼品、 休闲小吃)为主产品与服务的综合性购物 网站, 整个项目分为网上客户前台使用的购物功能平台。 管理员所使用的后台管理。 系统用户主要分为两大类用户: 网上 顾客、 系统管理员。 针对两类用户实现的功能: 客户在网站浏览, 搜索产品、 添加购物车、 填写/确认/修改订单、 用户注 册、 注销、 登陆、 查看/修改信息。 系统管理员—上线产品、 修改产品信息、 维护用户信息、 订单处理, 系统维护。 模块主 要划分: 用户模块、 登录模块、 购物车模块、 商品详情模块、 订单模块、 后台管理模块、 支付模块、 库存模块 项目职责: 1. 负责项目的下单流程, 订单模块数据库设计及业务开发 2. 购物车模块业务开发, 利用cookie存储用户未登录时购物车信息, 登录后进行数据合并, 并同步缓存Redis hash存储 3. 负责项目单点登录开发, 利用MVC拦截器及自定义注解实现单点登录, redis存储用户登录信息 4. 测试修复开发过程中出现的 bug 技术描述: 1. SpringCloud: Eureka注册中心, feigen远程调用, Ribbon负载均衡, Hystrix限流降级 2. 通过 cookie 和 Redis + db 组合, 实现购物车模块系列功能 ; Redis: 缓存数据库, 实现数据缓存 3. Elasticsearch:全文搜索, 实现商品搜索功能 4. Nginx: 实现服务的反向代理和负载均衡 5. FastDFS 文件服务器, 实现商品图片上传 6. activityMq服务间异步通知及消息补偿 项目四: 口优才英语 开发环境: IDEA、 JDK1.8、 MySQL、 Maven、 Git 技术架构: Spring、 Mybatis-plus、 SpringBoot 、 Dubbo、 HttpClient、 Redis、 easyExcel、 Vue 项目描述: 该项目是一个 B2C 模式的在线英语教学系统, 分为前台用户系统和后台运营平台。 使用了微服务技术架构, 前 后端分离开发, 持久层用的是 MyBatis-Plus, 微服务分库设计, 使用 Swagger 生成接口文档接入了阿里云视频点播、 阿 里云 OSS。 系统分为前台用户系统和后台管理系统两部分。 前台用户系统包括课程、 问答、 文章。 后台管理系统包括: 系 统管理、 内容管理、 社群问答、 课程管理、 消息中心、 用户中心、 统计分析、 系统配置等功能。"
+        },
+        {
+            "sectionType": "Projects",
+            "bbox": [
+                22.9485,
+                21.211487,
+                582.7295,
+                515.6565
+            ],
+            "pageIndex": 2,
+            "text": "项目职责: 1. 负责后台课程章节管理 2. 负责前台课程详情展示模块 3. 负责前台课程列表模块 4.负责系统菜单、 系统配置模块 技术描述: 1. Dubbo服务调度中间件, Zookeeper注册中心 2. 登录使用了 JWT、 三方支付使用的支付宝接口 3. Nginx: 实现服务的反向代理和负载均衡 4. 阿里云 OSS、 视频点播 5. Redis 用户信息缓存 项目五: 集米聚筹 开发环境: Eclipse、 JDK1.7、 Tomcat、 Mysql、 meven、 Git 技术架构: SpringMVC、 Spring、 Mybatis、 SpringSecurity、 阿里云 OSS 项目描述: 该项目是一种为为大众筹资或群众筹资的系统, 也是一种团购预购的形式。 利用互联网传播的特性, 让创业企 业、 艺术 家或个人对公众展示他们的创意及项目 , 争取大家的关注和支持, 进而获得所需要的资金援助。 该运作模式: 需 要资金的个人 或团队将项目策划交给众筹平台, 经过相关审核后, 便可以在平台的网站上建立属于自己的页面, 用来向公 众介绍项目情况。 该系统有主要构成模块有用户登录模块, 用户管理, 角色维护, 权限维护, 实名认证及订单支付模块。 项目职责: 1. 负责用户管理模块 2. 负责角色维护模块 3. 参与了户登录模块代码编写 4.其它bug维护 技术描述: 1. log4j+Logback 进行日志管理 2. SpringSecurity: 对权限进行细粒度维护, 认证和授权 3. Nginx: 实现服务的反向代理和负载均衡 4. SpringSession : 解决 session 一致性问题"
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                19.044,
+                530.346,
+                592.192,
+                609.8025
+            ],
+            "pageIndex": 2,
+            "text": "工作经验 2019-11 ~ 至今 小黄狗环保科技有限公司 Java开发工程师 2017-08 ~ 2019-10 软通动力信息技术有限公司 Java开发工程师 2016-07 ~ 2017-08 北京中宝世纪科技有限公司 Java开发工程师"
+        },
+        {
+            "sectionType": "Education",
+            "bbox": [
+                18.876,
+                625.575,
+                585.15375,
+                682.17377
+            ],
+            "pageIndex": 2,
+            "text": "教育背景 2020-04 ~ 至今 北京邮电大学 (在读) 计算机信息管理 (本科) 2013-09 ~ 2016-06 天津职业大学 机械制造与自动化 (大专)"
+        },
+        {
+            "sectionType": "Summary",
+            "bbox": [
+                20.0205,
+                697.617,
+                391.89084,
+                781.449
+            ],
+            "pageIndex": 2,
+            "text": "自我评价 1. 沟通能力强, 思路清晰, 有优秀的理解与判断能力, 善于挖掘及整理用户需求 2. 对待工作心细胆大, 尽职尽责, 喜欢从事有挑战性的工作 3. 学习能力较强, 对新技术有着强烈的求知欲望 4. 有较强的抗压能力, 可以应对高强度的加班"
+        }
+    ],
+    "skills": [
+        {
+            "id": 80404920,
+            "emsiId": "ES933D5DCC6C3A7C44D9",
+            "name": "JSON Web Token (JWT)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404924,
+            "emsiId": "KS120JM6ZKSY0Q8PJ7WT",
+            "name": "Apache Tomcat",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404926,
+            "emsiId": "KS441S66KZY7LM20RKYN",
+            "name": "Software Versioning",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404928,
+            "emsiId": "KS126QY605N7YVHFYCTW",
+            "name": "MySQL",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404929,
+            "emsiId": "KS122VT6S2JJ5C5D80NF",
+            "name": "Linux",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404930,
+            "emsiId": "KS120076FGP5WGWYMP0F",
+            "name": "Java (Programming Language)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404931,
+            "emsiId": "KS127126GR4WQYW9LXCW",
+            "name": "Nginx",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404932,
+            "emsiId": "KS440HW721Q479S37G98",
+            "name": "Session (Computer Science)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404933,
+            "emsiId": "KS123CZ6V1JC5FBNXX42",
+            "name": "Elasticsearch",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404934,
+            "emsiId": "KS126TY6PLVV38N85X1H",
+            "name": "MyBatis",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404918,
+            "emsiId": "KS126QZ69ZTV30YN72GH",
+            "name": "Message Queuing Telemetry Transport (MQTT)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404919,
+            "emsiId": "KS1204L6HNLVRQVG3JHR",
+            "name": "Spring Security",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404921,
+            "emsiId": "KSDJRYGPTBSTI3RSPWXK",
+            "name": "Jdk1.7",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404922,
+            "emsiId": "KSXZMBTED59J8JCEVAHH",
+            "name": "Httpclient",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404923,
+            "emsiId": "KS1239L6X7VKWZNYHNYZ",
+            "name": "Eclipse (Software)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404925,
+            "emsiId": "KS128G66RG96FZNHFCXY",
+            "name": "Redis",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404927,
+            "emsiId": "KS1205K64B3RV9CWNPZJ",
+            "name": "Apache ActiveMQ",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Chinese"
+    ],
+    "summary": "1. 熟练掌握 Java 基础及特性, 良好的编程习惯; 2. 熟练使用Java集合容器及数据结构原理, 熟悉JUC并发包, 熟悉多线程编程; 3. 熟悉 JVM内存结构和 GC-算法; 4. 熟练Spring、 SpringMVC、 Mybatis 、 Mybatis-Plus等框架的使用及其基本原理; 5. 熟悉Springcloud 分布式架构及其组件原理, 熟练使用 SpringBoot 微服务、 Dubbo服务调中间件; 6. 了解Java NIO 及 netty框架; 7. 掌握 MySQL数据库及原理, 熟练使用 SQL语句编程, 熟悉SQL调优及索引优化; 8. 熟练使用 Redis , 熟悉Redis基本数据结构, 内存过期策略等; 熟悉 Redis分布式锁及原理; 9. 熟悉 Nginx 反向代理, 负载均衡, 动静分离特性的使用; 10. 熟悉 RocketMq消息中间件的使用及原理, 了解 mycat、 sharding-jdbc数据库中间件; 11. 熟悉 Linux 基本操作命令, 进行线上日志查询排查问题;",
+    "websites": [],
+    "linkedin": null,
+    "totalYearsExperience": 3,
+    "profession": null,
+    "workExperience": [
+        {
+            "id": 15073394,
+            "jobTitle": "Java开发工程师",
+            "organization": "小黄狗环保科技有限公司",
+            "location": null,
+            "dates": null,
+            "jobDescription": "",
+            "occupation": {
+                "jobTitle": "Java开发工程师",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        },
+        {
+            "id": 15073395,
+            "jobTitle": "Java开发工程师",
+            "organization": "软通动力信息技术有限公司",
+            "location": null,
+            "dates": {
+                "startDate": "2017-08-01",
+                "endDate": "2019-10-01",
+                "monthsInPosition": 26,
+                "isCurrent": false
+            },
+            "jobDescription": "",
+            "occupation": {
+                "jobTitle": "Java开发工程师",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        },
+        {
+            "id": 15073396,
+            "jobTitle": "Java开发工程师",
+            "organization": "北京中宝世纪科技有限公司",
+            "location": null,
+            "dates": {
+                "startDate": "2016-07-01",
+                "endDate": "2017-08-01",
+                "monthsInPosition": 13,
+                "isCurrent": false
+            },
+            "jobDescription": "",
+            "occupation": {
+                "jobTitle": "Java开发工程师",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        }
+    ],
+    "headShot": null,
+    "isResumeProbability": 72,
+    "rawText": "个 人 简 历 50ffa962bc5a21281\nnZ72tS5E1dWy5G5VfuWTOegnw~~ 基本信息 姓名:李浩吉年龄:28岁 性别:男民族:汉 籍 贯 : 山西阳泉 工作年限 : 5年经验 联系电话 : 15822516730 邮 箱 : lihaoji1994@163.com\n技能特长 1. 熟练掌握 Java 基础及特性, 良好的编程习惯; 2. 熟练使用Java集合容器及数据结构原理, 熟悉JUC并发包, 熟悉多线程编程; 3. 熟悉 JVM内存结构和 GC-算法; 4. 熟练Spring、 SpringMVC、 Mybatis 、 Mybatis-Plus等框架的使用及其基本原理; 5. 熟悉Springcloud 分布式架构及其组件原理, 熟练使用 SpringBoot 微服务、 Dubbo服务调中间件; 6. 了解Java NIO 及 netty框架; 7. 掌握 MySQL数据库及原理, 熟练使用 SQL语句编程, 熟悉SQL调优及索引优化; 8. 熟练使用 Redis , 熟悉Redis基本数据结构, 内存过期策略等; 熟悉 Redis分布式锁及原理; 9. 熟悉 Nginx 反向代理, 负载均衡, 动静分离特性的使用; 10. 熟悉 RocketMq消息中间件的使用及原理, 了解 mycat、 sharding-jdbc数据库中间件; 11. 熟悉 Linux 基本操作命令, 进行线上日志查询排查问题;\n项目经验 项目一: 小黄狗智能回收(小程序/App) 开发环境: IDEA、 JDK1.8、 Mysql5.5、 Maven、 Git 、 SVN 技术架构: Spring、 Mybatis、 SpringBoot 、 SpringCloud、 Redis、 RocketMQ、 Nginx 、 Kong网关、 阿里云 项目描述: 小黄狗智能回收是小黄狗环保科技有限公司旗下的再生资源科技智能回收平台, 目前注册用户量达600万, 日活 约3万, 全国铺设回收机柜约8000台。 通过在小区、 写字楼、 1.SpringCloud: 2.Redis: 3.Sharding-jdbc\n项目二: 阻碳派SaaS系统(小程序) 开发环境: IDEA、 JDK1.8、 Mysql5.5、 Maven、 Git 技术架构: Spring、 MybatisPlus、 SpringBoot 、 SpringCloud、 Redis、 MQTT、 Nginx 、 阿里云 项目描述: 阻碳派SaaS系统是小黄狗环保科技有限公司旗下专门为线下商铺, 大中小型超市等大B端进行垃圾上门回收服 务, 并进行长期合作的一款环保SaaS小程序。 该系统主模块分为回收站点端, 骑手端, 商家端 (大B端) 。 每个回收站点都 有自己的绑定二维码, 商家扫描二维码后, 会自动与该回收站点绑定, 绑定认证签约通过后, 可下单呼叫其绑定站点下的骑 手进行上门回收服务; 骑手回收完成回收后, 回把回收物品送到回收站点进行入库; 回收站点入库后, 可对入库物品分类后 指派骑手出售给它垃圾回收站。 项目职责: 1.从0到1参与项目的整个项目需求讨论及开发过程 2.阻碳派SaaS系统站点骑手端, 商铺端数据库设计; 整个商铺下单, 骑手接单上门流程设计及开发, 保证线上程序稳定 3.负责阻碳派SaaS系统后台管理模块数据库设计及功能开发, 订单统计, 库存统计等 4.负责微信公众号/小程序状态消息提醒功能,微信扫码支付功能 5.完成组内codeReview, 反馈排期; 修复测试bug, 生产故障定位排查 技术描述: 1.SpringCloud: 系统分布式架构, 进行微服务架构设计 2.Redis: 缓存数据库, 实现数据缓存; Redission分布式锁对骑手接单场景, 入库库存操作场景使用, 保证数据安全 3.MQTT: 实现与客户端消息异步发送, 骑手新订单及未处理订单的提醒 4.Nginx: 实现服务的反向代理和负载均衡 5.Shiro: 用户身份认证登录及权限验证 项目三: 派啦网 开发环境: IDEA、 JDK1.8、 Mysql5.7、 Maven、 Git 技术架构: Spring、 Mybatis、 SpringBoot 、 SpringCloud、 Redis、 ActiveMQ、 Nginx 、 ElasticSearch、 Vue 项目描述: 该项目是一个 B2C 项目模式, 经营绿色农业(农副土特产、 干货、 礼品、 休闲小吃)为主产品与服务的综合性购物 网站, 整个项目分为网上客户前台使用的购物功能平台。 管理员所使用的后台管理。 系统用户主要分为两大类用户: 网上 顾客、 系统管理员。 针对两类用户实现的功能: 客户在网站浏览, 搜索产品、 添加购物车、 填写/确认/修改订单、 用户注 册、 注销、 登陆、 查看/修改信息。 系统管理员—上线产品、 修改产品信息、 维护用户信息、 订单处理, 系统维护。 模块主 要划分: 用户模块、 登录模块、 购物车模块、 商品详情模块、 订单模块、 后台管理模块、 支付模块、 库存模块 项目职责: 1. 负责项目的下单流程, 订单模块数据库设计及业务开发 2. 购物车模块业务开发, 利用cookie存储用户未登录时购物车信息, 登录后进行数据合并, 并同步缓存Redis hash存储 3. 负责项目单点登录开发, 利用MVC拦截器及自定义注解实现单点登录, redis存储用户登录信息 4. 测试修复开发过程中出现的 bug 技术描述: 1. SpringCloud: Eureka注册中心, feigen远程调用, Ribbon负载均衡, Hystrix限流降级 2. 通过 cookie 和 Redis + db 组合, 实现购物车模块系列功能 ; Redis: 缓存数据库, 实现数据缓存 3. Elasticsearch:全文搜索, 实现商品搜索功能 4. Nginx: 实现服务的反向代理和负载均衡 5. FastDFS 文件服务器, 实现商品图片上传 6. activityMq服务间异步通知及消息补偿 项目四: 口优才英语 开发环境: IDEA、 JDK1.8、 MySQL、 Maven、 Git 技术架构: Spring、 Mybatis-plus、 SpringBoot 、 Dubbo、 HttpClient、 Redis、 easyExcel、 Vue 项目描述: 该项目是一个 B2C 模式的在线英语教学系统, 分为前台用户系统和后台运营平台。 使用了微服务技术架构, 前 后端分离开发, 持久层用的是 MyBatis-Plus, 微服务分库设计, 使用 Swagger 生成接口文档接入了阿里云视频点播、 阿 里云 OSS。 系统分为前台用户系统和后台管理系统两部分。 前台用户系统包括课程、 问答、 文章。 后台管理系统包括: 系 统管理、 内容管理、 社群问答、 课程管理、 消息中心、 用户中心、 统计分析、 系统配置等功能。\n项目职责: 1. 负责后台课程章节管理 2. 负责前台课程详情展示模块 3. 负责前台课程列表模块 4.负责系统菜单、 系统配置模块 技术描述: 1. Dubbo服务调度中间件, Zookeeper注册中心 2. 登录使用了 JWT、 三方支付使用的支付宝接口 3. Nginx: 实现服务的反向代理和负载均衡 4. 阿里云 OSS、 视频点播 5. Redis 用户信息缓存 项目五: 集米聚筹 开发环境: Eclipse、 JDK1.7、 Tomcat、 Mysql、 meven、 Git 技术架构: SpringMVC、 Spring、 Mybatis、 SpringSecurity、 阿里云 OSS 项目描述: 该项目是一种为为大众筹资或群众筹资的系统, 也是一种团购预购的形式。 利用互联网传播的特性, 让创业企 业、 艺术 家或个人对公众展示他们的创意及项目 , 争取大家的关注和支持, 进而获得所需要的资金援助。 该运作模式: 需 要资金的个人 或团队将项目策划交给众筹平台, 经过相关审核后, 便可以在平台的网站上建立属于自己的页面, 用来向公 众介绍项目情况。 该系统有主要构成模块有用户登录模块, 用户管理, 角色维护, 权限维护, 实名认证及订单支付模块。 项目职责: 1. 负责用户管理模块 2. 负责角色维护模块 3. 参与了户登录模块代码编写 4.其它bug维护 技术描述: 1. log4j+Logback 进行日志管理 2. SpringSecurity: 对权限进行细粒度维护, 认证和授权 3. Nginx: 实现服务的反向代理和负载均衡 4. SpringSession : 解决 session 一致性问题\n工作经验 2019-11 ~ 至今 小黄狗环保科技有限公司 Java开发工程师 2017-08 ~ 2019-10 软通动力信息技术有限公司 Java开发工程师 2016-07 ~ 2017-08 北京中宝世纪科技有限公司 Java开发工程师\n教育背景 2020-04 ~ 至今 北京邮电大学 (在读) 计算机信息管理 (本科) 2013-09 ~ 2016-06 天津职业大学 机械制造与自动化 (大专)\n自我评价 1. 沟通能力强, 思路清晰, 有优秀的理解与判断能力, 善于挖掘及整理用户需求 2. 对待工作心细胆大, 尽职尽责, 喜欢从事有挑战性的工作 3. 学习能力较强, 对新技术有着强烈的求知欲望 4. 有较强的抗压能力, 可以应对高强度的加班"
+}

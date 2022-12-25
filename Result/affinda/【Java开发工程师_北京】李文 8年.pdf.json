@@ -1,0 +1,31 @@
+{
+    "all": 39,
+    "important": 35,
+    "desc": 4,
+    "correct_important": 22,
+    "correct_desc": 1,
+    "additional": 0,
+    "important_keys": {
+        "educations.0.degreeLevel": false,
+        "educations.0.endDate": false,
+        "educations.0.majorName": false,
+        "educations.0.startDate": false,
+        "languages.0": false,
+        "skills.0.skillName": false,
+        "skills.1.skillName": false,
+        "skills.2.skillName": false,
+        "skills.3.skillName": false,
+        "skills.4.skillName": false,
+        "skills.6.skillName": false,
+        "skills.7.skillName": false,
+        "skills.8.skillName": false
+    },
+    "unimportant_keys": {
+        "experiences.0.description": false,
+        "experiences.1.description": false,
+        "experiences.2.description": false,
+        "experiences.3.description": true
+    },
+    "addition_info_count": 0,
+    "addition_info": {}
+}

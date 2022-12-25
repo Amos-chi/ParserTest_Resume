@@ -1,0 +1,2896 @@
+{
+    "certifications": [
+        "Experience in developing Object Oriented Programming OOP MVC based Applications",
+        "Performed extensive programming in MYSQL to achieve all functionality"
+    ],
+    "dateOfBirth": null,
+    "education": [],
+    "emails": [
+        "vishalk21831@gmail.com"
+    ],
+    "location": null,
+    "name": {
+        "raw": "Vishal Kalletla",
+        "last": "Kalletla",
+        "first": "Vishal",
+        "title": "",
+        "middle": ""
+    },
+    "objective": "",
+    "phoneNumbers": [
+        "(571) 310-1272|"
+    ],
+    "publications": [],
+    "referees": [],
+    "sections": [
+        {
+            "sectionType": "PersonalDetails",
+            "bbox": [
+                54.272,
+                40.369995,
+                274.09,
+                79.02002
+            ],
+            "pageIndex": 0,
+            "text": "Vishal Kalletla Senior Software Engineer M: (571) 310-1272| EMAIL: vishalk21831@gmail.com"
+        },
+        {
+            "sectionType": "Summary",
+            "bbox": [
+                54.372,
+                93.68402,
+                558.02,
+                717.849
+            ],
+            "pageIndex": 0,
+            "text": "SUMMARY___________________________________________________________________________ • 10+ years of experience in Analysis, Design, Development, Implementation and Production in Financial, Marketing and Healthcare Domains. • Developed applications using Ruby on Rails, HTML, CSS, JavaScript, AngularJS, JQuery, Bootstrap, Java, JSP, J2EE, Spring, SQL, MySQL, Oracle, MongoDB, Python, Linux/Unix. • Have comprehensive knowledge in Ruby on Rails lifecycle: architecture, user stories, UX & UI. • Experience in developing Object-Oriented Programming (OOP), MVC based Applications using ROR and Java. • Worked with the teams that follow Agile Scrum methodology, participated in designing and planning the project. • Analyze, design, develop and implement various applications utilizing Ruby on Rails. • Experience in Test-Driven Development (TDD) and Behavior-Driven Development (BDD). • Experienced various Open source and proprietary Ruby Gems with Heroku, Capistrano. • Used RSpec, factory girl/factory bot, cucumber, capybara and gherkin to create test/behavior driven development. Experience with all of the RVM, Bundler, GEMS and libraries for this version of the ruby/rails. • Practiced Test Driven Development with RSpec and Behavior Driven Development with Cucumber and Capybara. • Expert working knowledge on databases like RDBMS (MySQL, MS-SQL, SQLite, Oracle) & NoSQL (Mongo DB) • Proficient in designing and implementation of store procedures, views, triggers on databases such as MySQL, Hive, SQLite, PostgreSQL and Oracle. • Performed extensive programming in MYSQL to achieve all functionality. • High proficiency with front end web frameworks such as Angular.js. • Hands on experience with Non-SQL Databases such as CouchDB and MongoDB. • Worked with XML related technologies such as XML, XSD, XSLT and JAXB and used XML Schema for retrieving patient details in some of my projects. • Experienced in UI development using HTML5, CSS3, AJAX, JavaScript and jQuery, ANT and Maven. • Good Knowledge in developing single page application using Angular, React with responsive and reactive design(RXJS, NGRX, REDUX). • Experience with cloud services like Heroku, Amazon web services(AWS) EC2, S3 etc. • Have Knowledge in build and deployment tools like Jenkins • Developed and implemented various Ajax Frameworks such as jQuery, JSON. • Experienced in installing, configuring, modifying, testing and deploying applications with Apache. • Good Knowledge Objected Oriented Concepts, Standard Template Library, Smart Pointers, Data Structures and Design patterns."
+        },
+        {
+            "sectionType": "Skills/Interests/Languages",
+            "bbox": [
+                54.072,
+                39.661987,
+                557.422,
+                436.142
+            ],
+            "pageIndex": 1,
+            "text": "• Hands on Ruby on Rails tools like scaffolding to construct the models and views, WEBrick and PUMA for Ruby web server management. • Expert in MS SQL Server BI components, Integration Services (SSIS), Analysis Services (SSAS) and Reporting Services (SSRS) • Great experience with troubleshooting and debugging the code. • Excellent problem solving, analytical skills and critical thinking skills. • Experience in installation and configuration of multiple versions of Ruby using RVM (Ruby Version Manager) bundler install. TECHNICAL SKILLS____________________________________________________________________ Languages Ruby, SQL, MQL, HiveQL, Python, Java, PHP, C, C++ Database MongoDB, Oracle SQL, PostgreSQL, Hive Web and Scripting Languages Rake, Rails, JavaScript, JQuery, AngularJS, ReactJS, ASP, HTML5, CSS3. Ruby Testing Tools Rspec, Cucumber, selenium-webdriver, capybara, Minitest Application Servers Microsoft IIS, Tomcat, Apache (LAMP), Web sphere Operating Systems Mac OS, Linux (Ubuntu 8.04 through 11.10) & Windows (multi threading applications) Web Service Technologies SOUP, Restful UML Tools MS-Visio 2010/2013 Development Tools RubyMine, VS Studio, Sublime, Atom, VS Professional, Spring Tool Suite, Eclipse, Intellij Versioning Tools GitHub, TFS, TortoiseSVN Platforms Ubuntu, Windows server 2012, Windows 7/8/10, AWS (EC2, EMR) Network Protocols TCP/IP, UDP, HTTP"
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                54.0,
+                455.984,
+                557.97705,
+                700.224
+            ],
+            "pageIndex": 1,
+            "text": "PROFESSIONAL EXPERIENCE_____________________________________________________________ M9 Consulting Inc. Client: HBX, Washington, DC (July 2017 – Present) Senior Software Engineer / Ruby on Rails Developer Responsibilities: • Prepared and analyzed System Requirements Specifications (SRS) for a project and interacted with client during requirements specifications. • Implemented and enhanced CRUD operations for the applications using the MVC (Model View Controller) architecture framework. • Developed microservices to increase productivity, quality and security. • Created most important Business Rules which are useful for the scope of project and needs of customers. • Developed and tested many features for dashboard using Ruby on Rails, Bootstrap, CSS and JavaScript. • Planned and carried out daily scrums, weekly estimations and retrospectives and pair programming."
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                54.0,
+                39.054016,
+                557.69196,
+                712.474
+            ],
+            "pageIndex": 2,
+            "text": "• Followed Test Driven Development (TDD), Scrum concepts of the Agile Methodology to produce high Quality Software. • Practiced Test-Driven Development with RSpec as well as Behavior Driven Development with Cucumber and Capybara to specify and test controller classes, models, view templates, helpers and routing. • User Interface for website with ERB, JQuery, html, css, Ajax in Ruby on Rails Framework. • Used Extreme Programming (XP) and Scrum practices. • Developed ETL workflows involving Data extraction, serialization, transformations and loading into mongodb. • Involved in creating and maintaining Database objects, Profiles and associated tablespaces, Roles and Privileges. • Used AMQP for messaging protocol. • Have exposer in building containers using Docker. • Used JQuery, Angularjs, Reactjs and Ajax in web applications to enhance the customer website experience. • Design and maintain ROR code. Implement upgrades, patches, code releases, and database changes using Mongo DB (NoSQL) • Peer-review code to satisfy quality, stability, performance, DRY patterns and security checklist. • Wrote ruby scripts for deployments onto AWS and Continuous Integration provisioning. • Analyzed software requirements and provide solutions and performed analysis, design, coding, testing, implementation, and maintenance of software solutions. Environment: Ruby 2.3 , Ruby 2.5, Rails 4.2, Rails 5.2 , HTML5, CSS3, Bootstrap, JavaScript, Angular JS, ReactJS , JSON, OJ, Multi_JSON, Jquery, Rubygems, Unix/Linux, GIT/ GitHub, RSPEC, Minitest, Cucumber, Agile, AmazonEC2, MongoDB, Faraday, httparty, Actionmailer, Selenium-webdriver, Capybara, Devise, concurrent-ruby, Rubo 3T (ROBOMONGO), AMQP, Docker, Puma. M9 Consulting Inc. Client: Ernst & Young, Alpharetta, GA (August 2016 – July 2017) Software Developer Responsibilities: • Developed web application using Ruby on Rails on Unix/Linux operating system, backed by MySQL, and PostgreSQL. • Planned and carried out daily scrums, weekly estimations and retrospectives and pair programming. • Involved in Software Development which is driven by Agile methodology. • Develop user friendly and sophisticated graphical representation of the catalogue of items that would be configured for a piece of equipment. • Design and implementation of MVC framework using technologies like JavaScript, HTML, CSS, and RUBY on RAILS. • Upgraded associated gems, across multiple Ruby and Rails versions. • Implemented Behavior Driven Deployment (BDD) using R spec and Cucumber to perform cross browser and regression testing. • Execute lossless data migrations in production from a MySQL database to a redesigned PostgreSQL database."
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                54.0,
+                39.210022,
+                557.906,
+                696.349
+            ],
+            "pageIndex": 3,
+            "text": "• ETL: Data extraction, managing, aggregations and loading into Hive. • Used Talend to perform ETL jobs. • Implemented Big Data tools within Hadoop ecosystem (HDFS, Hive, Pig, Sqoop, Oozie). • Created Hive External tables and loaded the data into tables and queried data using HQL that helped market analysts to look for emerging trends by comparing fresh data with EDW reference tables. • Used Hive to analyze the partitioned and bucketed data and compute various metrics for reporting. • Worked closely with other developers, project managers, UX designers, and marketers on agile user stories. Environment: Ruby, Rails, HTML5, CSS3, Bootstrap, JavaScript, JSON, Jquery, Rubygems, MySQL, Unix/Linux, Restful, GIT, WEBrick, RSPEC, Cucumber, Agile, AmazonEC2, Hive, Pig, Sqoop, Oozie. Cognizant Technology Solutions (Nov 2009 to May 2015) Senior Programmer Analyst Responsibilities: • Involved in various phases of Software development life cycle (SDLC) as requirement gathering, modeling, analysis, architecture design & development. • Designed and developed web applications using Ruby, Rails, Java/J2EE design patterns, HTML, CSS, Java Script AJAX and JQuery. • Designed and developed necessary UML Diagrams (Use Case, Class, Sequence, State). • Responsibilities included developing new features, fixing bugs, interfacing with the product development and software quality assurance group. • Developed custom Rails applications specific to client's unique needs. • Database modeling and design. Involved in developing and implementation of the web application using Ruby on Rails. • Participated in requirements definition and story carding. • Worked extensively with arrays and hashes in the ruby environment. • Used many regular expressions in order to match the pattern with the existing one. • Designed, development controller and view part of the system by scaffolding. • Understanding of how web applications work including security, session management and best development practices. • Focus on Ruby development, both inside of a traditional Rails application, and as part of a report generating application. • Developed the user authentication and order processing modules for customer facing application. • Develop user friendly and sophisticated graphical representation of the catalogue of items that would be configured for a piece of equipment. • Responsible for most view/controller changes, as well as model/database integration with other members of team. • Developed cross-browser/platform using HTML, CSS, JQuery and JavaScript to match design specs for complex page layouts while adhering to code standards • Deployed application and provide continuous maintenance using Git."
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                54.78,
+                39.210022,
+                557.62,
+                181.40399
+            ],
+            "pageIndex": 4,
+            "text": "• Developed Session Beans to process user requests and Entity Beans to load and store information from database. • Designed and used JUnit test cases during the development phase. • Used Tortoise SVN for version control of the source code. • Open source cross-platform WebTesting (WSDL) using SoapUI. • Designed and implemented relational database, and stored procedures, views, and triggers using MS SQL server development tool. Environment: Ruby, Rails, SQL, WEBrick, HTML, JQuery, JavaScript, CSS3, AJAX, Java, J2EE, Web Services (SOAP, WSDL, JAX-WS), Spring, Servlets, JSP, JUnit, Tortoise SVN, Log4j, PL/SQL, WebSphere"
+        }
+    ],
+    "skills": [
+        {
+            "id": 80435426,
+            "emsiId": "ESEB1D4619E6E83A061D",
+            "name": "Planning",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435428,
+            "emsiId": "KS123KG6DL8N3D5ZW036",
+            "name": "Java Platform Enterprise Edition (J2EE)",
+            "lastUsed": "2015-05-01",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435429,
+            "emsiId": "KS1200364C9C1LK3V5Q1",
+            "name": "C (Programming Language)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 143,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "PersonalDetails",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435431,
+            "emsiId": "KS125F678LV2KB3Z5XW0",
+            "name": "Problem Solving",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435432,
+            "emsiId": "ESB3CB8F51C410CEC8E1",
+            "name": "Gherkin (Scripting Language)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435433,
+            "emsiId": "KS120025ZGZCGLN7D345",
+            "name": "Active Server Pages (ASP)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435434,
+            "emsiId": "KS124CH623PFBJS8T5KM",
+            "name": "Github",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                }
+            ]
+        },
+        {
+            "id": 80435438,
+            "emsiId": "KS128866SHL94J005TTG",
+            "name": "Quality Assurance",
+            "lastUsed": "2015-05-01",
+            "numberOfMonths": 66,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435442,
+            "emsiId": "KS1222C6WKYWRKRXQCR0",
+            "name": "Version Control",
+            "lastUsed": "2015-05-01",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435449,
+            "emsiId": "KS126K06YSWLGCMB6B0Y",
+            "name": "Windows Servers",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435451,
+            "emsiId": "KS122086PPY11B2M1G6N",
+            "name": "Library",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435457,
+            "emsiId": "KS120265WKHSMJ6HYX8P",
+            "name": "Microsoft Windows",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435469,
+            "emsiId": "KS6853Z778YHT7WJ0ZP4",
+            "name": "Threading (Manufacturing)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435474,
+            "emsiId": "KSICLZ93977I6WBJL2AL",
+            "name": "Heroku",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435480,
+            "emsiId": "KS122J56PZMMFL1SVY1F",
+            "name": "Critical Thinking",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435488,
+            "emsiId": "KS7G4B36HF83RTCXV4QB",
+            "name": "Standard Template Library (STL)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435492,
+            "emsiId": "KS440665VHSC6G4ZVC52",
+            "name": "RubyMine",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435505,
+            "emsiId": "KS126ZZ7012DHZLZ9GC0",
+            "name": "Network Protocols",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435506,
+            "emsiId": "KS440WB6JXXD43XXP1GJ",
+            "name": "SQL Server Integration Services (SSIS)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435513,
+            "emsiId": "KS1255Y65SXCJWZBC26Y",
+            "name": "Installation",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435516,
+            "emsiId": "KSYO45M6II0E15Y5RP67",
+            "name": "Jenkins",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435519,
+            "emsiId": "KS122FS64JBPZR7CST0B",
+            "name": "CouchDB",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435521,
+            "emsiId": "KS441K2756CXYXBG990G",
+            "name": "Troubleshooting (Problem Solving)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435531,
+            "emsiId": "KS125LS6N7WP4S6SFTCK",
+            "name": "Python (Programming Language)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435544,
+            "emsiId": "KS120JM6ZKSY0Q8PJ7WT",
+            "name": "Apache Tomcat",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435444,
+            "emsiId": "ES6CB9F277D7DD005987",
+            "name": "Cucumber (Software)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 77,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                }
+            ]
+        },
+        {
+            "id": 80435446,
+            "emsiId": "ES9C0ADA3C9397DD6AED",
+            "name": "Agile Software Development",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 77,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                }
+            ]
+        },
+        {
+            "id": 80435448,
+            "emsiId": "KS3FBRW6ZXKWBL43TGBH",
+            "name": "RoboMongo",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                }
+            ]
+        },
+        {
+            "id": 80435456,
+            "emsiId": "KS4416J73PZ5F1W58BRZ",
+            "name": "Talend",
+            "lastUsed": "2017-07-01",
+            "numberOfMonths": 11,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                }
+            ]
+        },
+        {
+            "id": 80435463,
+            "emsiId": "KS127FH6RY182W88Z7JM",
+            "name": "Order Processing",
+            "lastUsed": "2015-05-01",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435465,
+            "emsiId": "KS1282N6NQMZ95M1HJ7L",
+            "name": "Scrum (Software Development)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 77,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                }
+            ]
+        },
+        {
+            "id": 80435467,
+            "emsiId": "KS125YP6NH0PYHF7P9NY",
+            "name": "Log4j",
+            "lastUsed": "2015-05-01",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435470,
+            "emsiId": "KS126QY605N7YVHFYCTW",
+            "name": "MySQL",
+            "lastUsed": "2017-07-01",
+            "numberOfMonths": 11,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                }
+            ]
+        },
+        {
+            "id": 80435471,
+            "emsiId": "KSB371MB612008JMG64N",
+            "name": "Faraday",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                }
+            ]
+        },
+        {
+            "id": 80435473,
+            "emsiId": "KS7G8G66BTD4V8K3NCVF",
+            "name": "Test-Driven Development (TDD)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                }
+            ]
+        },
+        {
+            "id": 80435475,
+            "emsiId": "KS120FG6YP8PQYYNQY9B",
+            "name": "Amazon Web Services",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                }
+            ]
+        },
+        {
+            "id": 80435477,
+            "emsiId": "KS128GV6Y1LLQBBCNMFH",
+            "name": "Regular Expressions",
+            "lastUsed": "2015-05-01",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435478,
+            "emsiId": "KS126PF6PJY1N0ZX5R0P",
+            "name": "MongoDB",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                }
+            ]
+        },
+        {
+            "id": 80435481,
+            "emsiId": "KS1219S69HLWD9V0GPMS",
+            "name": "Unix",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 77,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                }
+            ]
+        },
+        {
+            "id": 80435482,
+            "emsiId": "KS1202B652YN84D9KXMX",
+            "name": "User Experience Design (UX)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 77,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                }
+            ]
+        },
+        {
+            "id": 80435483,
+            "emsiId": "KS440HW721Q479S37G98",
+            "name": "Session (Computer Science)",
+            "lastUsed": "2015-05-01",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435485,
+            "emsiId": "KS4420H75G906GRK0QJZ",
+            "name": "Web Services",
+            "lastUsed": "2015-05-01",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435486,
+            "emsiId": "KS440W865GC4VRBW6LJP",
+            "name": "SQL (Programming Language)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 143,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435487,
+            "emsiId": "KS122C775KRX1DK8Q1RQ",
+            "name": "Continuous Integration",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                }
+            ]
+        },
+        {
+            "id": 80435490,
+            "emsiId": "KS125716TLTGH6SDHJD1",
+            "name": "Integration",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 132,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435491,
+            "emsiId": "KS440SJ73G5RZYMLVKV7",
+            "name": "Source (Game Engine)",
+            "lastUsed": "2015-05-01",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435493,
+            "emsiId": "KS1218W78FGVPVP2KXPX",
+            "name": "Management",
+            "lastUsed": "2015-05-01",
+            "numberOfMonths": 66,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435494,
+            "emsiId": "KS1200771D9CR9LB4MWW",
+            "name": "JavaScript (Programming Language)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 143,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435496,
+            "emsiId": "KS1210269P78D7GH8LWY",
+            "name": "Big Data",
+            "lastUsed": "2017-07-01",
+            "numberOfMonths": 11,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                }
+            ]
+        },
+        {
+            "id": 80435497,
+            "emsiId": "KS441LY691MT0N689MWR",
+            "name": "User Interface",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                }
+            ]
+        },
+        {
+            "id": 80435499,
+            "emsiId": "KS127D361PF0FTXDZ7C4",
+            "name": "Operations",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 66,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                }
+            ]
+        },
+        {
+            "id": 80435500,
+            "emsiId": "KS120076FGP5WGWYMP0F",
+            "name": "Java (Programming Language)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 143,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435502,
+            "emsiId": "KS120FQ6DY31LFDWPJR3",
+            "name": "Amazon S3",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 143,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435503,
+            "emsiId": "KS122B071LMGXVTT3Z91",
+            "name": "Consulting",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 77,
+            "type": "soft_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                }
+            ]
+        },
+        {
+            "id": 80435512,
+            "emsiId": "KS120L96KMYTDJ48NRSH",
+            "name": "Software Development",
+            "lastUsed": "2017-07-01",
+            "numberOfMonths": 77,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435517,
+            "emsiId": "KSA7JI34DIK704E6L2IH",
+            "name": "Rspec",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 77,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                }
+            ]
+        },
+        {
+            "id": 80435518,
+            "emsiId": "KS120RM619V18NJXTHV1",
+            "name": "HTML5",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 77,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                }
+            ]
+        },
+        {
+            "id": 80435520,
+            "emsiId": "KS7G6T86QZM5L38D09JH",
+            "name": "Requirements Specifications",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                }
+            ]
+        },
+        {
+            "id": 80435522,
+            "emsiId": "KS1200578T5QCYT0Z98G",
+            "name": "HyperText Markup Language (HTML)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 143,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435523,
+            "emsiId": "KS441ZY6P0PDB5DWTRB8",
+            "name": "Web Applications",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 132,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435524,
+            "emsiId": "KSZX7YZWNR5IDR1I2VMZ",
+            "name": "Microservices",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                }
+            ]
+        },
+        {
+            "id": 80435525,
+            "emsiId": "KS123B964BZ7P4HXDN1Q",
+            "name": "Ecosystem",
+            "lastUsed": "2017-07-01",
+            "numberOfMonths": 11,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                }
+            ]
+        },
+        {
+            "id": 80435526,
+            "emsiId": "KS1218L60PDVZX16NZT1",
+            "name": "Dashboard",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                }
+            ]
+        },
+        {
+            "id": 80435528,
+            "emsiId": "KS4415M72CCMK2LBKYY0",
+            "name": "System Requirements",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                }
+            ]
+        },
+        {
+            "id": 80435532,
+            "emsiId": "KS122VT6S2JJ5C5D80NF",
+            "name": "Linux",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 77,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                }
+            ]
+        },
+        {
+            "id": 80435535,
+            "emsiId": "KS121F45VPV8C9W3QFYH",
+            "name": "Cascading Style Sheets (CSS)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 143,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435536,
+            "emsiId": "KS1242W68Y5QN3S32W3C",
+            "name": "FourGen Computer-Aided Software Engineering (CASE) Tools",
+            "lastUsed": "2015-05-01",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435537,
+            "emsiId": "KS122P063X6NGMHLP002",
+            "name": "Data Extraction",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 77,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                }
+            ]
+        },
+        {
+            "id": 80435538,
+            "emsiId": "KS441S66KZY7LM20RKYN",
+            "name": "Software Versioning",
+            "lastUsed": "2015-05-01",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435539,
+            "emsiId": "KS7G07T6XLCB5X5V3NR4",
+            "name": "Gems",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 77,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                }
+            ]
+        },
+        {
+            "id": 80435427,
+            "emsiId": "KS122Q26BWQ1PK3Y74C0",
+            "name": "Data Structures",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435430,
+            "emsiId": "KS120WH6SFRT1RNR40TC",
+            "name": "LAMP (Software Bundle)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435435,
+            "emsiId": "KS4421471SLW2PGGKRJT",
+            "name": "WEBrick",
+            "lastUsed": "2017-07-01",
+            "numberOfMonths": 77,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435436,
+            "emsiId": "KS1239L6X7VKWZNYHNYZ",
+            "name": "Eclipse (Software)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435437,
+            "emsiId": "KS440NF6Q69PPSJYD4QK",
+            "name": "Smart Pointers",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435439,
+            "emsiId": "KSY4WFI1S164RQUBSPCC",
+            "name": "Docker (Software)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                }
+            ]
+        },
+        {
+            "id": 80435440,
+            "emsiId": "KS7G0C36YW29VS8KPC05",
+            "name": "Scripting",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435441,
+            "emsiId": "KS120KK6YQY9YQSK6DKW",
+            "name": "Mac OS",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435443,
+            "emsiId": "KS121CF62WFJ19GK02H7",
+            "name": "Ubuntu (Operating System)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435445,
+            "emsiId": "KS120YP719X2MH1K76LX",
+            "name": "Behavior-Driven Development",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435450,
+            "emsiId": "KS441G276K4X76K8VNJY",
+            "name": "TortoiseSVN",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435454,
+            "emsiId": "KS4417N61DB04000S10C",
+            "name": "TCP/IP",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435458,
+            "emsiId": "KS7G6936HYRF69TS4BL1",
+            "name": "Atom (Element Component)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435459,
+            "emsiId": "KS1200C5XQWW78VQ5ZYL",
+            "name": "PHP (Scripting Language)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435462,
+            "emsiId": "KS1200J5VN8518SHFY8F",
+            "name": "XML Schema",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435472,
+            "emsiId": "KS4427C77PRBT3948VNB",
+            "name": "Extensible Markup Language (XML)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435484,
+            "emsiId": "KS440W76J3DH5DJCNPQ7",
+            "name": "SQLite",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435504,
+            "emsiId": "KS442886L4Y7T2PX92HX",
+            "name": "Extensible Stylesheet Language Transformations (XSLT)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435509,
+            "emsiId": "KS6840J6LR0TLQ86LZJC",
+            "name": "Front End (Software Engineering)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435514,
+            "emsiId": "KS122VW78Q67XR4C3ZDW",
+            "name": "Operating Systems",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435527,
+            "emsiId": "KS4NKXC90M22JM53MO6D",
+            "name": "AWS Elastic MapReduce (EMR)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435529,
+            "emsiId": "KSL37L34MKPYFKMDGSQZ",
+            "name": "Web Frameworks",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435530,
+            "emsiId": "KS9E8TPZF65AXCBRULVR",
+            "name": "Bundler",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435541,
+            "emsiId": "KS122SG5Y0Q5YQM7V8KT",
+            "name": "Debugging",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80435447,
+            "emsiId": "KSDJCA4E89LB98JAZ7LZ",
+            "name": "React.js",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                }
+            ]
+        },
+        {
+            "id": 80435452,
+            "emsiId": "KSIJ33GROZ22YMYACXRW",
+            "name": "JAX-WS",
+            "lastUsed": "2015-05-01",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435453,
+            "emsiId": "KS124KT63GC904KZ0K4W",
+            "name": "Hadoop Distributed File System (HDFS)",
+            "lastUsed": "2017-07-01",
+            "numberOfMonths": 11,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                }
+            ]
+        },
+        {
+            "id": 80435455,
+            "emsiId": "KS1214R5XG4X4PY7LGY6",
+            "name": "Bootstrap (Front-End Framework)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 77,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                }
+            ]
+        },
+        {
+            "id": 80435460,
+            "emsiId": "KS440W3640PNXPGB5MSW",
+            "name": "Software Quality (SQA/SQC)",
+            "lastUsed": "2015-05-01",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435461,
+            "emsiId": "KS120CW76RGGWD48DQ0C",
+            "name": "Ajax (Programming Language)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 132,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435464,
+            "emsiId": "KS44K63LK7KDOS3D5DSD",
+            "name": "External Tables",
+            "lastUsed": "2017-07-01",
+            "numberOfMonths": 11,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                }
+            ]
+        },
+        {
+            "id": 80435466,
+            "emsiId": "KS7G1P76W2FRM88BQFJN",
+            "name": "Templates",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                }
+            ]
+        },
+        {
+            "id": 80435468,
+            "emsiId": "KS4424T6KPTTQ1NKM0XK",
+            "name": "Workflows",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                }
+            ]
+        },
+        {
+            "id": 80435476,
+            "emsiId": "KS126TQ6RSSXGWB29N7F",
+            "name": "Model View Controller",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                }
+            ]
+        },
+        {
+            "id": 80435479,
+            "emsiId": "KS122PF6FZS3609GDG0V",
+            "name": "Extract Transform Load (ETL)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 77,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "PersonalDetails",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                }
+            ]
+        },
+        {
+            "id": 80435489,
+            "emsiId": "KS1275Z6908VHW76FRXH",
+            "name": "Object-Oriented Programming (OOP)",
+            "lastUsed": "2017-07-01",
+            "numberOfMonths": 11,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                }
+            ]
+        },
+        {
+            "id": 80435495,
+            "emsiId": "KS120H6772VQ0MQ5RLVD",
+            "name": "Angular (Web Framework)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                }
+            ]
+        },
+        {
+            "id": 80435498,
+            "emsiId": "KS440HV6N09WQM1R6Y9M",
+            "name": "Session Beans",
+            "lastUsed": "2015-05-01",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435501,
+            "emsiId": "KS125KQ5WKM97L66SSQY",
+            "name": "JQuery",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 143,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435507,
+            "emsiId": "KS440WF6T3L5BVDS78XZ",
+            "name": "Sqoop",
+            "lastUsed": "2017-07-01",
+            "numberOfMonths": 11,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                }
+            ]
+        },
+        {
+            "id": 80435508,
+            "emsiId": "ESD07FEE22E7EC094EB8",
+            "name": "Ruby (Programming Language)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 143,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435510,
+            "emsiId": "KS440LJ76WNRD99W8RS0",
+            "name": "Simple Object Access Protocol (SOAP)",
+            "lastUsed": "2015-05-01",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435511,
+            "emsiId": "KS440655ZVHL1C490M62",
+            "name": "RubyGems",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 77,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                }
+            ]
+        },
+        {
+            "id": 80435515,
+            "emsiId": "KS126TT5X14LXC9KC03X",
+            "name": "MVS (OS)",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 143,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435533,
+            "emsiId": "KS1272Y6RFNZKNGWDWMB",
+            "name": "NoSQL",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                }
+            ]
+        },
+        {
+            "id": 80435534,
+            "emsiId": "ESB92020333F27589A43",
+            "name": "Technology Solutions",
+            "lastUsed": "2015-05-01",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435540,
+            "emsiId": "KS125LJ6SDQF89N2J4ZP",
+            "name": "Junit",
+            "lastUsed": "2015-05-01",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 2,
+                    "workExperienceId": 15077842
+                }
+            ]
+        },
+        {
+            "id": 80435542,
+            "emsiId": "KS125TB6YR6236RKM563",
+            "name": "PostgreSQL",
+            "lastUsed": "2017-07-01",
+            "numberOfMonths": 11,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                }
+            ]
+        },
+        {
+            "id": 80435543,
+            "emsiId": "KSL4RJ3ASDIEM6IZ5XSR",
+            "name": "Minitest",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 66,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                }
+            ]
+        },
+        {
+            "id": 80435545,
+            "emsiId": "KS120B874P2P6BK1MQ0T",
+            "name": "Agile Methodology",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 77,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                }
+            ]
+        },
+        {
+            "id": 80435546,
+            "emsiId": "KS125HM6044N46LPQLH1",
+            "name": "JSON",
+            "lastUsed": "2022-12-21",
+            "numberOfMonths": 77,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 0,
+                    "workExperienceId": 15077840
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": 1,
+                    "workExperienceId": 15077841
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "English"
+    ],
+    "summary": "• 10+ years of experience in Analysis, Design, Development, Implementation and Production in Financial, Marketing and Healthcare Domains. • Developed applications using Ruby on Rails, HTML, CSS, JavaScript, AngularJS, JQuery, Bootstrap, Java, JSP, J2EE, Spring, SQL, MySQL, Oracle, MongoDB, Python, Linux/Unix. • Have comprehensive knowledge in Ruby on Rails lifecycle: architecture, user stories, UX & UI. • Experience in developing Object-Oriented Programming (OOP), MVC based Applications using ROR and Java. • Worked with the teams that follow Agile Scrum methodology, participated in designing and planning the project. • Analyze, design, develop and implement various applications utilizing Ruby on Rails. • Experience in Test-Driven Development (TDD) and Behavior-Driven Development (BDD). • Experienced various Open source and proprietary Ruby Gems with Heroku, Capistrano. • Used RSpec, factory girl/factory bot, cucumber, capybara and gherkin to create test/behavior driven development. Experience with all of the RVM, Bundler, GEMS and libraries for this version of the ruby/rails. • Practiced Test Driven Development with RSpec and Behavior Driven Development with Cucumber and Capybara. • Expert working knowledge on databases like RDBMS (MySQL, MS-SQL, SQLite, Oracle) & NoSQL (Mongo DB) • Proficient in designing and implementation of store procedures, views, triggers on databases such as MySQL, Hive, SQLite, PostgreSQL and Oracle. • Performed extensive programming in MYSQL to achieve all functionality. • High proficiency with front end web frameworks such as Angular.js. • Hands on experience with Non-SQL Databases such as CouchDB and MongoDB. • Worked with XML related technologies such as XML, XSD, XSLT and JAXB and used XML Schema for retrieving patient details in some of my projects. • Experienced in UI development using HTML5, CSS3, AJAX, JavaScript and jQuery, ANT and Maven. • Good Knowledge in developing single page application using Angular, React with responsive and reactive design(RXJS, NGRX, REDUX). • Experience with cloud services like Heroku, Amazon web services(AWS) EC2, S3 etc. • Have Knowledge in build and deployment tools like Jenkins • Developed and implemented various Ajax Frameworks such as jQuery, JSON. • Experienced in installing, configuring, modifying, testing and deploying applications with Apache. • Good Knowledge Objected Oriented Concepts, Standard Template Library, Smart Pointers, Data Structures and Design patterns.",
+    "websites": [],
+    "linkedin": null,
+    "totalYearsExperience": 12,
+    "profession": "Software senior developer",
+    "workExperience": [
+        {
+            "id": 15077840,
+            "jobTitle": "Senior Software Engineer / Ruby on Rails Developer",
+            "organization": "M9 Consulting Inc.",
+            "location": {
+                "formatted": "Washington, DC, USA",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "Washington",
+                "postalCode": null,
+                "state": "District of Columbia",
+                "country": "United States",
+                "rawInput": "Washington, DC",
+                "countryCode": "US"
+            },
+            "dates": {
+                "startDate": "2017-07-01",
+                "endDate": "2022-12-21",
+                "monthsInPosition": 66,
+                "isCurrent": true
+            },
+            "jobDescription": "Client: HBX, Washington, DC (July 2017 – Present) Senior Software Engineer / Ruby on Rails Developer Responsibilities: \n•Prepared and analyzed System Requirements Specifications (SRS) for a project and interacted with client during requirements specifications. \n•Implemented and enhanced CRUD operations for the applications using the MVC (Model View Controller) architecture framework. \n•Developed microservices to increase productivity, quality and security. \n•Created most important Business Rules which are useful for the scope of project and needs of customers. \n•Developed and tested many features for dashboard using Ruby on Rails, Bootstrap, CSS and JavaScript. \n•Planned and carried out daily scrums, weekly estimations and retrospectives and pair programming. \n•Followed Test Driven Development (TDD), Scrum concepts of the Agile Methodology to produce high Quality Software. \n•Practiced Test-Driven Development with RSpec as well as Behavior Driven Development with Cucumber and Capybara to specify and test controller classes, models, view templates, helpers and routing. \n•User Interface for website with ERB, JQuery, html, css, Ajax in Ruby on Rails Framework. \n•Used Extreme Programming (XP) and Scrum practices. \n•Developed ETL workflows involving Data extraction, serialization, transformations and loading into mongodb. \n•Involved in creating and maintaining Database objects, Profiles and associated tablespaces, Roles and Privileges. \n•Used AMQP for messaging protocol. \n•Have exposer in building containers using Docker. \n•Used JQuery, Angularjs, Reactjs and Ajax in web applications to enhance the customer website experience. \n•Design and maintain ROR code. Implement upgrades, patches, code releases, and database changes using Mongo DB (NoSQL) \n•Peer-review code to satisfy quality, stability, performance, DRY patterns and security checklist. \n•Wrote ruby scripts for deployments onto AWS and Continuous Integration provisioning. \n•Analyzed software requirements and provide solutions and performed analysis, design, coding, testing, implementation, and maintenance of software solutions. Environment: Ruby 2.3 , Ruby 2.5, Rails 4.2, Rails 5.2 , HTML5, CSS3, Bootstrap, JavaScript, Angular JS, ReactJS , JSON, OJ, Multi_JSON, Jquery, Rubygems, Unix/Linux, GIT/ GitHub, RSPEC, Minitest, Cucumber, Agile, AmazonEC2, MongoDB, Faraday, httparty, Actionmailer, Selenium-webdriver, Capybara, Devise, concurrent-ruby, Rubo 3T (ROBOMONGO), AMQP, Docker, Puma. ",
+            "occupation": {
+                "jobTitle": "Senior Software Engineer / Ruby on Rails Developer",
+                "jobTitleNormalized": "Ruby on Rails Developer",
+                "classification": {
+                    "socCode": 2134,
+                    "title": "Programmers and software development professionals ",
+                    "minorGroup": "Information Technology Professionals",
+                    "subMajorGroup": "SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",
+                    "majorGroup": "PROFESSIONAL OCCUPATIONS"
+                },
+                "managementLevel": "Low"
+            }
+        },
+        {
+            "id": 15077841,
+            "jobTitle": "Software Developer",
+            "organization": "M9 Consulting Inc.",
+            "location": {
+                "formatted": "Alpharetta, GA, USA",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "Alpharetta",
+                "postalCode": null,
+                "state": "Georgia",
+                "country": "United States",
+                "rawInput": "Alpharetta, GA",
+                "countryCode": "US"
+            },
+            "dates": {
+                "startDate": "2016-08-01",
+                "endDate": "2017-07-01",
+                "monthsInPosition": 11,
+                "isCurrent": false
+            },
+            "jobDescription": "Client: Ernst & Young, Alpharetta, GA (August 2016 – July 2017) Software Developer Responsibilities: \n•Developed web application using Ruby on Rails on Unix/Linux operating system, backed by MySQL, and PostgreSQL. \n•Planned and carried out daily scrums, weekly estimations and retrospectives and pair programming. \n•Involved in Software Development which is driven by Agile methodology. \n•Develop user friendly and sophisticated graphical representation of the catalogue of items that would be configured for a piece of equipment. \n•Design and implementation of MVC framework using technologies like JavaScript, HTML, CSS, and RUBY on RAILS. \n•Upgraded associated gems, across multiple Ruby and Rails versions. \n•Implemented Behavior Driven Deployment (BDD) using R spec and Cucumber to perform cross browser and regression testing. \n•Execute lossless data migrations in production from a MySQL database to a redesigned PostgreSQL database. \n•ETL: Data extraction, managing, aggregations and loading into Hive. \n•Used Talend to perform ETL jobs. \n•Implemented Big Data tools within Hadoop ecosystem (HDFS, Hive, Pig, Sqoop, Oozie). \n•Created Hive External tables and loaded the data into tables and queried data using HQL that helped market analysts to look for emerging trends by comparing fresh data with EDW reference tables. \n•Used Hive to analyze the partitioned and bucketed data and compute various metrics for reporting. \n•Worked closely with other developers, project managers, UX designers, and marketers on agile user stories. Environment: Ruby, Rails, HTML5, CSS3, Bootstrap, JavaScript, JSON, Jquery, Rubygems, MySQL, Unix/Linux, Restful, GIT, WEBrick, RSPEC, Cucumber, Agile, AmazonEC2, Hive, Pig, Sqoop, Oozie. ",
+            "occupation": {
+                "jobTitle": "Software Developer",
+                "jobTitleNormalized": "Software Developer",
+                "classification": {
+                    "socCode": 2134,
+                    "title": "Programmers and software development professionals ",
+                    "minorGroup": "Information Technology Professionals",
+                    "subMajorGroup": "SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",
+                    "majorGroup": "PROFESSIONAL OCCUPATIONS"
+                },
+                "managementLevel": "Low"
+            }
+        },
+        {
+            "id": 15077842,
+            "jobTitle": "Senior Programmer Analyst",
+            "organization": "Cognizant Technology Solutions",
+            "location": null,
+            "dates": {
+                "startDate": "2009-11-01",
+                "endDate": "2015-05-01",
+                "monthsInPosition": 66,
+                "isCurrent": false
+            },
+            "jobDescription": "Responsibilities: \n•Involved in various phases of Software development life cycle (SDLC) as requirement gathering, modeling, analysis, architecture design & development. \n•Designed and developed web applications using Ruby, Rails, Java/J2EE design patterns, HTML, CSS, Java Script AJAX and JQuery. \n•Designed and developed necessary UML Diagrams (Use Case, Class, Sequence, State). \n•Responsibilities included developing new features, fixing bugs, interfacing with the product development and software quality assurance group. \n•Developed custom Rails applications specific to client's unique needs. \n•Database modeling and design. Involved in developing and implementation of the web application using Ruby on Rails. \n•Participated in requirements definition and story carding. \n•Worked extensively with arrays and hashes in the ruby environment. \n•Used many regular expressions in order to match the pattern with the existing one. \n•Designed, development controller and view part of the system by scaffolding. \n•Understanding of how web applications work including security, session management and best development practices. \n•Focus on Ruby development, both inside of a traditional Rails application, and as part of a report generating application. \n•Developed the user authentication and order processing modules for customer facing application. \n•Develop user friendly and sophisticated graphical representation of the catalogue of items that would be configured for a piece of equipment. \n•Responsible for most view/controller changes, as well as model/database integration with other members of team. \n•Developed cross-browser/platform using HTML, CSS, JQuery and JavaScript to match design specs for complex page layouts while adhering to code standards \n•Deployed application and provide continuous maintenance using Git. \n•Developed Session Beans to process user requests and Entity Beans to load and store information from database. \n•Designed and used JUnit test cases during the development phase. \n•Used Tortoise SVN for version control of the source code. \n•Open source cross-platform WebTesting (WSDL) using SoapUI. \n•Designed and implemented relational database, and stored procedures, views, and triggers using MS SQL server development tool. Environment: Ruby, Rails, SQL, WEBrick, HTML, JQuery, JavaScript, CSS3, AJAX, Java, J2EE, Web Services (SOAP, WSDL, JAX-WS), Spring, Servlets, JSP, JUnit, Tortoise SVN, Log4j, PL/SQL, WebSphere ",
+            "occupation": {
+                "jobTitle": "Senior Programmer Analyst",
+                "jobTitleNormalized": "Programmer Analyst",
+                "classification": {
+                    "socCode": 2134,
+                    "title": "Programmers and software development professionals ",
+                    "minorGroup": "Information Technology Professionals",
+                    "subMajorGroup": "SCIENCE, RESEARCH, ENGINEERING AND TECHNOLOGY PROFESSIONALS",
+                    "majorGroup": "PROFESSIONAL OCCUPATIONS"
+                },
+                "managementLevel": "Low"
+            }
+        }
+    ],
+    "headShot": null,
+    "isResumeProbability": 82,
+    "rawText": "Vishal Kalletla Senior Software Engineer M: (571) 310-1272| EMAIL: vishalk21831@gmail.com\nSUMMARY___________________________________________________________________________ • 10+ years of experience in Analysis, Design, Development, Implementation and Production in Financial, Marketing and Healthcare Domains. • Developed applications using Ruby on Rails, HTML, CSS, JavaScript, AngularJS, JQuery, Bootstrap, Java, JSP, J2EE, Spring, SQL, MySQL, Oracle, MongoDB, Python, Linux/Unix. • Have comprehensive knowledge in Ruby on Rails lifecycle: architecture, user stories, UX & UI. • Experience in developing Object-Oriented Programming (OOP), MVC based Applications using ROR and Java. • Worked with the teams that follow Agile Scrum methodology, participated in designing and planning the project. • Analyze, design, develop and implement various applications utilizing Ruby on Rails. • Experience in Test-Driven Development (TDD) and Behavior-Driven Development (BDD). • Experienced various Open source and proprietary Ruby Gems with Heroku, Capistrano. • Used RSpec, factory girl/factory bot, cucumber, capybara and gherkin to create test/behavior driven development. Experience with all of the RVM, Bundler, GEMS and libraries for this version of the ruby/rails. • Practiced Test Driven Development with RSpec and Behavior Driven Development with Cucumber and Capybara. • Expert working knowledge on databases like RDBMS (MySQL, MS-SQL, SQLite, Oracle) & NoSQL (Mongo DB) • Proficient in designing and implementation of store procedures, views, triggers on databases such as MySQL, Hive, SQLite, PostgreSQL and Oracle. • Performed extensive programming in MYSQL to achieve all functionality. • High proficiency with front end web frameworks such as Angular.js. • Hands on experience with Non-SQL Databases such as CouchDB and MongoDB. • Worked with XML related technologies such as XML, XSD, XSLT and JAXB and used XML Schema for retrieving patient details in some of my projects. • Experienced in UI development using HTML5, CSS3, AJAX, JavaScript and jQuery, ANT and Maven. • Good Knowledge in developing single page application using Angular, React with responsive and reactive design(RXJS, NGRX, REDUX). • Experience with cloud services like Heroku, Amazon web services(AWS) EC2, S3 etc. • Have Knowledge in build and deployment tools like Jenkins • Developed and implemented various Ajax Frameworks such as jQuery, JSON. • Experienced in installing, configuring, modifying, testing and deploying applications with Apache. • Good Knowledge Objected Oriented Concepts, Standard Template Library, Smart Pointers, Data Structures and Design patterns.\n• Hands on Ruby on Rails tools like scaffolding to construct the models and views, WEBrick and PUMA for Ruby web server management. • Expert in MS SQL Server BI components, Integration Services (SSIS), Analysis Services (SSAS) and Reporting Services (SSRS) • Great experience with troubleshooting and debugging the code. • Excellent problem solving, analytical skills and critical thinking skills. • Experience in installation and configuration of multiple versions of Ruby using RVM (Ruby Version Manager) bundler install. TECHNICAL SKILLS____________________________________________________________________ Languages Ruby, SQL, MQL, HiveQL, Python, Java, PHP, C, C++ Database MongoDB, Oracle SQL, PostgreSQL, Hive Web and Scripting Languages Rake, Rails, JavaScript, JQuery, AngularJS, ReactJS, ASP, HTML5, CSS3. Ruby Testing Tools Rspec, Cucumber, selenium-webdriver, capybara, Minitest Application Servers Microsoft IIS, Tomcat, Apache (LAMP), Web sphere Operating Systems Mac OS, Linux (Ubuntu 8.04 through 11.10) & Windows (multi threading applications) Web Service Technologies SOUP, Restful UML Tools MS-Visio 2010/2013 Development Tools RubyMine, VS Studio, Sublime, Atom, VS Professional, Spring Tool Suite, Eclipse, Intellij Versioning Tools GitHub, TFS, TortoiseSVN Platforms Ubuntu, Windows server 2012, Windows 7/8/10, AWS (EC2, EMR) Network Protocols TCP/IP, UDP, HTTP\nPROFESSIONAL EXPERIENCE_____________________________________________________________ M9 Consulting Inc. Client: HBX, Washington, DC (July 2017 – Present) Senior Software Engineer / Ruby on Rails Developer Responsibilities: • Prepared and analyzed System Requirements Specifications (SRS) for a project and interacted with client during requirements specifications. • Implemented and enhanced CRUD operations for the applications using the MVC (Model View Controller) architecture framework. • Developed microservices to increase productivity, quality and security. • Created most important Business Rules which are useful for the scope of project and needs of customers. • Developed and tested many features for dashboard using Ruby on Rails, Bootstrap, CSS and JavaScript. • Planned and carried out daily scrums, weekly estimations and retrospectives and pair programming.\n• Followed Test Driven Development (TDD), Scrum concepts of the Agile Methodology to produce high Quality Software. • Practiced Test-Driven Development with RSpec as well as Behavior Driven Development with Cucumber and Capybara to specify and test controller classes, models, view templates, helpers and routing. • User Interface for website with ERB, JQuery, html, css, Ajax in Ruby on Rails Framework. • Used Extreme Programming (XP) and Scrum practices. • Developed ETL workflows involving Data extraction, serialization, transformations and loading into mongodb. • Involved in creating and maintaining Database objects, Profiles and associated tablespaces, Roles and Privileges. • Used AMQP for messaging protocol. • Have exposer in building containers using Docker. • Used JQuery, Angularjs, Reactjs and Ajax in web applications to enhance the customer website experience. • Design and maintain ROR code. Implement upgrades, patches, code releases, and database changes using Mongo DB (NoSQL) • Peer-review code to satisfy quality, stability, performance, DRY patterns and security checklist. • Wrote ruby scripts for deployments onto AWS and Continuous Integration provisioning. • Analyzed software requirements and provide solutions and performed analysis, design, coding, testing, implementation, and maintenance of software solutions. Environment: Ruby 2.3 , Ruby 2.5, Rails 4.2, Rails 5.2 , HTML5, CSS3, Bootstrap, JavaScript, Angular JS, ReactJS , JSON, OJ, Multi_JSON, Jquery, Rubygems, Unix/Linux, GIT/ GitHub, RSPEC, Minitest, Cucumber, Agile, AmazonEC2, MongoDB, Faraday, httparty, Actionmailer, Selenium-webdriver, Capybara, Devise, concurrent-ruby, Rubo 3T (ROBOMONGO), AMQP, Docker, Puma. M9 Consulting Inc. Client: Ernst & Young, Alpharetta, GA (August 2016 – July 2017) Software Developer Responsibilities: • Developed web application using Ruby on Rails on Unix/Linux operating system, backed by MySQL, and PostgreSQL. • Planned and carried out daily scrums, weekly estimations and retrospectives and pair programming. • Involved in Software Development which is driven by Agile methodology. • Develop user friendly and sophisticated graphical representation of the catalogue of items that would be configured for a piece of equipment. • Design and implementation of MVC framework using technologies like JavaScript, HTML, CSS, and RUBY on RAILS. • Upgraded associated gems, across multiple Ruby and Rails versions. • Implemented Behavior Driven Deployment (BDD) using R spec and Cucumber to perform cross browser and regression testing. • Execute lossless data migrations in production from a MySQL database to a redesigned PostgreSQL database.\n• ETL: Data extraction, managing, aggregations and loading into Hive. • Used Talend to perform ETL jobs. • Implemented Big Data tools within Hadoop ecosystem (HDFS, Hive, Pig, Sqoop, Oozie). • Created Hive External tables and loaded the data into tables and queried data using HQL that helped market analysts to look for emerging trends by comparing fresh data with EDW reference tables. • Used Hive to analyze the partitioned and bucketed data and compute various metrics for reporting. • Worked closely with other developers, project managers, UX designers, and marketers on agile user stories. Environment: Ruby, Rails, HTML5, CSS3, Bootstrap, JavaScript, JSON, Jquery, Rubygems, MySQL, Unix/Linux, Restful, GIT, WEBrick, RSPEC, Cucumber, Agile, AmazonEC2, Hive, Pig, Sqoop, Oozie. Cognizant Technology Solutions (Nov 2009 to May 2015) Senior Programmer Analyst Responsibilities: • Involved in various phases of Software development life cycle (SDLC) as requirement gathering, modeling, analysis, architecture design & development. • Designed and developed web applications using Ruby, Rails, Java/J2EE design patterns, HTML, CSS, Java Script AJAX and JQuery. • Designed and developed necessary UML Diagrams (Use Case, Class, Sequence, State). • Responsibilities included developing new features, fixing bugs, interfacing with the product development and software quality assurance group. • Developed custom Rails applications specific to client's unique needs. • Database modeling and design. Involved in developing and implementation of the web application using Ruby on Rails. • Participated in requirements definition and story carding. • Worked extensively with arrays and hashes in the ruby environment. • Used many regular expressions in order to match the pattern with the existing one. • Designed, development controller and view part of the system by scaffolding. • Understanding of how web applications work including security, session management and best development practices. • Focus on Ruby development, both inside of a traditional Rails application, and as part of a report generating application. • Developed the user authentication and order processing modules for customer facing application. • Develop user friendly and sophisticated graphical representation of the catalogue of items that would be configured for a piece of equipment. • Responsible for most view/controller changes, as well as model/database integration with other members of team. • Developed cross-browser/platform using HTML, CSS, JQuery and JavaScript to match design specs for complex page layouts while adhering to code standards • Deployed application and provide continuous maintenance using Git.\n• Developed Session Beans to process user requests and Entity Beans to load and store information from database. • Designed and used JUnit test cases during the development phase. • Used Tortoise SVN for version control of the source code. • Open source cross-platform WebTesting (WSDL) using SoapUI. • Designed and implemented relational database, and stored procedures, views, and triggers using MS SQL server development tool. Environment: Ruby, Rails, SQL, WEBrick, HTML, JQuery, JavaScript, CSS3, AJAX, Java, J2EE, Web Services (SOAP, WSDL, JAX-WS), Spring, Servlets, JSP, JUnit, Tortoise SVN, Log4j, PL/SQL, WebSphere"
+}

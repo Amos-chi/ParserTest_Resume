@@ -1,0 +1,36 @@
+{
+    "all": 36,
+    "important": 33,
+    "desc": 3,
+    "correct_important": 20,
+    "correct_desc": 0,
+    "additional": 1,
+    "important_keys": {
+        "educations.0.endDate": false,
+        "educations.0.majorName": false,
+        "educations.0.startDate": false,
+        "educations.1.collegeName": false,
+        "educations.1.endDate": false,
+        "educations.1.majorName": false,
+        "educations.1.startDate": false,
+        "educations.2.collegeName": false,
+        "educations.2.endDate": false,
+        "educations.2.majorName": false,
+        "educations.2.startDate": false,
+        "fullName": false,
+        "skills.0.skillName": false
+    },
+    "unimportant_keys": {
+        "experiences.0.description": false,
+        "experiences.1.description": false,
+        "experiences.2.description": false
+    },
+    "addition_info_count": 1,
+    "addition_info": {
+        "currentLocation": [
+            {
+                "location": "Shanghai"
+            }
+        ]
+    }
+}

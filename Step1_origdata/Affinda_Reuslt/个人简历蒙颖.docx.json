@@ -1,0 +1,196 @@
+{
+    "certifications": [],
+    "dateOfBirth": null,
+    "education": [
+        {
+            "id": 8038881,
+            "organization": "武昌工学院",
+            "accreditation": {
+                "education": "会计学 本科 (统招)",
+                "educationLevel": null,
+                "inputStr": "会计学 本科 (统招)",
+                "matchStr": ""
+            },
+            "grade": null,
+            "location": null,
+            "dates": {
+                "startDate": null,
+                "completionDate": "0003-03-21",
+                "isCurrent": false
+            }
+        }
+    ],
+    "emails": [
+        "1350437009@qq.com"
+    ],
+    "location": {
+        "formatted": "Wuhan, Hubei, China",
+        "streetNumber": null,
+        "street": null,
+        "apartmentNumber": null,
+        "city": "Wuhan",
+        "postalCode": null,
+        "state": "Hubei",
+        "country": "China",
+        "rawInput": "湖北省武汉市 湖北省武汉市",
+        "countryCode": "CN"
+    },
+    "name": {
+        "raw": "蒙颖",
+        "last": "",
+        "first": "蒙颖",
+        "title": "",
+        "middle": ""
+    },
+    "objective": "",
+    "phoneNumbers": [
+        "+8618788635108"
+    ],
+    "publications": [],
+    "referees": [],
+    "sections": [
+        {
+            "sectionType": "Other",
+            "bbox": [
+                254.408,
+                77.138,
+                340.208,
+                97.818054
+            ],
+            "pageIndex": 0,
+            "text": "个人简历"
+        },
+        {
+            "sectionType": "PersonalDetails",
+            "bbox": [
+                90.493,
+                111.74005,
+                462.552,
+                241.242
+            ],
+            "pageIndex": 0,
+            "text": "一、 基本信息 姓名: 蒙颖 联系方式: 18788635108 性别: 女 邮箱: 1350437009@qq.com 籍贯: 贵州省都匀市 微信: MY1350437009 户籍所在地: 湖北省武汉市 目前所在地: 湖北省武汉市 期望地点: 湖北省武汉市 婚姻状况: 未婚"
+        },
+        {
+            "sectionType": "Summary",
+            "bbox": [
+                90.549995,
+                283.38,
+                504.78796,
+                469.078
+            ],
+            "pageIndex": 0,
+            "text": "二、 自我评价 1、 本人有招聘相关经验, 熟练使用各大招聘软件, 熟知各类招聘电话术语, 以及熟知面试流程和面试所需要的各项提问 2、 本人沟通能力较强, 组织协调能力较强, 上传下达能在客户经理, 部门经 理以及候选人之间充分发挥协调作用, 使各方互利共赢。 3、 本人对人力资源等相关工作有浓厚的兴趣以及有明确的职业规划,想在人 力资源行业得到长久稳定的发展 4、 本人工作稳定性较强, 抗压能力较强, 坚持能力较强。"
+        },
+        {
+            "sectionType": "Education",
+            "bbox": [
+                102.631996,
+                517.35,
+                498.002,
+                568.958
+            ],
+            "pageIndex": 0,
+            "text": "教育经历 武昌工学院 专业方向 学历学位 2019 年 09 月——2023 年 06 月 会计学 本科 (统招)"
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                90.60999,
+                518.715,
+                110.34499,
+                530.05505
+            ],
+            "pageIndex": 0,
+            "text": "三、"
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                90.44499,
+                80.95599,
+                504.661,
+                709.35803
+            ],
+            "pageIndex": 1,
+            "text": "成都新大瀚人力资源有限责任公司 武汉 六、 校园经历 2019 年 9 月——2020 年担任校文艺部干事一职 2021 年 9 月——至今担任校广播台台长一职 在以上部门期间, 曾多次参与组织校内各大文艺, 艺术类活动, 并多次担任各大 晚会的主持人。"
+        },
+        {
+            "sectionType": "Achievements",
+            "bbox": [
+                90.549995,
+                751.48,
+                185.09,
+                765.37
+            ],
+            "pageIndex": 1,
+            "text": "七、 所获奖项"
+        },
+        {
+            "sectionType": "Achievements",
+            "bbox": [
+                90.63699,
+                73.96802,
+                380.814,
+                131.992
+            ],
+            "pageIndex": 2,
+            "text": "2020 年 \"一. 二九\" 演讲比赛二等奖 2021 年 \"百生讲坛\" 优秀主讲人活动三等奖 2022 年 \"校园好声音. 主持人大赛\" 三等奖 2022 年 \"全国大学生正文大赛——湖北省赛区\" 一等奖"
+        },
+        {
+            "sectionType": "Training/Certifications",
+            "bbox": [
+                90.84999,
+                158.55005,
+                257.586,
+                194.492
+            ],
+            "pageIndex": 2,
+            "text": "八、 所获证书 CET-4 普通话二级甲等"
+        }
+    ],
+    "skills": [],
+    "languages": [
+        "Chinese"
+    ],
+    "summary": "1、 本人有招聘相关经验, 熟练使用各大招聘软件, 熟知各类招聘电话术语, 以及熟知面试流程和面试所需要的各项提问 2、 本人沟通能力较强, 组织协调能力较强, 上传下达能在客户经理, 部门经 理以及候选人之间充分发挥协调作用, 使各方互利共赢。 3、 本人对人力资源等相关工作有浓厚的兴趣以及有明确的职业规划,想在人 力资源行业得到长久稳定的发展 4、 本人工作稳定性较强, 抗压能力较强, 坚持能力较强。",
+    "websites": [],
+    "linkedin": null,
+    "totalYearsExperience": 0,
+    "profession": null,
+    "workExperience": [
+        {
+            "id": 15083516,
+            "jobTitle": "",
+            "organization": "成都新大瀚人力资源有限责任公司",
+            "location": {
+                "formatted": "Wuhan, Hubei, China",
+                "streetNumber": null,
+                "street": null,
+                "apartmentNumber": null,
+                "city": "Wuhan",
+                "postalCode": null,
+                "state": "Hubei",
+                "country": "China",
+                "rawInput": "武汉",
+                "countryCode": "CN"
+            },
+            "dates": {
+                "startDate": null,
+                "endDate": "0003-03-21",
+                "monthsInPosition": null,
+                "isCurrent": false
+            },
+            "jobDescription": "",
+            "occupation": {
+                "jobTitle": "",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        }
+    ],
+    "headShot": null,
+    "isResumeProbability": 61,
+    "rawText": "个人简历\n一、 基本信息 姓名: 蒙颖 联系方式: 18788635108 性别: 女 邮箱: 1350437009@qq.com 籍贯: 贵州省都匀市 微信: MY1350437009 户籍所在地: 湖北省武汉市 目前所在地: 湖北省武汉市 期望地点: 湖北省武汉市 婚姻状况: 未婚\n二、 自我评价 1、 本人有招聘相关经验, 熟练使用各大招聘软件, 熟知各类招聘电话术语, 以及熟知面试流程和面试所需要的各项提问 2、 本人沟通能力较强, 组织协调能力较强, 上传下达能在客户经理, 部门经 理以及候选人之间充分发挥协调作用, 使各方互利共赢。 3、 本人对人力资源等相关工作有浓厚的兴趣以及有明确的职业规划,想在人 力资源行业得到长久稳定的发展 4、 本人工作稳定性较强, 抗压能力较强, 坚持能力较强。\n三、\n教育经历 武昌工学院 专业方向 学历学位 2019 年 09 月——2023 年 06 月 会计学 本科 (统招)\n成都新大瀚人力资源有限责任公司 武汉 六、 校园经历 2019 年 9 月——2020 年担任校文艺部干事一职 2021 年 9 月——至今担任校广播台台长一职 在以上部门期间, 曾多次参与组织校内各大文艺, 艺术类活动, 并多次担任各大 晚会的主持人。\n七、 所获奖项\n2020 年 \"一. 二九\" 演讲比赛二等奖 2021 年 \"百生讲坛\" 优秀主讲人活动三等奖 2022 年 \"校园好声音. 主持人大赛\" 三等奖 2022 年 \"全国大学生正文大赛——湖北省赛区\" 一等奖\n八、 所获证书 CET-4 普通话二级甲等"
+}

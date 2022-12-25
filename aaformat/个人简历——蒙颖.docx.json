@@ -14,12 +14,12 @@
             "contact": "+8618788635108"
         }
     ],
-    "currentLocation": {
-        "location": "(湖北省)?武汉(市)?"
-    },
+    "currentLocation": [{
+        "location": "(湖北省?)?武汉市?"
+    }],
     "preferredLocations": [
         {
-            "location": "(湖北省)?武汉(市)?"
+            "location": "(湖北省?)?武汉市?"
         }
     ],
     "educations": [
@@ -42,13 +42,7 @@
     ],
     "skills": [
         {
-            "skillName": "面试"
-        },
-        {
-            "skillName": "背调"
-        },
-        {
-            "skillName": "口语"
+            "skillName": "招聘"
         }
     ]
 }

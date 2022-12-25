@@ -1,0 +1,25 @@
+{
+    "all": 39,
+    "important": 35,
+    "desc": 4,
+    "correct_important": 34,
+    "correct_desc": 4,
+    "additional": 1,
+    "important_keys": {
+        "educations.0.degreeLevel": false
+    },
+    "unimportant_keys": {
+        "experiences.0.description": true,
+        "experiences.1.description": true,
+        "experiences.2.description": true,
+        "experiences.3.description": true
+    },
+    "addition_info_count": 1,
+    "addition_info": {
+        "preferredLocations": [
+            {
+                "location": "Beijing"
+            }
+        ]
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "fullName": "Congjia  Jin",
+    "contacts": [
+        {
+            "contact": "cjin02@mica.edu",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "17801011020",
+            "type": "PHONE"
+        }
+    ],
+    "languages": [
+        "English"
+    ],
+    "educations": [
+        {
+            "majorName": "炞㡦㷖⡙]䎂꬗霃雦⚁⚌"
+        },
+        {
+            "startDate": "2018-01-01",
+            "endDate": "2020-01-01",
+            "collegeName": "Maryland Institute College of Art (MICA)",
+            "degreeLevel": "masters",
+            "majorName": "MFA"
+        },
+        {
+            "startDate": "2014-01-01",
+            "endDate": "2018-01-01",
+            "collegeName": "Beijing Institute of Fashion Technology",
+            "degreeLevel": "bachelors",
+            "majorName": "BFA"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "Produced study materials in a variety of academic subjects to help senior students improve their design portfolio. ",
+            "companyName": "H ART International Art Education",
+            "title": "Part-time Tutor",
+            "endDate": "2020-01-01"
+        },
+        {
+            "description": "Contributed articles on a variety of topics related to design to Zuibishe learning platform, including experience sharing, analysis of professional lecture and giving recommendations. ",
+            "companyName": "Zuibishe learning platform",
+            "title": "Freelance Writer",
+            "endDate": "2020-01-01"
+        },
+        {
+            "description": "Assisted professor Maureen Weiss in sophomore Graphic Design Studio I and Typography I. Participated in critiques for juniors. ",
+            "companyName": "Maryland Institute College of Art",
+            "title": "Graduate Teaching Intern",
+            "endDate": "2019-01-01"
+        },
+        {
+            "description": "Provided assistance to senior designers. Formulated design concepts and artwork for promotional materials. Worked on the development and implementation of creative requirements, including layout, illustration, typography and photography. ",
+            "companyName": "KUDOS Design Collaboratory",
+            "title": "Design Intern",
+            "endDate": "2019-01-01"
+        },
+        {
+            "description": "Full Bleed: A Journal of Art & Design Journal published by MICA, designed and edited by students. Film Branding project, collaborated with film major MFA students. Worked on the design of visual identity including posters, EPK and website design. ",
+            "companyName": "Maryland Institute College of Art",
+            "title": "Freelance Designer",
+            "endDate": "2019-01-01"
+        },
+        {
+            "description": "Designed a specific visual identity for the American Express Centurion Card, including the typography, packaging, and the display of the card. ",
+            "companyName": "China Construction Bank",
+            "endDate": "2016-01-01"
+        },
+        {
+            "description": "Created a branding image with a theme of \"Solitude\". Included an expanded concept, design for a logo and visual identity. Organized and assigned tasks to each member for completion of their work. ",
+            "companyName": "Brand Design Seminar",
+            "title": "Design Project Group Leader",
+            "endDate": "2016-01-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "Construction"
+        },
+        {
+            "skillName": "Laser Cutting"
+        },
+        {
+            "skillName": "Teaching"
+        },
+        {
+            "skillName": "Cinema 4D"
+        },
+        {
+            "skillName": "Learning Platforms"
+        },
+        {
+            "skillName": "HyperText Markup Language (HTML)"
+        },
+        {
+            "skillName": "Design Studio"
+        },
+        {
+            "skillName": "Adobe Photoshop"
+        },
+        {
+            "skillName": "Cascading Style Sheets (CSS)"
+        },
+        {
+            "skillName": "Session (Computer Science)"
+        },
+        {
+            "skillName": "Flux"
+        },
+        {
+            "skillName": "Adobe Photoshop Lightroom"
+        },
+        {
+            "skillName": "Electronic Press Kit (EPK)"
+        },
+        {
+            "skillName": "Branding"
+        },
+        {
+            "skillName": "Mapping"
+        },
+        {
+            "skillName": "Typography"
+        },
+        {
+            "skillName": "Illustration"
+        },
+        {
+            "skillName": "Adobe InDesign"
+        },
+        {
+            "skillName": "Graphic Design"
+        },
+        {
+            "skillName": "Laser"
+        },
+        {
+            "skillName": "Artwork"
+        },
+        {
+            "skillName": "Photography"
+        },
+        {
+            "skillName": "Adobe Illustrator"
+        }
+    ]
+}

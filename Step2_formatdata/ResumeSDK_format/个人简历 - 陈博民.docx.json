@@ -14,7 +14,9 @@
             "type": "QQ"
         }
     ],
-    "location": "武汉市",
+    "currentLocation": {
+        "location": "武汉市"
+    },
     "educations": [
         {
             "startDate": "2021.09",

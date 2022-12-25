@@ -1,0 +1,68 @@
+{
+    "fullName": "陈海彬  ",
+    "contacts": [
+        {
+            "contact": "qmjianli@qq.com",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "04c69558b6c892f91",
+            "type": "PHONE"
+        },
+        {
+            "contact": "18170488637",
+            "type": "PHONE"
+        },
+        {
+            "contact": "4c69558",
+            "type": "PHONE"
+        }
+    ],
+    "languages": [
+        "Chinese"
+    ],
+    "educations": [
+        {
+            "startDate": "2018-07-01",
+            "endDate": "2022-07-01",
+            "collegeName": "江西师范大学",
+            "majorName": "网络工程 (本科)"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "负责微店商家平台增长业务后端的研发工作, 日常工作包括但不限于: \n•深入理解产品prd、 参加需求评审、 撰写技术方案和接口文档、 参加技术评审 \n•编写业务代码、 单元测试、 联调、 修复测试提出的bug、 集成部署代码上线 \n•及时关注线上告警和群内用户反馈, 修复线上bug \n•不定期进行业务分享或技术分享  实习经历 ",
+            "companyName": "无线生活 (北京) 信息技术有限公司",
+            "title": "Java开发工程师",
+            "startDate": "2022-07-01",
+            "endDate": "2022-12-01"
+        },
+        {
+            "description": "负责微店商家平台增长业务后端的研发工作, 协助正式员工完成对应的需求开发, 日常工作包 括但不限于: \n•深入理解产品prd、 参加需求评审、 撰写技术方案和接口文档、 参加技术评审 \n•编写业务代码、 单元测试、 联调、 修复测试提出的bug、 集成部署代码上线 \n•及时关注线上告警和群内用户反馈, 修复线上bug \n•不定期进行业务分享或技术分享 ",
+            "companyName": "无线生活 (北京) 信息技术有限公司",
+            "title": "Java实习生",
+            "startDate": "2021-07-01",
+            "endDate": "2022-04-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "Elasticsearch"
+        },
+        {
+            "skillName": "Java (Programming Language)"
+        },
+        {
+            "skillName": "MySQL"
+        },
+        {
+            "skillName": "SQL (Programming Language)"
+        },
+        {
+            "skillName": "Redis"
+        },
+        {
+            "skillName": "Docker (Software)"
+        }
+    ]
+}

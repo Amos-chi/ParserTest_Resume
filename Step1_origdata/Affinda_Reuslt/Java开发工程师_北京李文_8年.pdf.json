@@ -1,0 +1,542 @@
+{
+    "certifications": [],
+    "dateOfBirth": null,
+    "education": [
+        {
+            "id": 8031588,
+            "organization": "北京工业大学",
+            "accreditation": {
+                "education": "通信工程 本科",
+                "educationLevel": null,
+                "inputStr": "通信工程 本科",
+                "matchStr": ""
+            },
+            "grade": null,
+            "location": null,
+            "dates": null
+        }
+    ],
+    "emails": [
+        "keyliwen@icloud.com"
+    ],
+    "location": {
+        "formatted": "Beijing, China",
+        "streetNumber": null,
+        "street": null,
+        "apartmentNumber": null,
+        "city": "Beijing",
+        "postalCode": null,
+        "state": "Beijing",
+        "country": "China",
+        "rawInput": "北京",
+        "countryCode": "CN"
+    },
+    "name": {
+        "raw": "李文",
+        "last": "",
+        "first": "李文",
+        "title": "",
+        "middle": ""
+    },
+    "objective": "",
+    "phoneNumbers": [
+        "+8618911151483",
+        "5a06a47e486f58001"
+    ],
+    "publications": [],
+    "referees": [],
+    "sections": [
+        {
+            "sectionType": "PersonalDetails",
+            "bbox": [
+                49.9004,
+                7.630005,
+                544.38995,
+                530.8876
+            ],
+            "pageIndex": 0,
+            "text": "5a06a47e486f58001 nJ60tS7F1 ZQy5G6VfqZReOhmQ~~ 性别: 男 年龄: 30岁 工作年限: 8年工作经验 求职状态: 离职-正在找工作 工作性质: 全职 工作地区: 北京 期望月薪: 30000-40000/月 期望职业: Java,架构师,Golang 期望行业: 不限行业"
+        },
+        {
+            "sectionType": "PersonalDetails",
+            "bbox": [
+                234.3819,
+                151.15973,
+                439.57385,
+                217.28467
+            ],
+            "pageIndex": 0,
+            "text": "李文 18911151483 keyliwen@icloud.com"
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                233.74933,
+                221.65008544921875,
+                588.4080002307892,
+                801.2403
+            ],
+            "pageIndex": 0,
+            "text": "工作经验 2022.01 -2022.08 天津仙草仙草文化传播有限公司 联合创始人 由于之前工作比较劳累, 所以想休息一段时间, 在此期间, 和家人共同做了一些创业的尝 试, 主要业务是国学课程培训和芳香疗法培训, 我主要负责线下课程开展和业务相关的一些 工具小程序的开发, 基本的业务已稳定, 而且我也更喜欢对技术的持续探索, 所以由家人继 续相关业务的开展, 我回归到自己最擅长的技术专业领域发挥自己的价值 2018.03-2021.12 五彩鹿 (北京) 教育咨询有限责任公司 技术经理/架构师 五彩鹿是一家自闭症早期干预机构, 核心业务形式是线下自闭症幼儿园, 由于规模的不断扩 大, 非常需要通过线上平台提供对教务、 教学、 客户服务的有效支撑, 提升教学质量和服务 精准性, 我负责带领团队进行线上平台核心模块及支撑子系统的开发和运维工作, 主要包 括: 缴费及订单相关功能、 排课及课时计算相关功能、 专业评估及教学计划制定工具、 功能 权限及数据权限控制、 工作流、 客户管理子系统、 批任务子系统、 C端应用等。 具体工作内容: ●参与重难点功能开发, 解决团队遇到的各种复杂技术及业务问题 ●构建CI/CD工具链, 在团队实际项目中全方位落地CI/CD以及Scrum, 提升研发效率 ●负责架构设计及重构, 根据业务需求制定相应解决方案 ●制定团队目标, 根据公司战略目标, 定位部门角色, 细化部门年度、 季度、 月度目标 ●帮助团队建立工作信心, 制定岗位职责和目标, 与团队成员定期1v1沟通, 了解成员工作状 态及发展规划, 向其传达公司及团队目标, 帮助成员更好的融入团队并建立团队荣誉感 2015.08-2018.03 简快教育科技 (北京) 有限公司 Java开发工程师 公司在心理学行业耕耘多年, 希望可以通过线上扩大影响力, 所以成立了技术部, 主导线上 产品的研发 业务目标: ●研发线上心里咨询平台——生活没烦恼APP 5 a06 a 47e 486 f5800 1 nJ60 tS 7F1 ZQy 5G6 Vfq ZReO hmQ"
+        },
+        {
+            "sectionType": "Summary",
+            "bbox": [
+                50.104645,
+                588.3408,
+                187.78922,
+                796.51886
+            ],
+            "pageIndex": 0,
+            "text": "自我评价 2年团队管理及架构设计经验, 8年 Java开发经验, 拥有多个项目的全栈 开发经验, 主导并参与了多个项目从 0到1的全过程, 计算机基础知识牢 固, 熟悉JVM体系结构及多线程, 对微服务有深入理解并实践, 熟悉缓 存和消息中间件, 精通Docker及 DevOps, 熟悉Vue/React以及 Nodejs, 掌握Python及Go, 擅长 解决问题和沟通, 喜欢探索和不断成 长, 对软件开发充满激情, 立志于通"
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                50.164875,
+                30.151978,
+                532.1226,
+                248.94098
+            ],
+            "pageIndex": 1,
+            "text": "过软件简化工作和生活。 ● 为公司公益项目开心屋项目研发官网及论坛 ● 为新业务线国学业务线研发线上学习平台 具体工作内容: ● 负责各技术产品的设计及项目管理 ● 负责自研项目的全部开发任务 ● 维护线上产品正常运行 ● 负责协助公司改善内部工作流, 提供技术解决方案 ● 为公司一切有关技术的问题提供相关建议和方案 2014.03 - 2015.07 北京华夏赛科技术发展有限公司 Java开发工程师 负责在线学习平台的功能优化和新功能开发功能; 负责在线学习平台用户的技术支持工作 ; 负责公司内部网络管理工作。"
+        },
+        {
+            "sectionType": "Skills/Interests/Languages",
+            "bbox": [
+                573.2079992294312,
+                221.65008544921875,
+                588.4080002307892,
+                597.5380096435547
+            ],
+            "pageIndex": 1,
+            "text": "a06 a 47e 486 f5800 1 nJ60 tS 7F1 ZQy 5G6 Vfq ZReO hmQ"
+        },
+        {
+            "sectionType": "Projects",
+            "bbox": [
+                233.72997,
+                284.49048,
+                534.9626,
+                809.85187
+            ],
+            "pageIndex": 1,
+            "text": "项目经验 2022.03 - 2022.06 排大运小程序 该小程序主要功能是根据出生年月 日以及出生地点, 根据道家的连山易, 计算出八字、 纳音 数以及一生的大运数, 帮助连山易课程学员验证自己的算命结果以及作为平时的连山易工具 使用。 主要负责: ● 算法实现 ● 小程序开发 2020.10 - 2021.04 五彩鹿家长端 该线上产品面向在园家长及潜在入园家长, 包含课程信息展示、 评估筛查、 教辅工具购买、 自闭症问答知识查询等功能, 需要跟五彩鹿线上平台核心系统进行交互。 主要负责: ● 架构设计 ● 核心模块开发 ● 项目目标制定及进度跟进 技术栈: ● Spring Boot ● MySQL ● MyBatis ● Elasticsearch ● Docker ● Git ● 微信小程序 ● VueJS 2018.03 - 2021.12 五彩鹿教学平台核心系统 系统分为多个子系统和服务, 承载教务所需的缴费及学生档案管理相关功能、 教学所需的评 估及教学计划制定以及排课相关功能、 管理所需的数据统计及工作流相关功能、 系统层级的 权限管理相关功能、 批任务处理等 主要负责: ● 项目发展目标的制定和推进"
+        },
+        {
+            "sectionType": "Projects",
+            "bbox": [
+                233.8074,
+                30.719849,
+                536.66486,
+                735.9403
+            ],
+            "pageIndex": 2,
+            "text": "● 基础设施的建设和维护 ● 架构设计及落地实施 ● 针对开发人员遇到的卡点进行支持和解决 ● 重难点功能模块开发 技术栈: ● Spring Cloud ● RocketMQ ● XXL-JOB ● Mybatis ● Shiro ● MySQL ● Ehcache ● VueJS ● Docker ● Jenkins ● Git ● 微信小程序 2017.04 - 2017.06 开心屋社区 (论坛) 开心屋社区是一个专为公司开心屋公益项目提供的, 用于相关全国各地的老师交流、 分享的 论坛, 并且提供简单CMS功能, 可以让更多人了解开心屋公益项目。 系统主要提供新闻、 论 坛相关基本功能、 开心屋游戏打卡签到、 开心屋人才管理等功能。 主要负责: ● 整理需求, 制作功能结构图, 制作页面原型, 数据库设计 ● 域名申请及备案 ● 独立完成前后端开发工作并部署上线 ● 后期服务器维护 技术栈: ● Spring MVC ● Spring Data JPA ● MySQL ● VueJS 2015.10 - 2016.09 全民国学网 全民国学网是一款在线学习国学知识的产品, 主要面向公司国学培训项目中产生的学员, 提 供在线答题测验、 视频课程 (免费/付费) 等核心功能; 主要负责: ● 需求整理及页面原型制作, 页面设计 ● 独立完成前后端开发工作并部署上线 ● 后期服务器维护 技术栈: ● Spring MVC ● Spring Data JPA ● MySQL ● JQuery"
+        },
+        {
+            "sectionType": "Skills/Interests/Languages",
+            "bbox": [
+                234.04956,
+                221.65008544921875,
+                588.4080002307892,
+                801.33716
+            ],
+            "pageIndex": 2,
+            "text": "教育经历 2010.09 - 2014.06 47e nJ60 tS 7F1 ZQy 5G6 Vfq ZReO hmQ"
+        },
+        {
+            "sectionType": "Education",
+            "bbox": [
+                233.73965,
+                30.354248,
+                520.92413,
+                40.484436
+            ],
+            "pageIndex": 3,
+            "text": "北京工业大学 通信工程 本科"
+        },
+        {
+            "sectionType": "Skills/Interests/Languages",
+            "bbox": [
+                233.72029,
+                66.078125,
+                588.4080002307892,
+                606.4980097413063
+            ],
+            "pageIndex": 3,
+            "text": "语言能力 英语 读写能力 听说能力 专业技能 Spring 精通 MySQL 精通 MyBatis 精通 Activiti 精通 使用时长: 96个月 使用时长: 96个月 使用时长: 60个月 使用时长: 24个月 Spring Cloud Javascript 微信小程序 熟练 使用时长: 12个月 精通 使用时长: 96个月 精通 使用时长: 48个月 VueJS 精通 使用时长: 60个月 ReactJS 熟练 使用时长: 36个月 Docker 熟练 使用时长: 36个月 Elasticsearch 良好 使用时长: 12个月 CI/CD 熟练 使用时长: 24个月 5 a06 a 47e 486 f5800 1 nJ60 tS 7F1 ZQy 5G6 Vfq ZReO hmQ ~~"
+        }
+    ],
+    "skills": [
+        {
+            "id": 80404906,
+            "emsiId": "KS123CZ6V1JC5FBNXX42",
+            "name": "Elasticsearch",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404907,
+            "emsiId": "ES6D557B9D5BE598FD74",
+            "name": "Spring Boot",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404908,
+            "emsiId": "KS122W96T2T9J5PZ0VMP",
+            "name": "DevOps",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404909,
+            "emsiId": "KSYO45M6II0E15Y5RP67",
+            "name": "Jenkins",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404910,
+            "emsiId": "KS126TY6PLVV38N85X1H",
+            "name": "MyBatis",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404911,
+            "emsiId": "KS1205R6PNK1B0BJ2X4Q",
+            "name": "Activiti (Software)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404912,
+            "emsiId": "KS1200771D9CR9LB4MWW",
+            "name": "JavaScript (Programming Language)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404915,
+            "emsiId": "KS126QY605N7YVHFYCTW",
+            "name": "MySQL",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404916,
+            "emsiId": "KS120076FGP5WGWYMP0F",
+            "name": "Java (Programming Language)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "WorkExperience",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "PersonalDetails",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404905,
+            "emsiId": "KS125KQ5WKM97L66SSQY",
+            "name": "JQuery",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404913,
+            "emsiId": "KSDJCA4E89LB98JAZ7LZ",
+            "name": "React.js",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404914,
+            "emsiId": "KS123CP72N8J4Z0LL8QY",
+            "name": "Ehcache",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        },
+        {
+            "id": 80404917,
+            "emsiId": "KSY4WFI1S164RQUBSPCC",
+            "name": "Docker (Software)",
+            "lastUsed": null,
+            "numberOfMonths": null,
+            "type": "hard_skill",
+            "sources": [
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Projects",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Skills/Interests/Languages",
+                    "position": null,
+                    "workExperienceId": null
+                },
+                {
+                    "section": "Summary",
+                    "position": null,
+                    "workExperienceId": null
+                }
+            ]
+        }
+    ],
+    "languages": [
+        "Chinese"
+    ],
+    "summary": "Java,架构师,Golang",
+    "websites": [],
+    "linkedin": null,
+    "totalYearsExperience": 8,
+    "profession": null,
+    "workExperience": [
+        {
+            "id": 15073390,
+            "jobTitle": "联合创始人",
+            "organization": "天津仙草仙草文化传播有限公司",
+            "location": null,
+            "dates": {
+                "startDate": "2022-01-01",
+                "endDate": "2022-08-01",
+                "monthsInPosition": 7,
+                "isCurrent": false
+            },
+            "jobDescription": "由于之前工作比较劳累, 所以想休息一段时间, 在此期间, 和家人共同做了一些创业的尝 试, 主要业务是国学课程培训和芳香疗法培训, 我主要负责线下课程开展和业务相关的一些 工具小程序的开发, 基本的业务已稳定, 而且我也更喜欢对技术的持续探索, 所以由家人继 续相关业务的开展, 我回归到自己最擅长的技术专业领域发挥自己的价值 ",
+            "occupation": {
+                "jobTitle": "联合创始人",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        },
+        {
+            "id": 15073391,
+            "jobTitle": "技术经理/架构师",
+            "organization": "五彩鹿 (北京) 教育咨询有限责任公司",
+            "location": null,
+            "dates": {
+                "startDate": "2018-03-01",
+                "endDate": "2021-12-01",
+                "monthsInPosition": 45,
+                "isCurrent": false
+            },
+            "jobDescription": "五彩鹿是一家自闭症早期干预机构, 核心业务形式是线下自闭症幼儿园, 由于规模的不断扩 大, 非常需要通过线上平台提供对教务、 教学、 客户服务的有效支撑, 提升教学质量和服务 精准性, 我负责带领团队进行线上平台核心模块及支撑子系统的开发和运维工作, 主要包 括: 缴费及订单相关功能、 排课及课时计算相关功能、 专业评估及教学计划制定工具、 功能 权限及数据权限控制、 工作流、 客户管理子系统、 批任务子系统、 C端应用等。 具体工作内容: \n●参与重难点功能开发,解决团队遇到的各种复杂技术及业务问题 \n●构建CI/CD工具链,在团队实际项目中全方位落地CI/CD以及Scrum, 提升研发效率 \n●负责架构设计及重构,根据业务需求制定相应解决方案 \n●制定团队目标,根据公司战略目标, 定位部门角色, 细化部门年度、 季度、 月度目标 \n●帮助团队建立工作信心,制定岗位职责和目标, 与团队成员定期1v1沟通, 了解成员工作状 态及发展规划, 向其传达公司及团队目标, 帮助成员更好的融入团队并建立团队荣誉感 ",
+            "occupation": {
+                "jobTitle": "技术经理/架构师",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        },
+        {
+            "id": 15073392,
+            "jobTitle": "Java开发工程师",
+            "organization": "简快教育科技 (北京) 有限公司",
+            "location": null,
+            "dates": {
+                "startDate": "2015-08-01",
+                "endDate": "2018-03-01",
+                "monthsInPosition": 31,
+                "isCurrent": false
+            },
+            "jobDescription": "公司在心理学行业耕耘多年, 希望可以通过线上扩大影响力, 所以成立了技术部, 主导线上 产品的研发 业务目标: \n●研发线上心里咨询平台——生活没烦恼APP",
+            "occupation": {
+                "jobTitle": "Java开发工程师",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        },
+        {
+            "id": 15073393,
+            "jobTitle": "Java开发工程师",
+            "organization": "北京华夏赛科技术发展有限公司",
+            "location": null,
+            "dates": {
+                "startDate": "2014-03-01",
+                "endDate": "2015-07-01",
+                "monthsInPosition": 16,
+                "isCurrent": false
+            },
+            "jobDescription": "负责在线学习平台的功能优化和新功能开发功能; 负责在线学习平台用户的技术支持工作 ; 负责公司内部网络管理工作。 ",
+            "occupation": {
+                "jobTitle": "Java开发工程师",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        }
+    ],
+    "headShot": "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",
+    "isResumeProbability": 65,
+    "rawText": "5a06a47e486f58001 nJ60tS7F1 ZQy5G6VfqZReOhmQ~~ 性别: 男 年龄: 30岁 工作年限: 8年工作经验 求职状态: 离职-正在找工作 工作性质: 全职 工作地区: 北京 期望月薪: 30000-40000/月 期望职业: Java,架构师,Golang 期望行业: 不限行业\n自我评价 2年团队管理及架构设计经验, 8年 Java开发经验, 拥有多个项目的全栈 开发经验, 主导并参与了多个项目从 0到1的全过程, 计算机基础知识牢 固, 熟悉JVM体系结构及多线程, 对微服务有深入理解并实践, 熟悉缓 存和消息中间件, 精通Docker及 DevOps, 熟悉Vue/React以及 Nodejs, 掌握Python及Go, 擅长 解决问题和沟通, 喜欢探索和不断成 长, 对软件开发充满激情, 立志于通\n李文 18911151483 keyliwen@icloud.com\n工作经验 2022.01 -2022.08 天津仙草仙草文化传播有限公司 联合创始人 由于之前工作比较劳累, 所以想休息一段时间, 在此期间, 和家人共同做了一些创业的尝 试, 主要业务是国学课程培训和芳香疗法培训, 我主要负责线下课程开展和业务相关的一些 工具小程序的开发, 基本的业务已稳定, 而且我也更喜欢对技术的持续探索, 所以由家人继 续相关业务的开展, 我回归到自己最擅长的技术专业领域发挥自己的价值 2018.03-2021.12 五彩鹿 (北京) 教育咨询有限责任公司 技术经理/架构师 五彩鹿是一家自闭症早期干预机构, 核心业务形式是线下自闭症幼儿园, 由于规模的不断扩 大, 非常需要通过线上平台提供对教务、 教学、 客户服务的有效支撑, 提升教学质量和服务 精准性, 我负责带领团队进行线上平台核心模块及支撑子系统的开发和运维工作, 主要包 括: 缴费及订单相关功能、 排课及课时计算相关功能、 专业评估及教学计划制定工具、 功能 权限及数据权限控制、 工作流、 客户管理子系统、 批任务子系统、 C端应用等。 具体工作内容: ●参与重难点功能开发, 解决团队遇到的各种复杂技术及业务问题 ●构建CI/CD工具链, 在团队实际项目中全方位落地CI/CD以及Scrum, 提升研发效率 ●负责架构设计及重构, 根据业务需求制定相应解决方案 ●制定团队目标, 根据公司战略目标, 定位部门角色, 细化部门年度、 季度、 月度目标 ●帮助团队建立工作信心, 制定岗位职责和目标, 与团队成员定期1v1沟通, 了解成员工作状 态及发展规划, 向其传达公司及团队目标, 帮助成员更好的融入团队并建立团队荣誉感 2015.08-2018.03 简快教育科技 (北京) 有限公司 Java开发工程师 公司在心理学行业耕耘多年, 希望可以通过线上扩大影响力, 所以成立了技术部, 主导线上 产品的研发 业务目标: ●研发线上心里咨询平台——生活没烦恼APP 5 a06 a 47e 486 f5800 1 nJ60 tS 7F1 ZQy 5G6 Vfq ZReO hmQ\n过软件简化工作和生活。 ● 为公司公益项目开心屋项目研发官网及论坛 ● 为新业务线国学业务线研发线上学习平台 具体工作内容: ● 负责各技术产品的设计及项目管理 ● 负责自研项目的全部开发任务 ● 维护线上产品正常运行 ● 负责协助公司改善内部工作流, 提供技术解决方案 ● 为公司一切有关技术的问题提供相关建议和方案 2014.03 - 2015.07 北京华夏赛科技术发展有限公司 Java开发工程师 负责在线学习平台的功能优化和新功能开发功能; 负责在线学习平台用户的技术支持工作 ; 负责公司内部网络管理工作。\n项目经验 2022.03 - 2022.06 排大运小程序 该小程序主要功能是根据出生年月 日以及出生地点, 根据道家的连山易, 计算出八字、 纳音 数以及一生的大运数, 帮助连山易课程学员验证自己的算命结果以及作为平时的连山易工具 使用。 主要负责: ● 算法实现 ● 小程序开发 2020.10 - 2021.04 五彩鹿家长端 该线上产品面向在园家长及潜在入园家长, 包含课程信息展示、 评估筛查、 教辅工具购买、 自闭症问答知识查询等功能, 需要跟五彩鹿线上平台核心系统进行交互。 主要负责: ● 架构设计 ● 核心模块开发 ● 项目目标制定及进度跟进 技术栈: ● Spring Boot ● MySQL ● MyBatis ● Elasticsearch ● Docker ● Git ● 微信小程序 ● VueJS 2018.03 - 2021.12 五彩鹿教学平台核心系统 系统分为多个子系统和服务, 承载教务所需的缴费及学生档案管理相关功能、 教学所需的评 估及教学计划制定以及排课相关功能、 管理所需的数据统计及工作流相关功能、 系统层级的 权限管理相关功能、 批任务处理等 主要负责: ● 项目发展目标的制定和推进\na06 a 47e 486 f5800 1 nJ60 tS 7F1 ZQy 5G6 Vfq ZReO hmQ\n● 基础设施的建设和维护 ● 架构设计及落地实施 ● 针对开发人员遇到的卡点进行支持和解决 ● 重难点功能模块开发 技术栈: ● Spring Cloud ● RocketMQ ● XXL-JOB ● Mybatis ● Shiro ● MySQL ● Ehcache ● VueJS ● Docker ● Jenkins ● Git ● 微信小程序 2017.04 - 2017.06 开心屋社区 (论坛) 开心屋社区是一个专为公司开心屋公益项目提供的, 用于相关全国各地的老师交流、 分享的 论坛, 并且提供简单CMS功能, 可以让更多人了解开心屋公益项目。 系统主要提供新闻、 论 坛相关基本功能、 开心屋游戏打卡签到、 开心屋人才管理等功能。 主要负责: ● 整理需求, 制作功能结构图, 制作页面原型, 数据库设计 ● 域名申请及备案 ● 独立完成前后端开发工作并部署上线 ● 后期服务器维护 技术栈: ● Spring MVC ● Spring Data JPA ● MySQL ● VueJS 2015.10 - 2016.09 全民国学网 全民国学网是一款在线学习国学知识的产品, 主要面向公司国学培训项目中产生的学员, 提 供在线答题测验、 视频课程 (免费/付费) 等核心功能; 主要负责: ● 需求整理及页面原型制作, 页面设计 ● 独立完成前后端开发工作并部署上线 ● 后期服务器维护 技术栈: ● Spring MVC ● Spring Data JPA ● MySQL ● JQuery\n教育经历 2010.09 - 2014.06 47e nJ60 tS 7F1 ZQy 5G6 Vfq ZReO hmQ\n北京工业大学 通信工程 本科\n语言能力 英语 读写能力 听说能力 专业技能 Spring 精通 MySQL 精通 MyBatis 精通 Activiti 精通 使用时长: 96个月 使用时长: 96个月 使用时长: 60个月 使用时长: 24个月 Spring Cloud Javascript 微信小程序 熟练 使用时长: 12个月 精通 使用时长: 96个月 精通 使用时长: 48个月 VueJS 精通 使用时长: 60个月 ReactJS 熟练 使用时长: 36个月 Docker 熟练 使用时长: 36个月 Elasticsearch 良好 使用时长: 12个月 CI/CD 熟练 使用时长: 24个月 5 a06 a 47e 486 f5800 1 nJ60 tS 7F1 ZQy 5G6 Vfq ZReO hmQ ~~"
+}

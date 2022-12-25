@@ -1,0 +1,20 @@
+{
+    "all": 36,
+    "important": 33,
+    "desc": 3,
+    "correct_important": 30,
+    "correct_desc": 2,
+    "additional": 0,
+    "important_keys": {
+        "educations.2.majorName": false,
+        "skills.1.skillName": false,
+        "skills.2.skillName": false
+    },
+    "unimportant_keys": {
+        "experiences.0.description": true,
+        "experiences.1.description": true,
+        "experiences.2.description": false
+    },
+    "addition_info_count": 0,
+    "addition_info": {}
+}

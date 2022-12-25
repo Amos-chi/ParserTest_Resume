@@ -1,0 +1,29 @@
+{
+    "fullName": "刘勇",
+    "contacts": [],
+    "experiences": [
+        {
+            "description": "电信消费类产品的体验设计管理和交付。\n管理领域产品的体验质量和竞争力，负责产品体验规划与策略制定。\n开展用户研究洞察，概念方案设计，交互视觉设计及方案落地的质量把握与跟\n进。\n设计师团队的能力培养和梯队建设。\nPage 1 of 1",
+            "companyName": "华为",
+            "startDate": "2007-10-01",
+            "endDate": "2007-11-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "Page"
+        },
+        {
+            "skillName": "Https"
+        },
+        {
+            "skillName": "Center"
+        },
+        {
+            "skillName": "Control"
+        },
+        {
+            "skillName": "视觉设计"
+        }
+    ]
+}

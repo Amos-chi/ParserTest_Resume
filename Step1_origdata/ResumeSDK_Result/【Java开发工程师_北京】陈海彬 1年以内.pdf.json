@@ -1,0 +1,337 @@
+{
+    "status": {
+        "message": "success",
+        "code": 200
+    },
+    "result": {
+        "college_rank": "181",
+        "major": "计算机英语",
+        "surname": "陈",
+        "social_exp_objs": [],
+        "weight": "59kg",
+        "height": "157cm",
+        "cont_internship": "2021-07 ~ 2022-04  无线生活(北京)信息技术有限公司 Java实习生\n负责微店商家平台增长业务后端的研发工作,协助正式员工完成对应的需求开发,日常工作包\n括但不限于:\n• 深入理解产品prd、参加需求评审、撰写技术方案和接口文档、参加技术评审\n• 编写业务代码、单元测试、联调、修复测试提出的bug、集成部署代码上线\n• 及时关注线上告警和群内用户反馈,修复线上bug\n• 不定期进行业务分享或技术分享\n技术栈",
+        "college": "江西师范大学",
+        "work_pos_type_p": "软件工程师",
+        "work_start_time_inf": "2022.07",
+        "english_level": "大学英语4级",
+        "all_cert_objs": [
+            {
+                "cert_name": "大学英语4级"
+            }
+        ],
+        "resume_type": "0",
+        "cont_award": "英语四级",
+        "cont_my_desc": "代码风格整洁优秀\n• 逻辑思维强、有应对复杂业务逻辑的能力\n• 擅长沟通和协作,能够主动推动项目进程\n• 自驱能力强,喜欢钻研新的技术\n• 认可互联网公司文化,愿意迎接更多的挑战",
+        "cert_objs": [
+            {
+                "langcert_lang": "英语",
+                "langcert_name": "大学英语4级"
+            }
+        ],
+        "polit_status": "共青团员",
+        "skills_objs": [
+            {
+                "skills_name": "Java"
+            },
+            {
+                "skills_name": "prd"
+            },
+            {
+                "skills_name": "数据分析"
+            },
+            {
+                "skills_name": "大数据"
+            },
+            {
+                "skills_name": "maven"
+            },
+            {
+                "skills_name": "git"
+            },
+            {
+                "skills_name": "docker"
+            },
+            {
+                "skills_name": "数据库"
+            },
+            {
+                "skills_name": "mysql"
+            },
+            {
+                "skills_name": "elasticSearch"
+            },
+            {
+                "skills_name": "hive"
+            },
+            {
+                "skills_name": "sql"
+            },
+            {
+                "skills_name": "分布式"
+            },
+            {
+                "skills_name": "spring"
+            },
+            {
+                "skills_name": "redis"
+            },
+            {
+                "skills_name": "db"
+            },
+            {
+                "skills_name": "hbase"
+            }
+        ],
+        "education_objs": [
+            {
+                "edu_content": "主修课程:数据结构和算法、操作系统、计算机组成原理、计算机网络、数据库原理、面向对\n象程序设计(Java)",
+                "edu_major": "网络工程",
+                "end_date": "2022.07",
+                "edu_college": "江西师范大学",
+                "edu_gpa": "专业前10%",
+                "edu_degree": "本科",
+                "edu_degree_norm": "本科",
+                "edu_college_rank": "181",
+                "edu_college_type": "0",
+                "start_date": "2018.07"
+            }
+        ],
+        "languages": "英语",
+        "resume_integrity": "73",
+        "training_objs": [],
+        "email": "qmjianli@qq.com",
+        "cont_job_exp": "2022-07 ~ 2022-12  无线生活(北京)信息技术有限公司 Java开发工程师\n负责微店商家平台增长业务后端的研发工作,日常工作包括但不限于:\n• 深入理解产品prd、参加需求评审、撰写技术方案和接口文档、参加技术评审\n• 编写业务代码、单元测试、联调、修复测试提出的bug、集成部署代码上线\n• 及时关注线上告警和群内用户反馈,修复线上bug\n• 不定期进行业务分享或技术分享",
+        "work_company": "无线生活(北京)信息技术有限公司",
+        "lang_objs": [
+            {
+                "language_name": "英语"
+            }
+        ],
+        "grad_time": "2022.07",
+        "degree": "本科",
+        "proj_exp_objs": [
+            {
+                "proj_position": "后端研发",
+                "proj_name": "视频号供货",
+                "start_date": "2022.07",
+                "end_date": "2022.11",
+                "proj_content": "项目介绍:基于微店 cps  联盟和微信视频号生态打造的全链路直播供货系统。包括商品同\n步、订单推送、风控审核、营销活动、佣金分账、数据分析等模块。在项目开发中负责数据分\n析的模块,通过和大数据部门合作将数据可视化,方便主播对直播数据进行梳理,及时调整直\n播策略。\n开发环境:jdk1.8 + idea + maven + git\n部署环境:docker + jekenis + k8s\n数据库环境:mysql\n项目技术:elasticSearch + hive + 策略模式 + 复杂 sql + 多态\n项目成果:自上线至今,累计提升微店直播gmv160%,视频号直播gmv贡献占比大盘70%。"
+            },
+            {
+                "proj_position": "后端研发",
+                "proj_name": "白名单服务",
+                "start_date": "2022.02",
+                "end_date": "2022.03",
+                "proj_content": "项目介绍:基于分布式配置中心 vitamin  开发的白名单中间件,对所有业务部门提供白名单\n读写能力。负责项目的所有迭代,建设了白名单缓存和白名单自动过期等功能。\n开发环境:jdk1.8 + idea + maven + git\n部署环境:docker + jekenis + k8s\n数据库环境:mysql\n项目技术:springBoot + vitamin + 本地缓存 + toc + spring  定时器 + redis\n项目成果:白名单缓存大幅度提升了白名单的读写效率,缓解了 db  的压力。白名单自动过\n期大幅度释放了 vitamin  的存储资源。读写性能提升200%,累计减少70%无效白名单。"
+            },
+            {
+                "proj_position": "后端研发",
+                "proj_name": "大咖榜2.0",
+                "start_date": "2021.11",
+                "end_date": "2022.03",
+                "proj_content": "项目介绍:基于分销系统的大咖榜,旨在传递大咖价值,提升分销商对大咖的转化率。独立开\n发大咖榜客户端全部功能,包括大咖列表、大咖分类、大咖会议、大咖爆款、大咖活动、大咖\n排序等功能。\n开发环境:jdk1.8 + idea + maven + git\n部署环境:docker + jekenis + k8s\n数据库环境:mysql\n项目技术:springBoot + thor + elasticSearch + toc + hbase + vtrace\n项目成果:加强了大咖与分销商的联系,传递了大咖的品牌价值,提高了微店站内大咖的影响\n力和分销商对大咖的粘性,为后续的分销业务开展打下了坚实的基础,大咖上榜同时为公司提\n供了额外的收入。"
+            }
+        ],
+        "work_year_norm": "0.5",
+        "work_year": "0.5",
+        "phone": "18170488637",
+        "resume_parse_time": "2022-12-21 17:51:58",
+        "work_year_inf": "0.5",
+        "raw_text": "22岁\n男\n未婚\n157cm/59kg\n汉\n江西\n共青团员\n1年经验\n18170488637\nqmjianli@qq.com\n计算机英语\n沟通能力\nJava\n陈海彬\n求职意向: Java  入职时间: 一个月内到岗\n教育背景\n2018-07 ~ 2022-07  江西师范大学  网络工程(本科)\n专业成绩:专业前10%\n主修课程:数据结构和算法、操作系统、计算机组成原理、计算机网络、数据库原理、面向对\n象程序设计(Java)\n工作经验\n2022-07 ~ 2022-12  无线生活(北京)信息技术有限公司 Java开发工程师\n负责微店商家平台增长业务后端的研发工作,日常工作包括但不限于:\n• 深入理解产品prd、参加需求评审、撰写技术方案和接口文档、参加技术评审\n• 编写业务代码、单元测试、联调、修复测试提出的bug、集成部署代码上线\n• 及时关注线上告警和群内用户反馈,修复线上bug\n• 不定期进行业务分享或技术分享\n实习经历\n2021-07 ~ 2022-04  无线生活(北京)信息技术有限公司 Java实习生\n负责微店商家平台增长业务后端的研发工作,协助正式员工完成对应的需求开发,日常工作包\n括但不限于:\n• 深入理解产品prd、参加需求评审、撰写技术方案和接口文档、参加技术评审\n• 编写业务代码、单元测试、联调、修复测试提出的bug、集成部署代码上线\n• 及时关注线上告警和群内用户反馈,修复线上bug\n• 不定期进行业务分享或技术分享\n技术栈\n• Java语言\n熟练使用Java语言进行业务开发,有极强的面向对象思维,熟悉集合、IO流、多线程、异\n常、反射、网络编程等 Java 语言的基础知识\n熟悉JVM内存模型、垃圾回收算法和垃圾回收器,熟悉常用的设计模式并有相关实践经验\n• 数据库基础\n熟练使用Sql语言进行业务开发,有撰写复杂sql的经验,熟悉Mysql数据库管理系统\n• Web框架\n熟练使用SSM、SpringBoot框架进行业务开发,并对它们底层原理有一定的理解\n• 开源分布式技术\n熟练使用dubbo、elasticSearch、mq、redis等开源的分布式技术进行业务开发,能够独立\n完成相关配置,并对它们底层原理有一定的理解\n• 工具\n熟练使用Intellij IDEA、maven、git、navicate等开发工具协助业务开发\n• 排查问题\n熟练使用linux命令、远程debug、观察日志等排查和修复线上问题\n• 中间件\n熟练使用公司各种自研中间件进行业务开发,包括vitamin(分布式配置中心)、vtrace(分布式链路追踪)、toc(分布式定时任务)、vguard(分布式服务调度中心)、vdds(分布\n式数据同步平台)、thor(分布式网关系统)等\n• 其他\n熟练使用vue进行后台页面的开发,熟悉devOps部署流程,有过大数据开发经验,了解过\nDDD系统设计\n项目经验\n2022-07 ~ 2022-11  视频号供货  后端研发\n项目介绍:基于微店 cps  联盟和微信视频号生态打造的全链路直播供货系统。包括商品同\n步、订单推送、风控审核、营销活动、佣金分账、数据分析等模块。在项目开发中负责数据分\n析的模块,通过和大数据部门合作将数据可视化,方便主播对直播数据进行梳理,及时调整直\n播策略。\n开发环境:jdk1.8 + idea + maven + git\n部署环境:docker + jekenis + k8s\n数据库环境:mysql\n项目技术:elasticSearch + hive + 策略模式 + 复杂 sql + 多态\n项目成果:自上线至今,累计提升微店直播gmv160%,视频号直播gmv贡献占比大盘70%。\n2022-02 ~ 2022-03  白名单服务  后端研发\n项目介绍:基于分布式配置中心 vitamin  开发的白名单中间件,对所有业务部门提供白名单\n读写能力。负责项目的所有迭代,建设了白名单缓存和白名单自动过期等功能。\n开发环境:jdk1.8 + idea + maven + git\n部署环境:docker + jekenis + k8s\n数据库环境:mysql\n项目技术:springBoot + vitamin + 本地缓存 + toc + spring  定时器 + redis\n项目成果:白名单缓存大幅度提升了白名单的读写效率,缓解了 db  的压力。白名单自动过\n期大幅度释放了 vitamin  的存储资源。读写性能提升200%,累计减少70%无效白名单。\n2021-11 ~ 2022-03  大咖榜2.0  后端研发\n项目介绍:基于分销系统的大咖榜,旨在传递大咖价值,提升分销商对大咖的转化率。独立开\n发大咖榜客户端全部功能,包括大咖列表、大咖分类、大咖会议、大咖爆款、大咖活动、大咖\n排序等功能。\n开发环境:jdk1.8 + idea + maven + git\n部署环境:docker + jekenis + k8s\n数据库环境:mysql\n项目技术:springBoot + thor + elasticSearch + toc + hbase + vtrace\n项目成果:加强了大咖与分销商的联系,传递了大咖的品牌价值,提高了微店站内大咖的影响\n力和分销商对大咖的粘性,为后续的分销业务开展打下了坚实的基础,大咖上榜同时为公司提\n供了额外的收入。\n荣誉证书\n英语四级\n自我评价\n• 代码风格整洁优秀\n• 逻辑思维强、有应对复杂业务逻辑的能力\n• 擅长沟通和协作,能够主动推动项目进程\n• 自驱能力强,喜欢钻研新的技术\n• 认可互联网公司文化,愿意迎接更多的挑战",
+        "expect_job": "Java",
+        "cont_basic_info": "22岁\n男\n未婚\n157cm/59kg\n汉\n江西\n共青团员\n1年经验\n18170488637\nqmjianli@qq.com\n计算机英语\n沟通能力\nJava\n陈海彬\n求职意向: Java  入职时间: 一个月内到岗",
+        "name": "陈海彬",
+        "job_exp_objs": [
+            {
+                "job_position": "Java开发工程师",
+                "end_date": "2022.12",
+                "job_content": "负责微店商家平台增长业务后端的研发工作,日常工作包括但不限于:\n• 深入理解产品prd、参加需求评审、撰写技术方案和接口文档、参加技术评审\n• 编写业务代码、单元测试、联调、修复测试提出的bug、集成部署代码上线\n• 及时关注线上告警和群内用户反馈,修复线上bug\n• 不定期进行业务分享或技术分享",
+                "job_cpy": "无线生活(北京)信息技术有限公司",
+                "job_pos_type_p": "软件工程师",
+                "job_duration": "5个月",
+                "start_date": "2022.07"
+            },
+            {
+                "job_position": "Java实习生",
+                "end_date": "2022.04",
+                "job_nature": "实习",
+                "job_content": "负责微店商家平台增长业务后端的研发工作,协助正式员工完成对应的需求开发,日常工作包\n括但不限于:\n• 深入理解产品prd、参加需求评审、撰写技术方案和接口文档、参加技术评审\n• 编写业务代码、单元测试、联调、修复测试提出的bug、集成部署代码上线\n• 及时关注线上告警和群内用户反馈,修复线上bug\n• 不定期进行业务分享或技术分享\n技术栈",
+                "job_cpy": "无线生活(北京)信息技术有限公司",
+                "job_pos_type_p": "软件工程师",
+                "job_duration": "9个月",
+                "start_date": "2021.07"
+            }
+        ],
+        "gender": "男",
+        "age": "22",
+        "marital_status": "未婚",
+        "resume_name": "cv20221221_175157880_706.pdf",
+        "cont_education": "2018-07 ~ 2022-07  江西师范大学  网络工程(本科)\n专业成绩:专业前10%\n主修课程:数据结构和算法、操作系统、计算机组成原理、计算机网络、数据库原理、面向对\n象程序设计(Java)",
+        "cont_proj_exp": "2022-07 ~ 2022-11  视频号供货  后端研发\n项目介绍:基于微店 cps  联盟和微信视频号生态打造的全链路直播供货系统。包括商品同\n步、订单推送、风控审核、营销活动、佣金分账、数据分析等模块。在项目开发中负责数据分\n析的模块,通过和大数据部门合作将数据可视化,方便主播对直播数据进行梳理,及时调整直\n播策略。\n开发环境:jdk1.8 + idea + maven + git\n部署环境:docker + jekenis + k8s\n数据库环境:mysql\n项目技术:elasticSearch + hive + 策略模式 + 复杂 sql + 多态\n项目成果:自上线至今,累计提升微店直播gmv160%,视频号直播gmv贡献占比大盘70%。\n2022-02 ~ 2022-03  白名单服务  后端研发\n项目介绍:基于分布式配置中心 vitamin  开发的白名单中间件,对所有业务部门提供白名单\n读写能力。负责项目的所有迭代,建设了白名单缓存和白名单自动过期等功能。\n开发环境:jdk1.8 + idea + maven + git\n部署环境:docker + jekenis + k8s\n数据库环境:mysql\n项目技术:springBoot + vitamin + 本地缓存 + toc + spring  定时器 + redis\n项目成果:白名单缓存大幅度提升了白名单的读写效率,缓解了 db  的压力。白名单自动过\n期大幅度释放了 vitamin  的存储资源。读写性能提升200%,累计减少70%无效白名单。\n2021-11 ~ 2022-03  大咖榜2.0  后端研发\n项目介绍:基于分销系统的大咖榜,旨在传递大咖价值,提升分销商对大咖的转化率。独立开\n发大咖榜客户端全部功能,包括大咖列表、大咖分类、大咖会议、大咖爆款、大咖活动、大咖\n排序等功能。\n开发环境:jdk1.8 + idea + maven + git\n部署环境:docker + jekenis + k8s\n数据库环境:mysql\n项目技术:springBoot + thor + elasticSearch + toc + hbase + vtrace\n项目成果:加强了大咖与分销商的联系,传递了大咖的品牌价值,提高了微店站内大咖的影响\n力和分销商对大咖的粘性,为后续的分销业务开展打下了坚实的基础,大咖上榜同时为公司提\n供了额外的收入。",
+        "work_position": "Java开发工程师",
+        "work_start_time": "2022.07",
+        "college_type": "0",
+        "cont_language": "熟练使用Java语言进行业务开发,有极强的面向对象思维,熟悉集合、IO流、多线程、异\n常、反射、网络编程等 Java 语言的基础知识\n熟悉JVM内存模型、垃圾回收算法和垃圾回收器,熟悉常用的设计模式并有相关实践经验\n• 数据库基础\n熟练使用Sql语言进行业务开发,有撰写复杂sql的经验,熟悉Mysql数据库管理系统\n• Web框架\n熟练使用SSM、SpringBoot框架进行业务开发,并对它们底层原理有一定的理解\n• 开源分布式技术\n熟练使用dubbo、elasticSearch、mq、redis等开源的分布式技术进行业务开发,能够独立\n完成相关配置,并对它们底层原理有一定的理解\n• 工具\n熟练使用Intellij IDEA、maven、git、navicate等开发工具协助业务开发\n• 排查问题\n熟练使用linux命令、远程debug、观察日志等排查和修复线上问题\n• 中间件\n熟练使用公司各种自研中间件进行业务开发,包括vitamin(分布式配置中心)、vtrace(分布式链路追踪)、toc(分布式定时任务)、vguard(分布式服务调度中心)、vdds(分布\n式数据同步平台)、thor(分布式网关系统)等\n• 其他\n熟练使用vue进行后台页面的开发,熟悉devOps部署流程,有过大数据开发经验,了解过\nDDD系统设计"
+    },
+    "eval": {
+        "salary": 12400
+    },
+    "tags": {
+        "industries": [],
+        "pos_types": [
+            {
+                "tag_weight": 3.869858528012136,
+                "tag_name": "软件工程师"
+            },
+            {
+                "tag_weight": 1.6068044566346795,
+                "tag_name": "高级软件工程师"
+            },
+            {
+                "tag_weight": 1.3972737360561356,
+                "tag_name": "互联网软件开发工程师"
+            },
+            {
+                "tag_weight": 0.3107306882517336,
+                "tag_name": "技术研发工程师"
+            },
+            {
+                "tag_weight": 0.24003580835771055,
+                "tag_name": "其他"
+            }
+        ],
+        "pos_tags": [
+            {
+                "tag_weight": 2.55261564463377,
+                "tag_name": "java开发工程师"
+            },
+            {
+                "tag_weight": 1.2135039186477663,
+                "tag_name": "后端开发工程师"
+            },
+            {
+                "tag_weight": 0.7860699185729026,
+                "tag_name": "java后端开发工程师"
+            },
+            {
+                "tag_weight": 0.7073412787914275,
+                "tag_name": "软件开发工程师"
+            },
+            {
+                "tag_weight": 0.6958596459031106,
+                "tag_name": "开发工程师"
+            },
+            {
+                "tag_weight": 0.6691838067770004,
+                "tag_name": "研发工程师"
+            },
+            {
+                "tag_weight": 0.667096892595291,
+                "tag_name": "后台开发工程师"
+            },
+            {
+                "tag_weight": 0.6509983903169632,
+                "tag_name": "python开发工程师"
+            },
+            {
+                "tag_weight": 0.6508542457222938,
+                "tag_name": "工程师"
+            },
+            {
+                "tag_weight": 0.6444946700334548,
+                "tag_name": "web开发工程师"
+            }
+        ],
+        "skills_tags": [
+            {
+                "tag_weight": 0.6666154623031617,
+                "tag_name": "单元测试"
+            },
+            {
+                "tag_weight": 0.6064321517944335,
+                "tag_name": "测试"
+            },
+            {
+                "tag_weight": 0.6,
+                "tag_name": "java"
+            },
+            {
+                "tag_weight": 0.5525170576572418,
+                "tag_name": "maven"
+            },
+            {
+                "tag_weight": 0.550074805021286,
+                "tag_name": "docker"
+            },
+            {
+                "tag_weight": 0.5191468238830567,
+                "tag_name": "prd"
+            },
+            {
+                "tag_weight": 0.5182962894439698,
+                "tag_name": "研发"
+            },
+            {
+                "tag_weight": 0.5066493940353394,
+                "tag_name": "mysql"
+            },
+            {
+                "tag_weight": 0.39761897921562195,
+                "tag_name": "elasticsearch"
+            },
+            {
+                "tag_weight": 0.32608195781707766,
+                "tag_name": "hive"
+            },
+            {
+                "tag_weight": 0.27909072875976565,
+                "tag_name": "大数据"
+            },
+            {
+                "tag_weight": 0.26738866806030276,
+                "tag_name": "数据可视化"
+            },
+            {
+                "tag_weight": 0.24261414051055907,
+                "tag_name": "多态"
+            },
+            {
+                "tag_weight": 0.2354179847240448,
+                "tag_name": "springboot"
+            },
+            {
+                "tag_weight": 0.20016347408294677,
+                "tag_name": "风控审核"
+            },
+            {
+                "tag_weight": 0.19147318840026856,
+                "tag_name": "cps"
+            },
+            {
+                "tag_weight": 0.18250579357147217,
+                "tag_name": "redis"
+            },
+            {
+                "tag_weight": 0.16669063091278077,
+                "tag_name": "spring"
+            },
+            {
+                "tag_weight": 0.16254860877990723,
+                "tag_name": "分布式"
+            },
+            {
+                "tag_weight": 0.08488242983818055,
+                "tag_name": "hbase"
+            },
+            {
+                "tag_weight": 0.05793342649936676,
+                "tag_name": "排序"
+            },
+            {
+                "tag_weight": 0.04958923816680908,
+                "tag_name": "爆款"
+            }
+        ]
+    }
+}

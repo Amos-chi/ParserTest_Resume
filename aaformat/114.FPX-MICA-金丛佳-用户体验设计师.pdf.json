@@ -81,13 +81,7 @@
             "skillName": "设计"
         },
         {
-            "skillName": "Photography"
-        },
-        {
             "skillName": "Illustrator"
-        },
-        {
-            "skillName": "InDesign"
         },
         {
             "skillName": "Photoshop"
@@ -97,12 +91,6 @@
         },
         {
             "skillName": "HTML"
-        },
-        {
-            "skillName": "用户体验"
-        },
-        {
-            "skillName": "Graphic\\W{0,2}Design"
         }
     ]
 }

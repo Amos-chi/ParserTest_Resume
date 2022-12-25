@@ -1,0 +1,57 @@
+{
+    "fullName": "XIAOHANG FAN",
+    "contacts": [
+        {
+            "contact": "xfan79@wisc.edu",
+            "type": "EMAIL"
+        }
+    ],
+    "educations": [
+        {
+            "startDate": "2017-00-01",
+            "endDate": "2017-12-01",
+            "collegeName": "University of Wisconsin-Madison",
+            "degreeLevel": "master",
+            "majorName": "Master of Science in Economics"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "• Conducted market research and case studies of current trends and prospects in the insurance industry\n• Consolidated data and key findings into presentations and reports deliverable to clients",
+            "companyName": "Ernst & Young LLP.",
+            "title": "FSO-PI Intern",
+            "startDate": "2019-08-01",
+            "endDate": "2019-12-01"
+        },
+        {
+            "description": "• Analyzed industry data using WIND to evaluate potential growth opportunities\n• Presented weekly updates to the management team, reviewing current projects and key next steps",
+            "companyName": "Northeast Securities Co., Ltd.",
+            "title": "Strategic Planning Intern",
+            "startDate": "2019-01-01",
+            "endDate": "2019-04-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "Group"
+        },
+        {
+            "skillName": "Stata"
+        },
+        {
+            "skillName": "Based"
+        },
+        {
+            "skillName": "Python"
+        },
+        {
+            "skillName": "English"
+        },
+        {
+            "skillName": "Exchange"
+        },
+        {
+            "skillName": "MS Office"
+        }
+    ]
+}

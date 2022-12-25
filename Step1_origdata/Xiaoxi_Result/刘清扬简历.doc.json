@@ -1,0 +1,391 @@
+{
+    "predicted_result": {
+        "desired_salary": null,
+        "tags": {
+            "skills": [
+                {
+                    "tag": "OFFICE",
+                    "type": "professional_skill",
+                    "subclass": "其它"
+                },
+                {
+                    "tag": "WORD",
+                    "type": "professional_skill",
+                    "subclass": "办公软件"
+                },
+                {
+                    "tag": "英语翻译",
+                    "type": "professional_skill",
+                    "subclass": "翻译相关"
+                },
+                {
+                    "tag": "PPT",
+                    "type": "professional_skill",
+                    "subclass": "办公软件"
+                },
+                {
+                    "tag": "学习能力",
+                    "type": "soft_skill",
+                    "subclass": "软性技能"
+                },
+                {
+                    "tag": "逻辑思维",
+                    "type": "soft_skill",
+                    "subclass": "软性技能"
+                },
+                {
+                    "tag": "组织能力",
+                    "type": "soft_skill",
+                    "subclass": "软性技能"
+                }
+            ],
+            "professional": [
+                {
+                    "tag": "互联网/软件",
+                    "type": "industry"
+                },
+                {
+                    "tag": "教育培训",
+                    "type": "industry"
+                },
+                {
+                    "tag": "其他-其他-语数英文理老师",
+                    "type": "standard_title"
+                },
+                {
+                    "tag": "英语教师",
+                    "type": "job_title"
+                }
+            ],
+            "education": [
+                {
+                    "tag": "本科学历",
+                    "type": "degree"
+                },
+                {
+                    "tag": "英语",
+                    "type": "major"
+                }
+            ],
+            "basic": [
+                {
+                    "tag": "22岁以下",
+                    "type": "age"
+                },
+                {
+                    "tag": "团员",
+                    "type": "political_status"
+                },
+                {
+                    "tag": "湖北武汉江夏区",
+                    "type": "current_location"
+                },
+                {
+                    "tag": "初级",
+                    "type": "level"
+                }
+            ],
+            "others": [
+                {
+                    "tag": "英语",
+                    "type": "language",
+                    "level": "基本掌握"
+                },
+                {
+                    "tag": "全国计算机一级",
+                    "type": "certificate"
+                },
+                {
+                    "tag": "cet-4",
+                    "type": "certificate"
+                },
+                {
+                    "tag": "普通话乙等",
+                    "type": "certificate"
+                }
+            ]
+        },
+        "highlights": {
+            "project": [],
+            "occupation": [],
+            "education": [],
+            "others": [
+                "熟练掌握英语，能进行基本的沟通"
+            ],
+            "tags": [
+                "英语能力良好",
+                "证书达人"
+            ]
+        },
+        "predicted_industry": {
+            "建筑/房地产": 8.5,
+            "咨询/法律/公务员": 5,
+            "生物/制药/医疗/护理": 5,
+            "教育/翻译/服务业": 9,
+            "其他": 5,
+            "工程师": 5,
+            "运营/客服/销售/市场": 5,
+            "人事/行政/高级管理": 5,
+            "生产/采购/物流": 5,
+            "互联网": 5,
+            "产品": 5,
+            "金融": 5
+        },
+        "predicted_titles": [
+            {
+                "score": 1,
+                "title": {
+                    "l2": "其他",
+                    "l3": "语数英文理老师",
+                    "l1": "其他"
+                }
+            },
+            {
+                "score": 0.4700935992896713,
+                "title": {
+                    "l2": "建筑/房地产",
+                    "l3": "建筑测绘",
+                    "l1": "房产/建筑/物业管理"
+                }
+            },
+            {
+                "score": 0.18432073460639842,
+                "title": {
+                    "l2": "建筑/房地产",
+                    "l3": "房地产物业",
+                    "l1": "房产/建筑/物业管理"
+                }
+            },
+            {
+                "score": 0.14558566610393037,
+                "title": {
+                    "l2": "金融/银行/保险",
+                    "l3": "风险控制",
+                    "l1": "金融"
+                }
+            }
+        ],
+        "stability": {
+            "average_job_function_time": 2,
+            "average_industry_time": 2,
+            "average_work_time": 2,
+            "work_stability": "跳槽频繁"
+        },
+        "predicted_capability": {
+            "language": 6,
+            "socialexp": 6,
+            "leadership": 6,
+            "workexp": 5.6,
+            "education": 6.5,
+            "honor": 8
+        },
+        "predicted_skills": [
+            {
+                "skill": "office",
+                "score": 0.7
+            },
+            {
+                "skill": "word",
+                "score": 0.7
+            },
+            {
+                "skill": "英语翻译",
+                "score": 0.7
+            },
+            {
+                "skill": "ppt",
+                "score": 0.7
+            },
+            {
+                "skill": "普通话",
+                "score": 0.7
+            },
+            {
+                "skill": "测量",
+                "score": 0.5
+            }
+        ],
+        "predicted_salary": "4000_to_6000",
+        "predicted_turnover": 1,
+        "risks": {
+            "occupation": [],
+            "education": [],
+            "tags": []
+        }
+    },
+    "cv_name": "beec1649d5282d7d6c258e3681879c6a.doc",
+    "ocr_count": 0,
+    "src_id": "",
+    "version": "4.7.0",
+    "cv_language": "zh",
+    "src_site": "other",
+    "file_name": "2022-12-21T10:02:42--f6a2278eceafac22fc85adfb4a825546.doc",
+    "errormessage": "succeed",
+    "cv_id": "",
+    "english_parsing_result": {},
+    "updated_time": "",
+    "applied_job": "",
+    "resume_integrity": 0.7073327263714543,
+    "parsing_result": {
+        "project_experience": [],
+        "contact_info": {
+            "phone_number": "18934661537",
+            "QQ": "2386682293",
+            "wechat": "",
+            "email": "2386682293@qq.com",
+            "home_phone_number": ""
+        },
+        "social_experience": [
+            {
+                "description": "课前参与服务队每个队员的教学ppt试讲，并点评。\n深入社区，教导社区儿童各种知识以及辅导课后作业。",
+                "end_time_year": "2019",
+                "still_active": 0,
+                "end_time_month": "09",
+                "organization_name": "校园志愿者服务队（小麦苗服务队）",
+                "start_time_year": "2019",
+                "location": "",
+                "department": "",
+                "job_title": "",
+                "start_time_month": "10"
+            }
+        ],
+        "education_experience": [
+            {
+                "ranking": "",
+                "major": "英语",
+                "degree": "本科",
+                "end_time_year": "2023",
+                "still_active": 1,
+                "school_rank": "",
+                "school_level": "",
+                "end_time_month": "06",
+                "school_name": "武汉学院",
+                "abroad_country": "",
+                "GPA": "",
+                "courses": "英语语言学，同声传译，高级英语，翻译，口译",
+                "start_time_year": "2019",
+                "location": "武汉",
+                "department": "",
+                "study_model": "",
+                "abroad": 0,
+                "start_time_month": "09"
+            }
+        ],
+        "basic_info": {
+            "major": "英语",
+            "expect_location": "",
+            "current_salary": "",
+            "current_location_norm": "中国-湖北-武汉-江夏区",
+            "current_location": "湖北武汉江夏区",
+            "expect_location_norm": "",
+            "desired_salary": "",
+            "birthplace": "",
+            "degree": "本科",
+            "desired_industry": "",
+            "desired_position": "",
+            "zipcode": "",
+            "professional_level": "初级",
+            "national_identity_number": "",
+            "date_of_birth": "2002-05",
+            "birthplace_norm": "",
+            "num_work_experience": 1,
+            "current_position": "英语教师",
+            "work_start_year": "2023",
+            "political_status": "团员",
+            "current_company": "树人教育",
+            "school_name": "武汉学院",
+            "ethnic": "汉族",
+            "recent_graduate_year": "2023",
+            "name": "刘清扬",
+            "lastupdate_time": "2022-12-21-10-02-42",
+            "gender": "",
+            "age": 20,
+            "marital_status": "",
+            "current_status": "已离职",
+            "school_type": "",
+            "detailed_location": "湖北省武汉市江夏区",
+            "industry": ""
+        },
+        "training_experience": [],
+        "work_experience": [
+            {
+                "salary": "",
+                "description": "负责教导小升初的小朋友英语。\n负责课程编排、批改作业与试卷、学习重难点分析等一系列教学过程。",
+                "end_time_year": "2021",
+                "still_active": 0,
+                "skills": [],
+                "company_type": "",
+                "industry": "教育培训",
+                "end_time_month": "09",
+                "location": "",
+                "company_size": "",
+                "job_function": "教育/培训",
+                "start_time_year": "2021",
+                "company_name": "树人教育",
+                "report_to": "",
+                "department": "",
+                "underling_num": "",
+                "job_title": "英语教师",
+                "start_time_month": "08"
+            },
+            {
+                "salary": "",
+                "description": "体温测量: 根据体温检测要求，单日完成体温测量100人；\n秩序维护: 通过现场人群的引流和疏导，降低疫情蔓延风险，连续30天新增确诊病例为0。",
+                "end_time_year": "2020",
+                "still_active": 0,
+                "skills": [],
+                "company_type": "",
+                "industry": "互联网/软件",
+                "end_time_month": "08",
+                "location": "",
+                "company_size": "",
+                "job_function": "",
+                "start_time_year": "2020",
+                "company_name": "疫情志愿者",
+                "report_to": "",
+                "department": "",
+                "underling_num": "",
+                "job_title": "",
+                "start_time_month": "07"
+            }
+        ],
+        "others": {
+            "language": [
+                "英语",
+                "普通话"
+            ],
+            "certificate": [
+                "cet-4",
+                "全国计算机一级",
+                "普通话乙等",
+                "计算机一级"
+            ],
+            "skills": [
+                "PPT",
+                "Word",
+                "Office",
+                "翻译",
+                "普通话",
+                "英语翻译",
+                "高级口译"
+            ],
+            "self_evaluation": "关注社会时事与流行，对社会热点问题有一定的敏锐度；有较好的语言组织能力与逻辑思维；工作负责，能够认真对待工作任务并即时提交；有较强的学习能力，对待陌生领域有积极求知与探索精神。",
+            "awards": [],
+            "it_skills": [
+                "PPT",
+                "Office"
+            ],
+            "business_skills": [
+                "Word",
+                "Office"
+            ]
+        },
+        "resume_rawtext": ""
+    },
+    "avatar_url": "",
+    "client_id": "",
+    "file_ext": "doc",
+    "errorcode": 0,
+    "avatar_data": "",
+    "hash_id": "beec1649d5282d7d6c258e3681879c6a"
+}

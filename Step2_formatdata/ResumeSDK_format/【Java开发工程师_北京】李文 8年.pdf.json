@@ -10,7 +10,9 @@
             "type": "PHONE"
         }
     ],
-    "location": "北京",
+    "currentLocation": {
+        "location": "北京"
+    },
     "languages": [
         "英语"
     ],

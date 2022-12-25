@@ -1,0 +1,63 @@
+{
+    "fullName": "Chloe Jennings",
+    "contacts": [
+        {
+            "contact": "cjennings7@my.apsu.edu",
+            "type": "EMAIL"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "Objective: Seasoned customer service professional seeking to expand skillset\ntoward technical support\nContact\nExperience\n158 Lynnwood Circle .\nUber Technology. Remote",
+            "companyName": "Uber Technology. Remote",
+            "title": "Seasoned customer service professional seeking to expand skillset"
+        },
+        {
+            "description": "3/2021-Present\ncjennings7@my.apsu.edu\nhttps://w\nv.linkedin.com/in/chloe\nCarried out the same duties as most recent role at Postmates Inc due to Uber's\njennings-31a785175/ | acquisition. While also utilizing Uber's tools to assist with orders on the Uber side as\nthe integration progressed. Later transitioned to Uber's new Premium Support\nEducation\ndepartment\nAustin Peay State University",
+            "companyName": "Carried out the same duties as most recent role at Postmates Inc due to Uber's",
+            "title": "COE Specialist I1.",
+            "startDate": "2021-03-01",
+            "current": true
+        },
+        {
+            "description": "2/2021-3/2021\nCommunication Arts\nMagna Cum Laude\nOffering inbound support to our top and most prominent businesses on the platform\nvia phone and email. For issues such as live order concerns , account updates , and\nSkills",
+            "companyName": "Postmates Inc ● 209 1oth Ave S & Remote",
+            "title": "Bachelor of Science in. VIP Support Specialist .",
+            "startDate": "2021-02-01",
+            "endDate": "2021-03-01"
+        },
+        {
+            "description": "11/2020-2/2021\nHighly organized, with excellentOffering inbound support to customers, drivers, and businesses on the platform vi\nwritten and verbal communication\nphone or email. Assisted with concerns over account issues and updates as well as\nskills, and great attention to detail.",
+            "companyName": "skills, and great attention to detail.",
+            "title": "Account & Tech Support Specialist .",
+            "startDate": "2020-11-01",
+            "endDate": "2021-02-01"
+        },
+        {
+            "description": "3/2020-11/2020\noperate under pressure.\nOffering inbound support to businesses on the platform via phone and email. For\nissues such as live order concerns, account updates, and supporting technical",
+            "companyName": "Quick learner with the ability to",
+            "title": "Merchant Support Specialist .",
+            "startDate": "2020-03-01",
+            "endDate": "2020-11-01"
+        },
+        {
+            "description": "Deli Associate . 8/2019-3/2020\nAPSU University Recreation.451 Marion Street\nMarketing Intern . 12/2018-4/2019\nManage all University Recreation social media accounts on Facebook, Twitter, and\nInstagram. Creating engaging content for each platform and keeping followers\ninformed of all upcoming events and class cancellations as required.\nStarbucks Coffee Company. 1oo South Hampton Place\nBarista .",
+            "companyName": "APSU University Recreation.451 Marion Street",
+            "title": "Marketing Intern .",
+            "startDate": "2019-08-01",
+            "endDate": "2020-03-01"
+        },
+        {
+            "description": "1/2016-8/2017\nCar Hop● 5/2015-1/2016",
+            "companyName": "Sonic Drive In● 1761 Wilma Rudolph Blvd",
+            "title": "Crew Leader .",
+            "startDate": "2017-09-01",
+            "endDate": "2019-12-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "Phone"
+        }
+    ]
+}

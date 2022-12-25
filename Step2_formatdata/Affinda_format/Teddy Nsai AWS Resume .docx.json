@@ -1,0 +1,266 @@
+{
+    "fullName": "Teddy  Nsai",
+    "contacts": [
+        {
+            "contact": "nsaiemperior@yahoo.com",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "+18573120689",
+            "type": "PHONE"
+        }
+    ],
+    "currentLocation": [
+        {
+            "location": "9108 Elaine Ct x3, Laurel, MD 20708, USA"
+        }
+    ],
+    "languages": [
+        "English"
+    ],
+    "educations": [
+        {
+            "startDate": "2013-04-01",
+            "endDate": "2022-12-21",
+            "current": true,
+            "collegeName": "Northeastern University",
+            "degreeLevel": "masters",
+            "majorName": "Master of Science"
+        },
+        {
+            "startDate": "2011-04-01",
+            "endDate": "2013-04-01",
+            "collegeName": "Northeastern University"
+        },
+        {
+            "startDate": "2005-10-01",
+            "endDate": "2008-10-01",
+            "collegeName": "University of Buea",
+            "degreeLevel": "bachelors",
+            "majorName": "Bachelor of Science"
+        }
+    ],
+    "experiences": [
+        {
+            "description": " Implement security best practices around Clouds Infrastructure using tools like; VPC, AWS WAF, AWS SHIELD, AWS Guard Duty, VPC Flow logs, IAM, Security Groups, NACLs, Security Hub. \n•Also used CloudWatch and CloudTrail for Monitoring and Logging respectively, thereby utilizing these tools to monitor event driven patterns and to integrated with Lambda Functions for Auto-remediations. \n•Using encryption and Certificates, for data security and Privacy using standard encryption mechanisms like KMS, for encryption at rest and encryption in transit. \n•Work with customers to define key capabilities and performance requirements. Develops technical roadmaps for future implementations. \n•Designed secure, cost-optimized, highly available, and fault-tolerant infrastructure in AWS. \n•Architected and configured Dev / Stage / QA environments in AWS (VPC, subnets, security groups, EC2 instances, load balancer, RDS, Redis, route53, etc.). \n•Implemented security best practices in AWS including multi-factor authentication, access key rotation, role-based permissions, enforced strong password policy, configured security groups and NACLs, S3 bucket policies and ACLs, etc. \n•Optimized cost through reserved instances, selection and changing of EC2 instance types based on resource need, S3 storage classes and S3 lifecycle policies, leveraging Autoscaling, etc. \n•Leveraged EC2 CreateSnapshot API call to create snapshots of EBS Volumes on scheduled intervals. \n•Configured CloudWatch alarm rules for operational and performance metrics for AWS resources and applications. \n•Configured S3 events to set up automated communication between S3 and other AWS services. \n•Review Infrastructure as code and develop patterns, review patterns to support DevSecOps \n•Develops business case analysis on potential projects.Ensures security is integrated into all architecture solutions \n•Evaluates new application, infrastructure and cloud decisions in existing context of applications, infrastructure, standards, current business strategy and future business strategy. \n•Perform continues monitoring on the AWS, HUBZone, DataPipe, Salesforce and MS Azure cloud systems using Splunk, remediating all vulnerability and closing of all open POA&Ms. \n•Develop deliverables associated with a FedRAMP security authorization package (System Security Plan, Information System Contingency Plan, Security Assessment Plan, Security Assessment Report, Authorization to Operate (ATO), Risk Assessment Report (RAR), Business Impact Analysis, Privacy Impact Analysis, Contingency Plan, Contingency Plan Testing and Plan of Action & Milestones (POA&Ms). \n•Work closely with Engineer to deliver FedRAMP requirements and perform FedRAMP advisory engagements and 3PAO assessments and to ensure mitigation of System findings, updating POAMS. \n•Work with the client, SaaS providers and internal development team to identify security gaps and resolve them to protect client data. \n•Establishing, monitoring, and re-assessing systems Plan of Action and Milestones to effectively address systems weakness or vulnerabilities. \n•Advise developers and assist with the Lifecycle Assessment and Authorization (A&A) process and developing SSP. \n•Provide support for security related FedRAMP compliance controls; and audit systems, services, and processes to verify adherence to company security policies and procedures. \n•Develop information security policies, standards, procedures, and best practices to support a FedRAMP moderate operating environment. \n•Actively participate in the risk management program. \n•Perform security risk assessments, analyze results, and provide recommendations for mitigations/enhancements. \n•Consult with business groups and provide guidance on security-related topics and participate in team on-call rotation. \n•Preform detail Security Assessment on HUBZone, DataPipe, Salesforce and MS Azure AWS cloud systems by ensuring that costumer responsibility statement and FedRAMP packages are well implemented. \n•Evaluate, recommend, and implement security solutions and practices that protect online services and information assets and help the company manage risks and meet compliance obligations. ",
+            "companyName": "XLA",
+            "title": "/Clouds Security Architect",
+            "startDate": "2016-11-01",
+            "endDate": "2022-12-21",
+            "current": true
+        },
+        {
+            "description": " Implemented C&A duties and updated POA&M and Critical Control Review (CCR) analysis and remediation of POA&M and CCR findings. Involved in System Security Plan (SSP) Contingency Plans (CP) Contingency Plan Test (CPT), authorship, analysis and modification. \n•Provide ongoing gap analysis of current policies, practices, and procedures as they relate to established guidelines outlined by NIST, OMB, FISMA. \n•Updated and reviewed A&A Packages to include Core Docs, Policy & Procedures, Operations and Maintenance Artifacts, SSP, SAR, FIPS 200, FIPS 199, POA&M, BIA, PTA, PIA, and more Collected Operation and Maintenance artifacts on an ongoing basis so that Security Control Assessment (SCA) is seamless. \n•Provided security expertise and guidance in support of security assessments and supported A&A activities according to the A&A project plan. \n•Reviewed authorization documentation for completeness and accuracy for compliance and facilitated Security Control Assessment and Continuous Monitoring Activities. \n•Executed examine, interview, test procedures in accordance with NIST SP 800-53A Revision 4. \n•Oversaw the preparation of a Comprehensive and Executive Certification & Accreditation (C&A) packages for submission to the Information Assurance Program Office for approval of an Authorization to Operate. \n•Reviewed and updating System Security Plan based on findings from Assessing controls using NIST SP 800-18 rev1, NIST SP 800-53a rev4 and NIST SP 800-53. \n•Applies appropriate information control for Federal Information Security based on NIST 800-37 rev1, SP 800-53 rev4, FIPS 199 and FIPS 200. \n•Conduct Security Assessment via document examination, interviews and manual assessments; Populate the Requirements Traceability Matrix (RTM) with results of Security Assessment. \n•Reviewed and update some of the system categorization using FIPS 199. Created and update Contingency plans and Disaster recovery plans for information systems using NIST SP 800 – 34. \n•Updated IT security policies, procedures, standards, and guidelines according to department and federal requirements. ",
+            "companyName": "WASHINGTONTECH SOLUTION Inc.",
+            "title": "Information Security Analyst",
+            "startDate": "2014-12-01",
+            "endDate": "2016-11-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "Project Management Body Of Knowledge (PMBOK) Methodology"
+        },
+        {
+            "skillName": "Application Programming Interface (API)"
+        },
+        {
+            "skillName": "Amazon Simple Notification Service (SNS)"
+        },
+        {
+            "skillName": "Federal Information Processing Standards (FIPS)"
+        },
+        {
+            "skillName": "Jenkins"
+        },
+        {
+            "skillName": "Amazon S3"
+        },
+        {
+            "skillName": "Project Management"
+        },
+        {
+            "skillName": "Automation"
+        },
+        {
+            "skillName": "Traceability Matrix"
+        },
+        {
+            "skillName": "Scheduling"
+        },
+        {
+            "skillName": "AWS Lambda"
+        },
+        {
+            "skillName": "Governance"
+        },
+        {
+            "skillName": "Research"
+        },
+        {
+            "skillName": "Systems Development"
+        },
+        {
+            "skillName": "Requirements Traceability"
+        },
+        {
+            "skillName": "NIST 800-37"
+        },
+        {
+            "skillName": "Infrastructure"
+        },
+        {
+            "skillName": "Data Security"
+        },
+        {
+            "skillName": "Ansible"
+        },
+        {
+            "skillName": "Vulnerability"
+        },
+        {
+            "skillName": "Traceability"
+        },
+        {
+            "skillName": "Management"
+        },
+        {
+            "skillName": "Negotiation"
+        },
+        {
+            "skillName": "Amazon Web Services"
+        },
+        {
+            "skillName": "Operations"
+        },
+        {
+            "skillName": "Disaster Recovery"
+        },
+        {
+            "skillName": "FourGen Computer-Aided Software Engineering (CASE) Tools"
+        },
+        {
+            "skillName": "Planning"
+        },
+        {
+            "skillName": "Mediation"
+        },
+        {
+            "skillName": "Cyber Security"
+        },
+        {
+            "skillName": "Business Case Analysis"
+        },
+        {
+            "skillName": "Current Procedural Terminology (CPT)"
+        },
+        {
+            "skillName": "Communications"
+        },
+        {
+            "skillName": "Firewall"
+        },
+        {
+            "skillName": "Salesforce.Com"
+        },
+        {
+            "skillName": "Advanced Cardiovascular Life Support (ACLS)"
+        },
+        {
+            "skillName": "Closing (Sales)"
+        },
+        {
+            "skillName": "Change Management"
+        },
+        {
+            "skillName": "Milestones (Project Management)"
+        },
+        {
+            "skillName": "Security Policies"
+        },
+        {
+            "skillName": "Terraform"
+        },
+        {
+            "skillName": "Redis"
+        },
+        {
+            "skillName": "Encryption"
+        },
+        {
+            "skillName": "Business Case"
+        },
+        {
+            "skillName": "Service Catalog"
+        },
+        {
+            "skillName": "Multi-Factor Authentication"
+        },
+        {
+            "skillName": "Information Systems"
+        },
+        {
+            "skillName": "Gap Analysis"
+        },
+        {
+            "skillName": "Certified Ethical Hacker"
+        },
+        {
+            "skillName": "NIST 800-53"
+        },
+        {
+            "skillName": "Docker (Software)"
+        },
+        {
+            "skillName": "DevSecOps"
+        },
+        {
+            "skillName": "Contingency Plan"
+        },
+        {
+            "skillName": "Event Management"
+        },
+        {
+            "skillName": "Password Policy"
+        },
+        {
+            "skillName": "Information Assurance"
+        },
+        {
+            "skillName": "AWS Auto Scaling"
+        },
+        {
+            "skillName": "Security Controls"
+        },
+        {
+            "skillName": "Parameter"
+        },
+        {
+            "skillName": "Risk Management"
+        },
+        {
+            "skillName": "Autoscaling"
+        },
+        {
+            "skillName": "Active Directory"
+        },
+        {
+            "skillName": "Authorization (Computing)"
+        },
+        {
+            "skillName": "Case Analysis"
+        },
+        {
+            "skillName": "Splunk"
+        },
+        {
+            "skillName": "Mitigation"
+        },
+        {
+            "skillName": "Continuous Monitoring"
+        },
+        {
+            "skillName": "Logging (Construction)"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "all": 36,
+    "important": 36,
+    "desc": 0,
+    "correct_important": 27,
+    "correct_desc": 0,
+    "additional": 2,
+    "important_keys": {
+        "educations.0.startDate": false,
+        "educations.0.collegeName": false,
+        "educations.0.degreeLevel": false,
+        "experiences.1.startDate": false,
+        "experiences.3.startDate": false,
+        "experiences.4.companyName": false,
+        "experiences.4.title": false,
+        "experiences.4.startDate": false,
+        "skills.5.skillName": false
+    },
+    "unimportant_keys": {},
+    "addition_info_count": 2,
+    "addition_info": {
+        "currentLocation": {
+            "location": "Kyoto, Japan"
+        },
+        "preferredLocations": [
+            {
+                "location": "Kyoto, Japan"
+            }
+        ]
+    }
+}

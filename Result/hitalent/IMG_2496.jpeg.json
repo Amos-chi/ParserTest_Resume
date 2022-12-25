@@ -1,0 +1,39 @@
+{
+    "all": 51,
+    "important": 46,
+    "desc": 5,
+    "correct_important": 35,
+    "correct_desc": 2,
+    "additional": 2,
+    "important_keys": {
+        "contacts.1": false,
+        "educations.0.startDate": false,
+        "educations.0.collegeName": false,
+        "educations.0.degreeLevel": false,
+        "educations.0.majorName": false,
+        "experiences.2.companyName": false,
+        "experiences.3.companyName": false,
+        "experiences.6.companyName": false,
+        "experiences.6.title": false,
+        "experiences.8.title": false,
+        "skills.0.skillName": false
+    },
+    "unimportant_keys": {
+        "experiences.0.description": true,
+        "experiences.1.description": false,
+        "experiences.2.description": false,
+        "experiences.3.description": false,
+        "experiences.6.description": true
+    },
+    "addition_info_count": 2,
+    "addition_info": {
+        "preferredLocations": [
+            {
+                "location": "158LynnwoodCircle"
+            }
+        ],
+        "languages": [
+            "ENGLISH"
+        ]
+    }
+}

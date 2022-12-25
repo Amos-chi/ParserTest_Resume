@@ -1,0 +1,101 @@
+{
+    "status": {
+        "message": "success",
+        "code": 200
+    },
+    "result": {
+        "cont_job_skill": "Seeking entry-level engineering positions in the materials,manufacturing,and energy industries\nstarting on or after June 2021 (while working on a Master's part-time).\nOne year of internship work experience in the energy and manufacturing sector.\nAdept at applying data science and software tools to solve engineering problems.\nExperienced in chemistry research methods.\nSoftware:Python,Java,Matlab,JavaScript,HTML/CSS,Fusion 360,Bash,Aspen,COMSOL\nLaboratory:Gas Chromatography,Mass Spectrometry\nLanguages:English (Native),Mandarin (Native)\nWork Research Experience\nSolar Turbines\nSan Diego,CA\nSoftware Engineering Assistant\nJun.2020 to Aug.2020\nLeveraged Python computer vision and deep learning modules to extract information from piping\nand instrumentation diagrams (P&IDs)as part of a team of three interns.\nProvided a P&ID UI feature for the gas turbine human-machine interface using JavaScript,HTML,\nand CSS.\nNational Renewable Energy Laboratory\nGolden,CO\nEngineering Materials Intern\nJan.2020 to May 2020\nImplemented thermodynamic equilibrium calculations in MATLAB for predicting ternary phase\ndlagrams of salt hydrate systems.\nInvestigated methods for synthesizing novel salt hydrate materials.\nSolar Turbines\nSan Diego,CA\nEngineering Assistant\nMay 2019 to Aug.2019\nSaved 78 engineering hours and $8,500 per turbine project by developing a Python Java\nprogram that automatically determines optimal gas detector placements in turbine packages\nImplemented the automation program using CFD data,CAD and optimization algorithms.\nConducted training on how to use the program to CFD engineers within the department.\nMark Asta Computational Materials Science Research Group\nBerkeley,CA\nUndergraduate Research Assistant\nJuly 2018 to May 2019\nDeveloped Python and Bash programs to automatically calculate energies of perovskite materials\nwith DFT.",
+        "major": "Materials Science and Engineering",
+        "resume_parse_time": "2022-12-21 17:51:50",
+        "college": "Stanford University",
+        "all_cert_objs": [],
+        "social_exp_objs": [],
+        "cert_objs": [],
+        "skills_objs": [],
+        "education_objs": [
+            {
+                "edu_college": "Stanford University",
+                "edu_major": "Materials Science and Engineering",
+                "end_date": "2022.06",
+                "edu_degree": "Master of Science",
+                "edu_degree_norm": "Master",
+                "edu_college_type": "0",
+                "start_date": "2020.09"
+            }
+        ],
+        "blog": "www.linkedin.com/in/kuan-liu",
+        "resume_integrity": "31",
+        "resume_type": "1",
+        "email": "alan1997liu@berkeley.edu",
+        "lang_objs": [],
+        "grad_time": "2022.06",
+        "degree": "Master of Science",
+        "proj_exp_objs": [],
+        "training_objs": [],
+        "raw_text": "Kuan (Alan)Liu\n(714)319-3123 alan1997liu@berkeley.edu Fullerton,CA 92835\nhttps://www.linkedin.com/in/kuan-liu\nSummary of Qualifications:\nSeeking entry-level engineering positions in the materials,manufacturing,and energy industries\nstarting on or after June 2021 (while working on a Master's part-time).\nOne year of internship work experience in the energy and manufacturing sector.\nAdept at applying data science and software tools to solve engineering problems.\nExperienced in chemistry research methods.\nEducation:\nStanford University (September 2020 to June 2022,part-time):\nM.S.,Materials Science and Engineering\nGPA:N/A\nRelevant Courses:Statistics and Probability,Linear Dynamical Systems,Control System Design\nUniversity of California,Berkeley (December 2019):\nB.S.,Chemical Engineering Minor:Materials Science Engineering\nGPA:3.734\nCS Courses:Data Structures,UNIX/Bash,Machine Learning,Comp.Org.Assembly Language\nSkills:\nSoftware:Python,Java,Matlab,JavaScript,HTML/CSS,Fusion 360,Bash,Aspen,COMSOL\nLaboratory:Gas Chromatography,Mass Spectrometry\nLanguages:English (Native),Mandarin (Native)\nWork Research Experience\nSolar Turbines\nSan Diego,CA\nSoftware Engineering Assistant\nJun.2020 to Aug.2020\nLeveraged Python computer vision and deep learning modules to extract information from piping\nand instrumentation diagrams (P&IDs)as part of a team of three interns.\nProvided a P&ID UI feature for the gas turbine human-machine interface using JavaScript,HTML,\nand CSS.\nNational Renewable Energy Laboratory\nGolden,CO\nEngineering Materials Intern\nJan.2020 to May 2020\nImplemented thermodynamic equilibrium calculations in MATLAB for predicting ternary phase\ndlagrams of salt hydrate systems.\nInvestigated methods for synthesizing novel salt hydrate materials.\nSolar Turbines\nSan Diego,CA\nEngineering Assistant\nMay 2019 to Aug.2019\nSaved 78 engineering hours and $8,500 per turbine project by developing a Python Java\nprogram that automatically determines optimal gas detector placements in turbine packages\nImplemented the automation program using CFD data,CAD and optimization algorithms.\nConducted training on how to use the program to CFD engineers within the department.\nMark Asta Computational Materials Science Research Group\nBerkeley,CA\nUndergraduate Research Assistant\nJuly 2018 to May 2019\nDeveloped Python and Bash programs to automatically calculate energies of perovskite materials\nwith DFT.",
+        "cont_basic_info": "Kuan (Alan)Liu\n(714)319-3123 alan1997liu@berkeley.edu Fullerton,CA 92835\nhttps://www.linkedin.com/in/kuan-liu",
+        "name": "Kuan Liu",
+        "job_exp_objs": [],
+        "resume_name": "cv20221221_175149540_436.png",
+        "cont_education": "Stanford University (September 2020 to June 2022,part-time):\nM.S.,Materials Science and Engineering\nGPA:N/A\nRelevant Courses:Statistics and Probability,Linear Dynamical Systems,Control System Design\nUniversity of California,Berkeley (December 2019):\nB.S.,Chemical Engineering Minor:Materials Science Engineering\nGPA:3.734\nCS Courses:Data Structures,UNIX/Bash,Machine Learning,Comp.Org.Assembly Language",
+        "college_type": "0"
+    },
+    "eval": {
+        "salary": 8000
+    },
+    "tags": {
+        "industries": [],
+        "pos_types": [],
+        "pos_tags": [],
+        "skills_tags": [
+            {
+                "tag_weight": 0.5801280498504638,
+                "tag_name": "python"
+            },
+            {
+                "tag_weight": 0.5631733417510987,
+                "tag_name": "bash"
+            },
+            {
+                "tag_weight": 0.5084820747375488,
+                "tag_name": "automation"
+            },
+            {
+                "tag_weight": 0.501892375946045,
+                "tag_name": "salt"
+            },
+            {
+                "tag_weight": 0.4963583469390869,
+                "tag_name": "matlab"
+            },
+            {
+                "tag_weight": 0.46479420661926274,
+                "tag_name": "html/css"
+            },
+            {
+                "tag_weight": 0.4610109329223633,
+                "tag_name": "javascript"
+            },
+            {
+                "tag_weight": 0.4415491104125977,
+                "tag_name": "java"
+            },
+            {
+                "tag_weight": 0.4392141819000244,
+                "tag_name": "vision"
+            },
+            {
+                "tag_weight": 0.41860661506652835,
+                "tag_name": "comsol"
+            },
+            {
+                "tag_weight": 0.3566867589950562,
+                "tag_name": "ui"
+            },
+            {
+                "tag_weight": 0.32713956832885743,
+                "tag_name": "cad"
+            }
+        ]
+    }
+}

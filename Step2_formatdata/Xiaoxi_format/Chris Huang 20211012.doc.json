@@ -1,0 +1,115 @@
+{
+    "fullName": "Chris Huang",
+    "contacts": [
+        {
+            "contact": "kuoweism@gmail.com",
+            "type": "EMAIL"
+        }
+    ],
+    "educations": [
+        {
+            "collegeName": "Defense Acquisition University Engineering II Certification",
+            "majorName": "\"Network Security in Fixed-Point Broadband Wireless Network”"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "Support PMA-209 for Modular Open System Architecture (MOSA) realization at NAVAIR on MQ-25, FVL, E-XX, NGAD platforms.\nServe as the NAVAIR RE/SME in guiding program offices in building Model Based Open Architecture models; chair NAVAIR Digital Transformation Data Modeling COP TIM.\nResearch SysML v2 and API framework for model consistency, interoperability and re-usability; draft Model Maturity Whitepaper with Georgia Tech over an awarded S&T fund.",
+            "companyName": "NAVAIR",
+            "title": "Platform Integration & Modeling Lead Engineer"
+        },
+        {
+            "description": "Served as the NG Aeronautics Systems scrum master NGIDE team on MBSE digital engineering initiative in developing Methodology, Process, Templates, Reference Models, Profiles, Checklist, Style Guide, Model Maturity Metrics for internal programs usage.\nSupported Global Hawks Modernization contract execution with AI image processing customization; GBSD on software modeling; NGAD MDAO design integration.\nExperience with UAF DoDAF frameworks, SysML, UML, LML, OMS, DDS, Model Maturity and Metrics, system to software model transition; Cameo and Rhapsody tools.\nNaval Information Warfare Cente –",
+            "companyName": "Northrop Grumman",
+            "title": "Staff Engineer",
+            "startDate": "2019-03-01",
+            "endDate": "2020-10-01"
+        },
+        {
+            "description": "MBSE support of: weapon systems (SSDS ICS & AEGIS), ships (DDG & CVN) and networks (NGEN & JWICS); research AOA, defined & synthesized requirements; planned and coordinated model development efforts.\nServed as a member of the NMCI Cyber Security Tiger Team in assessing and reviewing security features and solutions on endpoints, networks, servers and services/processes, as well as identifying data for analysis.\nPerformed data analytics, model design and creation of SysML/DoDAF models; led internal development team on Cameo tool capabilities development; outlined Model as a Service solution for network consolidation; supported NGEN Transformation modeling effort.",
+            "companyName": "Pacific",
+            "title": "Lead Engineer",
+            "startDate": "2018-04-01",
+            "endDate": "2019-02-01"
+        },
+        {
+            "description": "Piloted MBSE system methodology in support of DRM cryptographic security system life cycle from definition to validation;\nCreated MBSE models in support of design analysis, with simulations to show how messages are coordinated, and keys are staying in sync.\nDeveloped expert knowledge on PKI, federated identity and access management; patent submitted on Self Provisioning.\nPerformed MBSE modeling in SysML on MediaCipher Conditional Access system and DTA Encryption Infrastructure for video content protection over cable;\nDemonstrated the security of the systems using model, resulted in certification to deliver high value content (new release theater graded movies) to settops.\nParticipated in Comcast Big Data Analytics as the access network lead in data manicuring, data analysis, supervised learning algorithm tuning.\nServed as the subject matter expert in System Engineering over Agile development process by trial the processes to Key Server and embedded security client projects;\nDeveloped SysML-based models that include use cases, activity, architectures, components, sequences, states, classes and requirements diagrams.\nLed SW (Java) development of Linux based Key Server in cloud microservice (Kubernetes) with intelligent network health monitoring system.",
+            "companyName": "Comcast Cable",
+            "title": "Senior Staff Systems Engineer",
+            "startDate": "2006-04-01",
+            "endDate": "2018-02-01"
+        },
+        {
+            "description": "Led software development of industry first microwave transceiver remote monitor unit with embedded SNMP and TCP/IP protocols in C for Boeing Video Surveillance System.\nPerformed network simulation (Opnet), link budget propagation and coverage analysis, create system design prototypes for network layer requirement and performance analysis.\nAwarded patent: “Device and Method for Sharpening Image Signal” # 20070070428.",
+            "companyName": "Cable AML",
+            "title": "Software Engineer",
+            "startDate": "2002-06-01",
+            "endDate": "2006-04-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "Jira"
+        },
+        {
+            "skillName": "Java"
+        },
+        {
+            "skillName": "Based"
+        },
+        {
+            "skillName": "Scrum"
+        },
+        {
+            "skillName": "Linux"
+        },
+        {
+            "skillName": "MS SQL"
+        },
+        {
+            "skillName": "Server"
+        },
+        {
+            "skillName": "Access"
+        },
+        {
+            "skillName": "Tcp/Ip"
+        },
+        {
+            "skillName": "Network"
+        },
+        {
+            "skillName": "Tableau"
+        },
+        {
+            "skillName": "Embedded"
+        },
+        {
+            "skillName": "Security"
+        },
+        {
+            "skillName": "Networks"
+        },
+        {
+            "skillName": "Framework"
+        },
+        {
+            "skillName": "Subversion"
+        },
+        {
+            "skillName": "Sharepoint"
+        },
+        {
+            "skillName": "Realization"
+        },
+        {
+            "skillName": "Data Modeling"
+        },
+        {
+            "skillName": "Infrastructure"
+        },
+        {
+            "skillName": "Enterprise Architect"
+        }
+    ]
+}

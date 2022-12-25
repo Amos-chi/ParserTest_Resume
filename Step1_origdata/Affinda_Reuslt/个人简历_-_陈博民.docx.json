@@ -1,0 +1,262 @@
+{
+    "certifications": [],
+    "dateOfBirth": null,
+    "education": [
+        {
+            "id": 8038877,
+            "organization": "中南财经政法大学武汉学院",
+            "accreditation": {
+                "education": "工商管理 本科",
+                "educationLevel": null,
+                "inputStr": "工商管理 本科",
+                "matchStr": ""
+            },
+            "grade": null,
+            "location": null,
+            "dates": {
+                "startDate": "2021-09-01",
+                "completionDate": "2023-06-01",
+                "isCurrent": true
+            }
+        },
+        {
+            "id": 8038878,
+            "organization": "中南财经政法大学武汉学院",
+            "accreditation": {
+                "education": "工商管理 专科",
+                "educationLevel": null,
+                "inputStr": "工商管理 专科",
+                "matchStr": ""
+            },
+            "grade": null,
+            "location": null,
+            "dates": {
+                "startDate": "2018-09-01",
+                "completionDate": "2021-06-01",
+                "isCurrent": false
+            }
+        }
+    ],
+    "emails": [
+        "506142054@qq.com"
+    ],
+    "location": {
+        "formatted": "Wuhan, Hubei, China",
+        "streetNumber": null,
+        "street": null,
+        "apartmentNumber": null,
+        "city": "Wuhan",
+        "postalCode": null,
+        "state": "Hubei",
+        "country": "China",
+        "rawInput": "湖北省武汉市",
+        "countryCode": "CN"
+    },
+    "name": {
+        "raw": "陈博民",
+        "last": "",
+        "first": "陈博民",
+        "title": "",
+        "middle": ""
+    },
+    "objective": "",
+    "phoneNumbers": [
+        "+8618140523051"
+    ],
+    "publications": [],
+    "referees": [],
+    "sections": [
+        {
+            "sectionType": "Other",
+            "bbox": [
+                238.06033,
+                41.25891,
+                356.97443,
+                70.56329
+            ],
+            "pageIndex": 0,
+            "text": "个人简历"
+        },
+        {
+            "sectionType": "Summary",
+            "bbox": [
+                281.97998,
+                100.068054,
+                406.58,
+                112.10199
+            ],
+            "pageIndex": 0,
+            "text": "求职意向 人才搜索员"
+        },
+        {
+            "sectionType": "PersonalDetails",
+            "bbox": [
+                48.067,
+                100.104004,
+                148.374,
+                112.017944
+            ],
+            "pageIndex": 0,
+            "text": "姓 名 陈博民"
+        },
+        {
+            "sectionType": "PersonalDetails",
+            "bbox": [
+                48.199,
+                130.27002,
+                418.51996,
+                204.13599
+            ],
+            "pageIndex": 0,
+            "text": "学 历 本科 出生年月 1999.09 电 话 18140523051 政治面貌 共青团员 邮 箱 506142054@qq.com 现 居 湖北省武汉市"
+        },
+        {
+            "sectionType": "Education",
+            "bbox": [
+                42.57,
+                227.25995,
+                461.11002,
+                342.83002
+            ],
+            "pageIndex": 0,
+            "text": "教育背景 2021.09-2023.06 中南财经政法大学武汉学院 工商管理 本科  主修课程 : 管理学、 财务管理、 市场营销、 经济法、 消费者行为学等等 2018.09-2021.06 中南财经政法大学武汉学院 工商管理 专科  主修课程 : 微观经济学、 宏观经济学、 统计学、 会计学等等"
+        },
+        {
+            "sectionType": "WorkExperience",
+            "bbox": [
+                42.57,
+                359.928,
+                553.47003,
+                801.655
+            ],
+            "pageIndex": 0,
+            "text": "工作经历 2021.9-至今 个人创业 美甲店  产品营销 : 负责产品海报设计 , 分析产品卖点 , 提升产品吸引力 , 实现单日销售额破 1000 , 累积销售额 10W+  用户运营 : 线上建立起超千人的客户群体 , 通过了解联系客户需求 , 跟进顾客沟通反馈 , 增加后续转化机会  物资采购 : 负责进货渠道分析 , 通过对比产品 , 分析价格优势 , , 降低进货成本 , 净利润提升至 80% 2021.6-2021.9 乐思教育机构 学科老师  课程教学 : 负责 3 个班教学工作 , 为学生提供专业的高质量教学服务 , 及时与家长沟通反馈 , 家长好评率 100%  教学策略 : 分析教务数据 , 复盘输出教学总结调整教学策略 , 运用多种教学方式和管理技巧 , 调动学生积极性 2021.1-2021.6 广东省友友包装材料有限公司 行政文员  资料归整 : 日常资料录入 , 通讯录的更新等各类文职工作 , 对资料进行核对归类建档 , 日常查找效率提高 30%  人事协助 : 协助公司人事进行人员招聘 , 跟进招聘信息发布 , 组织安排面试 , 新员工入职等一系列事务 2019.07-2019.09 汨罗市三城塑料有限公司 销售专员  客户沟通 : 箱包公司担任箱包统计分销等工作 , 建立客户档案 , 和客户保持定期联系  产品分析 : 熟悉箱包种类并对其进行整理 , 对各种箱包的市场进行分析 , 对其市场占有进行下一季度的评估 校内实践 2019.9-2020.9 武汉学院管理学院 朋辈导师  团队管理 : 带领 30+班级团体 , 组织多元化的活动或是为同学提供有助组织活动的资源 , 活动依据全人教育的理 念 , 以培育导师与学生两者的个人成长为目标 , 为初进校园的学生提供指导作用。"
+        },
+        {
+            "sectionType": "Training/Certifications",
+            "bbox": [
+                42.84,
+                134.67596,
+                540.10004,
+                199.93005
+            ],
+            "pageIndex": 1,
+            "text": "技能证书  证书 : 社科奖第十一届全国高校市场营销大赛 , 并荣获策划案单项赛三等奖 , 并连续三年获得奖学金。  技能 : 通过 CET4 考试 , 普通话二级甲等 ; 教师资格证考试 , 全国计算机二级考试 , 熟练运用 office 相关软件"
+        },
+        {
+            "sectionType": "Summary",
+            "bbox": [
+                42.84,
+                217.18604,
+                439.12997,
+                307.43
+            ],
+            "pageIndex": 1,
+            "text": "自我评价  专业能力 : 拥有专业知识基础 , 并处理专业领域业务 , 对职位有一定未来规划  个人能力 : 大学及实习过程中有丰富的项目经验 , 能够清晰地将观点进行全面的输出  综合素质 : 性格开朗 , 善于与人沟通交流 , 有责任心 , 目标感强 , 具备强大的抗压能力"
+        }
+    ],
+    "skills": [],
+    "languages": [
+        "Chinese"
+    ],
+    "summary": "求职意向 人才搜索员",
+    "websites": [],
+    "linkedin": null,
+    "totalYearsExperience": 2,
+    "profession": null,
+    "workExperience": [
+        {
+            "id": 15083511,
+            "jobTitle": "",
+            "organization": "个人创业",
+            "location": null,
+            "dates": null,
+            "jobDescription": " 产品营销 : 负责产品海报设计 , 分析产品卖点 , 提升产品吸引力 , 实现单日销售额破 1000 , 累积销售额 10W+  用户运营 : 线上建立起超千人的客户群体 , 通过了解联系客户需求 , 跟进顾客沟通反馈 , 增加后续转化机会  物资采购 : 负责进货渠道分析 , 通过对比产品 , 分析价格优势 , , 降低进货成本 , 净利润提升至 80% ",
+            "occupation": {
+                "jobTitle": "",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        },
+        {
+            "id": 15083512,
+            "jobTitle": "学科老师",
+            "organization": "乐思教育机构",
+            "location": null,
+            "dates": {
+                "startDate": "2021-06-01",
+                "endDate": "2021-09-01",
+                "monthsInPosition": 3,
+                "isCurrent": false
+            },
+            "jobDescription": " 课程教学 : 负责 3 个班教学工作 , 为学生提供专业的高质量教学服务 , 及时与家长沟通反馈 , 家长好评率 100%  教学策略 : 分析教务数据 , 复盘输出教学总结调整教学策略 , 运用多种教学方式和管理技巧 , 调动学生积极性 ",
+            "occupation": {
+                "jobTitle": "学科老师",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        },
+        {
+            "id": 15083513,
+            "jobTitle": "行政文员",
+            "organization": "广东省友友包装材料有限公司",
+            "location": null,
+            "dates": {
+                "startDate": "2021-01-01",
+                "endDate": "2021-06-01",
+                "monthsInPosition": 5,
+                "isCurrent": false
+            },
+            "jobDescription": " 资料归整 : 日常资料录入 , 通讯录的更新等各类文职工作 , 对资料进行核对归类建档 , 日常查找效率提高 30%  人事协助 : 协助公司人事进行人员招聘 , 跟进招聘信息发布 , 组织安排面试 , 新员工入职等一系列事务 ",
+            "occupation": {
+                "jobTitle": "行政文员",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        },
+        {
+            "id": 15083514,
+            "jobTitle": "销售专员",
+            "organization": "汨罗市三城塑料有限公司",
+            "location": null,
+            "dates": {
+                "startDate": "2019-07-01",
+                "endDate": "2019-09-01",
+                "monthsInPosition": 2,
+                "isCurrent": false
+            },
+            "jobDescription": " 客户沟通 : 箱包公司担任箱包统计分销等工作 , 建立客户档案 , 和客户保持定期联系  产品分析 : 熟悉箱包种类并对其进行整理 , 对各种箱包的市场进行分析 , 对其市场占有进行下一季度的评估 校内实践 ",
+            "occupation": {
+                "jobTitle": "销售专员",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        },
+        {
+            "id": 15083515,
+            "jobTitle": "朋辈导师",
+            "organization": "武汉学院管理学院",
+            "location": null,
+            "dates": {
+                "startDate": "2019-09-01",
+                "endDate": "2020-09-01",
+                "monthsInPosition": 12,
+                "isCurrent": false
+            },
+            "jobDescription": " 团队管理 : 带领 30+班级团体 , 组织多元化的活动或是为同学提供有助组织活动的资源 , 活动依据全人教育的理 念 , 以培育导师与学生两者的个人成长为目标 , 为初进校园的学生提供指导作用。 ",
+            "occupation": {
+                "jobTitle": "朋辈导师",
+                "jobTitleNormalized": null,
+                "classification": null,
+                "managementLevel": null
+            }
+        }
+    ],
+    "headShot": "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",
+    "isResumeProbability": 71,
+    "rawText": "个人简历\n姓 名 陈博民\n求职意向 人才搜索员\n学 历 本科 出生年月 1999.09 电 话 18140523051 政治面貌 共青团员 邮 箱 506142054@qq.com 现 居 湖北省武汉市\n教育背景 2021.09-2023.06 中南财经政法大学武汉学院 工商管理 本科  主修课程 : 管理学、 财务管理、 市场营销、 经济法、 消费者行为学等等 2018.09-2021.06 中南财经政法大学武汉学院 工商管理 专科  主修课程 : 微观经济学、 宏观经济学、 统计学、 会计学等等\n工作经历 2021.9-至今 个人创业 美甲店  产品营销 : 负责产品海报设计 , 分析产品卖点 , 提升产品吸引力 , 实现单日销售额破 1000 , 累积销售额 10W+  用户运营 : 线上建立起超千人的客户群体 , 通过了解联系客户需求 , 跟进顾客沟通反馈 , 增加后续转化机会  物资采购 : 负责进货渠道分析 , 通过对比产品 , 分析价格优势 , , 降低进货成本 , 净利润提升至 80% 2021.6-2021.9 乐思教育机构 学科老师  课程教学 : 负责 3 个班教学工作 , 为学生提供专业的高质量教学服务 , 及时与家长沟通反馈 , 家长好评率 100%  教学策略 : 分析教务数据 , 复盘输出教学总结调整教学策略 , 运用多种教学方式和管理技巧 , 调动学生积极性 2021.1-2021.6 广东省友友包装材料有限公司 行政文员  资料归整 : 日常资料录入 , 通讯录的更新等各类文职工作 , 对资料进行核对归类建档 , 日常查找效率提高 30%  人事协助 : 协助公司人事进行人员招聘 , 跟进招聘信息发布 , 组织安排面试 , 新员工入职等一系列事务 2019.07-2019.09 汨罗市三城塑料有限公司 销售专员  客户沟通 : 箱包公司担任箱包统计分销等工作 , 建立客户档案 , 和客户保持定期联系  产品分析 : 熟悉箱包种类并对其进行整理 , 对各种箱包的市场进行分析 , 对其市场占有进行下一季度的评估 校内实践 2019.9-2020.9 武汉学院管理学院 朋辈导师  团队管理 : 带领 30+班级团体 , 组织多元化的活动或是为同学提供有助组织活动的资源 , 活动依据全人教育的理 念 , 以培育导师与学生两者的个人成长为目标 , 为初进校园的学生提供指导作用。\n技能证书  证书 : 社科奖第十一届全国高校市场营销大赛 , 并荣获策划案单项赛三等奖 , 并连续三年获得奖学金。  技能 : 通过 CET4 考试 , 普通话二级甲等 ; 教师资格证考试 , 全国计算机二级考试 , 熟练运用 office 相关软件\n自我评价  专业能力 : 拥有专业知识基础 , 并处理专业领域业务 , 对职位有一定未来规划  个人能力 : 大学及实习过程中有丰富的项目经验 , 能够清晰地将观点进行全面的输出  综合素质 : 性格开朗 , 善于与人沟通交流 , 有责任心 , 目标感强 , 具备强大的抗压能力"
+}

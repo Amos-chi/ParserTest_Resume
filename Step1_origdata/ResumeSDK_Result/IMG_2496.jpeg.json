@@ -1,0 +1,69 @@
+{
+    "status": {
+        "message": "success",
+        "code": 200
+    },
+    "result": {
+        "cont_job_skill": "supporting technical difficulties.\nTeam Oriented\nAccount Tech Support Specialist.November 2020-February 2021\nHighly organized,with excellent\nOffering inbound support to customers,drivers,and businesses on the platform via\nwritten and verbal communication\nphone or email.Assisted with concerns over account issues and updates as well as\nskills,and great attention to detail.\ntechnical support.\nQuick learner with the ability to\nMerchant Support Specialist.March 2020-November 2020\noperate under pressure.\nOffering inbound support to businesses on the platform via phone and email.For\nissues such as live order concerns,account updates,and supporting technical\ndifficulties.\nPublix Supermarkets.920 Highway 76\n·Deli Associate·August2o1g-March2o2o\nAPSU University Recreation.451 Marion Street\nMarketing Intern.December 2018-April 2019\nManage all University Recreation social media accounts on Facebook,Twitter,and\nInstagram.Creating engaging content for each platform and keeping followers\ninformed of all upcoming events and class cancellations as required.\nStarbucks Coffee Company.100 South Hampton Place\n·Barista·September2oi7-December2o1g\nSonic Drive In.1761 Wilma Rudolph Blvd\nCrew Leader.January 2016-August 2017\n·Car Hop·May2o15-January2o16",
+        "major": "Science in",
+        "social_exp_objs": [],
+        "college": "Austin Peay State University",
+        "all_cert_objs": [],
+        "resume_type": "1",
+        "cert_objs": [],
+        "skills_objs": [],
+        "education_objs": [
+            {
+                "edu_college": "Austin Peay State University",
+                "edu_major": "Science in",
+                "end_date": "2021.03",
+                "edu_degree": "Bachelor of Science",
+                "edu_degree_norm": "Bachelor",
+                "edu_college_type": "0",
+                "start_date": "2021.02"
+            }
+        ],
+        "resume_integrity": "31",
+        "training_objs": [],
+        "email": "cjennings7@my.apsu.edu",
+        "cont_job_exp": "158 Lynnwood Circle·\nUber Technology.Remote\nClarksville,TN..37040\n(931)-561-0716\n·COE SpecialistⅡ·March2o21-Present\ncjennings7@my.apsu.edu\nhttps://www.linkedin.com/in/chloe-\nCarried out the same duties as most recent role at Postmates Inc due to Uber's\njennings-31a785175/\nacquisition.While also utilizing Uber's tools to assist with orders on the Uber side as\nthe integration progressed.Later transitioned to Uber's new Premium Support",
+        "lang_objs": [],
+        "grad_time": "2021.03",
+        "degree": "Bachelor of Science",
+        "proj_exp_objs": [],
+        "resume_parse_time": "2022-12-21 17:51:48",
+        "raw_text": "Chloe Jennings\nObjective:Seasoned customer service professional seeking to expand skillset\ntoward technical support\nContact\nExperience\n158 Lynnwood Circle·\nUber Technology.Remote\nClarksville,TN..37040\n(931)-561-0716\n·COE SpecialistⅡ·March2o21-Present\ncjennings7@my.apsu.edu\nhttps://www.linkedin.com/in/chloe-\nCarried out the same duties as most recent role at Postmates Inc due to Uber's\njennings-31a785175/\nacquisition.While also utilizing Uber's tools to assist with orders on the Uber side as\nthe integration progressed.Later transitioned to Uber's new Premium Support\nEducation\ndepartment.\nAustin Peay State University\nPostmates Inc.209 1oth Ave S&Remote\nClass of 2019\nBachelor of Science in\nVIP Support Specialist.February 2021-March 2021\nCommunication Arts\nMagna Cum Laude\nOffering inbound support to our top and most prominent businesses on the platform\nvia phone and email.For issues such as live order concerns,account updates,and\nSkills\nsupporting technical difficulties.\nTeam Oriented\nAccount Tech Support Specialist.November 2020-February 2021\nHighly organized,with excellent\nOffering inbound support to customers,drivers,and businesses on the platform via\nwritten and verbal communication\nphone or email.Assisted with concerns over account issues and updates as well as\nskills,and great attention to detail.\ntechnical support.\nQuick learner with the ability to\nMerchant Support Specialist.March 2020-November 2020\noperate under pressure.\nOffering inbound support to businesses on the platform via phone and email.For\nissues such as live order concerns,account updates,and supporting technical\ndifficulties.\nPublix Supermarkets.920 Highway 76\n·Deli Associate·August2o1g-March2o2o\nAPSU University Recreation.451 Marion Street\nMarketing Intern.December 2018-April 2019\nManage all University Recreation social media accounts on Facebook,Twitter,and\nInstagram.Creating engaging content for each platform and keeping followers\ninformed of all upcoming events and class cancellations as required.\nStarbucks Coffee Company.100 South Hampton Place\n·Barista·September2oi7-December2o1g\nSonic Drive In.1761 Wilma Rudolph Blvd\nCrew Leader.January 2016-August 2017\n·Car Hop·May2o15-January2o16",
+        "cont_basic_info": "Chloe Jennings\nObjective:Seasoned customer service professional seeking to expand skillset\ntoward technical support\nContact",
+        "name": "Chloe Jennings",
+        "job_exp_objs": [],
+        "resume_name": "cv20221221_175147348_515.jpeg",
+        "cont_education": "department.\nAustin Peay State University\nPostmates Inc.209 1oth Ave S&Remote\nClass of 2019\nBachelor of Science in\nVIP Support Specialist.February 2021-March 2021\nCommunication Arts\nMagna Cum Laude\nOffering inbound support to our top and most prominent businesses on the platform\nvia phone and email.For issues such as live order concerns,account updates,and",
+        "college_type": "0"
+    },
+    "eval": {
+        "salary": 8000
+    },
+    "tags": {
+        "industries": [],
+        "pos_types": [],
+        "pos_tags": [],
+        "skills_tags": [
+            {
+                "tag_weight": 0.7212694168090821,
+                "tag_name": "marketing"
+            },
+            {
+                "tag_weight": 0.6761053562164308,
+                "tag_name": "quick"
+            },
+            {
+                "tag_weight": 0.654253911972046,
+                "tag_name": "social media"
+            },
+            {
+                "tag_weight": 0.6008899211883545,
+                "tag_name": "car"
+            }
+        ]
+    }
+}

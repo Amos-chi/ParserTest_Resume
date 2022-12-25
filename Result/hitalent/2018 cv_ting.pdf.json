@@ -1,0 +1,29 @@
+{
+    "all": 57,
+    "important": 52,
+    "desc": 5,
+    "correct_important": 51,
+    "correct_desc": 5,
+    "additional": 2,
+    "important_keys": {
+        "fullName": false
+    },
+    "unimportant_keys": {
+        "experiences.0.description": true,
+        "experiences.1.description": true,
+        "experiences.2.description": true,
+        "experiences.3.description": true,
+        "experiences.4.description": true
+    },
+    "addition_info_count": 2,
+    "addition_info": {
+        "currentLocation": {
+            "location": "United Kingdom"
+        },
+        "preferredLocations": [
+            {
+                "location": "United Kingdom"
+            }
+        ]
+    }
+}

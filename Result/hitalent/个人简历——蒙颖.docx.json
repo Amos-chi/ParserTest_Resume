@@ -1,0 +1,18 @@
+{
+    "all": 19,
+    "important": 18,
+    "desc": 1,
+    "correct_important": 18,
+    "correct_desc": 1,
+    "additional": 1,
+    "important_keys": {},
+    "unimportant_keys": {
+        "experiences.0.description": true
+    },
+    "addition_info_count": 1,
+    "addition_info": {
+        "languages": [
+            "MANDARIN"
+        ]
+    }
+}

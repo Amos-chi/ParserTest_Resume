@@ -1,0 +1,163 @@
+{
+    "fullName": "陈宁宁",
+    "contacts": [
+        {
+            "contact": "15631167703",
+            "type": "PHONE"
+        },
+        {
+            "contact": "rg15cn@163.com",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "cn17732014865",
+            "type": "WECHAT"
+        }
+    ],
+    "educations": [
+        {
+            "collegeName": "石家庄学院",
+            "degreeLevel": "本科",
+            "majorName": "软件工程"
+        }
+    ],
+    "experiences": [
+        {
+            "companyName": "上海朝讯北京java开发工程师",
+            "startDate": "2021-07-01",
+            "current": true
+        },
+        {
+            "companyName": "石家庄聪联科技有限公司",
+            "startDate": "2019-07-01",
+            "endDate": "2021-06-01"
+        },
+        {
+            "companyName": "亚信科技校企合作中心",
+            "startDate": "2018-06-01",
+            "endDate": "2019-06-01"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "Es"
+        },
+        {
+            "skillName": "Dw"
+        },
+        {
+            "skillName": "Mq"
+        },
+        {
+            "skillName": "API"
+        },
+        {
+            "skillName": "Git"
+        },
+        {
+            "skillName": "Svn"
+        },
+        {
+            "skillName": "Vue"
+        },
+        {
+            "skillName": "Idea"
+        },
+        {
+            "skillName": "Java"
+        },
+        {
+            "skillName": "Mock"
+        },
+        {
+            "skillName": "Excel"
+        },
+        {
+            "skillName": "MySQL"
+        },
+        {
+            "skillName": "Linux"
+        },
+        {
+            "skillName": "Dubbo"
+        },
+        {
+            "skillName": "Redis"
+        },
+        {
+            "skillName": "Token"
+        },
+        {
+            "skillName": "shiro"
+        },
+        {
+            "skillName": "Maven"
+        },
+        {
+            "skillName": "优化"
+        },
+        {
+            "skillName": "接口"
+        },
+        {
+            "skillName": "线程"
+        },
+        {
+            "skillName": "电商"
+        },
+        {
+            "skillName": "Spring"
+        },
+        {
+            "skillName": "Docker"
+        },
+        {
+            "skillName": "缓存"
+        },
+        {
+            "skillName": "功能"
+        },
+        {
+            "skillName": "Postman"
+        },
+        {
+            "skillName": "Mybatis"
+        },
+        {
+            "skillName": "Jenkins"
+        },
+        {
+            "skillName": "swagger"
+        },
+        {
+            "skillName": "rocketmq"
+        },
+        {
+            "skillName": "springmvc"
+        },
+        {
+            "skillName": "中间件"
+        },
+        {
+            "skillName": "Springboot"
+        },
+        {
+            "skillName": "Java开发"
+        },
+        {
+            "skillName": "element-ui"
+        },
+        {
+            "skillName": "springcloud"
+        },
+        {
+            "skillName": "软件工程"
+        },
+        {
+            "skillName": "项目设计"
+        },
+        {
+            "skillName": "数据结构与算法"
+        }
+    ]
+}

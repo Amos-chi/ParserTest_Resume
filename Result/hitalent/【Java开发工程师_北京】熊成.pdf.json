@@ -1,0 +1,23 @@
+{
+    "all": 26,
+    "important": 25,
+    "desc": 1,
+    "correct_important": 25,
+    "correct_desc": 1,
+    "additional": 2,
+    "important_keys": {},
+    "unimportant_keys": {
+        "experiences.0.description": true
+    },
+    "addition_info_count": 2,
+    "addition_info": {
+        "preferredLocations": [
+            {
+                "location": "湖北省武汉市"
+            }
+        ],
+        "languages": [
+            "MANDARIN"
+        ]
+    }
+}

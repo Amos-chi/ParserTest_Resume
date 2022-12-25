@@ -1,0 +1,31 @@
+{
+    "all": 45,
+    "important": 40,
+    "desc": 5,
+    "correct_important": 37,
+    "correct_desc": 5,
+    "additional": 2,
+    "important_keys": {
+        "educations.1.majorName": false,
+        "skills.1.skillName": false,
+        "skills.2.skillName": false
+    },
+    "unimportant_keys": {
+        "experiences.0.description": true,
+        "experiences.1.description": true,
+        "experiences.2.description": true,
+        "experiences.3.description": true,
+        "experiences.4.description": true
+    },
+    "addition_info_count": 2,
+    "addition_info": {
+        "preferredLocations": [
+            {
+                "location": "41450 Culpepper Way. Leonardtown, MD 20650"
+            }
+        ],
+        "languages": [
+            "ENGLISH"
+        ]
+    }
+}

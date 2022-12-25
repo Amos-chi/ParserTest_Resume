@@ -1,0 +1,101 @@
+{
+    "fullName": "熊成",
+    "contacts": [
+        {
+            "contact": "18571852172",
+            "type": "PHONE"
+        },
+        {
+            "contact": "xc19970212@163.com",
+            "type": "EMAIL"
+        }
+    ],
+    "currentLocation": [
+        {
+            "location": "湖北武汉"
+        }
+    ],
+    "educations": [
+        {
+            "startDate": "2015-09-01",
+            "endDate": "2019-06-01",
+            "collegeName": "最高学历:",
+            "degreeLevel": "硕士"
+        },
+        {
+            "startDate": "2019-09-01",
+            "endDate": "2021-06-01",
+            "collegeName": "中南财经政法大学",
+            "degreeLevel": "硕士",
+            "majorName": "计算机技术"
+        }
+    ],
+    "skills": [
+        {
+            "skillName": "Pc"
+        },
+        {
+            "skillName": "Mq"
+        },
+        {
+            "skillName": "Java"
+        },
+        {
+            "skillName": "Hive"
+        },
+        {
+            "skillName": "Flume"
+        },
+        {
+            "skillName": "Kafka"
+        },
+        {
+            "skillName": "MySQL"
+        },
+        {
+            "skillName": "Spark"
+        },
+        {
+            "skillName": "Redis"
+        },
+        {
+            "skillName": "Spring"
+        },
+        {
+            "skillName": "配置"
+        },
+        {
+            "skillName": "Presto"
+        },
+        {
+            "skillName": "Hadoop"
+        },
+        {
+            "skillName": "功能"
+        },
+        {
+            "skillName": "编码"
+        },
+        {
+            "skillName": "Mybatis"
+        },
+        {
+            "skillName": "大数据"
+        },
+        {
+            "skillName": "Springboot"
+        },
+        {
+            "skillName": "springcloud"
+        },
+        {
+            "skillName": "风险评估"
+        },
+        {
+            "skillName": "软件工程"
+        },
+        {
+            "skillName": "计算机技术"
+        }
+    ]
+}

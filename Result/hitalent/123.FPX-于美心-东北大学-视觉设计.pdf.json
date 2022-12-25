@@ -1,0 +1,33 @@
+{
+    "all": 31,
+    "important": 30,
+    "desc": 1,
+    "correct_important": 24,
+    "correct_desc": 0,
+    "additional": 3,
+    "important_keys": {
+        "educations.0.collegeName": false,
+        "educations.1.collegeName": false,
+        "educations.1.degreeLevel": false,
+        "educations.1.majorName": false,
+        "experiences.0.companyName": false,
+        "experiences.0.title": false
+    },
+    "unimportant_keys": {
+        "experiences.0.description": false
+    },
+    "addition_info_count": 3,
+    "addition_info": {
+        "currentLocation": {
+            "location": "New York"
+        },
+        "preferredLocations": [
+            {
+                "location": "New York"
+            }
+        ],
+        "languages": [
+            "MANDARIN"
+        ]
+    }
+}
