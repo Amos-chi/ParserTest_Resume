@@ -38,14 +38,14 @@ def getResult(type_,file):
     # f.write(f'{file},{data["all"]},{data["important"]},{data["desc"]},{data["correct_important"]},,,,,{data["correct_important"]/data["important"]},,,,,{data["correct_desc"]},,,,,{data["additional"]}\n')
 
 if __name__ == '__main__':
-    d = os.popen(r'ssh -i C:\Users\Administrator\Desktop\amos -p 6000 -L 5000:127.0.0.1:5000 amos@wuhan.hitalent.com')
+    d = os.popen(r'ssh -i C:\Users\Administrator\Desktop\amos1 -p 6000 -L 5000:127.0.0.1:5000 amos@wuhan.hitalent.com')
 
     # files = os.listdir('aaformat')
     # for file in files:
     #     try:
-    #         getResult('affinda',file)
+    #         getResult('Gulu',file)
     #     except Exception as e:
     #         print(f'------------------------ {file} error!!!')
 
-    # hitalent resumeSDK xiaoxi affinda
-    getResult('affinda','Teddy Nsai AWS Resume .docx.json')
+    # hitalent resumeSDK xiaoxi affinda Gulu
+    getResult('Gulu','Chris Huang 20211012.doc.json')

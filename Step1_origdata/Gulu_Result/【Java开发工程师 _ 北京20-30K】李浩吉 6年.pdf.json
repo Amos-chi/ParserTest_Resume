@@ -1,0 +1,193 @@
+{
+    "status": true,
+    "result": {
+        "status": true,
+        "data": {
+            "extract_result": {
+                "address": "",
+                "degree": "",
+                "age": "29",
+                "_expected_salary": "面议",
+                "dateOfBirth": "1994",
+                "certificate": "",
+                "education": [
+                    {
+                        "department": "",
+                        "degree": "本科",
+                        "end": "至今",
+                        "school": "北京邮电大学",
+                        "major": "计算机信息管理",
+                        "start": "2020-04",
+                        "description": "在读"
+                    },
+                    {
+                        "department": "",
+                        "degree": "大专",
+                        "end": "2016-06",
+                        "school": "天津职业大学",
+                        "major": "机械制造与自动化",
+                        "start": "2013-09",
+                        "description": ""
+                    }
+                ],
+                "email": "lihaoji1994@163.com",
+                "_experience_count": "5",
+                "experiences": [
+                    {
+                        "achievement": "",
+                        "company": "小黄狗环保科技有限公司",
+                        "department": "",
+                        "end": null,
+                        "leader": "",
+                        "location": null,
+                        "periods_of_time": "3年2个月",
+                        "salary": "",
+                        "size": "",
+                        "start": "2019-11",
+                        "description": "",
+                        "title": "Java开发工程师",
+                        "industry": "",
+                        "is_current": true
+                    },
+                    {
+                        "achievement": "",
+                        "company": "软通动力信息技术有限公司",
+                        "department": "",
+                        "end": "2019-10",
+                        "leader": "",
+                        "location": null,
+                        "periods_of_time": "2年2个月",
+                        "salary": "",
+                        "size": "",
+                        "start": "2017-08",
+                        "description": "",
+                        "title": "Java开发工程师",
+                        "industry": "",
+                        "is_current": false
+                    },
+                    {
+                        "achievement": "",
+                        "company": "北京中宝世纪科技有限公司",
+                        "department": "",
+                        "end": "2017-08",
+                        "leader": "",
+                        "location": null,
+                        "periods_of_time": "1年1个月",
+                        "salary": "",
+                        "size": "",
+                        "start": "2016-07",
+                        "description": "",
+                        "title": "Java开发工程师",
+                        "industry": "",
+                        "is_current": false
+                    }
+                ],
+                "_expected_industry": "",
+                "city": null,
+                "_channel_site": "其他",
+                "id_number": "",
+                "integrity": "32",
+                "language_skills": [
+                    {
+                        "name": "英语",
+                        "listening_skills": "",
+                        "score": "",
+                        "reading_skills": ""
+                    }
+                ],
+                "title": "Java开发工程师",
+                "_last_update_month": "201911",
+                "_last_update_day": "20191100",
+                "married": null,
+                "mobile": "15822516730",
+                "chineseName": "李浩吉",
+                "location": null,
+                "_summary": "1.沟通能力强，思路清晰，有优秀的理解与判断能力，善于挖掘及整理用户需求\r\n2.对待工作心细胆大，尽职尽责，喜欢从事有挑战性的工作\r\n3.学习能力较强，对新技术有着强烈的求知欲望\r\n4.有较强的抗压能力，可以应对高强度的加班",
+                "mobile1": null,
+                "_photo_url": "",
+                "projects": [
+                    {
+                        "end": "",
+                        "description": "小黄狗智能回收是小黄狗环保科技有限公司旗下的再生资源科技智能回收平台，目前注册用户量达600万，日活\r约3万，全国铺设回收机柜约8000台。通过在小区、写字楼、酒店、闹市区设立废旧、闲置物品智能回收站，以有偿的方式\r接收市民投放的废纸、塑料、金属、废旧纺织品、玻璃等废弃物，并对接专职的废品回收人员，结合物联网、大数据、人工\r智能识别等高新科技达到整合废品回收生态链的目的，发展社会环保公益事；整体业务分为C端即用户端，B端骑手端(回\r收员等)，终端(小区铺放智能机柜)；按业务功能划分微服务大约20个，主要模块有面向用户的C端服务、B端骑手服\r务、支付服务、CMS通知服务、数据墙、订单中心、后台管理、游戏中心、活动中心等。",
+                        "name": "小黄狗智能回收(小程序//App)",
+                        "duty": "1.负责小黄狗C端上门回收业务下单流程数据库设计接口设计，保证线上程序稳定\r\n2.负责小黄狗线下交投点业务，与回收机柜终端进行交互\r\n3.负责小黄狗Activity活动中心服务需求设计，例如：扫码拉新活动，阶梯投递奖励活动等\r\n5.对接第三方业务，如：顺丰，快递鸟等\r\n4.紧急需求及生产问题排查，客服反馈的用户日常程序问题解决\r\n6.微信相关业务开发，如: 小程序模板消息通知，公众号消息通知，用户微信登录等\r\n技术描述：\r\n1.SpringCloud：系统分布式架构，注册中心Euraka，服务调用openFeign，ribbon负载均衡\r\n2.Redis：实现用户及热点数据缓存；Redis分布式锁，下单接口及库存增减业务并发场景使用，保证数据安全\r\n3.Sharding-jdbc 对订单表，流水表进行分表，减小数据库读写压力\r\n4.RocketMq：服务间异步通知；利用其延迟消息，对骑手开箱回收时间进行阶梯绩效设计\r\n5.Nginx：实现服务的反向代理和负载均衡\r\n6.Kong网关接口白名单管理及鉴权",
+                        "start": "",
+                        "title": ""
+                    },
+                    {
+                        "end": "",
+                        "description": "阻碳派SaaS系统是小黄狗环保科技有限公司旗下专门为线下商铺，大中小型超市等大B端进行垃圾上门回收服\r务，并进行长期合作的一款环保SaaS小程序。该系统主模块分为回收站点端，骑手端，商家端(大B端)。每个回收站点都\r有自己的绑定二维码，商家扫描二维码后，会自动与该回收站点绑定，绑定认证签约通过后，可下单呼叫其绑定站点下的骑\r手进行上门回收服务；骑手回收完成回收后，回把回收物品送到回收站点进行入库；回收站点入库后，可对入库物品分类后\r指派骑手出售给它垃圾回收站。",
+                        "name": "阻碳派SaaS系统(小程序)",
+                        "duty": "1.从0到1参与项目的整个项目需求讨论及开发过程\r\n2.阻碳派SaaS系统站点骑手端，商铺端数据库设计；整个商铺下单，骑手接单上门流程设计及开发，保证线上程序稳定\r\n3.负责阻碳派SaaS系统后台管理模块数据库设计及功能开发，订单统计，库存统计等\r\n4.负责微信公众号/小程序状态消息提醒功能,微信扫码支付功能\r\n5.完成组内codeReview，反馈排期；修复测试bug，生产故障定位排查\r\n技术描述：\r\n1.SpringCloud：系统分布式架构，进行微服务架构设计\r\n2.Redis：缓存数据库，实现数据缓存；Redission分布式锁对骑手接单场景，入库库存操作场景使用，保证数据安全\r\n3.MQTT：实现与客户端消息异步发送，骑手新订单及未处理订单的提醒\r\n4.Nginx：实现服务的反向代理和负载均衡\r\n5.Shiro：用户身份认证登录及权限验证",
+                        "start": "",
+                        "title": ""
+                    },
+                    {
+                        "end": "",
+                        "description": "该项目是一个 B2C 项目模式，经营绿色农业(农副土特产、干货、礼品、休闲小吃)为主产品与服务的综合性购物\r网站，整个项目分为网上客户前台使用的购物功能平台。管理员所使用的后台管理。系统用户主要分为两大类用户：网上\r顾客、系统 管理员。 针对两类用户实现的功能：客户在网站浏览，搜索产品、添加购物车、填写/确认/修改订单、用户注\r册、注销、登陆、查看/修改 信息。系统管理员—上线产品、修改产品信息、维护用户信息、订单处理，系统维护。模块主\r要划分：用户模块、登录模块、购物车模块、商品详情模块、订单模块、后台管理模块、支付模块、库存模块",
+                        "name": "派啦网",
+                        "duty": "1. 负责项目的下单流程，订单模块数据库设计及业务开发\r\n2. 购物车模块业务开发，利用cookie存储用户未登录时购物车信息，登录后进行数据合并，并同步缓存Redis hash存储\r\n3. 负责项目单点登录开发，利用MVC拦截器及自定义注解实现单点登录，redis存储用户登录信息\r\n4. 测试修复开发过程中出现的 bug \r\n技术描述：\r\n1.     SpringCloud：Eureka注册中心，feigen远程调用，Ribbon负载均衡，Hystrix限流降级\r\n2. 通过 cookie 和 Redis + db 组合，实现购物车模块系列功能 ；Redis：缓存数据库，实现数据缓存 \r\n3.     Elasticsearch:全文搜索，实现商品搜索功能\r\n4.     Nginx：实现服务的反向代理和负载均衡\r\n5.     FastDFS 文件服务器，实现商品图片上传\r\n6.     activityMq服务间异步通知及消息补偿",
+                        "start": "",
+                        "title": ""
+                    },
+                    {
+                        "end": "",
+                        "description": "该项目是一个 B2C 模式的在线英语教学系统，分为前台用户系统和后台运营平台。使用了微服务技术架构，前\r后端分离 开发，持久层用的是 MyBatis-Plus，微服务分库设计，使用 Swagger 生成接口文档接入了阿里云视频点播、阿\r里云 OSS。 系统分为前台用户系统和后台管理系统两部分。前台用户系统包括课程、问答、文章。后台管理系统包括：系\r统管理、内容管理、社群问答、课程管理、消息中心、用户中心、统计分析、系统配置等功能。",
+                        "name": "口优才英语",
+                        "duty": "1. 负责后台课程章节管理\r\n2. 负责前台课程详情展示模块\r\n3. 负责前台课程列表模块\r\n4.负责系统菜单、系统配置模块\r\n技术描述：\r\n1. Dubbo服务调度中间件，Zookeeper注册中心\r\n2. 登录使用了 JWT、三方支付使用的支付宝接口\r\n3. Nginx：实现服务的反向代理和负载均衡\r\n4. 阿里云 OSS、视频点播\r\n5. Redis 用户信息缓存",
+                        "start": "",
+                        "title": ""
+                    },
+                    {
+                        "end": "",
+                        "description": "该项目是一种为为大众筹资或群众筹资的系统，也是一种团购预购的形式。利用互联网传播的特性，让创业企\r业、艺术 家或个人对公众展示他们的创意及项目，争取大家的关注和支持，进而获得所需要的资金援助。该运作模式：需\r要资金的个人 或团队将项目策划交给众筹平台，经过相关审核后，便可以在平台的网站上建立属于自己的页面，用来向公\r众介绍项目情况。 该系统有主要构成模块有用户登录模块，用户管理，角色维护，权限维护，实名认证及订单支付模块。",
+                        "name": "集米聚筹",
+                        "duty": "1. 负责用户管理模块\r\n2. 负责角色维护模块\r\n3. 参与了户登录模块代码编写\r\n4.其它bug维护\r\n技术描述：\r\n1. log4j+Logback 进行日志管理\r\n2. SpringSecurity：对权限进行细粒度维护，认证和授权\r\n3. Nginx：实现服务的反向代理和负载均衡\r\n4. SpringSession：解决 session 一致性问题",
+                        "start": "",
+                        "title": ""
+                    }
+                ],
+                "_current_salary": "",
+                "school": "北京邮电大学",
+                "score": "18",
+                "gender": 1,
+                "_major": "计算机信息管理",
+                "_student_type": "自考",
+                "_current_status": "",
+                "_expected_job": "Java开发工程师",
+                "industry": "",
+                "_web_resume_id": "",
+                "monthNull": true,
+                "dayNull": true,
+                "channel": null,
+                "site": null,
+                "tags": [],
+                "__version__": "Y_None",
+                "self_assessment": "1.沟通能力强，思路清晰，有优秀的理解与判断能力，善于挖掘及整理用户需求\r\n2.对待工作心细胆大，尽职尽责，喜欢从事有挑战性的工作\r\n3.学习能力较强，对新技术有着强烈的求知欲望\r\n4.有较强的抗压能力，可以应对高强度的加班",
+                "expected_function": "Java开发工程师",
+                "expected_industry": null,
+                "expected_salary": "面议",
+                "current_salary": null,
+                "avatar": null,
+                "mobile2": null,
+                "__process__": "SelfProcessor:0\nAIProcessor:0\nYgysProcessor:944\nDaxtraProcessor:0\nAIProcessor:0\nTryYgysProcessor:0",
+                "__process_detail__": {
+                    "SelfProcessor": "0",
+                    "AIProcessor": "0",
+                    "YgysProcessor": "944",
+                    "DaxtraProcessor": "0",
+                    "TryYgysProcessor": "0"
+                },
+                "__final_result_valid__": true,
+                "__cost__": 949,
+                "__grade__": 0.9266,
+                "__uuid__": "5e270acc-77c1-4ac2-91ea-4242b26d1bd1",
+                "__host__": "172.20.17.9",
+                "__specified_extractor__": "ygys",
+                "__jaeger_id__": "170dba118940be7532e962fe23c5e8ff"
+            },
+            "extract_uuid": "5e270acc-77c1-4ac2-91ea-4242b26d1bd1",
+            "cost": 977
+        }
+    }
+}

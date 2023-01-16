@@ -1,0 +1,176 @@
+{
+    "status": true,
+    "result": {
+        "status": true,
+        "data": {
+            "extract_result": {
+                "address": "",
+                "degree": "",
+                "age": "",
+                "_expected_salary": "19000元/月",
+                "dateOfBirth": null,
+                "certificate": "",
+                "education": [
+                    {
+                        "department": "",
+                        "degree": "本科",
+                        "end": "",
+                        "school": "山东科技大学",
+                        "major": "计算机科学与技术",
+                        "start": "",
+                        "description": ""
+                    }
+                ],
+                "email": "631953504@qq.com",
+                "_experience_count": "4",
+                "experiences": [
+                    {
+                        "company": "北京智德天成信息技术有限公司",
+                        "department": "",
+                        "end": "2022-09",
+                        "leader": "",
+                        "location": null,
+                        "periods_of_time": "1年3个月",
+                        "salary": "19000元/月",
+                        "size": "",
+                        "start": "2021-06",
+                        "description": "\n1.从事web项目后台开发\r2.项目后期维护等",
+                        "title": "Java开发工程师",
+                        "industry": "",
+                        "is_current": false
+                    },
+                    {
+                        "achievement": "",
+                        "company": "天地伟业技术有限公司",
+                        "department": "",
+                        "end": "2021-06",
+                        "leader": "",
+                        "location": null,
+                        "periods_of_time": "3年0个月",
+                        "salary": "",
+                        "size": "",
+                        "start": "2018-06",
+                        "description": "",
+                        "title": "java开发工程师",
+                        "industry": "",
+                        "is_current": false
+                    }
+                ],
+                "_expected_industry": "",
+                "city": null,
+                "_channel_site": "其他",
+                "id_number": "",
+                "integrity": "21",
+                "language_skills": [],
+                "title": "Java开发工程师",
+                "_last_update_month": "202209",
+                "_last_update_day": "20220900",
+                "married": null,
+                "mobile": "17686412707",
+                "chineseName": "陈庆宏",
+                "location": null,
+                "_summary": "工作积极认真，细心负责，善于在工作中提出问题，发现问题、解决问题，有较强的分析能力；勤奋好学，踏实肯干，动手能力强，认真负责，有很强的社会责任感；坚毅不拔，吃苦耐劳，喜欢和善于迎接新挑战，有强烈的工作进取心与合作意识，乐于与同事及领导沟通，快速解决项目中出现的问题，学习能力较强,对新技术有很强的学习兴趣，缺点是对项目的部署缺少机会接触，但相信自己能够很快学习上手。",
+                "mobile1": null,
+                "_photo_url": "",
+                "projects": [
+                    {
+                        "end": "",
+                        "description": "项目时间 六个月\r项目描述 本项目是公司核心采量项目，为了公司更快，更优质，更多的用户。和众安，百\r度，美图等合作商进行api对接，通过api进行获取精准用户画像，获取公司能\r够变现的用户，进行下游渠道变现，在合作方用户点击我们产品实现数据传\r输，数据分析以及数据分配，主要接口有撞库，推送，协议，审核结果，订单\r状态，回调信息等接口。\r技术架构 SpringBoot+ Mybatis+ VUE+ ActiveMQ\r开发环境 MySql+JDK 8+Tomcat 8.5+Linux+Idea+Git",
+                        "name": "项目名称半流程采量项目",
+                        "duty": "1.对接16家半流程撞库连登。\r\n2.对接4家半流程采量。\r\n3. 维护项目分析数据解决问题。\r\n4. 负责项目的所有需求评审，表结构设计数据统计等功能实现。",
+                        "start": "",
+                        "title": ""
+                    },
+                    {
+                        "end": "",
+                        "description": "项目时间 六个月\r项目描述 本项目是金融科技中介服务平台，非贷款放款产品，不参与审核放款，只提供个\r人以及企业的贷款信息咨询服务，贷款产品分为：全流程产品，半流程产品，\r线下API产品，CRM产品。项目采用非法拦截请求，分表操作，异步处理，消\r息发送等支持高并发数据收集及处理，根据后台管理系统分配让用户登录不同\r页面，累计注册用户2000W+。\r技术架构 SpringBoot + Mybatis+ VUE+ ActiveMQ\r开发环境 MySql+JDK 8+Tomcat 8.5+Linux+Idea+Git",
+                        "name": "项目名称助你花APP",
+                        "duty": "1.开发助你花首页配置以及后台配置。\r\n2开发匹配产品逻辑。\r\n3开发市场包线前逻辑。\r\n4开发渠道包登录逻辑处理。\r\n5. 开发车抵贷房抵贷企业主贷数据收集以及数据分发。\r\n6. 对接同城金服全流程接口。\r\n7. 开发黑名单功能。",
+                        "start": "",
+                        "title": ""
+                    },
+                    {
+                        "end": "",
+                        "description": "项目时间 三个月\r项目描述 本项目是公司一个核心业务用户分发的系统，针对人品借款，好会借，助你花三\r个平台的用户数据分析，数据处理，加密处理，根据用户的数据以及管理后台\r功能对采量渠道，城市，贷款条，控量来进行分发线下商家。\r技术架构 SpringBoot+ Mybatis+ VUE+ ActiveMQ\r开发环境 MySql+JDK 8+Tomcat 8.5+Linux+Idea+Git",
+                        "name": "项目名称线下API项目",
+                        "duty": "1.对接21家线下平台并全部上线。\r\n2开发数据分析以及分数据发业务。\r\n3管理后台添加时间段控量规则。\r\n4开发新版撞库逻辑。\r\n5开发定时分析数据供运营组分析",
+                        "start": "",
+                        "title": ""
+                    },
+                    {
+                        "end": "",
+                        "description": "项目时间 九个月\r项目描述 本项目是针对执法办案区系统，对嫌疑人入区后一系列业务流程进行统一管理，\r例如(入出区登记，安全检查，财务管理，医疗体检，审讯管理，电子档\r案)，通过这些流程将嫌疑人在园区内的记录系统的管理，提高园区内执法办\r案整体效率。\r技术架构 SpringBoot+ Mybatis+ VUE+ RabbitMQ\r开发环境 MySql+JDK 8+Tomcat 8.5+Linux+Idea+Git",
+                        "name": "项目名称智慧法制一体化管理系统",
+                        "duty": "1.参与项目模块分析及需求分解。\r\n2.开发办案区监督管理模块。\r\n3.开发大屏所有功能的详情页。\r\n4.人员出区对接市局数据。\r\n5.使用etl对接新老平台数据。\r\n6.使用RMQ实现人员出区安检信采等模块操作完实时到大屏数据展示。",
+                        "start": "",
+                        "title": ""
+                    },
+                    {
+                        "end": "",
+                        "description": "项目名称 海淀执法办案管理系统3.0 项目时间 七个月\r项目描述 海淀分局始建于2015年，随着时间的增长，海淀分局执法办案中心也在扩张，先后增加了无线定位， ，人证\r核验一体机，审讯主机等，现有的办案平台只能进行单一的入区、出区、随身物品存储，无法进行审讯办案，连接视频。本\r次项目就是替换老平台，让民警更加快速，规范的办案。\r技术架构 SpringMVC+Spring+Hibernate+Mysql+Maven+Redis+RabbitMQ\r开发环境 MySql+JDK 7+Tomcat 8.5+Linux+Idea+Git",
+                        "name": "视频点位监控",
+                        "duty": "1.现场沟通需求，制定任务计划及任务节点。\r\n2. 开发办案区监督管理模块。\r\n3. 开发笔录核查模块。\r\n4. 现场修改民警提出的问题以及开发需求。\r\n5. 部署系统，保证平台按节点正式上线。\r\n6. 使用Redis优化大屏列表展示。",
+                        "start": "",
+                        "title": ""
+                    },
+                    {
+                        "end": "",
+                        "description": "项目时间 六个月\r项目描述 目前用于房山分局办案的办案中心、执法规范等业务子系统彼此孤立，对于人员信息、轨迹信息、视频信息、定位信息等，无法\r实现流程化、集中化的管理。独立系统间无法实现数据共享及综合应用，多个平台使用不便，且无法实现数据融合，缺乏数据整合应\r用，无法实现跨子系统的业务功能。本次项目将统一整合各业务模块实现数据强警工程，建成办案中心、执法规范相结合的公安执法办\r案区智能管理系统，以数据流、信息流全面推动警务机制转型。以便快速高效安全的规范执法办案\r技术架构 SpringMVC+Spring+Hibernate+Mysql+Maven\r开发环境 MySql+JDK 7+Tomcat 8.5+Linux+ Idea+Git",
+                        "name": "项目名称房山执法办案管理系统",
+                        "duty": "1：开发报备审核管理模块。\r\n2：开发笔录核查的模块。\r\n3：调试，兼容现场涉及到所有硬件。\r\n4：培训民警使用，保障平台线上稳定运行。\r\n5: 开发视频轨迹模式，添加号牌录入功能。",
+                        "start": "",
+                        "title": ""
+                    },
+                    {
+                        "end": "",
+                        "description": "项目时间 六个月\r项目描述 玄武办案区系统同步审是为了应对公安机关遇见大要案，涉密案件，或者涉案人员多的案件时，民警可以实时通过平台上传案件\r的证据，了解案件的人员架构，知道审讯嫌疑人必须要问的问题。法制民警这边可以实时监督民警在审讯嫌疑人，当法制民\r警看到审讯有什么错误遗漏的地方可以通过平台及时通知。事后可以通过多次审讯笔录进行比对，汇总证据一览表，归档\r技术架构 SpringMVC+Spring+Hibernate+Mysql+Maven\r开发环境 MySql+JDK 7+Tomcat 8.5+Linux+ Idea+Git",
+                        "name": "项目名称南京执法办案管理系统",
+                        "duty": "1：开发预约管理的模块。\r\n2：开发现场提的候问需求。\r\n3：开发人员信息采集模块。\r\n4：基于标准版修改安全检查整体逻辑。",
+                        "start": "",
+                        "title": ""
+                    }
+                ],
+                "_current_salary": "19000元/月",
+                "school": "山东科技大学",
+                "score": "12",
+                "gender": null,
+                "_major": "计算机科学与技术",
+                "_student_type": "",
+                "_current_status": "",
+                "_expected_job": "java开发工程师",
+                "industry": "",
+                "_web_resume_id": "",
+                "channel": null,
+                "site": null,
+                "dayNull": false,
+                "monthNull": false,
+                "tags": [],
+                "__version__": "Y_None",
+                "self_assessment": "工作积极认真，细心负责，善于在工作中提出问题，发现问题、解决问题，有较强的分析能力；勤奋好学，踏实肯干，动手能力强，认真负责，有很强的社会责任感；坚毅不拔，吃苦耐劳，喜欢和善于迎接新挑战，有强烈的工作进取心与合作意识，乐于与同事及领导沟通，快速解决项目中出现的问题，学习能力较强,对新技术有很强的学习兴趣，缺点是对项目的部署缺少机会接触，但相信自己能够很快学习上手。",
+                "expected_function": "java开发工程师",
+                "expected_industry": null,
+                "expected_salary": "19000元/月",
+                "current_salary": "19000元/月",
+                "avatar": null,
+                "mobile2": null,
+                "__process__": "SelfProcessor:0\nAIProcessor:0\nYgysProcessor:1329\nDaxtraProcessor:0\nAIProcessor:0\nTryYgysProcessor:0",
+                "__process_detail__": {
+                    "SelfProcessor": "0",
+                    "AIProcessor": "0",
+                    "YgysProcessor": "1329",
+                    "DaxtraProcessor": "0",
+                    "TryYgysProcessor": "0"
+                },
+                "__final_result_valid__": true,
+                "__cost__": 1332,
+                "__grade__": 0.8945,
+                "__uuid__": "6c81fd92-3204-4504-bdde-7c81371a4041",
+                "__host__": "172.20.17.9",
+                "__specified_extractor__": "ygys",
+                "__jaeger_id__": "cfb4dc3a240b3e92780ff896978414f5"
+            },
+            "extract_uuid": "6c81fd92-3204-4504-bdde-7c81371a4041",
+            "cost": 1349
+        }
+    }
+}

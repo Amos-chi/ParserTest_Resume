@@ -1,0 +1,40 @@
+{
+    "fullName": "王俊港",
+    "contacts": [
+        {
+            "contact": "18071807610@163.com",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "18071807610",
+            "type": "PHONE"
+        }
+    ],
+    "currentLocation": [
+        {
+            "location": "武汉市"
+        }
+    ],
+    "educations": [
+        {
+            "startDate": "2015-09",
+            "endDate": "2019-07",
+            "collegeName": "三峡大学科技学院",
+            "degreeLevel": "本科"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "参与，完成需求分析，完成子系统和模块设计。 \r参与产品讨论，业务逻辑实现，根据项目任务计划按时完成软件编码和单元测试工作。 \r根据产品需求，完成后端项目设计与开发，确保项目进度。",
+            "companyName": "深圳市慧搭科技有限公司",
+            "title": "产品及项目开发",
+            "startDate": "2021-04",
+            "endDate": "2022-09"
+        },
+        {
+            "companyName": "深圳慧订网络科技有限公司",
+            "startDate": "2019-08",
+            "endDate": "2021-03"
+        }
+    ]
+}

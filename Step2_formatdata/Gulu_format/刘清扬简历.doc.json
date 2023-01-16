@@ -1,0 +1,40 @@
+{
+    "fullName": "刘清扬",
+    "contacts": [
+        {
+            "contact": "2386682293@qq.com",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "18934661537",
+            "type": "PHONE"
+        }
+    ],
+    "languages": [
+        "英语"
+    ],
+    "educations": [
+        {
+            "startDate": "2019-09",
+            "endDate": "2023-06",
+            "collegeName": "武汉学院",
+            "degreeLevel": "本科",
+            "majorName": "英语"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "负责教导小升初的小朋友英语。\r负责课程编排、批改作业与试卷、学习重难点分析等一系列教学过程。",
+            "companyName": "树人教育",
+            "title": "英语教师",
+            "startDate": "2021-08",
+            "endDate": "2021-09"
+        },
+        {
+            "description": "疫情志愿者\r根据体温检测要求，单日完成体温测量 ；\r秩序维护：通过现场人群的引流和疏导，降低疫情蔓延风险，连续30天新增确诊病例为0。",
+            "title": "体温测量",
+            "startDate": "2020-07",
+            "endDate": "2020-08"
+        }
+    ]
+}

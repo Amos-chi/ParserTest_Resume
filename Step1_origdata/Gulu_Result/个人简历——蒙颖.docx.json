@@ -1,0 +1,117 @@
+{
+    "status": true,
+    "result": {
+        "status": true,
+        "data": {
+            "extract_result": {
+                "address": "湖北省武汉市 是否接受提供薪资证明",
+                "degree": "",
+                "age": "",
+                "_expected_salary": "",
+                "dateOfBirth": null,
+                "certificate": "CET-4 普通话二级甲等",
+                "education": [
+                    {
+                        "department": "",
+                        "degree": "本科",
+                        "end": "2023-06",
+                        "school": "武昌工学院",
+                        "major": "会计学",
+                        "start": "2019-09",
+                        "description": "专业方向"
+                    }
+                ],
+                "email": "1350437009@qq.com",
+                "_experience_count": "0",
+                "experiences": [
+                    {
+                        "achievement": "",
+                        "company": "成都新大瀚人力资源有限责任公司",
+                        "department": "",
+                        "end": null,
+                        "leader": "经理",
+                        "location": "湖北-武汉",
+                        "periods_of_time": "7个月",
+                        "salary": "78000元/年",
+                        "size": "",
+                        "start": "2022-06",
+                        "description": "通过各大招聘软件如：猎聘、BOSS直聘、脉脉、领英等相关软件，定位相关关键词来搜寻各大公司所需人才，搜寻到以后主动与候选人沟通，可通过电话或微信等方式与之沟通。\r与候选人取得沟通之后，向候选人索要个人简历(必要时需附带英文简历)，询问候选人的目前居住地点 ，期望所在地，期望薪水  薪 ，英文口语等相关信息，以上信息均确认无误之后及向或LP汇报，需经或LP审核通过之后，提交给客户公司，并上传公司系统以作留存。\r如客户公司满意候选人的基本状况，便立刻安排面试，需通知候选人准备面试，并告知候选人面试的注意事项，与候选人明确面试所需的论述话题，面试方式(线下或线上)等面试相关信息\r候选人通过面试后即可入职\r相关业绩：\r每周推荐量均为组内前三\r平均客户一面量均为组内前三\r入职至今以来给国内大客户——捷豹路虎中国投资有限公司寻找到两位合适的入职人选，并已经拿到部分回款分别是：\rAI算法工程师 \r敏捷项目——10w",
+                        "title": "HR猎头",
+                        "industry": "",
+                        "is_current": true
+                    }
+                ],
+                "_expected_industry": "",
+                "city": "武汉市",
+                "_channel_site": "其他",
+                "id_number": "",
+                "integrity": "21",
+                "language_skills": [
+                    {
+                        "name": "普通话",
+                        "listening_skills": "",
+                        "score": "",
+                        "reading_skills": ""
+                    },
+                    {
+                        "name": "英语",
+                        "listening_skills": "",
+                        "score": "",
+                        "reading_skills": ""
+                    }
+                ],
+                "title": "HR猎头",
+                "_last_update_month": "202206",
+                "_last_update_day": "20220600",
+                "married": "未婚",
+                "mobile": "18788635108",
+                "chineseName": "蒙颖",
+                "location": "武汉市",
+                "_summary": "本人有招聘相关经验，熟练使用各大招聘软件，熟知各类招聘电话术语，以及熟知面试流程和面试所需要的各项提问\r\n本人沟通能力较强，组织协调能力较强，上传下达能在客户经理，部门经理以及候选人之间充分发挥协调作用，使各方互利共赢。\r\n本人对人力资源等相关工作有浓厚的兴趣以及有明确的职业规划，想在人力资源行业得到长久稳定的发展\r\n本人工作稳定性较强，抗压能力较强，坚持能力较强。",
+                "mobile1": null,
+                "_photo_url": "",
+                "projects": null,
+                "_current_salary": "78000元/年",
+                "school": "武昌工学院",
+                "score": "7",
+                "gender": 0,
+                "_major": "会计学",
+                "_student_type": "统招",
+                "_current_status": "",
+                "_expected_job": "人事行政专员",
+                "industry": "",
+                "_web_resume_id": "",
+                "channel": null,
+                "site": null,
+                "dayNull": false,
+                "monthNull": false,
+                "tags": [],
+                "__version__": "Y_None",
+                "self_assessment": "本人有招聘相关经验，熟练使用各大招聘软件，熟知各类招聘电话术语，以及熟知面试流程和面试所需要的各项提问\r\n本人沟通能力较强，组织协调能力较强，上传下达能在客户经理，部门经理以及候选人之间充分发挥协调作用，使各方互利共赢。\r\n本人对人力资源等相关工作有浓厚的兴趣以及有明确的职业规划，想在人力资源行业得到长久稳定的发展\r\n本人工作稳定性较强，抗压能力较强，坚持能力较强。",
+                "expected_function": "人事行政专员",
+                "expected_industry": null,
+                "expected_salary": null,
+                "current_salary": "78000元/年",
+                "avatar": null,
+                "mobile2": null,
+                "__process__": "SelfProcessor:0\nAIProcessor:0\nYgysProcessor:289\nDaxtraProcessor:0\nAIProcessor:0\nTryYgysProcessor:0",
+                "__process_detail__": {
+                    "SelfProcessor": "0",
+                    "AIProcessor": "0",
+                    "YgysProcessor": "289",
+                    "DaxtraProcessor": "0",
+                    "TryYgysProcessor": "0"
+                },
+                "__final_result_valid__": true,
+                "__cost__": 291,
+                "__grade__": 0.7385,
+                "__uuid__": "a736203b-778e-4c75-9f39-35581fbcf4bc",
+                "__host__": "172.20.17.9",
+                "__specified_extractor__": "ygys",
+                "__jaeger_id__": "6a9c256536c4380bd2cd58433835d30"
+            },
+            "extract_uuid": "a736203b-778e-4c75-9f39-35581fbcf4bc",
+            "cost": 309
+        }
+    }
+}

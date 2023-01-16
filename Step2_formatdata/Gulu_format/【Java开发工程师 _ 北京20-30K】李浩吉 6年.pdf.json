@@ -1,0 +1,52 @@
+{
+    "fullName": "李浩吉",
+    "contacts": [
+        {
+            "contact": "lihaoji1994@163.com",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "15822516730",
+            "type": "PHONE"
+        }
+    ],
+    "languages": [
+        "英语"
+    ],
+    "educations": [
+        {
+            "startDate": "2020-04",
+            "current": true,
+            "collegeName": "北京邮电大学",
+            "degreeLevel": "本科",
+            "majorName": "计算机信息管理"
+        },
+        {
+            "startDate": "2013-09",
+            "endDate": "2016-06",
+            "collegeName": "天津职业大学",
+            "degreeLevel": "大专",
+            "majorName": "机械制造与自动化"
+        }
+    ],
+    "experiences": [
+        {
+            "companyName": "小黄狗环保科技有限公司",
+            "title": "Java开发工程师",
+            "startDate": "2019-11",
+            "current": true
+        },
+        {
+            "companyName": "软通动力信息技术有限公司",
+            "title": "Java开发工程师",
+            "startDate": "2017-08",
+            "endDate": "2019-10"
+        },
+        {
+            "companyName": "北京中宝世纪科技有限公司",
+            "title": "Java开发工程师",
+            "startDate": "2016-07",
+            "endDate": "2017-08"
+        }
+    ]
+}

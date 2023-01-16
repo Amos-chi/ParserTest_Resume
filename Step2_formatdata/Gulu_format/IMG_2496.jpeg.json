@@ -1,0 +1,72 @@
+{
+    "fullName": "ChloeJennings",
+    "contacts": [
+        {
+            "contact": "cjennings7@my.apsu.edu",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "(931-5610716",
+            "type": "PHONE"
+        }
+    ],
+    "currentLocation": [
+        {
+            "location": "unitedstates-Austin"
+        }
+    ],
+    "educations": [
+        {
+            "startDate": "2019-08",
+            "endDate": "2020-03",
+            "collegeName": "APSU University",
+            "degreeLevel": "Associate"
+        },
+        {
+            "startDate": "2018-12",
+            "endDate": "2019-04",
+            "collegeName": "Manage all University Recreation social media accounts on Facebook"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "931-561-0716 COESpecialistI·\r\n     cjennings7@my.apsu.edu\r\n \r\n     . While also utilizing Uber's tools to assist with orders on the .\r\n Austin Peay State UniversityPostmatesInc·209iothAveS&Remote\r\n     Class of 2019",
+            "companyName": "Carried out the same duties as most recent role at Postmates Inc due to Uber's",
+            "title": "jennings-31a785175/ acquisition",
+            "startDate": "2021-03",
+            "current": true
+        },
+        {
+            "description": "Bachelorof Sciencein .VIP  Specialist·\r\n     Communication Arts\r\n     \r\n     viaphoneandemailForissuessuchasliveorderconcerns\r\n     Skills supporting technical difficulties.",
+            "companyName": "Magna Cum Laude Offeringinboundsupporttoourtopandmostprominentbusinessesontheplatform",
+            "title": "Support",
+            "startDate": "2021-02",
+            "endDate": "2021-03"
+        },
+        {
+            "description": "Highly organized, with excellent Offeringinboundsupporttocustomers\r\nwritten and verbal communication phoneoremailAssistedwithconcernsoveraccountissuesandupdatesaswellas\r\nskills technical support",
+            "companyName": "Team &amp;TechSupportSpecialist·",
+            "title": "Oriented Account",
+            "startDate": "2020-11",
+            "endDate": "2021-02"
+        },
+        {
+            "description": "operate under pressure Offeringinbound supporttobusinessesontheplatformviaphoneandemail.For\r\n     issues such as live order concerns,account updates,and supportingtechnical\r\n     difficulties.\r\n     Publix Supermarkets ·920 Highway 76",
+            "companyName": "Quicklearnerwiththeabilityto MerchantSupportSpecialist·",
+            "startDate": "2020-03",
+            "endDate": "2020-11"
+        },
+        {
+            "description": "Sonic DriveIn·1761Wilma Rudolph Blvd",
+            "companyName": "Barista·1.",
+            "startDate": "2017-09",
+            "endDate": "2019-12"
+        },
+        {
+            "description": "CarHop·May2015-January2016",
+            "companyName": "CrewLeader·",
+            "startDate": "2016-01",
+            "endDate": "2017-08"
+        }
+    ]
+}

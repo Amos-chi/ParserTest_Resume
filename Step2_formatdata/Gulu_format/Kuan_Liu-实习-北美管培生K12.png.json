@@ -1,0 +1,51 @@
+{
+    "fullName": "KUAN",
+    "contacts": [
+        {
+            "contact": "alan1997liu@berkeley.edu",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "(714)319-3123",
+            "type": "PHONE"
+        }
+    ],
+    "educations": [
+        {
+            "startDate": "2020-09",
+            "endDate": "2022-06",
+            "collegeName": "Stanford University"
+        },
+        {
+            "startDate": "2020-06",
+            "endDate": "2020-08",
+            "majorName": "HTML"
+        },
+        {
+            "startDate": "2020-01",
+            "endDate": "2020-05"
+        },
+        {
+            "startDate": "2019-12",
+            "collegeName": "University of California",
+            "degreeLevel": "本科",
+            "majorName": "Data Structures"
+        },
+        {
+            "startDate": "2019-05",
+            "endDate": "2019-08"
+        },
+        {
+            "startDate": "2018-07",
+            "endDate": "2019-05"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "One year of internship work experience in the energy and manufacturing sector.\r\n• Experienced in chemistry research methods.",
+            "title": "while working on a Master's part-time",
+            "startDate": "2021-06",
+            "current": true
+        }
+    ]
+}

@@ -41,7 +41,7 @@
         {
             "description": "\\W*Support\\W*PMA\\W*209\\W*for\\W*Modular\\W*Open\\W*System\\W*Architecture\\W*MOSA\\W*realization\\W*at\\W*NAVAIR\\W*on\\W*MQ\\W*25\\W*FVL\\W*E\\W*XX\\W*NGAD\\W*platforms\\W*Serve\\W*as\\W*the\\W*NAVAIR\\W*RE\\W*SME\\W*in\\W*guiding\\W*program\\W*offices\\W*in\\W*building\\W*Model\\W*Based\\W*Open\\W*Architecture\\W*models\\W*chair\\W*NAVAIR\\W*Digital\\W*Transformation\\W*Data\\W*Modeling\\W*COP\\W*TIM\\W*Research\\W*SysML\\W*v2\\W*and\\W*API\\W*framework\\W*for\\W*model\\W*consistency\\W*interoperability\\W*and\\W*re\\W*usability\\W*draft\\W*Model\\W*Maturity\\W*Whitepaper\\W*with\\W*Georgia\\W*Tech\\W*over\\W*an\\W*awarded\\W*S\\W*T\\W*fund\\W*",
             "companyName": "NAVAIR",
-            "title": "Platform Integration & Modeling Lead Engineer",
+            "title": "Platform Integration.{0,8}Modeling Lead Engineer",
             "startDate": "2020-10-01",
             "current": true
         },

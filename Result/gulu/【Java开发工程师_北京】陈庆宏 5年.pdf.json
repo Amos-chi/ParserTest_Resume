@@ -1,0 +1,19 @@
+{
+    "all": 18,
+    "important": 17,
+    "desc": 1,
+    "correct_important": 13,
+    "correct_desc": 0,
+    "additional": 0,
+    "important_keys": {
+        "currentLocation.location": false,
+        "skills.0.skillName": false,
+        "skills.1.skillName": false,
+        "skills.2.skillName": false
+    },
+    "unimportant_keys": {
+        "experiences.0.description": false
+    },
+    "addition_info_count": 0,
+    "addition_info": {}
+}

@@ -1,0 +1,130 @@
+{
+    "status": true,
+    "result": {
+        "status": true,
+        "data": {
+            "extract_result": {
+                "address": "",
+                "degree": "",
+                "age": "",
+                "_expected_salary": "",
+                "dateOfBirth": null,
+                "certificate": "",
+                "education": [
+                    {
+                        "department": "",
+                        "degree": "硕士",
+                        "end": "",
+                        "school": "University of Michigan",
+                        "major": "Science  Mechanical Engineering",
+                        "start": "",
+                        "description": "Ann Arbor, MI, USA Apr.2018 Master of Science in Mechanical Engineering GPA: 3.66/4.00 National Taiwan University, Taipei, Taiwan Jun.2014 of Science in Mechanical Engineering"
+                    }
+                ],
+                "email": "yichusu@umich.edu",
+                "_experience_count": "6",
+                "experiences": [
+                    {
+                        "achievement": "",
+                        "company": "Smart Ag., Ames",
+                        "department": "",
+                        "end": "至今",
+                        "leader": "",
+                        "location": null,
+                        "periods_of_time": "4years4months",
+                        "salary": "",
+                        "size": "",
+                        "start": "2018-09",
+                        "description": "Iowa(Autonomous Tractor Startup)      \r\n \r\n• Worked in the Agile Scrum team to improve the John Deere tractor’s control system with python and Docker. \r\nRedesigned the Tractor’s safety system • to deal with emergency conditions based on Test-driven Development. \r\n• Built the hardware simulator with fake CAN messages, fake perception messages and fake GPS data to test the system. \r\nProgrammed unit tests and integration tests for • every function in the program using Travis, Catch2, and Fake-it. \r\n• Developed radar detection code using C++ and Bosch mid-range radar and Continental Radar. \r\n• Launched a heartbeat program between main CPU and redundant CPU by serial communication. \r\n• Implemented the Safety Stop program through I2C Bus between redundant CPU and brake module. \r\n• Developed the speed controller algorithm(Gear selection and throttle adjustment) for tractors with Power Shift \r\nTransmission by using state machine QNX environment.",
+                        "title": "Autonomous Vehicle Engineer",
+                        "industry": "",
+                        "is_current": false
+                    },
+                    {
+                        "achievement": "",
+                        "company": "Hsinchu",
+                        "department": "Automation Dept.",
+                        "end": "2017-06",
+                        "leader": "",
+                        "location": null,
+                        "periods_of_time": "1months",
+                        "salary": "",
+                        "size": "",
+                        "start": "2017-05",
+                        "description": "Syntec Technology, ,       \r\nMechanical Engineering Intern \r\n• Built 3D CAD models including robotic arm, CNC, and conveyor system to demo industry 4.0 products.     \r\n• Simulated milling processes using ABB Robotstudio Machining PowerPac to assess its auto-path generation function.",
+                        "title": "Taiwan(Leading CNC controller manufacturer)",
+                        "industry": "",
+                        "is_current": false,
+                        "department2": "Automation Dept."
+                    }
+                ],
+                "_expected_industry": "",
+                "city": null,
+                "_channel_site": "Other",
+                "id_number": "",
+                "integrity": "18",
+                "language_skills": [],
+                "title": "Autonomous Vehicle Engineer",
+                "_last_update_month": "201800",
+                "_last_update_day": "20180000",
+                "married": null,
+                "mobile": "(734)709-5275",
+                "chineseName": "YI-CHUNG SU",
+                "location": null,
+                "_summary": "",
+                "mobile1": null,
+                "_photo_url": "",
+                "projects": [
+                    {
+                        "end": "2017-12",
+                        "description": "April.2018 \r\n• Developed a feature-based lane detection algorithm using OpenCV. \r\n• Fine-tuned a CNN model to do car detection using YOLOv2 and achieved up to 87.6% IOU in the testing video. \r\nVehicle Dynamics Project     April.2018 \r\n• Simulated the linear vehicle model’s movement by Simulink and Matlab. \r\n• Analyzed and identified the tire cornering stiffness by using the linear bicycle model and the experimental data. \r\n• Designed a steering controller to track a predefined path using Pure Pursuit control. \r\nAutomated vehicles’ Sensors and Data Mining Project     Mar.2018 \r\n• Analyze Lidar/Radar/GPS/Ultrasonic data from rosbag. \r\n• Extracted lane change events from a naturalistic driving database using MySQL. \r\n  Mechatronics Project      \r\n• Sensor Fusion for Accurate Angular Measurement: integrated an accelerometer along with the low-pass filter and a gyro \r\nalong with the high-pass filter for the pendulum tilt angle measurement. \r\n• Inverted Pendulum Mechatronic System Design: identified the model parameters and designed a full-state feedback \r\ncontrol system to stabilize an inverted pendulum through Linear-Quadratic Regulator (LQR) method and a classical \r\ncontrol system with two loops which the inner loop with negative feedback while the out loop with positive feedback. \r\n• DC Motor and Stepper Motor Position and Velocity Control: assessed motor’s performance characteristics for different \r\ninput and designed controllers to meet the position and velocity error requirement. \r\nSelf-Driving Car Project     Dec.2017 \r\n• Constructed a car obstacles-avoidance controller using PID control. \r\n• Achieved the controller with the planned-trajectory as the reference, traction force and steering angle as the control inputs \r\nto control the vehicle to follow the trajectory without crashing the track boundary. \r\nRobot Kinematics and Dynamics Project     Apr.2017 \r\n• Developed a robotic arm that can grab a small-size object given its position using Arduino and servo motor. \r\n• Implemented DH table and two inverse kinematic methods (MIT rule and inverse Jacobian) to compute the joint angles \r\nand transmitted these data into Simulink and Arduino to activate the motor and simulation.",
+                        "name": "Computer Vision Project",
+                        "duty": "",
+                        "start": "2017-09",
+                        "title": ""
+                    }
+                ],
+                "_current_salary": "",
+                "school": "University of Michigan",
+                "score": "14",
+                "gender": null,
+                "_major": "Science  Mechanical Engineering",
+                "_student_type": "",
+                "_current_status": "",
+                "_expected_job": "Autonomous Vehicle Engineer",
+                "industry": "",
+                "_web_resume_id": "",
+                "channel": null,
+                "site": null,
+                "dayNull": false,
+                "monthNull": false,
+                "tags": [],
+                "__version__": "Y_None",
+                "self_assessment": null,
+                "expected_function": "Autonomous Vehicle Engineer",
+                "expected_industry": null,
+                "expected_salary": null,
+                "current_salary": null,
+                "avatar": null,
+                "mobile2": null,
+                "__process__": "SelfProcessor:0\nAIProcessor:0\nYgysProcessor:481\nDaxtraProcessor:0\nAIProcessor:0\nTryYgysProcessor:0",
+                "__process_detail__": {
+                    "SelfProcessor": "0",
+                    "AIProcessor": "0",
+                    "YgysProcessor": "481",
+                    "DaxtraProcessor": "0",
+                    "TryYgysProcessor": "0"
+                },
+                "__final_result_valid__": true,
+                "__cost__": 483,
+                "__grade__": 0.8716,
+                "__uuid__": "7ec8d6fc-52db-4c18-a5db-7cd3a33d576e",
+                "__host__": "172.20.17.9",
+                "__specified_extractor__": "ygys",
+                "__jaeger_id__": "e61082439183bb2029907ed9b92283ac"
+            },
+            "extract_uuid": "7ec8d6fc-52db-4c18-a5db-7cd3a33d576e",
+            "cost": 503
+        }
+    }
+}

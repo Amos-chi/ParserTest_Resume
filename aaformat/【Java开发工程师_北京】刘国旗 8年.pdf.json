@@ -10,9 +10,9 @@
             "contact": "+8615652335958"
         }
     ],
-    "currentLocation": {
-        "location": "北京"
-    },
+    "currentLocation": [{
+        "location": "北京市?"
+    }],
     "educations": [
         {
             "startDate": "2010-01-01",

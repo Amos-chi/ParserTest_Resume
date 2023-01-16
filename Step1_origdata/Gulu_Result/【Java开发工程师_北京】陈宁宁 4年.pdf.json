@@ -1,0 +1,49 @@
+{
+    "status": true,
+    "result": {
+        "status": true,
+        "data": {
+            "extract_result": {
+                "experiences": null,
+                "projects": null,
+                "education": null,
+                "language_skills": [],
+                "qualification": [],
+                "name": "陈宁宁",
+                "chineseName": "陈宁宁",
+                "mapping_version": "2.0",
+                "ai_version": "2.0",
+                "channel": null,
+                "email": null,
+                "city": null,
+                "location": null,
+                "site": null,
+                "married": null,
+                "dateOfBirth": null,
+                "dayNull": false,
+                "monthNull": false,
+                "tags": [],
+                "__version__": "AI_test",
+                "mobile1": null,
+                "mobile2": null,
+                "__process__": "SelfProcessor:0\nAIProcessor:0\nYgysProcessor:715\nDaxtraProcessor:0\nAIProcessor:215\nTryYgysProcessor:0",
+                "__process_detail__": {
+                    "SelfProcessor": "0",
+                    "AIProcessor": "215",
+                    "YgysProcessor": "715",
+                    "DaxtraProcessor": "0",
+                    "TryYgysProcessor": "0"
+                },
+                "__final_result_valid__": false,
+                "__cost__": 931,
+                "__grade__": 0.0229,
+                "__uuid__": "e244452f-3a86-40cb-8437-164b27ddbffc",
+                "__host__": "172.20.17.9",
+                "__specified_extractor__": "ygys",
+                "__jaeger_id__": "818b7b816dd25af20ecfdbafe1028951"
+            },
+            "extract_uuid": "e244452f-3a86-40cb-8437-164b27ddbffc",
+            "cost": 956
+        }
+    }
+}

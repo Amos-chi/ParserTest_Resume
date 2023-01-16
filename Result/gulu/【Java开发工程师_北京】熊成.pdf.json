@@ -1,0 +1,25 @@
+{
+    "all": 23,
+    "important": 22,
+    "desc": 1,
+    "correct_important": 16,
+    "correct_desc": 0,
+    "additional": 1,
+    "important_keys": {
+        "experiences.0.title": false,
+        "currentLocation": false,
+        "skills.0.skillName": false,
+        "skills.1.skillName": false,
+        "skills.2.skillName": false,
+        "skills.3.skillName": false
+    },
+    "unimportant_keys": {
+        "experiences.0.description": false
+    },
+    "addition_info_count": 1,
+    "addition_info": {
+        "languages": [
+            "ENGLISH"
+        ]
+    }
+}

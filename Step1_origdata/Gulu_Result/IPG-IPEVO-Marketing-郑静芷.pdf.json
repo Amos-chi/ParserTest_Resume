@@ -1,0 +1,115 @@
+{
+    "status": true,
+    "result": {
+        "status": true,
+        "data": {
+            "extract_result": {
+                "experiences": [
+                    {
+                        "company": "上海佰思英教育科技有限公司",
+                        "title": "市场主管",
+                        "start": "2020-06",
+                        "end": "2021-10",
+                        "description": "985/中国日语学士\n负责微信公众号、微博、b站的账号搭建运营,把控账号方向定位,进行内容素材的设计和文案的创作,与其他留学教育类KOL账号的合作联动,获取流量。\n~与供应商合作,进行网站设计搭建,日常运营,以及网站的百度SEO投放。\n负责线上直播活动和线下学校宣传活动的策划和推进,确保活动顺利进行。\n描写用户画像,并根据画像进行朋友圈广告投放。\n公司品牌1、海报、宣传册、视频以及其他素材的制作管理。"
+                    },
+                    {
+                        "company": "上海旭通广告",
+                        "title": "PR(兼职freelancer)",
+                        "department": "日本文部",
+                        "start": "2020-10",
+                        "end": "2021-09",
+                        "description": "日本文部科学省日研生\n尼康相机/三菱电机/朝日啤酒P项目。进行舆情监测,帮助客户了解品牌露出\n情况,进行风险管理。\n每日分析品牌及竞品的舆情监测数据,撰写中日文的分析日报和月报,帮助了解产品露出情况、市场动态、企业方针等。",
+                        "department2": "日本文部"
+                    },
+                    {
+                        "company": "日日立数字映像中国有限公司",
+                        "department": "国际市场部",
+                        "title": "市场企划",
+                        "start": "2013-11",
+                        "end": "2016-01",
+                        "description": "通过拜访客户、与咨询公司合作等了解用户需求、市场信息等,与日本工程\n师团队&中国销售团队合作,进行产品线设计&产品定价等。\n负责全球大型电子消费展会以及线下活动的策划和执行,包括北京InfoComm\n展、美国InfoComm.展、荷兰LSE展等,以及国内其他电子产品类展会、代理\n日语(N1)\n商大会。与供应商以及各部门团队协调合作,确保展会的顺利实施。",
+                        "department2": "国际市场部"
+                    },
+                    {
+                        "company": "大连理工大学",
+                        "start": "2009-09",
+                        "end": "2013-07",
+                        "description": "每周监测品牌新闻、社交媒体评论等信息,分析整理撰写中日文周报,帮助了\n解市场动态、新品信息和各企业战略方针。\n公关事件案例调查整理。"
+                    },
+                    {
+                        "description": "Jessica ZHENG",
+                        "start": null,
+                        "end": null
+                    }
+                ],
+                "projects": [
+                    {
+                        "title": "志愿者",
+                        "name": "岛津Adcom/广告",
+                        "start": "2016-01",
+                        "end": "2018-05",
+                        "company": "",
+                        "description": "上海心连心《\n市场活动。\n与岛津市场部沟通,了解需求,制定年度市场计划和各项活动方案。\n负责微信公众号的策划运营,包括设计排版、文章撰写、微信campaign活动\n微信公众号/日常运营策划等。\n不定期慈善义卖活动/\n负责网站的改版设计搭建的策划执行,以及网站日常维护,如素材的设计更\n销售\n新,新闻更新等。\n(上海心连心致力于资助中\n·负责在相关行业媒体上进行广告投放。负责定期进行EDM邮件广告投放。\n国贫困家庭的心脏病患儿进\n沙龙/媒体采访/讲座等线下活动、大型医疗展会等的策划和落地执行。\n行手术治疗和术后康复,产品宣传册/海报/纪念品/视频等物料的设计制作和管理。\n100%由志愿者管理运营)\n与外包公司合作,策划并开发手机app,帮助更好展示和线上购买产品。\n对各个平台的客户线索进行收集分类,并反馈给相关的销售。"
+                    },
+                    {
+                        "name": "供市场洞察。",
+                        "company": "大连理工大学",
+                        "start": "2011-09",
+                        "end": "2012-09",
+                        "description": "与各类供应商沟通合作,在小红书、知乎等社交媒体上进行KOL合作投放,进\n国立/日本行舆情管理和品牌曝光。\n国家基金委公派留学引"
+                    }
+                ],
+                "education": [
+                    {
+                        "school": "伦敦大学学院",
+                        "degree": "",
+                        "start": null,
+                        "end": null
+                    }
+                ],
+                "language_skills": [
+                    {
+                        "name": "英语"
+                    }
+                ],
+                "qualification": [],
+                "industry": "EF教育",
+                "title": "市场主管",
+                "school": "伦敦大学学院",
+                "work_exp": "7.3",
+                "mapping_version": "2.0",
+                "ai_version": "2.0",
+                "channel": null,
+                "email": null,
+                "city": null,
+                "location": null,
+                "site": null,
+                "married": null,
+                "dateOfBirth": null,
+                "dayNull": false,
+                "monthNull": false,
+                "tags": [],
+                "__version__": "AI_test",
+                "mobile1": null,
+                "mobile2": null,
+                "__process__": "SelfProcessor:0\nAIProcessor:0\nYgysProcessor:22036\nDaxtraProcessor:0\nAIProcessor:4856\nTryYgysProcessor:0",
+                "__process_detail__": {
+                    "SelfProcessor": "0",
+                    "AIProcessor": "4856",
+                    "YgysProcessor": "22036",
+                    "DaxtraProcessor": "0",
+                    "TryYgysProcessor": "0"
+                },
+                "__final_result_valid__": true,
+                "__cost__": 26894,
+                "__grade__": 0.8394,
+                "__uuid__": "390888a8-ed5b-4f39-a6cd-6eff702bc21c",
+                "__host__": "172.20.17.9",
+                "__specified_extractor__": "ygys",
+                "__jaeger_id__": "a818faed59e7dd2decbcf1c6b37500b1"
+            },
+            "extract_uuid": "390888a8-ed5b-4f39-a6cd-6eff702bc21c",
+            "cost": 26913
+        }
+    }
+}

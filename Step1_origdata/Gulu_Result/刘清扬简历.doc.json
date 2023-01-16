@@ -1,0 +1,127 @@
+{
+    "status": true,
+    "result": {
+        "status": true,
+        "data": {
+            "extract_result": {
+                "address": "湖北省武汉市江夏区",
+                "degree": "",
+                "age": "21",
+                "_expected_salary": "",
+                "dateOfBirth": "2002-05",
+                "certificate": "大学英语四/六级(CET-4/6)，良好的听说读写能力，快速浏览英语专业文件及书籍；\r\n通过全国计算机一级考试，熟练运用office、word相关软件；\r\n普通话乙等。\r\n\r",
+                "education": [
+                    {
+                        "department": "",
+                        "degree": "本科",
+                        "end": "2023-06",
+                        "school": "武汉学院",
+                        "major": "英语",
+                        "start": "2019-09",
+                        "description": ""
+                    }
+                ],
+                "email": "2386682293@qq.com",
+                "_experience_count": "0",
+                "experiences": [
+                    {
+                        "achievement": "",
+                        "company": "树人教育",
+                        "department": "",
+                        "end": "2021-09",
+                        "leader": "",
+                        "location": null,
+                        "periods_of_time": "1个月",
+                        "salary": "",
+                        "size": "",
+                        "start": "2021-08",
+                        "description": "负责教导小升初的小朋友英语。\r负责课程编排、批改作业与试卷、学习重难点分析等一系列教学过程。",
+                        "title": "英语教师",
+                        "industry": "",
+                        "is_current": false
+                    },
+                    {
+                        "achievement": "",
+                        "company": "",
+                        "department": "",
+                        "end": "2020-08",
+                        "leader": "",
+                        "location": null,
+                        "periods_of_time": "1个月",
+                        "salary": "",
+                        "size": "100",
+                        "start": "2020-07",
+                        "description": "疫情志愿者\r根据体温检测要求，单日完成体温测量 ；\r秩序维护：通过现场人群的引流和疏导，降低疫情蔓延风险，连续30天新增确诊病例为0。",
+                        "title": "体温测量",
+                        "industry": "",
+                        "is_current": false
+                    }
+                ],
+                "_expected_industry": "",
+                "city": null,
+                "_channel_site": "其他",
+                "id_number": "",
+                "integrity": "24",
+                "language_skills": [
+                    {
+                        "name": "英语",
+                        "listening_skills": "",
+                        "score": "",
+                        "reading_skills": ""
+                    }
+                ],
+                "title": "英语教师",
+                "_last_update_month": "202109",
+                "_last_update_day": "20210900",
+                "married": null,
+                "mobile": "18934661537",
+                "chineseName": "刘清扬",
+                "location": null,
+                "_summary": "关注社会时事与流行，对社会热点问题有一定的敏锐度；有较好的语言组织能力与逻辑思维；工作负责，能够认真对待工作任务并即时提交；有较强的学习能力，对待陌生领域有积极求知与探索精神。",
+                "mobile1": null,
+                "_photo_url": "",
+                "projects": null,
+                "_current_salary": "",
+                "school": "武汉学院",
+                "score": "6",
+                "gender": null,
+                "_major": "英语",
+                "_student_type": "",
+                "_current_status": "",
+                "_expected_job": "校招专员",
+                "industry": "",
+                "_web_resume_id": "",
+                "dayNull": true,
+                "channel": null,
+                "site": null,
+                "monthNull": false,
+                "tags": [],
+                "__version__": "Y_None",
+                "self_assessment": "关注社会时事与流行，对社会热点问题有一定的敏锐度；有较好的语言组织能力与逻辑思维；工作负责，能够认真对待工作任务并即时提交；有较强的学习能力，对待陌生领域有积极求知与探索精神。",
+                "expected_function": "校招专员",
+                "expected_industry": null,
+                "expected_salary": null,
+                "current_salary": null,
+                "avatar": null,
+                "mobile2": null,
+                "__process__": "SelfProcessor:0\nAIProcessor:0\nYgysProcessor:242\nDaxtraProcessor:0\nAIProcessor:0\nTryYgysProcessor:0",
+                "__process_detail__": {
+                    "SelfProcessor": "0",
+                    "AIProcessor": "0",
+                    "YgysProcessor": "242",
+                    "DaxtraProcessor": "0",
+                    "TryYgysProcessor": "0"
+                },
+                "__final_result_valid__": true,
+                "__cost__": 246,
+                "__grade__": 0.7385,
+                "__uuid__": "22fff045-1965-487b-bf66-098111178597",
+                "__host__": "172.20.17.9",
+                "__specified_extractor__": "ygys",
+                "__jaeger_id__": "60657d734a93cc0eab76ad8fe001dc0a"
+            },
+            "extract_uuid": "22fff045-1965-487b-bf66-098111178597",
+            "cost": 267
+        }
+    }
+}

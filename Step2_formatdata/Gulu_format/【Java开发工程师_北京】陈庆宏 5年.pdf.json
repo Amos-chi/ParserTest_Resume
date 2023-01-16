@@ -1,0 +1,35 @@
+{
+    "fullName": "陈庆宏",
+    "contacts": [
+        {
+            "contact": "631953504@qq.com",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "17686412707",
+            "type": "PHONE"
+        }
+    ],
+    "educations": [
+        {
+            "collegeName": "山东科技大学",
+            "degreeLevel": "本科",
+            "majorName": "计算机科学与技术"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "\n1.从事web项目后台开发\r2.项目后期维护等",
+            "companyName": "北京智德天成信息技术有限公司",
+            "title": "Java开发工程师",
+            "startDate": "2021-06",
+            "endDate": "2022-09"
+        },
+        {
+            "companyName": "天地伟业技术有限公司",
+            "title": "java开发工程师",
+            "startDate": "2018-06",
+            "endDate": "2021-06"
+        }
+    ]
+}

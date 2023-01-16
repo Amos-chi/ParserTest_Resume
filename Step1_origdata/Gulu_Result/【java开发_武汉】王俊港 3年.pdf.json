@@ -1,0 +1,169 @@
+{
+    "status": true,
+    "result": {
+        "status": true,
+        "data": {
+            "extract_result": {
+                "address": "",
+                "degree": "",
+                "age": "25",
+                "_expected_salary": "",
+                "dateOfBirth": "1998",
+                "certificate": "",
+                "education": [
+                    {
+                        "department": "",
+                        "degree": "本科",
+                        "end": "2019-07",
+                        "school": "三峡大学科技学院",
+                        "major": "",
+                        "start": "2015-09",
+                        "description": ""
+                    }
+                ],
+                "email": "18071807610@163.com",
+                "_experience_count": "3",
+                "experiences": [
+                    {
+                        "achievement": "",
+                        "company": "深圳市慧搭科技有限公司",
+                        "department": "",
+                        "end": "2022-09",
+                        "leader": "",
+                        "location": null,
+                        "periods_of_time": "1年5个月",
+                        "salary": "",
+                        "size": "",
+                        "start": "2021-04",
+                        "description": "参与，完成需求分析，完成子系统和模块设计。 \r参与产品讨论，业务逻辑实现，根据项目任务计划按时完成软件编码和单元测试工作。 \r根据产品需求，完成后端项目设计与开发，确保项目进度。",
+                        "title": "产品及项目开发",
+                        "industry": "",
+                        "is_current": false
+                    },
+                    {
+                        "achievement": "",
+                        "company": "深圳慧订网络科技有限公司",
+                        "department": "",
+                        "end": "2021-03",
+                        "leader": "",
+                        "location": null,
+                        "periods_of_time": "1年7个月",
+                        "salary": "",
+                        "size": "",
+                        "start": "2019-08",
+                        "description": "",
+                        "title": "",
+                        "industry": "",
+                        "is_current": false
+                    }
+                ],
+                "_expected_industry": "",
+                "city": "武汉市",
+                "_channel_site": "其他",
+                "id_number": "",
+                "integrity": "22",
+                "language_skills": [],
+                "title": "产品及项目开发",
+                "_last_update_month": "202209",
+                "_last_update_day": "20220900",
+                "married": null,
+                "mobile": "18071807610",
+                "chineseName": "王俊港",
+                "location": "武汉市",
+                "_summary": "做事情追求完美，寻求效率化，具有良好的职业操守及团队合作精神，能快速融入团队； \r\n热爱编程，对新技术充满兴趣，能够快速学习新技术并且很快应用于实际工作中。 \r\n具有很强的团队精神，乐于与同事、领导和客户沟通，有强烈的集体荣誉感、责任心，积极上进。",
+                "mobile1": null,
+                "_photo_url": "",
+                "projects": [
+                    {
+                        "end": "2022-09",
+                        "description": "智惠商城是以B2C模式运营的在线商城，总览企业及公司产品于一体，主打自主研发品牌以推广的互联网化新商城。\r系统采用的微服务架构模式，以功能模块划分，前台系统主要功能包括用户登录，商品收藏，评论展示，我的订单，我的购物车，订\r单支付，会员系统等系统。后台主要功能包括，商品管理，商品分类管理，消息管理，订单管理，商品评价管理，日志系统管理，服\r务监控系统等。 \r开发工具：JDK1.8，IDEA，Maven，GitLab，Tomcat，Linux，Postman，Navicat \r技术选型：SpringBoot+SpringCould+MybatisPlus+Mysql+Redis+Elasticsearch+RabbitMQ+",
+                        "name": "智惠商城",
+                        "duty": "参与项目的需求分析，制定项目周期计划，确定技术选型方案; \r\n参与项目结构设计，划分功能模块归属; \r\n负责编写并优化商品订单模块、会员模块并测试 \r\n与同事进行技术难点探讨、修改Bug及部分模块功能测试;",
+                        "start": "2022-01",
+                        "title": ""
+                    },
+                    {
+                        "end": "2022-09",
+                        "description": "智惠商城是以B2C模式运营的在线商城，总览企业及公司产品于一体，主打自主研发品牌以推广的互联网化新商城。\r系统采用的微服务架构模式，以功能模块划分，前台系统主要功能包括用户登录，商品收藏，评论展示，我的订单，我的购物车，订",
+                        "name": "工作年限",
+                        "duty": "",
+                        "start": "2022-01",
+                        "title": ""
+                    },
+                    {
+                        "end": "2022-01",
+                        "description": "该软件开发项目管理的积分制是一种软件开发项目的绩效管理模式，以项目利润、客户满意度、项目质量、创新等为\rKPI 指标，将积分与员工福利奖金、晋升、荣誉等捆绑以此来调动员工的积极性。项目在技术方面采用最主流的前后端分离开发模式，\r使用 vue框架来构建前端，使用 springboot 构建后台。 \r技术描述： \r1. 项目使用了 vue框架构建前端。 \r2. 在浏览器端主要采用axios 处理客户端逻辑以及发送异步请求并实现了系统界面。 \r3. 持久层使用了MyBatis 框架进行对数据库持久层数据的操作。 \r4. 在统计表使用了 Echarts 的漏斗图。",
+                        "name": "会员系统等系统",
+                        "duty": "",
+                        "start": "2021-05",
+                        "title": ""
+                    },
+                    {
+                        "end": "2022-01",
+                        "description": "该软件开发项目管理的积分制是一种软件开发项目的绩效管理模式，以项目利润、客户满意度、项目质量、创新等为\rKPI 指标，将积分与员工福利奖金、晋升、荣誉等捆绑以此来调动员工的积极性。项目在技术方面采用最主流的前后端分离开发模式，\r使用 vue框架来构建前端，使用 springboot 构建后台。 \r技术描述： \r1. 项目使用了 vue框架构建前端。 \r2. 在浏览器端主要采用axios 处理客户端逻辑以及发送异步请求并实现了系统界面。 \r3. 持久层使用了MyBatis 框架进行对数据库持久层数据的操作。 \r4. 在统计表使用了 Echarts 的漏斗图。 \r5. 在表单中使用了数据字典，并将数据字典保存到服务器缓存中。",
+                        "name": "智惠积分软件",
+                        "duty": "参与项目的需求分析和周期计划安排； \r\n参与功能设计与实现，主要负责模块有员工管理接口、部门管理接口。",
+                        "start": "2021-05",
+                        "title": ""
+                    },
+                    {
+                        "end": "2021-03",
+                        "description": "慧订旅游是一个致力于提供消费者进行网上选择旅游商品的平台。本项目主要分为前台和后台两个大的服务工程，前\r台主要包括用户的登录注册模块、旅游分类展示的模块、旅游线路的分页展示、旅游线路详情和线路收藏的模块。后台管理模块包括\r旅游产品管理模块、订单管理模块、用户管理、权限管理等模块。 \r技术描述： \r1. 本项目采用maven项目管理工具，使用主流SSM框架实现 \r2. 产品的分页查询使用PageHelper 插件，在Service 层实现 \r3. 用户登录模块使用了强大的 spring security 框架，进行权限的控制，采用 redis 快速登录 \r4. 旅游图片的管理采用开源的 FastDFS，减轻服务器压力。 \r5. 通过 spring 中配置切面，将日志功能实现",
+                        "name": "慧订旅游",
+                        "duty": "产品管理模块，主要包括旅游产品添加，分页查询等 \r\n订单模块，主要包括订单的分页查询，订单详情页面查询等 \r\nAOP日志的实现，将用户访问的详情记录在日志",
+                        "start": "2020-07",
+                        "title": ""
+                    },
+                    {
+                        "end": "2020-07",
+                        "description": "Web应用程序，采用 smm框架,功能包含采购、库存、销售三个主要部分，支持条形码管理，Excel 表导出，丰富的\r导入、导出功能，完善的权限管理 。 \r技术描述： \r1. 项目前端采用 layui 框架作为前端页面展示。 \r2. 在浏览器端主要采用 Ajax 处理客户端逻辑以及发送异步请求并实现了系统界面。 \r3. 此系统整体采用MVC模式的ssm框架，持久层使用的是mybatis 实现。 \r4. 使用poi 将数据导出为excel 文件。 \r5. 使用 javaMail 实现邮件的发送功能。",
+                        "name": "慧订销售库存管理软件",
+                        "duty": "参与项目架分析设计,负责创建商品信息服务、入库管理服务、出库管理服务核心模块开发。",
+                        "start": "2019-10",
+                        "title": "Lay-ui"
+                    }
+                ],
+                "_current_salary": "",
+                "school": "三峡大学科技学院",
+                "score": "12",
+                "gender": 1,
+                "_major": "",
+                "_student_type": "统招",
+                "_current_status": "",
+                "_expected_job": "",
+                "industry": "",
+                "_web_resume_id": "",
+                "channel": null,
+                "site": null,
+                "dayNull": true,
+                "monthNull": true,
+                "tags": [],
+                "__version__": "Y_None",
+                "self_assessment": "做事情追求完美，寻求效率化，具有良好的职业操守及团队合作精神，能快速融入团队； \r\n热爱编程，对新技术充满兴趣，能够快速学习新技术并且很快应用于实际工作中。 \r\n具有很强的团队精神，乐于与同事、领导和客户沟通，有强烈的集体荣誉感、责任心，积极上进。",
+                "expected_function": null,
+                "expected_industry": null,
+                "expected_salary": null,
+                "current_salary": null,
+                "avatar": null,
+                "mobile2": null,
+                "__process__": "SelfProcessor:0\nAIProcessor:0\nYgysProcessor:1094\nDaxtraProcessor:0\nAIProcessor:0\nTryYgysProcessor:0",
+                "__process_detail__": {
+                    "SelfProcessor": "0",
+                    "AIProcessor": "0",
+                    "YgysProcessor": "1094",
+                    "DaxtraProcessor": "0",
+                    "TryYgysProcessor": "0"
+                },
+                "__final_result_valid__": true,
+                "__cost__": 1097,
+                "__grade__": 0.9037,
+                "__uuid__": "6251a503-5ead-4516-ac7a-fcaabad93be8",
+                "__host__": "172.20.17.9",
+                "__specified_extractor__": "ygys",
+                "__jaeger_id__": "f0853a823e60f25aa867e9ab32c13b8"
+            },
+            "extract_uuid": "6251a503-5ead-4516-ac7a-fcaabad93be8",
+            "cost": 1121
+        }
+    }
+}

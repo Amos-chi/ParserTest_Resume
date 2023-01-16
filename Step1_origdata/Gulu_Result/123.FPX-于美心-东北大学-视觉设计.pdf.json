@@ -1,0 +1,138 @@
+{
+    "status": true,
+    "result": {
+        "status": true,
+        "data": {
+            "extract_result": {
+                "address": "",
+                "degree": "",
+                "age": "",
+                "_expected_salary": "",
+                "dateOfBirth": null,
+                "certificate": "",
+                "education": [
+                    {
+                        "department": "",
+                        "degree": "",
+                        "end": "2021",
+                        "school": "东北大学",
+                        "major": "远程实习",
+                        "start": "2019",
+                        "description": "MEIXINYUwww.meixin-yu.comwww.linkedin.com/in/meixin-yu/\r\nEXPERIENCE     yu.mei@northeastern.edu1) 917 379 1880\r\nActiveScaler, UX Designer  \r\n米尔皮塔斯，加利福尼亚州，美国 6.24.2020 8.29.2020     EDUCATION波士顿，美国\r\nMITReality Hack ：黑客&lt;=姓名=&gt;马拉松团队获得The Best Useof Eye Tracking     MFA, Experience Design I波士顿，美国11.16.2020-1.20.2020"
+                    },
+                    {
+                        "department": "",
+                        "degree": "",
+                        "end": "2016",
+                        "school": "湖南大学",
+                        "major": "外研社",
+                        "start": "2015",
+                        "description": "VOLUNTEER     IF设计奖，团队获前300强\r\n 湖南大学 |2015\r\nMIT Museum-Friday After Thanksgiving (F.A.T)\r\n波士顿，美国|11.29.2019英语写作一等奖\r\n帮助孩子们完成智力游戏"
+                    },
+                    {
+                        "department": "主要负责学院",
+                        "degree": "",
+                        "end": "2015",
+                        "school": "湖南大学",
+                        "major": "思想政治活动的组织与宣传",
+                        "start": "2013-09-06",
+                        "description": "组织游戏互动，帮助赞助商完成促销ACTIVITIES\r\n湖南爱弥尔(NGO)\r\n长沙，中国|11.2014\r\n与自闭症儿童一起玩游戏，分享不同的故事，并教 学生会思政部副部\r\n他们基本的绘画技巧"
+                    },
+                    {
+                        "department": "",
+                        "degree": "",
+                        "end": "2017",
+                        "school": "湖南大学",
+                        "major": "生工业设计大赛金奖",
+                        "start": "2013",
+                        "description": "2014\r\nThe 6thBostonInternational StudentDay 一等奖学金及三号学生    波士顿，美国|9.22.2019\r\n\r\n长沙，中国BA, Product Design I \r\n中国人体头部数据库-团队获得2018全国大学"
+                    }
+                ],
+                "email": "yu.mei@northeastern.edu",
+                "_experience_count": "2",
+                "experiences": [
+                    {
+                        "achievement": "",
+                        "company": "长沙风和丽日广告有限公司",
+                        "department": "",
+                        "end": "2016-07-08",
+                        "leader": "",
+                        "location": "广东-深圳",
+                        "periods_of_time": "6个月",
+                        "salary": "",
+                        "size": "",
+                        "start": "2016",
+                        "description": "深圳实习，中国16.2016-7.2016,After Effects\r带领4人小组完成公司分配的项目并展示最终结果\rInteraction Design\rHtml5/CSS/JavaScript, Brackets,\r设计的AR图画书，通过儿童涂鸦与拼图游戏结合 P5,js, Processing, Arduino\r再由AR技术展示出来，帮助儿童扩大想象力\rIndustrial Design\rRhinoceros, UG, Keyshot\r新媒体部UI/UXDesigner-实习 Game Design\r中国,Unity\r团队制作办公的墙绘项目 Data Processing\r独立负责“云壹”餐厅七夕节整套VI设计，包括logo,Artec, Geomagic Studio, SPSS\r海报，宣传册，餐垫等 RECOGNITION\r负责运营微信公众号，特别是动态图形设计和网页排版\rSIT创新设计学术报告，团队获省级奖",
+                        "title": "Premiere",
+                        "industry": "",
+                        "is_current": false
+                    }
+                ],
+                "_expected_industry": "",
+                "city": null,
+                "_channel_site": "其他",
+                "id_number": "",
+                "integrity": "25",
+                "language_skills": [
+                    {
+                        "name": "英语",
+                        "listening_skills": "",
+                        "score": "",
+                        "reading_skills": ""
+                    }
+                ],
+                "title": "Premiere",
+                "_last_update_month": "202000",
+                "_last_update_day": "20200000",
+                "married": null,
+                "mobile": "917-3791880",
+                "chineseName": "黑客",
+                "location": "深圳市",
+                "_summary": "",
+                "mobile1": null,
+                "_photo_url": "",
+                "projects": null,
+                "_current_salary": "",
+                "school": "东北大学",
+                "score": "3",
+                "gender": null,
+                "_major": "远程实习",
+                "_student_type": "",
+                "_current_status": "",
+                "_expected_job": "远程实习",
+                "industry": "",
+                "_web_resume_id": "",
+                "channel": null,
+                "site": null,
+                "dayNull": false,
+                "monthNull": false,
+                "tags": [],
+                "__version__": "Y_None",
+                "self_assessment": null,
+                "expected_function": "远程实习",
+                "expected_industry": null,
+                "expected_salary": null,
+                "current_salary": null,
+                "avatar": null,
+                "mobile2": null,
+                "__process__": "SelfProcessor:0\nAIProcessor:0\nYgysProcessor:4005\nDaxtraProcessor:0\nAIProcessor:0\nTryYgysProcessor:0",
+                "__process_detail__": {
+                    "SelfProcessor": "0",
+                    "AIProcessor": "0",
+                    "YgysProcessor": "4005",
+                    "DaxtraProcessor": "0",
+                    "TryYgysProcessor": "0"
+                },
+                "__final_result_valid__": true,
+                "__cost__": 4007,
+                "__grade__": 0.7271,
+                "__uuid__": "d561d5e4-6483-457f-b7bf-228a2a3fe13a",
+                "__host__": "172.20.17.9",
+                "__specified_extractor__": "ygys",
+                "__jaeger_id__": "9998bd96bad129e527f9b7662ec9ef02"
+            },
+            "extract_uuid": "d561d5e4-6483-457f-b7bf-228a2a3fe13a",
+            "cost": 4025
+        }
+    }
+}

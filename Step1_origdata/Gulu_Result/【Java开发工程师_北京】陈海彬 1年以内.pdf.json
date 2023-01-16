@@ -1,0 +1,145 @@
+{
+    "status": true,
+    "result": {
+        "status": true,
+        "data": {
+            "extract_result": {
+                "address": "",
+                "degree": "",
+                "age": "22",
+                "_expected_salary": "",
+                "dateOfBirth": "2001",
+                "certificate": "英语四级",
+                "education": [
+                    {
+                        "department": "",
+                        "degree": "本科",
+                        "end": "2022-12",
+                        "school": "",
+                        "major": "",
+                        "start": "2022-07",
+                        "description": "无线生活(北京)信息技术有限公司 J 开发工程师 - ava\r\n男\r\n负责微店商家平台增长业务后端的研发工作，日常工作包括但不限于：\r\n 未婚 • 深入理解产品prd、参加需求评审、撰写技术方案和接口文档、参加技术评审\r\n• 编写业务代码、单元测试、联调、修复测试提出的bug、集成部署代码上线\r\n 157cm/59kg\r\n• 及时关注线上告警和群内用户反馈，修复线上bug不定期进行业务分享或技术分享\r\n汉"
+                    },
+                    {
+                        "department": "",
+                        "degree": "本科",
+                        "end": "2022-07",
+                        "school": "江西师范大学",
+                        "major": "网络工程",
+                        "start": "2018-07",
+                        "description": "专业成绩：专业前10%"
+                    }
+                ],
+                "email": "qmjianli@qq.com",
+                "_experience_count": "2",
+                "experiences": [
+                    {
+                        "achievement": "",
+                        "company": "无线生活(北京)信息技术有限公司",
+                        "department": "",
+                        "end": "2022-04",
+                        "leader": "",
+                        "location": null,
+                        "periods_of_time": "9个月",
+                        "salary": "",
+                        "size": "",
+                        "start": "2021-07",
+                        "description": "江西\r共青团员\r负责微店商家平台增长业务后端的研发工作，协助正式员工完成对应的需求开发，日常工作包\r1年经验 括但不限于：\r深入理解产品prd、参加需求评审、撰写技术方案和接口文档、参加技术评审\r18170488637 • 编写业务代码、单元测试、联调、修复测试提出的bug、集成部署代码上线\r及时关注线上告警和群内用户反馈\r修复线上bug\rqmjianli@qq.com\r不定期进行业务分享或技术分享\r技术栈\r计算机\rJava语言",
+                        "title": "Java实习生",
+                        "industry": "",
+                        "is_current": false
+                    }
+                ],
+                "_expected_industry": "",
+                "city": null,
+                "_channel_site": "其他",
+                "id_number": "",
+                "integrity": "29",
+                "language_skills": [
+                    {
+                        "name": "英语",
+                        "listening_skills": "",
+                        "score": "",
+                        "reading_skills": ""
+                    }
+                ],
+                "title": "Java实习生",
+                "_last_update_month": "202204",
+                "_last_update_day": "20220400",
+                "married": "未婚",
+                "mobile": "18170488637",
+                "chineseName": "陈海彬",
+                "location": null,
+                "_summary": "• 代码风格整洁优秀\r\n• 逻辑思维强、有应对复杂业务逻辑的能力\r\n• 擅长沟通和协作，能够主动推动项目进程\r\n• 自驱能力强，喜欢钻研新的技术\r\n• 认可互联网公司文化，愿意迎接更多的挑战",
+                "mobile1": null,
+                "_photo_url": "",
+                "projects": [
+                    {
+                        "end": "2022-11",
+                        "description": "基于微店 cps 联盟和微信视频号生态打造的全链路直播供货系统。包括商品同\r步、订单推送、风控审核、营销活动、佣金分账、数据分析等模块。在项目开发中负责数据分\r析的模块，通过和大数据部门合作将数据可视化，方便主播对直播数据进行梳理，及时调整直\r播策略。\r开发环境：jdk1.8 + idea + maven + git \r部署环境：docker + jekenis + k8s\r数据库环境：mysql \r项目技术：elasticSearch + hive + 策略模式 + 复杂 sql + 多态\r项目成果：自上线至今，累计提升微店直播gmv160%，视频号直播gmv贡献占比大盘70%。",
+                        "name": "视频号供货 后端研发",
+                        "duty": "",
+                        "start": "2022-07",
+                        "title": ""
+                    },
+                    {
+                        "end": "2022-03",
+                        "description": "基于分布式配置中心 vitamin 开发的白名单中间件，对所有业务部门提供白名单\r读写能力。负责项目的所有迭代，建设了白名单缓存和白名单自动过期等功能。\r开发环境：jdk1.8 + idea + maven + git \r部署环境：docker + jekenis + k8s\r数据库环境：mysql \r项目技术：springBoot + vitamin + 本地缓存 + toc + spring 定时器 + redis\r项目成果：白名单缓存大幅度提升了白名单的读写效率，缓解了 db 的压力。白名单自动过\r期大幅度释放了 vitamin 的存储资源。读写性能提升200%，累计减少70%无效白名单。",
+                        "name": "白名单服务",
+                        "duty": "",
+                        "start": "2022-02",
+                        "title": "后端研发"
+                    },
+                    {
+                        "end": "2022-03",
+                        "description": "基于分销系统的大咖榜，旨在传递大咖价值，提升分销商对大咖的转化率。独立开\r发大咖榜客户端全部功能，包括大咖列表、大咖分类、大咖会议、大咖爆款、大咖活动、大咖\r排序等功能。\r开发环境：jdk1.8 + idea + maven + git \r部署环境：docker + jekenis + k8s\r数据库环境：mysql \r项目技术：springBoot + thor + elasticSearch + toc + hbase + vtrace\r项目成果：加强了大咖与分销商的联系，传递了大咖的品牌价值，提高了微店站内大咖的影响\r力和分销商对大咖的粘性，为后续的分销业务开展打下了坚实的基础，大咖上榜同时为公司提\r供了额外的收入。",
+                        "name": "大咖榜2..0 后端研发",
+                        "duty": "",
+                        "start": "2021-11",
+                        "title": ""
+                    }
+                ],
+                "_current_salary": "",
+                "school": "江西师范大学",
+                "score": "12",
+                "gender": 1,
+                "_major": "网络工程",
+                "_student_type": "",
+                "_current_status": "",
+                "_expected_job": "Java",
+                "industry": "",
+                "_web_resume_id": "",
+                "channel": null,
+                "site": null,
+                "dayNull": true,
+                "monthNull": true,
+                "tags": [],
+                "__version__": "Y_None",
+                "self_assessment": "• 代码风格整洁优秀\r\n• 逻辑思维强、有应对复杂业务逻辑的能力\r\n• 擅长沟通和协作，能够主动推动项目进程\r\n• 自驱能力强，喜欢钻研新的技术\r\n• 认可互联网公司文化，愿意迎接更多的挑战",
+                "expected_function": "Java",
+                "expected_industry": null,
+                "expected_salary": null,
+                "current_salary": null,
+                "avatar": null,
+                "mobile2": null,
+                "__process__": "SelfProcessor:0\nAIProcessor:0\nYgysProcessor:776\nDaxtraProcessor:0\nAIProcessor:0\nTryYgysProcessor:0",
+                "__process_detail__": {
+                    "SelfProcessor": "0",
+                    "AIProcessor": "0",
+                    "YgysProcessor": "776",
+                    "DaxtraProcessor": "0",
+                    "TryYgysProcessor": "0"
+                },
+                "__final_result_valid__": true,
+                "__cost__": 779,
+                "__grade__": 0.922,
+                "__uuid__": "7a4ae361-de01-4303-9eb4-a0dcd929660b",
+                "__host__": "172.20.17.9",
+                "__specified_extractor__": "ygys",
+                "__jaeger_id__": "28e1b9b6c0356434ef8150751272e852"
+            },
+            "extract_uuid": "7a4ae361-de01-4303-9eb4-a0dcd929660b",
+            "cost": 798
+        }
+    }
+}

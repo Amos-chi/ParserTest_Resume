@@ -1,0 +1,40 @@
+{
+    "fullName": "BIFT)",
+    "contacts": [
+        {
+            "contact": "cjin02@mica.edu",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "8617801011020",
+            "type": "PHONE"
+        }
+    ],
+    "currentLocation": [
+        {
+            "location": "Beijing"
+        }
+    ],
+    "educations": [
+        {
+            "startDate": "2018",
+            "endDate": "2020",
+            "collegeName": "Dancing     MFAIGraphic Design \r\nSharing Ideas     Maryland Institute College",
+            "majorName": "of Art (MICA)"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "8617801011020     Part-timeTutor\r\n, , China, 2020\r\ncongjiajin.com     Produced study materials in a variety of academic subjects to\r\n     helpseniorstudentsimprovetheirdesignportfolio\r\n     Freelance Writer\r\nAWARDS     Zuibishe learning platform, Guangdong. China,2020\r\n     Contributed articles on avariety of topics related to design to\r\nAIGA Blue Ridge's annual     Zuibishe learning platform,including experience sharing.\r\nFlux Student Design Competition,     analysis of professional lecture and giving recommendations.\r\nIdentityWinner 2019\r\n     GraduateTeachingIntern\r\nAIGA Blue Ridge's annual\r\nFlux Student Design Competition,     Maryland Institute College of Art, Baltimore, Maryland, 2019\r\nPackaging Winner 2019     Assisted professor Maureen Weiss in sophomore Graphic Design\r\nBeiing Outstanding Graduates     Studioland Typography I. Participated in critiques for juniors.\r\nofSession 2018     \r\nNational Endeavor Scholarship 2016     KUDOS Design Collaboratory,NY,USA, 2019\r\n     Provided assistance to senior designers.Formulated design",
+            "companyName": "cjin02@mica.edu     H ART International Art Education",
+            "title": "Design Intern",
+            "current": true
+        },
+        {
+            "description": "Taking Critisim",
+            "companyName": "Musicisamust     BFAIVisual Communication Design",
+            "startDate": "2014",
+            "endDate": "2018"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "fullName": "Chris Huang",
+    "contacts": [
+        {
+            "contact": "kuoweism@gmail.com",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "858-397-3943",
+            "type": "PHONE"
+        }
+    ],
+    "educations": [
+        {
+            "collegeName": "University of California",
+            "degreeLevel": "硕士",
+            "majorName": "Communications"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "Support PMA-209 for Modular Open System Architecture (MOSA) realization at  on MQ-25, FVL, E-XX, NGAD platforms. \r\n·Serve as the  RE/SME in guiding program offices in building Model Based Open Architecture models; chair  Digital Transformation Data Modeling COP TIM. \r\n·Research SysML v2 and API framework for model consistency, interoperability and re-usability; draft Model Maturity Whitepaper with Georgia Tech over an awarded S&T fund.",
+            "companyName": "NAVAIR",
+            "title": "Platform Integration &amp; Modeling Lead Engineer",
+            "startDate": "2020-10",
+            "current": true
+        },
+        {
+            "description": "Served as the NG Aeronautics Systems scrum master NGIDE team on MBSE digital engineering initiative in developing Methodology, Process, Templates, Reference Models, Profiles, Checklist, Style Guide, Model Maturity Metrics for internal programs usage. \r\n·Supported Global Hawks Modernization contract execution with AI image processing customization; GBSD on software modeling; NGAD MDAO design integration.\r\n·Experience with UAF DoDAF frameworks, SysML, UML, LML, OMS, DDS, Model Maturity and Metrics, system to software model transition; Cameo and Rhapsody tools.",
+            "companyName": "Northrop Grumman",
+            "title": "Staff Engineer",
+            "startDate": "2019-03",
+            "endDate": "2020-10"
+        },
+        {
+            "description": "Lead Engineer\r\n·MBSE support of: weapon systems (SSDS ICS & AEGIS), ships (DDG & CVN) and networks (NGEN & JWICS); research AOA, defined & synthesized requirements; planned and coordinated model development efforts.\r\n·Served as a member of the NMCI Cyber Security Tiger Team in assessing and reviewing security features and solutions on endpoints, networks, servers and services/processes, as well as identifying data for analysis. \r\n·Performed data analytics, model design and creation of SysML/DoDAF models; led internal development team on Cameo tool capabilities development; outlined Model as a Service solution for network consolidation; supported NGEN Transformation modeling effort.",
+            "companyName": "Pacific",
+            "title": "Naval Information Warfare Center",
+            "startDate": "2018-04",
+            "endDate": "2019-02"
+        },
+        {
+            "description": "Piloted MBSE system methodology in support of DRM cryptographic security system life cycle from definition to validation; \r\n·Created MBSE models in support of design analysis, with simulations to show how messages are coordinated, and keys are staying in sync. \r\n·Developed expert knowledge on PKI, federated identity and access management; patent submitted on Self Provisioning. \r\n·Performed MBSE modeling in SysML on MediaCipher Conditional Access system and DTA Encryption Infrastructure for video content protection over cable;\r\n·Demonstrated the security of the systems using model, resulted in certification to deliver high value content (new release theater graded movies) to settops.\r\n·Participated in Comcast Big Data Analytics as the access network lead in data manicuring, data analysis, supervised learning algorithm tuning. \r\n·Served as the subject matter expert in System Engineering over Agile development process by trial the processes to Key Server and embedded security client projects; \r\n·Developed SysML-based models that include use cases, activity, architectures, components, sequences, states, classes and requirements diagrams. \r\n·Led SW (Java) development of Linux based Key Server in cloud microservice (Kubernetes) with intelligent network health monitoring system.",
+            "companyName": "Comcast Cable",
+            "title": "Senior Staff Systems Engineer",
+            "startDate": "2006-04",
+            "endDate": "2018-02"
+        },
+        {
+            "description": "Software Engineer\r\n·Led software development of industry first microwave transceiver remote monitor unit with embedded SNMP and TCP/IP protocols in C for Boeing Video Surveillance System.\r\n·Performed network simulation (Opnet), link budget propagation and coverage analysis, create system design prototypes for network layer requirement and performance analysis.\r\n·Awarded patent: “Device and Method for Sharpening Image Signal” # 20070070428.",
+            "companyName": "Cable",
+            "title": "Cable AML",
+            "startDate": "2002-06",
+            "endDate": "2006-04"
+        }
+    ]
+}

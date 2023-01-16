@@ -1,0 +1,36 @@
+{
+    "fullName": "YI-CHUNG SU",
+    "contacts": [
+        {
+            "contact": "yichusu@umich.edu",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "(734)709-5275",
+            "type": "PHONE"
+        }
+    ],
+    "educations": [
+        {
+            "collegeName": "University of Michigan",
+            "degreeLevel": "硕士",
+            "majorName": "Science  Mechanical Engineering"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "Iowa(Autonomous Tractor Startup)      \r\n \r\n• Worked in the Agile Scrum team to improve the John Deere tractor’s control system with python and Docker. \r\nRedesigned the Tractor’s safety system • to deal with emergency conditions based on Test-driven Development. \r\n• Built the hardware simulator with fake CAN messages, fake perception messages and fake GPS data to test the system. \r\nProgrammed unit tests and integration tests for • every function in the program using Travis, Catch2, and Fake-it. \r\n• Developed radar detection code using C++ and Bosch mid-range radar and Continental Radar. \r\n• Launched a heartbeat program between main CPU and redundant CPU by serial communication. \r\n• Implemented the Safety Stop program through I2C Bus between redundant CPU and brake module. \r\n• Developed the speed controller algorithm(Gear selection and throttle adjustment) for tractors with Power Shift \r\nTransmission by using state machine QNX environment.",
+            "companyName": "Smart Ag., Ames",
+            "title": "Autonomous Vehicle Engineer",
+            "startDate": "2018-09",
+            "current": true
+        },
+        {
+            "description": "Syntec Technology, ,       \r\nMechanical Engineering Intern \r\n• Built 3D CAD models including robotic arm, CNC, and conveyor system to demo industry 4.0 products.     \r\n• Simulated milling processes using ABB Robotstudio Machining PowerPac to assess its auto-path generation function.",
+            "companyName": "Hsinchu",
+            "title": "Taiwan(Leading CNC controller manufacturer)",
+            "startDate": "2017-05",
+            "endDate": "2017-06"
+        }
+    ]
+}

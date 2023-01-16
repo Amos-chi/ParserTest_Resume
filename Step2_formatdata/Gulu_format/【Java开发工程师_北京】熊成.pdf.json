@@ -1,0 +1,46 @@
+{
+    "fullName": "熊成",
+    "contacts": [
+        {
+            "contact": "xc19970212@163.com",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "18571852172",
+            "type": "PHONE"
+        }
+    ],
+    "languages": [
+        "英语"
+    ],
+    "currentLocation": [
+        {
+            "location": "武汉市"
+        }
+    ],
+    "educations": [
+        {
+            "startDate": "2019-09",
+            "endDate": "2021-06",
+            "collegeName": "中南财经政法大学",
+            "degreeLevel": "硕士",
+            "majorName": "计算机技术"
+        },
+        {
+            "startDate": "2015-09",
+            "endDate": "2019-06",
+            "collegeName": "武汉纺织大学",
+            "degreeLevel": "本科",
+            "majorName": "软件工程"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "金融科技岗\r公司工资代发系统》\r项目描述：该项目基于银行内的信息，服务于与银行合作的优质公司的工资代\r发，项目提供PC端，采用前后端分离的模式进行开发，旨在留住银行中优\r质的对公客户。\r所用技术:Springboot+Redis+Mysql+Mybatis+SpringCloud\r项目责任:\r负责项目中定时任务模块和PC端服务模块的开发。\r负责项目后期引进的SpringCloud框架对应功能的开发。\r负责该项目的上线，投产和维护工作，同时处理业务人员发送的问题。\r负责处理来自业务部门的指标查询和账户限制要求。\r负责编写该项目的上线文档，保持项目的正常运行。\r核心大数据平台》\r项目描述：该项目基于所有公司内用户数据进行行为分析，统计日活，周活等\r各个指标并且提供数据可视化和数据在线查询功能。\r所用技术:Springboot+Alluxio+Presto+Flume+Kafka+Hadoop+Redis\r项目责任:\r根据原有项目上新增的需求编写系统模块服务对应的Java代码。\r根据业务需求，统计不同时间段的访问次数，点击，交易，转化率等指标。\r将需求的热点数据放入新引入的存储框架并结合即席查询引擎提高查询\r效率。\r根据后续需求修改alluxio 源码来改变同步数据的方式，提升同步效率。\r负责基于  kafka 进行日志评估,通过正则匹配与正则抽取得到\r数据，调用评估责任链,产生风险评估报告。\r根据项目后续业务需求，使用spark完成任务配置的动态更新，提高效率。",
+            "companyName": "九江银行",
+            "title": "spark对接",
+            "startDate": "2021-07",
+            "endDate": "2022-06"
+        }
+    ]
+}

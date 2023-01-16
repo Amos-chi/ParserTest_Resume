@@ -1,0 +1,56 @@
+{
+    "fullName": "黑客",
+    "contacts": [
+        {
+            "contact": "yu.mei@northeastern.edu",
+            "type": "EMAIL"
+        },
+        {
+            "contact": "917-3791880",
+            "type": "PHONE"
+        }
+    ],
+    "languages": [
+        "英语"
+    ],
+    "currentLocation": [
+        {
+            "location": "深圳市"
+        }
+    ],
+    "educations": [
+        {
+            "startDate": "2019",
+            "endDate": "2021",
+            "collegeName": "东北大学",
+            "majorName": "远程实习"
+        },
+        {
+            "startDate": "2015",
+            "endDate": "2016",
+            "collegeName": "湖南大学",
+            "majorName": "外研社"
+        },
+        {
+            "startDate": "2013-09-06",
+            "endDate": "2015",
+            "collegeName": "湖南大学",
+            "majorName": "思想政治活动的组织与宣传"
+        },
+        {
+            "startDate": "2013",
+            "endDate": "2017",
+            "collegeName": "湖南大学",
+            "majorName": "生工业设计大赛金奖"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "深圳实习，中国16.2016-7.2016,After Effects\r带领4人小组完成公司分配的项目并展示最终结果\rInteraction Design\rHtml5/CSS/JavaScript, Brackets,\r设计的AR图画书，通过儿童涂鸦与拼图游戏结合 P5,js, Processing, Arduino\r再由AR技术展示出来，帮助儿童扩大想象力\rIndustrial Design\rRhinoceros, UG, Keyshot\r新媒体部UI/UXDesigner-实习 Game Design\r中国,Unity\r团队制作办公的墙绘项目 Data Processing\r独立负责“云壹”餐厅七夕节整套VI设计，包括logo,Artec, Geomagic Studio, SPSS\r海报，宣传册，餐垫等 RECOGNITION\r负责运营微信公众号，特别是动态图形设计和网页排版\rSIT创新设计学术报告，团队获省级奖",
+            "companyName": "长沙风和丽日广告有限公司",
+            "title": "Premiere",
+            "startDate": "2016",
+            "endDate": "2016-07-08"
+        }
+    ]
+}

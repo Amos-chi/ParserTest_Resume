@@ -518,12 +518,125 @@ def Xiaoxi_format():
         ff.write(json.dumps(dict, indent=4, ensure_ascii=False))
 
 
+def Gulu_format():
+    path = 'Step1_origdata/Gulu_Result'
+    tar_path = 'Step2_formatdata/Gulu_format'
 
+    files = os.listdir(path)
+    for file in files:
+        print(f'format file: {file}..')
+        f = open(os.path.join(path, file), 'r', encoding='utf-8')
+        data = json.load(f)
+        dict = {}
+
+        if data['status'] == True:
+            try:
+                if data['result']['data'].get('extract_result'):
+                    #fullName
+                    if data['result']['data']['extract_result'].get('chineseName'):
+                        dict['fullName'] = data['result']['data']['extract_result'].get('chineseName')
+
+                    #contacts
+                    contacts = []
+                    if data['result']['data']['extract_result'].get('email'):
+                        con_dic = {}
+                        con_dic['contact'] = data['result']['data']['extract_result'].get('email')
+                        con_dic['type'] = 'EMAIL'
+                        contacts.append(con_dic)
+                    if data['result']['data']['extract_result'].get('mobile'):
+                        con_dic = {}
+                        con_dic['contact'] = data['result']['data']['extract_result'].get('mobile')
+                        con_dic['type'] = 'PHONE'
+                        contacts.append(con_dic)
+                    if data['result']['data']['extract_result'].get('mobile1'):
+                        con_dic = {}
+                        con_dic['contact'] = data['result']['data']['extract_result'].get('mobile1')
+                        con_dic['type'] = 'PHONE'
+                        contacts.append(con_dic)
+                    if data['result']['data']['extract_result'].get('mobile2'):
+                        con_dic = {}
+                        con_dic['contact'] = data['result']['data']['extract_result'].get('mobile2')
+                        con_dic['type'] = 'PHONE'
+                        contacts.append(con_dic)
+
+                    if len(contacts) > 0:
+                        dict['contacts'] = contacts
+                    else:
+                        pass
+
+                    #language
+                    if data['result']['data']['extract_result'].get('language_skills'):
+                        dict['languages'] = [i['name'] for i in data['result']['data']['extract_result'].get('language_skills')]
+
+                    #currentLocation
+                    if data['result']['data']['extract_result'].get('location'):
+                        dict['currentLocation'] = {
+                                                        "location": data['result']['data']['extract_result'].get('location')
+                                                    },
+
+                    # education
+                    if data['result']['data']['extract_result'].get('education'):
+                        dict['educations'] = []
+                        for i in data['result']['data']['extract_result'].get('education'):
+                            education = {}
+                            if i.get('start'):
+                                education['startDate'] = i['start']
+                            if i.get('end'):
+                                if i['end'] == '至今':
+                                    education['current'] = True
+                                else:
+                                    education['endDate'] = i['end']
+                            if i.get('school'):
+                                education['collegeName'] = i['school']
+                            if i.get('degree'):
+                                education['degreeLevel'] = i['degree']
+                            if i.get('major'):
+                                education['majorName'] = i['major']
+                            dict['educations'].append(education)
+
+
+                    #experiences
+                    if data['result']['data']['extract_result'].get('experiences'):
+                        dict['experiences'] = []
+                        for i in data['result']['data']['extract_result'].get('experiences') :
+                            experiences = {}
+                            if i.get('description'):
+                                experiences['description'] = i['description']
+                            if i.get('company'):
+                                experiences['companyName'] = i['company']
+                            if i.get('title'):
+                                experiences['title'] = i['title']
+                            if i.get('start'):
+                                experiences['startDate'] = i['start']
+                            if i.get('end'):
+                                if i['end'] == '至今':
+                                    experiences['current'] = True
+                                else:
+                                    experiences['endDate'] = i['end']
+                            if i.get('is_current'):
+                                experiences['current'] = i['is_current']
+                            dict['experiences'].append(experiences)
+
+
+
+
+            except Exception as e:
+                print(e)
+
+        else:
+            print('Parser Error!!')
+
+        print(f'{file} done..')
+        # print(json.dumps(dict, indent=4 , ensure_ascii=False))
+        ff = open(os.path.join(tar_path, file), 'w', encoding='utf-8')
+        ff.write(json.dumps(dict, indent=4, ensure_ascii=False))
 
 if __name__ == '__main__':
     #hitlant_format()
     #ResumeSDK_format()
     #affinda_format()
-    Xiaoxi_format()
+    #Xiaoxi_format()
+    Gulu_format()
+
 
 

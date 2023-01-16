@@ -1,0 +1,63 @@
+{
+    "fullName": "SHU TING HUANG",
+    "currentLocation": [
+        {
+            "location": "unitedstates-Boston"
+        }
+    ],
+    "educations": [
+        {
+            "startDate": "2015",
+            "endDate": "2017",
+            "collegeName": "defining user journey \r\nDigital Fabrication\r\nImperial College",
+            "degreeLevel": "硕士",
+            "majorName": "Printing"
+        },
+        {
+            "startDate": "2015",
+            "endDate": "2017",
+            "collegeName": "Shih Chien University",
+            "majorName": "Laser Cutting"
+        },
+        {
+            "startDate": "2014-09",
+            "endDate": "2015-03",
+            "collegeName": "Coding\r\nRoyal College",
+            "majorName": "of Art"
+        },
+        {
+            "startDate": "2009-05",
+            "endDate": "2023",
+            "collegeName": "University of Applied",
+            "majorName": "Communication"
+        }
+    ],
+    "experiences": [
+        {
+            "description": "I am a creative technologist   Attending Fab10 Barcelona and Fab11 Boston (MIT) as a member \r\ner Interaction Designer, ; London, UK of FabLab Dynamic, Taipei, Taiwan.\r\nspecialised in int action design - \r\npassionate about emerging Human-centred design is the key to give Emotech’s products \r\nParticipated in btk International Summer School Design, Art and \r\nspirit. As an interaction designer, I am responsible for envisioning \r\ntechnology, digital art, and human Cultural workshop- Filmmaking in Berlin. I learned documentary \r\nand executing the interaction between people and robot in the \r\ncomputer inter\r\nfilmmaking and made three experimental videos during the \r\naction. I have future home scenario, assessing product requirements (costs, summer school. It was instructed by Anna Marziano and Armin \r\ntraveled across Asia, America, and manufacturing feasibility and market requirements, etc.); doing \r\nDierolf\r\nc\r\ner\r\nompl\r\nope gaining insights into div\r\nex tasks related to artificial intelligence and collaborating \r\n\r\nEur se \r\nwith our machine learning scientists, researchers and developers; \r\nParticipated in an international workshop - Social Design, hosted \r\ncultures, and the way industrial gaining experience working with a multi-disciplinary team.",
+            "companyName": "Emotech Ltd.",
+            "title": "OTHER EXPERIENCES",
+            "startDate": "2017-04",
+            "current": true
+        },
+        {
+            "description": "by \"Fablab \" and \r\ndesign is practiced in daily activities instructed by Anna Waldman-Brown.\r\n  and among humans.  \r\nDesign Thinker, Satellite Applications Catapult; Oxfordshire, UK",
+            "companyName": "annual meeting in Taiwan - Open Fab City",
+            "startDate": "2016-07",
+            "endDate": "2016-08"
+        },
+        {
+            "description": "Taipei,  Sketch Persona\r\nCommissioned by the company as a contract designer to design its \r\nFinal Cut Pro Usability Test\r\nMACHINE CREATIVITY \r\n+ IPO presentation materials, including understanding and Autodesk Alias User Story\r\nAUGMENTED REALITY visualising the company’s value proposition, as well as its products \r\nKe shot\r\n(long-acting analgesic injection and small molecule for the acute \r\ny\r\nAnalog Fabrication\r\nischemic stroke treatment). Cinema 4D\r\nWood Workshop\r\nUnity",
+            "companyName": "Lumosa Therapeutics co.Ltd",
+            "title": "RESEARCH FOCUS Designer",
+            "startDate": "2015-04",
+            "endDate": "2015-07"
+        },
+        {
+            "description": "and Kupo Co..",
+            "companyName": "ChipSiP Technology Co",
+            "startDate": "2012",
+            "endDate": "2013"
+        }
+    ]
+}

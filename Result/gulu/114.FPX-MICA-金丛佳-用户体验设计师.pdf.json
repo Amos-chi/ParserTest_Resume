@@ -1,0 +1,66 @@
+{
+    "all": 50,
+    "important": 42,
+    "desc": 8,
+    "correct_important": 4,
+    "correct_desc": 0,
+    "additional": 1,
+    "important_keys": {
+        "educations.0.collegeName": false,
+        "educations.0.degreeLevel": false,
+        "educations.0.majorName": false,
+        "educations.1.collegeName": false,
+        "educations.1.degreeLevel": false,
+        "educations.1.endDate": false,
+        "educations.1.majorName": false,
+        "educations.1.startDate": false,
+        "experiences.0.companyName": false,
+        "experiences.0.endDate": false,
+        "experiences.0.title": false,
+        "experiences.1.companyName": false,
+        "experiences.1.endDate": false,
+        "experiences.1.title": false,
+        "experiences.2.companyName": false,
+        "experiences.2.endDate": false,
+        "experiences.2.title": false,
+        "experiences.3.companyName": false,
+        "experiences.3.endDate": false,
+        "experiences.3.title": false,
+        "experiences.4.companyName": false,
+        "experiences.4.endDate": false,
+        "experiences.4.title": false,
+        "experiences.5.companyName": false,
+        "experiences.5.endDate": false,
+        "experiences.5.title": false,
+        "experiences.6.companyName": false,
+        "experiences.6.endDate": false,
+        "experiences.6.title": false,
+        "experiences.7.companyName": false,
+        "experiences.7.endDate": false,
+        "experiences.7.title": false,
+        "fullName": false,
+        "skills.0.skillName": false,
+        "skills.1.skillName": false,
+        "skills.2.skillName": false,
+        "skills.3.skillName": false,
+        "skills.4.skillName": false
+    },
+    "unimportant_keys": {
+        "experiences.0.description": false,
+        "experiences.1.description": false,
+        "experiences.2.description": false,
+        "experiences.3.description": false,
+        "experiences.4.description": false,
+        "experiences.5.description": false,
+        "experiences.6.description": false,
+        "experiences.7.description": false
+    },
+    "addition_info_count": 1,
+    "addition_info": {
+        "currentLocation": [
+            {
+                "location": "Beijing"
+            }
+        ]
+    }
+}

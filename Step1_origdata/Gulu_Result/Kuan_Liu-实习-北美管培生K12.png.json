@@ -1,0 +1,149 @@
+{
+    "status": true,
+    "result": {
+        "status": true,
+        "data": {
+            "extract_result": {
+                "address": "",
+                "degree": "",
+                "age": "",
+                "_expected_salary": "",
+                "dateOfBirth": null,
+                "certificate": "",
+                "education": [
+                    {
+                        "department": "",
+                        "degree": "",
+                        "end": "2022-06",
+                        "school": "Stanford University",
+                        "major": "",
+                        "start": "2020-09",
+                        "description": "part-time M.S Materials Science and Engineering GPA: N/A\r\nRelevant Courses: Statistics and Probability, Linear Dynamical Systems, Control System Design"
+                    },
+                    {
+                        "department": "",
+                        "degree": "",
+                        "end": "2020-08",
+                        "school": "",
+                        "major": "HTML",
+                        "start": "2020-06",
+                        "description": "Software Engineering Assistant Leveraged Python computer vision and deep learning modules to extract information from piping\r\nand instrumentation diagrams (P&amp;IDs) as part of a team of three interns Provided a P&amp;ID UI feature for the gas turbine human-machine interface using JavaScript and CSS National Renewable Energy Laboratory CO"
+                    },
+                    {
+                        "department": "",
+                        "degree": "",
+                        "end": "2020-05",
+                        "school": "",
+                        "major": "",
+                        "start": "2020-01",
+                        "description": "Engineering Materials Intern diagrams of salt hydrate systems Investigated methods for synthesizing novel salt hydrate materials Solar Turbines San Diego, CA"
+                    },
+                    {
+                        "department": "",
+                        "degree": "本科",
+                        "end": "",
+                        "school": "University of California",
+                        "major": "Data Structures",
+                        "start": "2019-12",
+                        "description": "Berkeley Chemical EngineeringMinor: Materials Science Engineering GPA: 3.734\r\nCS Courses UNIx/Bash, Machine Learning, Comp. Org Assembly Language\r\nSkillsi Software: Python, Java, Matlab, JavaScript, HTML/CSS, Fusion 360, Bash, Aspen, COMSOL Laboratory: Gas Chromatography, Mass Spectrometry Languages: English (Native Mandarin (Native Work Research Experience\r\nSolar Turbines San Diego, CA"
+                    },
+                    {
+                        "department": "",
+                        "degree": "",
+                        "end": "2019-08",
+                        "school": "",
+                        "major": "",
+                        "start": "2019-05",
+                        "description": "Engineering Assistant Saved 78 engineering hours and $8,500 per turbine project by developing a Python Java\r\neeaeseeseeeo Implemented the automation program using CFD data, CAD and optimization algorithms Conducted training on how to use the program to CFD engineers within the department Mark Asta Computational Materials Science Research Group Berkeley, CA"
+                    },
+                    {
+                        "department": "",
+                        "degree": "",
+                        "end": "2019-05",
+                        "school": "",
+                        "major": "",
+                        "start": "2018-07",
+                        "description": "Undergraduate Research Assistant Developed Python and Bash programs to automatically calculate energies of perovskite materials\r\nWITH DFT."
+                    }
+                ],
+                "email": "alan1997liu@berkeley.edu",
+                "_experience_count": "",
+                "experiences": [
+                    {
+                        "achievement": "",
+                        "company": "",
+                        "department": "",
+                        "end": "至今",
+                        "leader": "",
+                        "location": null,
+                        "periods_of_time": "1years7months",
+                        "salary": "",
+                        "size": "",
+                        "start": "2021-06",
+                        "description": "One year of internship work experience in the energy and manufacturing sector.\r\n• Experienced in chemistry research methods.",
+                        "title": "while working on a Master's part-time",
+                        "industry": "",
+                        "is_current": false
+                    }
+                ],
+                "_expected_industry": "",
+                "city": null,
+                "_channel_site": "Other",
+                "id_number": "",
+                "integrity": "29",
+                "language_skills": [],
+                "title": "while working on a Master's part-time",
+                "_last_update_month": "202106",
+                "_last_update_day": "20210600",
+                "married": null,
+                "mobile": "(714)319-3123",
+                "chineseName": "KUAN",
+                "location": null,
+                "_summary": "Seeking entry-level engineering positions in the materials, manufacturing, and energy industries\r\nstarting on or after #@#2021-06!@! (while working on a Master's part-time).\r\n• One year of internship work experience in the energy and manufacturing sector.\r\n• Experienced in chemistry research methods.\r",
+                "mobile1": null,
+                "_photo_url": "",
+                "projects": null,
+                "_current_salary": "",
+                "school": "Stanford University",
+                "score": "8",
+                "gender": null,
+                "_major": "HTML",
+                "_student_type": "",
+                "_current_status": "",
+                "_expected_job": "Chemical Engineer",
+                "industry": "",
+                "_web_resume_id": "",
+                "channel": null,
+                "site": null,
+                "dayNull": false,
+                "monthNull": false,
+                "tags": [],
+                "__version__": "Y_None",
+                "self_assessment": "Seeking entry-level engineering positions in the materials, manufacturing, and energy industries\r\nstarting on or after #@#2021-06!@! (while working on a Master's part-time).\r\n• One year of internship work experience in the energy and manufacturing sector.\r\n• Experienced in chemistry research methods.\r",
+                "expected_function": "Chemical Engineer",
+                "expected_industry": null,
+                "expected_salary": null,
+                "current_salary": null,
+                "avatar": null,
+                "mobile2": null,
+                "__process__": "SelfProcessor:0\nAIProcessor:0\nYgysProcessor:7994\nDaxtraProcessor:0\nAIProcessor:0\nTryYgysProcessor:0",
+                "__process_detail__": {
+                    "SelfProcessor": "0",
+                    "AIProcessor": "0",
+                    "YgysProcessor": "7994",
+                    "DaxtraProcessor": "0",
+                    "TryYgysProcessor": "0"
+                },
+                "__final_result_valid__": true,
+                "__cost__": 7997,
+                "__grade__": 0.6881,
+                "__uuid__": "80e7c66b-9761-45ac-b91b-6c806a3bc01f",
+                "__host__": "172.20.17.9",
+                "__specified_extractor__": "ygys",
+                "__jaeger_id__": "bbf729291268dfcf50a172d496da3e03"
+            },
+            "extract_uuid": "80e7c66b-9761-45ac-b91b-6c806a3bc01f",
+            "cost": 8023
+        }
+    }
+}

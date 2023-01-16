@@ -1,0 +1,21 @@
+{
+    "all": 29,
+    "important": 29,
+    "desc": 0,
+    "correct_important": 25,
+    "correct_desc": 0,
+    "additional": 1,
+    "important_keys": {
+        "skills.0.skillName": false,
+        "skills.1.skillName": false,
+        "skills.2.skillName": false,
+        "skills.3.skillName": false
+    },
+    "unimportant_keys": {},
+    "addition_info_count": 1,
+    "addition_info": {
+        "languages": [
+            "ENGLISH"
+        ]
+    }
+}
